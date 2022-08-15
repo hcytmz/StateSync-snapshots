@@ -35,8 +35,12 @@ wget http://141.95.124.151:5000/gravitydata.tar.gz
 
 # unpack the archive
 tar -C $HOME/ -zxvf gravitydata.tar.gz --strip-components 1
+# Download addrbook
+wget -O $HOME/.gravity/config/addrbook.json "https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/Gravity%20Bridge/addrbook.json"
 
 # after unpacking, run the node
+sudo systemctl restart gravity
+journalctl -u gravity -f -o cat
 # don't forget to delete the archive to save space
 cd $HOME
 rm gravitydata.tar.gz
