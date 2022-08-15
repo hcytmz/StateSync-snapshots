@@ -22,3 +22,21 @@ gravity tendermint unsafe-reset-all --home $HOME/.gravity
 sudo systemctl restart gravity
 journalctl -u gravity -f -o cat
 ```
+
+# Snaphot 15.08.22 (1.3 GB)
+
+# install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
+rm -rf $HOME/.gravity/data/
+mkdir $HOME/.gravity/data/
+
+# download archive
+cd $HOME
+wget http://141.95.124.151:5000/gravitydata.tar.gz
+
+# unpack the archive
+tar -C $HOME/ -zxvf gravitydata.tar.gz --strip-components 1
+
+# after unpacking, run the node
+# don't forget to delete the archive to save space
+cd $HOME
+rm gravitydata.tar.gz
