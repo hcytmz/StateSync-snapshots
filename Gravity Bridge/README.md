@@ -16,9 +16,9 @@ s|^(trust_height[[:space:]]+=[[:space:]]+).*$|\1$BLOCK_HEIGHT| ; \
 s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
 s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" ~/.gravity/config/config.toml
 
-sudo systemctl stop gravity-node
+sudo systemctl stop gravity
 gravity tendermint unsafe-reset-all --home $HOME/.gravity
 
-sudo systemctl restart gravity-node
-journalctl -u gravity-node -f -o cat
+sudo systemctl restart gravity
+journalctl -u gravity -f -o cat
 ```
