@@ -1,4 +1,4 @@
-# SnapSHot 13.08.22 (23 GB)
+# Snaphot 13.08.22 (23 GB)
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 rm -rf $HOME/.genesisd/data/
