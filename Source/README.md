@@ -1,3 +1,5 @@
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Source)
+=
 # SnapSHot 13.08.22 (4.4 GB)
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
