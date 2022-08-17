@@ -1,4 +1,4 @@
-# SnapShot 17.08.22 (0.1 GB) block height --> 323850
+# SnapShot 17.08.22 (0.1 GB) block height --> 3243300
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 sudo systemctl stop cantod
