@@ -3,6 +3,7 @@
 # SnapShot 17.08.22 (5.3 GB) block height --> 1939255
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
+sudo systemctl stop sourced
 rm -rf $HOME/.source/data/
 mkdir $HOME/.source/data/
 
