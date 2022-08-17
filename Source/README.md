@@ -18,4 +18,6 @@ tar -C $HOME/ -zxvf sourcedata.tar.gz --strip-components 1
 # don't forget to delete the archive to save space
 cd $HOME
 rm sourcedata.tar.gz
+# start the node
+sudo systemctl restart sourced
 ```
