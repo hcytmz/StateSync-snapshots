@@ -27,5 +27,5 @@ cd && cat .source/data/priv_validator_state.json
 cd $HOME
 rm sourcedata.tar.gz
 # start the node
-sudo systemctl restart sourced
+sudo systemctl restart sourced && journalctl -u sourced -f -o cat
 ```
