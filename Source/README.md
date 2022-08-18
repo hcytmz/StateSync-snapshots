@@ -13,7 +13,8 @@ wget http://116.202.236.115:8000/sourcedata.tar.gz
 
 # unpack the archive
 tar -C $HOME/ -zxvf sourcedata.tar.gz --strip-components 1
-
+# download priv_validator_state.json
+wget -O $HOME/.source/data/priv_validator_state.json "https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/priv_validator_state.json"
 # after unpacking, run the node
 # don't forget to delete the archive to save space
 cd $HOME
