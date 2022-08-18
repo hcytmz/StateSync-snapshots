@@ -10,6 +10,14 @@ wget http://195.201.165.123:8000/genesisddata.tar.gz
 
 # unpack the archive
 tar -C $HOME/ -zxvf genesisddata.tar.gz --strip-components 1
+# !! IMPORTANT POINT. If the validator was created earlier. Need to reset priv_validator_state.json  !!
+wget -O $HOME/.genesisd/data/priv_validator_state.json "https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/priv_validator_state.json"
+cd && cat .genesisd/data/priv_validator_state.json
+{
+  "height": "0",
+  "round": 0,
+  "step": 0
+}
 
 # after unpacking, run the node
 # don't forget to delete the archive to save space
