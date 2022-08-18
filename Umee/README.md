@@ -22,6 +22,7 @@ sudo systemctl restart umeed && journalctl -u umeed -f -o cat
 # SnapShot 14.08.22 (29.7 GB)
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
+sudo systemctl stop umeed
 rm -rf $HOME/.umee/data/
 mkdir $HOME/.umee/data/
 
@@ -44,4 +45,5 @@ cd && cat .umee/data/priv_validator_state.json
 # don't forget to delete the archive to save space
 cd $HOME
 rm umeedata.tar.gz
+sudo systemctl restart umeed && journalctl -u umeed -f -o cat
 ```
