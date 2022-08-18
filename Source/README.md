@@ -13,8 +13,15 @@ wget http://116.202.236.115:8000/sourcedata.tar.gz
 
 # unpack the archive
 tar -C $HOME/ -zxvf sourcedata.tar.gz --strip-components 1
-# download priv_validator_state.json
+# !! IMPORTANT POINT. If the validator was created earlier. Need to reset priv_validator_state.json  !!
 wget -O $HOME/.source/data/priv_validator_state.json "https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/priv_validator_state.json"
+cd && cat .source/data/priv_validator_state.json
+{
+  "height": "0",
+  "round": 0,
+  "step": 0
+}
+
 # after unpacking, run the node
 # don't forget to delete the archive to save space
 cd $HOME
