@@ -37,6 +37,8 @@ wget http://141.95.124.151:5000/gravitydata.tar.gz
 tar -C $HOME/ -zxvf gravitydata.tar.gz --strip-components 1
 # Download addrbook
 wget -O $HOME/.gravity/config/addrbook.json "https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/Gravity%20Bridge/addrbook.json"
+# download priv_validator_state.json
+wget -O $HOME/.gravity/data/priv_validator_state.json "https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/priv_validator_state.json"
 
 # after unpacking, run the node
 sudo systemctl restart gravity
