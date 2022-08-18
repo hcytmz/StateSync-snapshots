@@ -11,7 +11,7 @@ wget http://116.202.236.115:7000/cantodata.tar.gz
 
 # unpack the archive
 tar -C $HOME/ -zxvf cantodata.tar.gz --strip-components 1
-№ Download priv_validator_state.json 
+# download priv_validator_state.json 
 wget -O $HOME/.cantod/data/priv_validator_state.json "https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/Canto/priv_validator_state.json"
 # after unpacking, run the node
 # don't forget to delete the archive to save space
