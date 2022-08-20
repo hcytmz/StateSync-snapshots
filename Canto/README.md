@@ -1,6 +1,6 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Canto)
 =
-# SnapShot 18.08.22 (0.1 GB) block height --> 331429
+# SnapShot 20.08.22 (0.1 GB) block height --> 368413
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 sudo systemctl stop cantod
