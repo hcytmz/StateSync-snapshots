@@ -1,6 +1,7 @@
 # Snaphot 30.08.22 (44 GB) height 3984705
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
+systemctl stop genesisd
 rm -rf $HOME/.genesisd/data/
 mkdir $HOME/.genesisd/data/
 
@@ -23,4 +24,5 @@ cd && cat .genesisd/data/priv_validator_state.json
 # don't forget to delete the archive to save space
 cd $HOME
 rm genesisddata.tar.gz
+systemctl restart genesisd && journalctl -u genesisd -f -o cat
 ```
