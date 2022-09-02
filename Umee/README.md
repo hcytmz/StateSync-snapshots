@@ -19,7 +19,7 @@ s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"|" $HOME/.umee/conf
 umeed unsafe-reset-all
 sudo systemctl restart umeed && journalctl -u umeed -f -o cat
 ```
-# SnapShot 19.08.22 (0.5 GB)
+# SnapShot 02.09.22 (0.5 GB) height 2858397
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 sudo systemctl stop umeed
