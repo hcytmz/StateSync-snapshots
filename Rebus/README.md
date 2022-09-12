@@ -3,7 +3,7 @@
 # StateSync
 ```bash
 sudo systemctl stop rebusd
-peers="e73f04e7003422f3b32c318e8bcb4f10ea525fe6@141.95.124.151:20106"
+peers="9fe60255ffc5176f419d9913ca032d4b5dc413b1@141.95.124.151:20106"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.rebusd/config/config.toml
 SNAP_RPC="http://141.95.124.151:20107"
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
