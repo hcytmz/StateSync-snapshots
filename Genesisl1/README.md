@@ -1,4 +1,4 @@
-# Snaphot 30.08.22 (44 GB) height 3984705
+# Snaphot 15.09.22 (69 GB) height 4242606
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 systemctl stop genesisd
