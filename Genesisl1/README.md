@@ -7,7 +7,7 @@ mkdir $HOME/.genesisd/data/
 
 # download archive
 cd $HOME
-wget http://195.201.165.123:8000/genesisddata.tar.gz
+wget http://51.222.244.75:6001/genesisddata.tar.gz
 
 # unpack the archive
 tar -C $HOME/ -zxvf genesisddata.tar.gz --strip-components 1
