@@ -1,7 +1,7 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Kyve)
 =
 # State Sync KYVE (korellia)
-```
+```bash
 SNAP_RPC1="141.95.124.151:20057" \
 && SNAP_RPC2="65.108.126.46:28657" \
 && SNAP_RPC3="65.108.57.92:26657" \
