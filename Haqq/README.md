@@ -20,7 +20,6 @@ cd && cat .haqqd/data/priv_validator_state.json
 # after unpacking, run the node
 # don't forget to delete the archive to save space
 cd $HOME
-cd $HOME
 rm haqqddata.tar.gz
 systemctl restart haqqd && journalctl -u haqqd -f -o cat
 ```
