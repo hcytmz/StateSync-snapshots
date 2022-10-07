@@ -1,6 +1,6 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Nois)
 =
-# Snaphot 06.10.22 (8 GB) block height --> 
+# Snaphot 06.10.22 (8 GB) block height --> 269196
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 sudo systemctl stop noisd
