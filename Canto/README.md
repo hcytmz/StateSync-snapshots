@@ -1,6 +1,6 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Canto)
 =
-# SnapShot 20.08.22 (0.1 GB) block height --> 368413
+# SnapShot 09.10.22 (0.1 GB) block height --> 1109858
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 sudo systemctl stop cantod
@@ -9,7 +9,7 @@ mkdir $HOME/.cantod/data/
 
 # download archive
 cd $HOME
-wget http://116.202.236.115:7000/cantodata.tar.gz
+wget http://canto.snapshot.stavr.tech:6001/cantodata.tar.gz
 
 # unpack the archive
 tar -C $HOME/ -zxvf cantodata.tar.gz --strip-components 1
