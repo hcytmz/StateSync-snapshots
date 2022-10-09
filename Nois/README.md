@@ -1,6 +1,7 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Nois)
 =
-```StateSync
+# StateSync
+```bash
 SNAP_RPC=http://nois.rpc.t.stavr.tech:21037
 peers="2dc7ab934dfec910fac3083fd74e3451e1d3e670@135.181.5.47:21036"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.noisd/config/config.toml
