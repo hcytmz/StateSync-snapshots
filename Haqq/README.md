@@ -1,6 +1,6 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/haqq)
 =
-# SnapShot 12.10.22 (40 GB) block height --> 464386
+# SnapShot 13.10.22 (0.5 GB) block height --> 482621
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 sudo systemctl stop haqqd
@@ -9,7 +9,7 @@ mkdir $HOME/.haqqd/data/
 
 # download archive
 cd $HOME
-wget http://88.198.34.226:7150/haqqddata.tar.gz
+wget http://haqq.snapshot.stavr.tech:7150/haqqddata.tar.gz
 
 # unpack the archive
 tar -C $HOME/ -zxvf haqqddata.tar.gz --strip-components 1
