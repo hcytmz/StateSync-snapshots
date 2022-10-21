@@ -25,5 +25,6 @@ cd && cat .pylons/data/priv_validator_state.json
 # don't forget to delete the archive to save space
 cd $HOME
 rm pylonsdata.tar.gz
+wget -O $HOME/.pylons/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Pylons/addrbook.json"
 systemctl restart pylonsd && journalctl -u pylonsd -f -o cat
 ```
