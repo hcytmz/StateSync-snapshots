@@ -1,6 +1,6 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Pylons)
 =
-# SnapShot 24.10.22 (3.2 GB) block height --> 2666403
+# SnapShot 26.10.22 (4.7 GB) block height --> 2700740
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 sudo systemctl stop pylonsd
