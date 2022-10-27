@@ -1,4 +1,4 @@
-# Snaphot 15.09.22 (69 GB) height 4242606
+# Snaphot (57 GB) height 4598847
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 systemctl stop genesisd
@@ -7,18 +7,10 @@ mkdir $HOME/.genesisd/data/
 
 # download archive
 cd $HOME
-wget http://51.222.244.75:6001/genesisddata.tar.gz
+wget http://65.108.6.45:8000/genesisl1/l1data.tar.gz
 
 # unpack the archive
-tar -C $HOME/ -zxvf genesisddata.tar.gz --strip-components 1
-# !! IMPORTANT POINT. If the validator was created earlier. Need to reset priv_validator_state.json  !!
-wget -O $HOME/.genesisd/data/priv_validator_state.json "https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/priv_validator_state.json"
-cd && cat .genesisd/data/priv_validator_state.json
-{
-  "height": "0",
-  "round": 0,
-  "step": 0
-}
+tar -C $HOME/ -zxvf l1data.tar.gz --strip-components 1
 
 # after unpacking, run the node
 # don't forget to delete the archive to save space
