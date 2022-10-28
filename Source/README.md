@@ -1,6 +1,6 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Source)
 =
-# SnapShot 21.10.22 (0.2 GB) block height --> 2874419
+# SnapShot 28.10.22 (0.1 GB) block height --> 2981026
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 sudo systemctl stop sourced
