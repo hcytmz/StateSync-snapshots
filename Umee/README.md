@@ -2,8 +2,8 @@
 =
 # StateSync Umee
 ```bash
-SNAP_RPC=141.95.124.151:21027
-peers="3ac6c5417f461494e9ce778f652922ae59566262@141.95.124.151:21026"
+SNAP_RPC=http://umee.rpc.m.stavr.tech:29007
+peers="4fea173bd41127f452226a9383dfa05deb5736ba@135.181.5.47:29006"
 sed -i -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" ~/.umee/config/config.toml
 
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -20,7 +20,7 @@ umeed unsafe-reset-all
 wget -O $HOME/.umee/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Umee/addrbook.json"
 sudo systemctl restart umeed && journalctl -u umeed -f -o cat
 ```
-# SnapShot 27.09.22 (0.5 GB) height 3211857
+# SnapShot 30.10.22 (0.6 GB) height 3665253
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 sudo systemctl stop umeed
@@ -29,7 +29,7 @@ mkdir $HOME/.umee/data/
 
 # download archive
 cd $HOME
-wget http://141.95.124.151:6000/umeedata.tar.gz
+wget http://umee.snapshot.stavr.tech:6000/umeedata.tar.gz
 
 # unpack the archive
 tar -C $HOME/ -zxvf umeedata.tar.gz --strip-components 1
