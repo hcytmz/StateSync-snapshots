@@ -23,6 +23,7 @@ sudo systemctl restart bcnad && sudo journalctl -u bcnad -f -o cat
 ```bash
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 sudo systemctl stop bcnad
+cp $HOME/.bcna/data/priv_validator_state.json $HOME/.bcna/priv_validator_state.json.backup
 rm -rf $HOME/.bcna/data/
 mkdir $HOME/.bcna/data/
 
@@ -32,14 +33,12 @@ wget http://bitcanna.snapshot.stavr.tech:5101/bitcannaindata.tar.gz
 
 # unpack the archive
 tar -C $HOME/ -zxvf bitcannaindata.tar.gz --strip-components 1
-# !! IMPORTANT POINT. If the validator was created earlier. Need to reset priv_validator_state.json  !!
-wget -O $HOME/.bcna/data/priv_validator_state.json "https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/priv_validator_state.json"
-cd && cat .bcna/data/priv_validator_state.json
 
 # after unpacking, run the node
 # don't forget to delete the archive to save space
 cd $HOME
 wget -O $HOME/.bcna/config/genesis.json "https://raw.githubusercontent.com/BitCannaGlobal/bcna/main/genesis.json"
 rm bitcannaindata.tar.gz
+mv $HOME/.bcna/priv_validator_state.json.backup $HOME/.bcna/data/priv_validator_state.json
 sudo systemctl restart bcnad && sudo journalctl -u bcnad -f -o cat
 ```
