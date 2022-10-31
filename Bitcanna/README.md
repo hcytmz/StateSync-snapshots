@@ -36,7 +36,6 @@ tar -C $HOME/ -zxvf bitcannaindata.tar.gz --strip-components 1
 
 # after unpacking, run the node
 # don't forget to delete the archive to save space
-cd $HOME
 wget -O $HOME/.bcna/config/genesis.json "https://raw.githubusercontent.com/BitCannaGlobal/bcna/main/genesis.json"
 rm bitcannaindata.tar.gz
 mv $HOME/.bcna/priv_validator_state.json.backup $HOME/.bcna/data/priv_validator_state.json
