@@ -46,3 +46,26 @@ s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.kyve/config/config.toml
 chaind tendermint unsafe-reset-all --home $HOME/.kyve
 sudo systemctl restart kyved && journalctl -u kyved -f -o cat
 ```
+# SnapShot KYVE-BETA 11.11.22 (0.1 GB) height 919269
+```bash
+# install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
+sudo systemctl stop chaind
+cp $HOME/.kyve/data/priv_validator_state.json $HOME/.kyve/priv_validator_state.json.backup
+rm -rf $HOME/.kyve/data/
+mkdir $HOME/.kyve/data/
+
+# download archive
+cd $HOME
+wget http://kyvebeta.snapshot.stavr.tech:5102/kyvedata.tar.gz
+
+# unpack the archive
+tar -C $HOME/ -zxvf kyvedata.tar.gz --strip-components 1
+
+# after unpacking, run the node
+# don't forget to delete the archive to save space
+cd $HOME
+rm kyvedata.tar.gz
+wget -O $HOME/.kyve/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Kyve/beta/addrbook.json"
+mv $HOME/.kyve/priv_validator_state.json.backup $HOME/.kyve/data/priv_validator_state.json
+sudo systemctl restart chaind && sudo journalctl -u chaind -f -o cat
+```
