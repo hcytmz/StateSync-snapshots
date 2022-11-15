@@ -56,5 +56,4 @@ wget http://kyvebeta.snapshot.stavr.tech:5102/kyve/kyve-snap.tar.lz4 && lz4 -c -
 rm -rf kyve-snap.tar.lz4
 mv $HOME/.kyve/priv_validator_state.json.backup $HOME/.kyve/data/priv_validator_state.json
 sudo systemctl restart kyved && journalctl -u kyved -f -o cat
-temctl restart chaind && sudo journalctl -u chaind -f -o cat
 ```
