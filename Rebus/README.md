@@ -1,11 +1,10 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Rebus)
 =
 # StateSync
-```bash
-sudo systemctl stop rebusd
-peers="9fe60255ffc5176f419d9913ca032d4b5dc413b1@141.95.124.151:20106"
+```python
+SNAP_RPC="http://rebus.rpc.m.stavr.tech:17107"
+peers="02523d6634dc7523b80591ac22c8b067b7fda5a2@rebus.rpc.m.stavr.tech:17106"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.rebusd/config/config.toml
-SNAP_RPC="http://141.95.124.151:20107"
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 500)); \
 TRUST_HASH=$(curl -s "$SNAP_RPC/block?height=$BLOCK_HEIGHT" | jq -r .result.block_id.hash)
@@ -23,25 +22,15 @@ sudo systemctl restart rebusd && journalctl -u rebusd -f -o cat
 ```
 
 =
-# SnapShot 16.09.22 (0.3 GB) block height --> 118813
-```bash
-# install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
+# SnapShot (~1 GB) updated every 5 hours
+```python
+cd $HOME
 sudo systemctl stop rebusd
-rm -rf $HOME/.rebusd/data/
-mkdir $HOME/.rebusd/data/
-
-# download archive
-cd $HOME
-wget http://51.195.189.48:7011/rebusdata.tar.gz
-
-# unpack the archive
-tar -C $HOME/ -zxvf rebusdata.tar.gz --strip-components 1
-
-# after unpacking, run the node
-# don't forget to delete the archive to save space
-cd $HOME
-rm rebusdata.tar.gz
-# start the node
+cp $HOME/.rebusd/data/priv_validator_state.json $HOME/.rebusd/priv_validator_state.json.backup
+rm -rf $HOME/.rebusd/data
+wget http://rebus.snapshot.stavr.tech:5012/rebus/rebus-snap.tar.lz4 && lz4 -c -d $HOME/rebus-snap.tar.lz4 | tar -x -C $HOME/.rebusd --strip-components 2
+rm -rf umee-snap.tar.lz4
+mv $HOME/.rebusd/priv_validator_state.json.backup $HOME/.rebusd/data/priv_validator_state.json
 sudo systemctl restart rebusd && journalctl -u rebusd -f -o cat
 ```
 
