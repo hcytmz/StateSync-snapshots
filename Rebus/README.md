@@ -21,7 +21,6 @@ rebusd tendermint unsafe-reset-all --home ~/.rebusd --keep-addr-book
 sudo systemctl restart rebusd && journalctl -u rebusd -f -o cat
 ```
 
-=
 # SnapShot (~1 GB) updated every 5 hours
 ```python
 cd $HOME
