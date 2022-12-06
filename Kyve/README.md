@@ -24,36 +24,14 @@ chaind tendermint unsafe-reset-all --home $HOME/.kyve
 chaind tendermint unsafe-reset-all --home $HOME/.kyve
 sudo systemctl restart kyved && journalctl -u kyved -f -o cat
 ```
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Kyve/beta)
-=
-# State Sync KYVE (kyve-beta)
-```bash
-SNAP_RPC="kyveb.rpc.t.stavr.tech:20057"
-peers="4d7740c5ba34ade97bb6491422eab414b7831ca0@135.181.5.47:20056"
-sed -i.bak -e  "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" ~/.kyve/config/config.toml
 
-LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
-BLOCK_HEIGHT=$((LATEST_HEIGHT - 500)); \
-TRUST_HASH=$(curl -s "$SNAP_RPC/block?height=$BLOCK_HEIGHT" | jq -r .result.block_id.hash)
-
-echo $LATEST_HEIGHT $BLOCK_HEIGHT $TRUST_HASH
-
-sed -i.bak -E "s|^(enable[[:space:]]+=[[:space:]]+).*$|\1true| ; \
-s|^(rpc_servers[[:space:]]+=[[:space:]]+).*$|\1\"$SNAP_RPC,$SNAP_RPC\"| ; \
-s|^(trust_height[[:space:]]+=[[:space:]]+).*$|\1$BLOCK_HEIGHT| ; \
-s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
-s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.kyve/config/config.toml
-chaind tendermint unsafe-reset-all --home $HOME/.kyve
-sudo systemctl restart kyved && journalctl -u kyved -f -o cat
-```
-## SnapShot (0.1 GB) updated every 24 hours
+## SnapShot (~0.2 GB) updated every 5 hours
 ```python
 cd $HOME
 sudo systemctl stop kyved
 cp $HOME/.kyve/data/priv_validator_state.json $HOME/.kyve/priv_validator_state.json.backup
 rm -rf $HOME/.kyve/data
-wget http://kyvebeta.snapshot.stavr.tech:5102/kyve/kyve-snap.tar.lz4 && lz4 -c -d $HOME/kyve-snap.tar.lz4 | tar -x -C $HOME/.kyve --strip-components 2
-rm -rf kyve-snap.tar.lz4
+curl -o - -L http://kyve.snapshot.stavr.tech:1007/kyve/kyve-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.kyve --strip-components 2
 mv $HOME/.kyve/priv_validator_state.json.backup $HOME/.kyve/data/priv_validator_state.json
 sudo systemctl restart kyved && journalctl -u kyved -f -o cat
 ```
