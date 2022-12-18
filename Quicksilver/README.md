@@ -2,7 +2,7 @@
 =
 
 # StateSync
-```pyton
+```python
 SNAP_RPC=http://quick.rpc.m.stavr.tech:21027
 peers="ae44851a5d63d70382c1621bc7727db2a40d10d0@quick.peers.stavr.tech:21026"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.quicksilverd/config/config.toml
