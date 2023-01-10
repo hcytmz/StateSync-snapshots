@@ -1,3 +1,6 @@
+<h1 align="center"> 🔥BITCANNA MAINNET🔥</h1>
+
+
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Bitcanna)
 =
 
