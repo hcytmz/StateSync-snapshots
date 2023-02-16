@@ -1,7 +1,7 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Umee)
 =
 # StateSync Umee
-```bash
+```python
 SNAP_RPC=http://umee.rpc.m.stavr.tech:10457
 peers="1b728581c6d308078e2b969a0c6243852f77d28d@umee.peers.m.stavr.tech:10456"
 sed -i -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" ~/.umee/config/config.toml
