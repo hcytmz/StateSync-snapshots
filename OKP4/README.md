@@ -22,7 +22,7 @@ sed -i -e "s/^snapshot-interval *=.*/snapshot-interval = \"1500\"/" $HOME/.okp4d
 systemctl restart okp4d && journalctl -u okp4d -f -o cat
 
 ```
-# SnapShot (~0.8 GB) updated every 5 hours
+# SnapShot (~0.4 GB) updated every 5 hours
 ```python
 cd $HOME
 snap install lz4
