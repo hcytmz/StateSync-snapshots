@@ -7,7 +7,7 @@
 
 # StateSync Juno Mainnet
 ```python
-SNAP_RPC="http://juno.rpc.m.stavr.tech:1067"
+SNAP_RPC=http://juno.rpc.m.stavr.tech:1067
 PEERS="3ee2034cf0180e4d50f7b3ed952472add3316faf@juno.peer.stavr.tech:1066"
 sed -i.bak -e "s/^seeds *=.*/seeds = \"$SEEDS\"/; s/^persistent_peers *=.*/persistent_peers = \"$PEERS\"/" $HOME/.juno/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
