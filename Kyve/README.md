@@ -1,6 +1,6 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Kyve)
 =
-# State Sync KYVE (korellia)
+# State Sync KYVE (korellia) (Temporarily stopped)
 ```python
 SNAP_RPC="http://kyve.rpc.t.stavr.tech:12357"
 peers="29332feee9ab5dd743c90392a892f6f08b5c0ace@kyve.peer.stavr.tech:12356"
@@ -20,7 +20,7 @@ chaind tendermint unsafe-reset-all --home $HOME/.kyve --keep-addr-book
 sudo systemctl restart kyved && journalctl -u kyved -f -o cat
 ```
 
-## SnapShot (~1 GB) updated every 5 hours
+## SnapShot (~1 GB) updated every 5 hours (Temporarily stopped)
 ```python
 cd $HOME
 snap install lz4
