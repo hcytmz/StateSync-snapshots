@@ -5,7 +5,7 @@
 
 <h1 align="center"> TESTNET</h1>
 
-# StateSync Coreum Testnet
+# StateSync Coreum Testnet  (Temporarily stopped)
 ```python
 SNAP_RPC=http://coreum.rpc.t.stavr.tech:52657
 peers=eb5c90c1e845b8a2a989b20fd528097569956ebf@coreum.peer.stavr.tech:17686
@@ -24,7 +24,7 @@ s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.core/coreum-testnet-1/con
 cored tendermint unsafe-reset-all
 systemctl restart cored && journalctl -u cored -f -o cat
 ```
-# SnapShot (~0.5 GB) updated every 5 hours
+# SnapShot (~0.5 GB) updated every 5 hours  (Temporarily stopped)
 ```python
 cd $HOME
 apt install lz4
