@@ -5,7 +5,7 @@
 
 <h1 align="center"> TESTNET</h1>
 
-# StateSync Sao Testnet
+# StateSync Sao Testnet (Temporarily stopped)
 ```python
 SNAP_RPC=http://sao.rpc.t.stavr.tech:1077
 peers="006e207a3f235a28bc0815001b76ee385ee4bda3@sao.peers.stavr.tech:1076"
@@ -25,7 +25,7 @@ saod tendermint unsafe-reset-all --home /root/.sao --keep-addr-book
 sed -i -e "s/^snapshot-interval *=.*/snapshot-interval = \"1500\"/" $HOME/.sao/config/app.toml
 sudo systemctl restart saod && journalctl -u saod -f -o cat
 ```
-# SnapShot (~0.2 GB) updated every 5 hours
+# SnapShot (~0.2 GB) updated every 5 hours (Temporarily stopped)
 ```python
 cd $HOME
 apt install lz4
