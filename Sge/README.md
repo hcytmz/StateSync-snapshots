@@ -1,7 +1,9 @@
+<h1 align="center"> 🔥SGE🔥</h1>
+
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/SGE)
 =
 
-# StateSync
+# StateSync (Temporarily stopped)
 ```python
 SNAP_RPC=sge.rpc.t.stavr.tech:1157
 peers="fc616f3e9dc79997e60bd915a9233b6cc81bcd0f@sge.peers.stavr.tech:1156"
@@ -20,7 +22,7 @@ s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.sge/config/config.toml
 sged tendermint unsafe-reset-all --home /root/.sge --keep-addr-book
 systemctl restart sged && journalctl -u sged -f -o cat
 ```
-# SnapShot (~0.2 GB) updated every 5 hours
+# SnapShot (~0.2 GB) updated every 5 hours (Temporarily stopped)
 ```python
 cd $HOME
 snap install lz4
