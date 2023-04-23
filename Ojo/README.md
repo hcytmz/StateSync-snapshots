@@ -25,7 +25,7 @@ ojod tendermint unsafe-reset-all --home /root/.ojo --keep-addr-book
 sed -i -e "s/^snapshot-interval *=.*/snapshot-interval = \"1500\"/" $HOME/.ojo/config/app.toml
 sudo systemctl restart ojod && journalctl -u ojod -f -o cat
 ```
-# SnapShot (~0.2 GB) updated every 5 hours
+# SnapShot (~0.4 GB) updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
