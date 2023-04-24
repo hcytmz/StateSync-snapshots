@@ -58,7 +58,7 @@ sudo docker logs -f $EYWANAME --follow --tail=50
 break
 ;;
 "Check node sync")
-curl -s 127.0.0.1:8081/v1/sync_state|jq -r '("NODE SYNC STATE: "+.result.state),((["CHAIN ID","SYNCED","DIFFS"] | (., map(length*"-"))),(.result.details|keys[] as $k |["\($k)", "\(.[$k].synced)", "\(.[$k].diffs.processedHeight)"])|@tsv)'
+curl -s 127.0.0.1:8081/v1/sync_state|jq -r '("NODE SYNC STATE: "+.result.state),((["CHAIN","SYNCED","DIFFS","sysDIFFS"] | (., map(length*"-"))),(.result.details|keys[] as $k |["\($k)", "\(.[$k].synced)", "\(.[$k].diffs.processedHeight)", "\(.[$k].diffs.sysProcessedHeight)"])|@tsv)'
 
 break
 ;;
