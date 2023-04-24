@@ -48,7 +48,6 @@ docker restart $EYWANAME
 echo '=============== SETUP FINISHED ==================='
 echo -e 'Congratulations:        \e[1m\e[32mSuccessful unpacking of the archive\e[0m'
 echo -e 'To check logs:        \e[1m\e[33mdocker logs -f $EYWANAME --follow --tail=50\e[0m'
-echo -e "To check sync status: \e[1m\e[35mcurl -s 127.0.0.1:8081/v1/sync_state|jq -r '("NODE SYNC STATE: "+.result.state),((["CHAIN ID","SYNCED","DIFFS"] | (., map(length*"-"))),(.result.details|keys[] as $k |["\($k)", "\(.[$k].synced)", "\(.[$k].diffs.processedHeight)"])|@tsv)'\e[0m"
 
 
 break
