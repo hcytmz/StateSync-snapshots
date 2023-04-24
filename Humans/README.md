@@ -4,7 +4,7 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Humans)
 =
 
-## StateSync
+## StateSync (Temporarily stopped)
 ```python
 SNAP_RPC=http://humans.rpc.t.stavr.tech:1167
 peers="7b0b40f045e66d83760859f42e8e95ce7ad93409@humans.peer.stavr.tech:1166"
@@ -26,7 +26,7 @@ sed -i -e "s/^snapshot-interval *=.*/snapshot-interval = \"1500\"/" $HOME/.human
 systemctl restart humansd && journalctl -u humansd -f -o cat
 
 ```
-## SnapShot (~0.2 GB) updated every 5 hours
+## SnapShot (~0.2 GB) updated every 5 hours (Temporarily stopped)
 ```python
 cd $HOME
 apt install lz4
