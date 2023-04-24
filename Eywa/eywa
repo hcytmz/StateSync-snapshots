@@ -1,0 +1,70 @@
+#!/bin/bash
+
+while true
+do
+
+# Logo
+
+curl -s https://raw.githubusercontent.com/obajay/nodes-Guides/main/logo_1 | bash
+
+# Menu
+
+PS3='Select an action: '
+options=(
+"Unpacking the archive"
+"Check node logs"
+"Check node sync"
+"Exit")
+select opt in "${options[@]}"
+do
+case $opt in
+
+"Unpacking the archive")
+echo "*********************"
+echo -e "\e[1m\e[35m		Lets's begin\e[0m"
+echo "*********************"
+echo -e "\e[1m\e[32m	Enter your Validator_Name:\e[0m"
+echo "_|-_|-_|-_|-_|-_|-_|"
+read EYWANAME
+echo "_|-_|-_|-_|-_|-_|-_|"
+echo export EYWANAME=${Validator_Name} >> $HOME/.bash_profile
+source ~/.bash_profile
+
+echo -e "\e[1m\e[32m1. Updating packages and dependencies--> \e[0m" && sleep 1
+#UPDATE APT
+sudo apt install lz4
+
+echo -e "              \e[1m\e[32m3. Downloading and unpacking the archive--> \e[0m" && sleep 1
+#Lets-GO
+cd $HOME
+docker stop $EYWANAME
+rm -rf /app/.data/leveldb
+curl -o - -L http://eywa.snapshot.stavr.tech:1000/eywa/leveldb-eywa.tar.lz4 | lz4 -c -d - | tar -x -C /app/.data/ --strip-components 2
+mv /app/.data/leveldb/STAVR /app/.data/leveldb/$EYWANAME
+
+# start service
+docker restart $EYWANAME
+
+echo '=============== SETUP FINISHED ==================='
+echo -e 'Congratulations:        \e[1m\e[32mSuccessful unpacking of the archive\e[0m'
+echo -e 'To check logs:        \e[1m\e[33mdocker logs -f $EYWANAME --follow --tail=50\e[0m'
+echo -e "To check sync status: \e[1m\e[35mcurl -s 127.0.0.1:8081/v1/sync_state|jq -r '("NODE SYNC STATE: "+.result.state),((["CHAIN ID","SYNCED","DIFFS"] | (., map(length*"-"))),(.result.details|keys[] as $k |["\($k)", "\(.[$k].synced)", "\(.[$k].diffs.processedHeight)"])|@tsv)'\e[0m"
+
+
+break
+;;
+"Check node logs")
+docker logs -f $EYWANAME --follow --tail=50
+
+break
+;;
+"Check node sync")
+curl -s 127.0.0.1:8081/v1/sync_state|jq -r '("NODE SYNC STATE: "+.result.state),((["CHAIN ID","SYNCED","DIFFS"] | (., map(length*"-"))),(.result.details|keys[] as $k |["\($k)", "\(.[$k].synced)", "\(.[$k].diffs.processedHeight)"])|@tsv)'
+
+break
+;;
+"Exit")
+exit
+esac
+done
+done
