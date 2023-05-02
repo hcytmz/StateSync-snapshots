@@ -4,7 +4,7 @@
 
 <h1 align="center"> 🔥MAINNET🔥</h1>
 
-# Automatic Mainnet snapshot unpacking  (database is updated every 5 hours) 🔴🔴🔴NOT WORK YET🔴🔴🔴
+## Automatic Mainnet snapshot unpacking  (database is updated every 5 hours) 🔴🔴🔴NOT WORK YET🔴🔴🔴
 ```python
 wget -O eywam https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/Eywa/eywam && chmod +x eywam && ./eywam
 ```
@@ -12,7 +12,7 @@ wget -O eywam https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/
 <h1 align="center"> ✅TESTNET✅</h1>
 
 
-# Automatic Testnet snapshot unpacking  (database is updated every 2 hours)
+## Automatic Testnet snapshot unpacking  (database is updated every 2 hours)
 ```python
 wget -O eywa https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/Eywa/eywa && chmod +x eywa && ./eywa
 ```
