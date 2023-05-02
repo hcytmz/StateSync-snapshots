@@ -41,7 +41,7 @@ cd $HOME
 docker stop $EYWANAME
 rm -rf /app/.data/leveldb
 curl -o - -L http://eywam.snapshot.stavr.tech:1000/eywa/leveldb-eywa.tar.lz4 | lz4 -c -d - | tar -x -C /app/.data/ --strip-components 2
-mv /app/.data/leveldb/STAVR /app/.data/leveldb/$EYWANAME
+mv /app/.data/leveldb/STAVR2 /app/.data/leveldb/$EYWANAME
 
 # start service
 docker restart $EYWANAME
