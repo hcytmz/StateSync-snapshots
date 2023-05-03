@@ -12,7 +12,7 @@ wget -O eywam https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/
 <h1 align="center"> ✅TESTNET✅</h1>
 
 
-## Automatic Testnet snapshot unpacking  (database is updated every 2 hours)
+## Automatic Testnet snapshot unpacking  (database is updated every 5 minutes)
 ```python
 wget -O eywa https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/Eywa/eywa && chmod +x eywa && ./eywa
 ```
