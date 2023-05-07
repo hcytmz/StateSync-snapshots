@@ -1,3 +1,6 @@
+<h1 align="center"> 🔥Neutron🔥</h1>
+
+
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Neutron)
 =
 ## StateSync
@@ -18,7 +21,7 @@ s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
 s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.neutrond/config/config.toml
 neutrond tendermint unsafe-reset-all --home /root/.neutrond --keep-addr-book
 ```
-# SnapShot 15.11.22 (0.1 GB) height 129142
+# SnapShot (0.1 GB)
 ```python
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 sudo systemctl stop neutrond
