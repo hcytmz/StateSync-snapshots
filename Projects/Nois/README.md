@@ -1,8 +1,8 @@
-<h1 align="center"> 🔥Nois🔥</h1>
+<h1 align="center"> 🔥Nois MAINNET🔥</h1>
 
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Nois)
 =
-# StateSync
+# StateSync MAINNET
 ```python
 SNAP_RPC=https://nois.rpc.m.stavr.tech:443
 peers="2f03f27d96d7f28de26ab38eac26fe4dbfdccfa8@nois.peer.stavr.tech:40136"
@@ -26,7 +26,7 @@ systemctl restart noisd && journalctl -u noisd -f -o cat
 
 ```
 
-# SnapShot (~0.2 GB) updated every 5 hours
+# SnapShot MAINNET (~0.2 GB) updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
