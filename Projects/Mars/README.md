@@ -4,7 +4,7 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Mars)
 =
 
-## StateSync
+## StateSync  (Temporarily stopped)
 ```python
 SNAP_RPC=http://mars.rpc.t.stavr.tech:190
 peers="d79cd692ab2a4ef1a8be282cb398d6267b871b6d@mars.peer.stavr.tech:181"
@@ -25,7 +25,7 @@ sed -i -e "s/^snapshot-interval *=.*/snapshot-interval = \"1500\"/" $HOME/.mars/
 curl -o - -L http://mars.wasm.stavr.tech:1014/wasm-mars.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.mars/data --strip-components 3
 systemctl restart marsd && journalctl -u marsd -f -o cat
 ```
-## SnapShot (~0.2 GB) updated every 5 hours
+## SnapShot (~0.2 GB) updated every 5 hours (Temporarily stopped)
 ```python
 cd $HOME
 apt install lz4
