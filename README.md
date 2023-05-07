@@ -1,1 +1,5 @@
-[<img src='https://user-images.githubusercontent.com/44331529/197253088-c73a6af7-49dc-4d2c-9b73-16933bfe0a1e.png' alt='discord' height='94'>](https://www.aleo123.io/address/aleo17lecd9zfgc585640vkd2h898a3w8qem7zdevt57y0sm97d4wwqxqlqms6x)
+[<img src='https://user-images.githubusercontent.com/44331529/236675760-9431f5ac-e50f-493a-b5e8-1c33bbf747c3.png' height='94'>](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Stride)
+
+
+
+
