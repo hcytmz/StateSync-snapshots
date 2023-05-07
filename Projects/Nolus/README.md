@@ -1,7 +1,8 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Nolus)
 =
 
-# StateSync
+# StateSync  (Temporarily stopped)
+
 ```python
 SNAP_RPC=http://nolus.rpc.t.stavr.tech:1177
 peers="5bf83be8dfe52fe2c204300f1e9b1449487ce5af@nolus.peer.stavr.tech:1176"
@@ -20,7 +21,8 @@ s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.nolus/config/config.toml
 nolusd tendermint unsafe-reset-all --home /root/.nolus --keep-addr-book
 systemctl restart nolusd && journalctl -u nolusd -f -o cat
 ```
-# SnapShot (~0.2 GB) updated every 5 hours
+# SnapShot (~0.2 GB) updated every 5 hours   (Temporarily stopped)
+
 ```python
 cd $HOME
 apt install lz4
