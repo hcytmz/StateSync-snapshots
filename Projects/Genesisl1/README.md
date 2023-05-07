@@ -1,8 +1,11 @@
+<h1 align="center"> 🔥Genesisl1🔥</h1>
+
+
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Genesisl1)
 =
 
-# Snaphot (57 GB) height 4598847
-```bash
+# Snaphot (57 GB)  (Temporarily stopped)
+```python
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 systemctl stop genesisd
 rm -rf $HOME/.genesisd/data/
