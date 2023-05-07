@@ -6,7 +6,8 @@
 
 ## Automatic Mainnet snapshot unpacking  (database is updated every 5 minutes)
 ```python
-wget -O eywam https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/Eywa/eywam && chmod +x eywam && ./eywam
+wget -O eywam https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/Projects/Eywa/eywam && chmod +x eywam && ./eywam
+              
 ```
 
 <h1 align="center"> ✅TESTNET✅</h1>
@@ -14,5 +15,5 @@ wget -O eywam https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/
 
 ## Automatic Testnet snapshot unpacking  (database is updated every 5 minutes)
 ```python
-wget -O eywa https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/Eywa/eywa && chmod +x eywa && ./eywa
+wget -O eywa https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/Projects/Eywa/eywa && chmod +x eywa && ./eywa
 ```
