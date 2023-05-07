@@ -1,8 +1,11 @@
+ <h1 align="center"> 🔥Sifchain🔥</h1>
+
+
 [Node installation instructions](https://github.com/obajay/nodes-Guides/blob/main/Sifchain/README.md)
 =
 
-# StateSync
-```bash
+# StateSync (Temporarily stopped)
+```python
 sudo systemctl stop sifnoded
 SNAP_RPC="http://sifchain.rpc.m.stavr.tech:13157"
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -20,7 +23,7 @@ s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"|" $HOME/.sifnoded/
 sifnoded tendermint unsafe-reset-all --home $HOME/.sifnoded --keep-addr-book
 sudo systemctl restart sifnoded && journalctl -u sifnoded -f -o cat
 ```
-# SnapShot (~2.6 GB) updated every 15 hours
+# SnapShot (~2.6 GB) updated every 5 hours (Temporarily stopped)
 ```python
 cd $HOME
 sudo systemctl stop sifnoded
