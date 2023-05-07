@@ -3,7 +3,7 @@
 
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Neutron)
 =
-## StateSync
+# StateSync   (Temporarily stopped)
 ```python
 SNAP_RPC=http://neutron.rpc.t.stavr.tech:11057
 peers="b81828b92f6e58eaa211fbb21c08cf809cdefa94@neutron.rpc.t.stavr.tech:11056"
@@ -21,7 +21,7 @@ s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
 s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.neutrond/config/config.toml
 neutrond tendermint unsafe-reset-all --home /root/.neutrond --keep-addr-book
 ```
-# SnapShot (0.1 GB)
+# SnapShot (0.1 GB)    (Temporarily stopped)
 ```python
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 sudo systemctl stop neutrond
