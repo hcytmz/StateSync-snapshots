@@ -1,5 +1,8 @@
-# StateSync
-```bash
+<h1 align="center"> 🔥GravityBridge🔥</h1>
+
+# StateSync (Temporarily stopped)
+
+```python
 SNAP_RPC=141.95.124.151:20757
 peers="ff77d192583b59cbdafb47fa12f436efc345506f@141.95.124.151:20756"
 sed -i.bak -e  "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" ~/.gravity/config/config.toml
@@ -23,8 +26,9 @@ sudo systemctl restart gravity
 journalctl -u gravity -f -o cat
 ```
 
-# Snaphot 15.08.22 (1.3 GB)
-```bash
+# Snaphot (1.3 GB)  (Temporarily stopped)
+
+```python
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 rm -rf $HOME/.gravity/data/
 mkdir $HOME/.gravity/data/
