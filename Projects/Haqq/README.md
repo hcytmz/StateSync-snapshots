@@ -1,7 +1,10 @@
+<h1 align="center"> 🔥HAQQ🔥</h1>
+
+
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/haqq)
 =
-# SnapShot 21.10.22 (0.1 GB) block height --> 594004
-```bash
+# SnapShot (Temporarily stopped)
+```python
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 sudo systemctl stop haqqd
 rm -rf $HOME/.haqqd/data/
