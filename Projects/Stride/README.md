@@ -1,5 +1,4 @@
-h1 align="center"> 🔥Stride🔥</h1>
-
+<h1 align="center"> 🔥Stride🔥</h1>
 
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Stride)
 =
