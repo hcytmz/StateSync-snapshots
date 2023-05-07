@@ -1,7 +1,10 @@
+<h1 align="center"> 🔥Bitsong🔥</h1>
+
+
 [Node installation instructions](https://github.com/obajay/nodes-Guides/blob/main/Bitsong/README.md)
 =
 # StateSync
-```bash
+```python
 RPC="51.195.189.48:21037"
 LATEST_HEIGHT=$(curl -s $RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 500)); \
@@ -22,8 +25,8 @@ wget -O $HOME/.bitsongd/config/addrbook.json "https://raw.githubusercontent.com/
 sudo systemctl restart bitsongd && journalctl -u bitsongd -f -o cat
 ```
 
-# Snaphot 26.08.22 (0.8 GB) block height --> 7450094
-```bash
+# Snaphot  (0.8 GB) 
+```python
 # install the node as standard, but do not launch. Then we delete the .data directory and create an empty directory
 sudo systemctl stop bitsongd
 rm -rf $HOME/.bitsongd/data/
