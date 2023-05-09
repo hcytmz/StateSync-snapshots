@@ -16,3 +16,23 @@ wget -O eywam https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/
 ```python
 wget -O eywa https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/Projects/Eywa/eywa && chmod +x eywa && ./eywa
 ```
+<h1 align="center"> 📚Useful📚 Commands</h1>
+
+`Docker restart`
+```python
+docker restart $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
+```
+
+`Logs`
+```python
+docker logs -f $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
+```
+`Synchronization status`
+```python
+curl -s 127.0.0.1:8081/v1/sync_state|jq -r '("NODE SYNC STATE: "+.result.state),((["CHAIN","SYNCED","DIFFS","sysDIFFS"] | (., map(length*"-"))),(.result.details|keys[] as $k |["\($k)", "\(.[$k].synced)", "\(.[$k].diffs.processedHeight)", "\(.[$k].diffs.sysProcessedHeight)"])|@tsv)'
+```
+`Auto restart docker`
+```python
+docker update --restart=always $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
+docker restart $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
+```
