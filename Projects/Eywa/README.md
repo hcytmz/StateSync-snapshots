@@ -16,7 +16,7 @@ wget -O eywam https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/
 ```python
 wget -O eywa https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/Projects/Eywa/eywa && chmod +x eywa && ./eywa
 ```
-<h1 align="center"> 📚Useful📚 Commands</h1>
+<h1 align="center"> 📚Useful Commands📚</h1>
 
 `Docker restart`
 ```python
