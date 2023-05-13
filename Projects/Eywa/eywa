@@ -188,7 +188,7 @@ docker restart $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("
 
 break
 ;;
-"Restart node"
+"Restart node")
 docker restart $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
 
 break
