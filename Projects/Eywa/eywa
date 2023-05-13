@@ -14,14 +14,15 @@ options=(
 "Unpacking the Testnet archive"
 "Check node logs"
 "Check node sync"
+"Restart node"
+"Exit"
 "Replace chain-0"
 "Replace chain-5"
 "Replace chain-97"
 "Replace chain-4002"
 "Replace chain-43113"
 "Replace chain-80001"
-"Replace chain-421613"
-"Exit")
+"Replace chain-421613")
 select opt in "${options[@]}"
 do
 case $opt in
@@ -185,6 +186,10 @@ rm -rf /app/.data/leveldb/$EYWANAME/chain-421613
 curl -o - -L http://eywatchain-421613.stavr.tech:1002/chain-421613/chain-421613.tar.lz4 | lz4 -c -d - | tar -x -C /app/.data/leveldb/$EYWANAME/ --strip-components 4
 docker restart $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
 
+break
+;;
+"Restart node"
+docker restart $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
 
 break
 ;;
