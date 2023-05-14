@@ -47,7 +47,7 @@ echo -e "              \e[1m\e[32m3. Downloading and unpacking the archive--> \e
 cd $HOME
 docker stop $EYWANAME
 rm -rf /app/.data/leveldb
-curl -o - -L http://eywa.snapshot.stavr.tech:1000/eywa/leveldb-eywa.tar.lz4 | lz4 -c -d - | tar -x -C /app/.data/ --strip-components 2
+curl -o - -L http://eywam.snapshot.stavr.tech:1000/eywa/leveldb-eywa.tar.lz4 | lz4 -c -d - | tar -x -C /app/.data/ --strip-components 2
 mv /app/.data/leveldb/STAVR2 /app/.data/leveldb/$EYWANAME
 
 # start service
