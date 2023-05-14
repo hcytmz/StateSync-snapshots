@@ -11,7 +11,7 @@ curl -s https://raw.githubusercontent.com/obajay/nodes-Guides/main/logo_1 | bash
 
 PS3='Select an action: '
 options=(
-"Unpacking the Testnet archive"
+"Unpacking the Mainnet archive"
 "Check node logs"
 "Check node sync"
 "Exit"
@@ -27,7 +27,7 @@ select opt in "${options[@]}"
 do
 case $opt in
 
-"Unpacking the Testnet archive")
+"Unpacking the Mainnet archive")
 echo "*********************"
 echo -e "\e[1m\e[35m		Lets's begin\e[0m"
 echo "*********************"
