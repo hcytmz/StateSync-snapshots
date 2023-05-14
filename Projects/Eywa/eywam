@@ -41,6 +41,7 @@ source ~/.bash_profile
 echo -e "\e[1m\e[32m1. Updating packages and dependencies--> \e[0m" && sleep 1
 #UPDATE APT
 sudo apt install lz4
+sudo apt install jq
 
 echo -e "              \e[1m\e[32m3. Downloading and unpacking the archive--> \e[0m" && sleep 1
 #Lets-GO
@@ -78,8 +79,6 @@ docker stop $EYWANAME
 rm -rf /app/.data/leveldb/$EYWANAME/chain-0
 curl -o - -L http://eywamchain-0.stavr.tech:1001/chain-0/chain-0.tar.lz4 | lz4 -c -d - | tar -x -C /app/.data/leveldb/$EYWANAME/ --strip-components 4
 docker restart $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
-
-
 
 break
 ;;
@@ -132,7 +131,6 @@ rm -rf /app/.data/leveldb/$EYWANAME/chain-137
 curl -o - -L http://eywamchain-137.stavr.tech:1004/chain-137/chain-137.tar.lz4 | lz4 -c -d - | tar -x -C /app/.data/leveldb/$EYWANAME/ --strip-components 4
 docker restart $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
 
-
 break
 ;;
 "Replace chain-250")
@@ -150,7 +148,6 @@ rm -rf /app/.data/leveldb/$EYWANAME/chain-250
 curl -o - -L http://eywamchain-250.stavr.tech:1005/chain-250/chain-250.tar.lz4 | lz4 -c -d - | tar -x -C /app/.data/leveldb/$EYWANAME/ --strip-components 4
 docker restart $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
 
-
 break
 ;;
 "Replace chain-42161")
@@ -167,7 +164,6 @@ docker stop $EYWANAME
 rm -rf /app/.data/leveldb/$EYWANAME/chain-42161
 curl -o - -L http://eywamchain-42161.stavr.tech:1006/chain-42161/chain-42161.tar.lz4 | lz4 -c -d - | tar -x -C /app/.data/leveldb/$EYWANAME/ --strip-components 4
 docker restart $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
-
 
 break
 ;;
@@ -190,7 +186,6 @@ break
 ;;
 "Restart node")
 docker restart $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
-
 
 break
 ;;
