@@ -62,10 +62,11 @@ s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
 s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.juno/config/config.toml
 junod tendermint unsafe-reset-all --home $HOME/.juno
 sed -i -e "s/^snapshot-interval *=.*/snapshot-interval = \"1500\"/" $HOME/.juno/config/app.toml
+curl -o - -L http://juno-t.wasm.stavr.tech:1001/wasm-junot.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.juno/ --strip-components 2
 sudo systemctl restart junod && journalctl -u junod -f -o cat
 ```
 
-# SnapShot (~0.6GB) updated every 5 hours
+# SnapShot (~2GB) updated every 5 hours
 ```python
 cd $HOME
 snap install lz4
