@@ -18,6 +18,7 @@ options=(
 "Restart node"
 "Replace chain-0"
 "Replace chain-1"
+"Replace chain-10"
 "Replace chain-56"
 "Replace chain-137"
 "Replace chain-250"
@@ -180,6 +181,23 @@ source ~/.bash_profile
 docker stop $EYWANAME
 rm -rf /app/.data/leveldb/$EYWANAME/chain-43114
 curl -o - -L http://eywamchain-43114.stavr.tech:1007/chain-43114/chain-43114.tar.lz4 | lz4 -c -d - | tar -x -C /app/.data/leveldb/$EYWANAME/ --strip-components 4
+docker restart $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
+
+break
+;;
+"Replace chain-10")
+echo "*********************"
+echo -e "\e[1m\e[35m		Lets's begin\e[0m"
+echo "*********************"
+echo -e "\e[1m\e[32m	Enter your Validator_Name:\e[0m"
+echo "_|-_|-_|-_|-_|-_|-_|"
+read EYWANAME
+echo "_|-_|-_|-_|-_|-_|-_|"
+echo export EYWANAME=${EYWANAME} >> $HOME/.bash_profile
+source ~/.bash_profile
+docker stop $EYWANAME
+rm -rf /app/.data/leveldb/$EYWANAME/chain-43114
+curl -o - -L http://eywamchain-10.stavr.tech:1008/chain-10/chain-10.tar.lz4 | lz4 -c -d - | tar -x -C /app/.data/leveldb/$EYWANAME/ --strip-components 4
 docker restart $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
 
 break
