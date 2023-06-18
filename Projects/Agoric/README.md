@@ -2,7 +2,7 @@
 
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Agoric)
 =
-# StateSync Agoric
+# StateSync Agoric (Temporarily stopped)
 ```bash
 SNAP_RPC="51.195.189.48:26657"
 
