@@ -1,7 +1,7 @@
 <h1 align="center"> 🔥LAMBDA MAINNET🔥</h1>
 
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Lambda%20Network)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Lambda%20Network)
 =
 
 
@@ -34,6 +34,6 @@ cp $HOME/.lambdavm/data/priv_validator_state.json $HOME/.lambdavm/priv_validator
 rm -rf $HOME/.lambdavm/data
 curl -o - -L http://lambda.snapshot.stavr.tech:5016/lambda/lambda-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.lambdavm --strip-components 2
 mv $HOME/.lambdavm/priv_validator_state.json.backup $HOME/.lambdavm/data/priv_validator_state.json
-wget -O $HOME/.lambdavm/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Lambda%20Network/addrbook.json"
+wget -O $HOME/.lambdavm/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Lambda%20Network/addrbook.json"
 sudo systemctl restart lambdavm && sudo journalctl -u lambdavm -f -o cat
 ```
