@@ -1,7 +1,7 @@
 <h1 align="center"> 🔥HUMANS TESTNET🔥</h1>
 
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Humans)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Humans)
 =
 
 ## StateSync (Temporarily stopped)
@@ -21,7 +21,7 @@ s|^(trust_height[[:space:]]+=[[:space:]]+).*$|\1$BLOCK_HEIGHT| ; \
 s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
 s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.humans/config/config.toml
 humansd tendermint unsafe-reset-all --home $HOME/.humans
-wget -O $HOME/.humans/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Humans/addrbook.json"
+wget -O $HOME/.humans/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Humans/addrbook.json"
 sed -i -e "s/^snapshot-interval *=.*/snapshot-interval = \"1500\"/" $HOME/.humans/config/app.toml
 systemctl restart humansd && journalctl -u humansd -f -o cat
 
@@ -35,6 +35,6 @@ cp $HOME/.humans/data/priv_validator_state.json $HOME/.humans/priv_validator_sta
 rm -rf $HOME/.humans/data
 curl -o - -L http://humans.snapshot.stavr.tech:1015/humans/humans-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.humans --strip-components 2
 mv $HOME/.humans/priv_validator_state.json.backup $HOME/.humans/data/priv_validator_state.json
-wget -O $HOME/.humans/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Humans/addrbook.json"
+wget -O $HOME/.humans/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Humans/addrbook.json"
 sudo systemctl restart humansd && journalctl -u humansd -f -o cat
 ```
