@@ -1,7 +1,7 @@
 <h1 align="center"> 🔥BITCANNA MAINNET🔥</h1>
 
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Bitcanna)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Bitcanna)
 =
 
 # StateSync
@@ -32,6 +32,6 @@ cp $HOME/.bcna/data/priv_validator_state.json $HOME/.bcna/priv_validator_state.j
 rm -rf $HOME/.bcna/data
 curl -o - -L http://bitcanna.snapshot.stavr.tech:1004/bca/bca-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.bcna --strip-components 2
 mv $HOME/.bcna/priv_validator_state.json.backup $HOME/.bcna/data/priv_validator_state.json
-wget -O $HOME/.bcna/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Bitcanna/addrbook.json"
+wget -O $HOME/.bcna/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Bitcanna/addrbook.json"
 sudo systemctl restart bcnad && journalctl -u bcnad -f -o cat
 ```
