@@ -1,6 +1,6 @@
-<h1 align="center"> 🔥Agoric🔥</h1>
+<h1 align="center"> 🔥Mainnet Agoric🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Agoric)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Agoric)
 =
 # StateSync Agoric (Temporarily stopped)
 ```bash
