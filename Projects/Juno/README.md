@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥JUNO🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Juno)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Juno)
 =
 
 <h1 align="center"> MAINNET</h1>
@@ -26,7 +26,7 @@ sed -i -e "s/^snapshot-interval *=.*/snapshot-interval = \"1500\"/" $HOME/.juno/
 curl -o - -L http://juno.wasm.stavr.tech:1005/wasm-juno.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.juno/ --strip-components 2
 sudo systemctl restart junod && journalctl -u junod -f -o cat
 ```
-# SnapShot (~6 GB) updated every 7 hours
+# SnapShot (~8 GB) updated every 12 hours
 ```python
 cd $HOME
 snap install lz4
@@ -36,13 +36,13 @@ rm -rf $HOME/.juno/data
 curl -o - -L http://juno.snapshot.stavr.tech:1024/juno/juno-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.juno --strip-components 2
 curl -o - -L http://juno.wasm.stavr.tech:1005/wasm-juno.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.juno/ --strip-components 2
 mv $HOME/.juno/priv_validator_state.json.backup $HOME/.juno/data/priv_validator_state.json
-wget -O $HOME/.juno/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Juno/addrbook.json"
+wget -O $HOME/.juno/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Juno/addrbook.json"
 sudo systemctl restart junod && journalctl -u junod -f -o cat
 ```
 
 <h1 align="center"> TESTNET</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Juno/Testnet)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Juno/Testnet)
 =
 
 # StateSync Juno Testnet
@@ -76,6 +76,6 @@ rm -rf $HOME/.juno/data
 curl -o - -L http://junot.snapshot.stavr.tech:1030/junot/junot-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.juno --strip-components 2
 curl -o - -L http://juno-t.wasm.stavr.tech:1001/wasm-junot.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.juno/ --strip-components 2
 mv $HOME/.juno/priv_validator_state.json.backup $HOME/.juno/data/priv_validator_state.json
-wget -O $HOME/.juno/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Juno/Testnet/addrbook.json"
+wget -O $HOME/.juno/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Juno/Testnet/addrbook.json"
 sudo systemctl restart junod && journalctl -u junod -f -o cat
 ```
