@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥Nois MAINNET🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Nois)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Nois)
 =
 # StateSync MAINNET
 ```python
@@ -19,7 +19,7 @@ s|^(trust_height[[:space:]]+=[[:space:]]+).*$|\1$BLOCK_HEIGHT| ; \
 s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
 s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.noisd/config/config.toml
 noisd tendermint unsafe-reset-all --home $HOME/.noisd
-wget -O $HOME/.noisd/config/addrbook.json https://raw.githubusercontent.com/obajay/nodes-Guides/main/Nois/addrbook.json
+wget -O $HOME/.noisd/config/addrbook.json https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/addrbook.json
 sed -i -e "s/^snapshot-interval *=.*/snapshot-interval = \"1500\"/" $HOME/.noisd/config/app.toml
 curl -o - -L http://nois.wasm.stavr.tech:1004/wasm-nois.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.noisd --strip-components 2
 systemctl restart noisd && journalctl -u noisd -f -o cat
@@ -36,6 +36,6 @@ rm -rf $HOME/.noisd/data
 curl -o - -L http://nois.snapshot.stavr.tech:1028/noisd/noisd-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.noisd --strip-components 2
 curl -o - -L http://nois.wasm.stavr.tech:1004/wasm-nois.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.noisd --strip-components 2
 mv $HOME/.noisd/priv_validator_state.json.backup $HOME/.noisd/data/priv_validator_state.json
-wget -O $HOME/.noisd/config/addrbook.json https://raw.githubusercontent.com/obajay/nodes-Guides/main/Nois/addrbook.json
+wget -O $HOME/.noisd/config/addrbook.json https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/addrbook.json
 sudo systemctl restart noisd && journalctl -u noisd -f -o cat
 ```
