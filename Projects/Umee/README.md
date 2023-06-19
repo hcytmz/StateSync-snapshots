@@ -1,7 +1,7 @@
 <h1 align="center"> 🔥Umee🔥</h1>
 
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Umee)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Umee)
 =
 # StateSync Umee
 ```python
@@ -30,6 +30,7 @@ sudo systemctl stop umeed
 cp $HOME/.umee/data/priv_validator_state.json $HOME/.umee/priv_validator_state.json.backup
 rm -rf $HOME/.umee/data
 curl -o - -L http://umee.snapshot.stavr.tech:1000/umee/umee-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.umee --strip-components 2
+wget -O $HOME/.umee/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Umee/addrbook.json"
 mv $HOME/.umee/priv_validator_state.json.backup $HOME/.umee/data/priv_validator_state.json
 sudo systemctl restart umeed && journalctl -u umeed -f -o cat
 ```
