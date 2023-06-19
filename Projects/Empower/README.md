@@ -1,7 +1,7 @@
 
 <h1 align="center"> 🔥Empower🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Empower)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Empower)
 =
 
 <h1 align="center"> TESTNET</h1>
@@ -23,7 +23,7 @@ s|^(trust_height[[:space:]]+=[[:space:]]+).*$|\1$BLOCK_HEIGHT| ; \
 s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
 s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.empowerchain/config/config.toml
 empowerd tendermint unsafe-reset-all --home $HOME/.empowerchain
-wget -O $HOME/.empowerchain/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Empower/addrbook.json"
+wget -O $HOME/.empowerchain/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Empower/addrbook.json"
 curl -o - -L http://empw.wasm.stavr.tech:1001/wasm-empw.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.empowerchain --strip-components 2
 systemctl restart empowerd && journalctl -u empowerd -f -o cat
 ```
@@ -37,6 +37,6 @@ rm -rf $HOME/.empowerchain/data
 curl -o - -L http://empw.snapshot.stavr.tech:1031/empw/empw-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.empowerchain --strip-components 2
 curl -o - -L http://empw.wasm.stavr.tech:1001/wasm-empw.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.empowerchain --strip-components 2
 mv $HOME/.empowerchain/priv_validator_state.json.backup $HOME/.empowerchain/data/priv_validator_state.json
-wget -O $HOME/.empowerchain/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Empower/addrbook.json"
+wget -O $HOME/.empowerchain/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Empower/addrbook.json"
 sudo systemctl restart empowerd && sudo journalctl -u empowerd -f -o cat
 ```
