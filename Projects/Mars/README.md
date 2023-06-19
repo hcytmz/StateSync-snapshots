@@ -1,7 +1,7 @@
 <h1 align="center"> 🔥MARS TESTNET🔥</h1>
 
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Mars)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Mars)
 =
 
 ## StateSync  (Temporarily stopped)
