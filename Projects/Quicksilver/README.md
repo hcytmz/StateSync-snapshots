@@ -2,7 +2,7 @@
 
 <h1 align="center"> MAINNET</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Quicksilver)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Quicksilver)
 =
 
 # StateSync
@@ -32,13 +32,13 @@ cp $HOME/.quicksilverd/data/priv_validator_state.json $HOME/.quicksilverd/priv_v
 rm -rf $HOME/.quicksilverd/data
 curl -o - -L http://quick.snapshot.stavr.tech:1009/quick/quick-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.quicksilverd --strip-components 2
 mv $HOME/.quicksilverd/priv_validator_state.json.backup $HOME/.quicksilverd/data/priv_validator_state.json
-wget -O $HOME/.quicksilverd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Quicksilver/addrbook.json"
+wget -O $HOME/.quicksilverd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Quicksilver/addrbook.json"
 sudo systemctl restart quicksilverd && journalctl -u quicksilverd -f -o cat
 ```
 
 <h1 align="center"> TESTNET</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Quicksilver/Tetstnet)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Quicksilver/Tetstnet)
 =
 
 # StateSync Testnet
@@ -71,7 +71,7 @@ cp $HOME/.quicksilverd/data/priv_validator_state.json $HOME/.quicksilverd/priv_v
 rm -rf $HOME/.quicksilverd/data
 curl -o - -L http://quickt.snapshot.stavr.tech:1016/quickt/quickt-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.quicksilverd --strip-components 2
 mv $HOME/.quicksilverd/priv_validator_state.json.backup $HOME/.quicksilverd/data/priv_validator_state.json
-wget -O $HOME/.quicksilverd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Quicksilver/Tetstnet/addrbook.json"
+wget -O $HOME/.quicksilverd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Quicksilver/Tetstnet/addrbook.json"
 sudo systemctl restart quicksilverd && journalctl -u quicksilverd -f -o cat
 ```
 
