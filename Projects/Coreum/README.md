@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥Coreum🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Coreum)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Coreum)
 =
 
 <h1 align="center"> TESTNET</h1>
