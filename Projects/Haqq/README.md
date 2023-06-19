@@ -1,7 +1,7 @@
 <h1 align="center"> 🔥HAQQ🔥</h1>
 
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/haqq)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/haqq)
 =
 # SnapShot (Temporarily stopped)
 ```python
