@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥HyperSign🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Hypersign)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Hypersign)
 =
 
 <h1 align="center"> TESTNET</h1>
@@ -33,6 +33,6 @@ cp $HOME/.hid-node/data/priv_validator_state.json $HOME/.hid-node/priv_validator
 rm -rf $HOME/.hid-node/data
 curl -o - -L http://hid.snapshot.stavr.tech:1023/hid/hid-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.hid-node --strip-components 2
 mv $HOME/.hid-node/priv_validator_state.json.backup $HOME/.hid-node/data/priv_validator_state.json
-wget -O $HOME/.hid-node/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Hypersign/addrbook.json"
+wget -O $HOME/.hid-node/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Hypersign/addrbook.json"
 sudo systemctl restart hid-noded && journalctl -u hid-noded -f -o cat
 ```
