@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥AndromedaProtocol🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/AndromedaProtocol)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/AndromedaProtocol)
 =
 
 <h1 align="center"> TESTNET</h1>
@@ -34,6 +34,6 @@ rm -rf $HOME/.andromedad/data
 curl -o - -L http://andromedad.snapshot.stavr.tech:1021/andromedad/andromedad-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.andromedad --strip-components 2
 curl -o - -L http://andromedad.wasm.stavr.tech:1002/wasm-andromedad.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.andromedad --strip-components 2
 mv $HOME/.andromedad/priv_validator_state.json.backup $HOME/.andromedad/data/priv_validator_state.json
-wget -O $HOME/.andromedad/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/AndromedaProtocol/addrbook.json"
+wget -O $HOME/.andromedad/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/addrbook.json"
 sudo systemctl restart andromedad && journalctl -u andromedad -f -o cat
 ```
