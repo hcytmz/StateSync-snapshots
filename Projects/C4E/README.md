@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥C4E🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/C4E)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/C4E)
 =
 
 <h1 align="center"> MAINNET</h1>
@@ -33,6 +33,6 @@ cp $HOME/.c4e-chain/data/priv_validator_state.json $HOME/.c4e-chain/priv_validat
 rm -rf $HOME/.c4e-chain/data
 curl -o - -L http://c4e.snapshot.stavr.tech:1018/c4e/c4e-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.c4e-chain --strip-components 2
 mv $HOME/.c4e-chain/priv_validator_state.json.backup $HOME/.c4e-chain/data/priv_validator_state.json
-wget https://raw.githubusercontent.com/obajay/nodes-Guides/main/C4E/genesis.json -O $HOME/.c4e-chain/config/genesis.json
+wget -O $HOME/.c4e-chain/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/C4E/addrbook.json"
 sudo systemctl restart c4ed && journalctl -u c4ed -f -o cat
 ```
