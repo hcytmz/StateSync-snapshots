@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥Nolus🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Nolus)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Nolus)
 =
 
 # StateSync  (Temporarily stopped)
