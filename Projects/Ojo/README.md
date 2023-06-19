@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥Ojo🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Ojo)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Ojo)
 =
 
 <h1 align="center"> TESTNET</h1>
@@ -34,6 +34,6 @@ cp $HOME/.ojo/data/priv_validator_state.json $HOME/.ojo/priv_validator_state.jso
 rm -rf $HOME/.ojo/data
 curl -o - -L http://ojo.snapshot.stavr.tech:1026/ojo/ojo-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.ojo --strip-components 2
 mv $HOME/.ojo/priv_validator_state.json.backup $HOME/.ojo/data/priv_validator_state.json
-wget -O $HOME/.ojo/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Ojo/addrbook.json"
+wget -O $HOME/.ojo/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Ojo/addrbook.jso"
 sudo systemctl restart ojod && journalctl -u ojod -f -o cat
 ```
