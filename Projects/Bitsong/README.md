@@ -1,7 +1,7 @@
 <h1 align="center"> 🔥Bitsong🔥</h1>
 
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/blob/main/Bitsong/README.md)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Bitsong)
 =
 # StateSync
 ```python
@@ -21,7 +21,7 @@ s|^(trust_height[[:space:]]+=[[:space:]]+).*$|\1$BLOCK_HEIGHT| ; \
 s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
 s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.bitsongd/config/config.toml
 bitsongd tendermint unsafe-reset-all --home /root/.bitsongd
-wget -O $HOME/.bitsongd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Bitsong/addrbook.json"
+wget -O $HOME/.bitsongd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Bitsong/addrbook.json"
 sudo systemctl restart bitsongd && journalctl -u bitsongd -f -o cat
 ```
 
