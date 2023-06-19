@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥JACKAL🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Jakal)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Jakal)
 =
 
 <h1 align="center"> MAINNET</h1>
@@ -33,13 +33,13 @@ cp $HOME/.canine/data/priv_validator_state.json $HOME/.canine/priv_validator_sta
 rm -rf $HOME/.canine/data
 curl -o - -L http://jkl.snapshot.stavr.tech:1006/jackal/jackal-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.canine --strip-components 2
 mv $HOME/.canine/priv_validator_state.json.backup $HOME/.canine/data/priv_validator_state.json
-wget -O $HOME/.canine/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Jakal/addrbook.json"
+wget -O $HOME/.canine/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Jakal/addrbook.json"
 sudo systemctl restart canined && journalctl -u canined -f -o cat
 ```
 
 <h1 align="center"> TESTNET</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Jakal/Jackal-Testnet)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Jakal/Jackal-Testnet)
 =
 
 # StateSync Jackal Testnet
@@ -70,6 +70,6 @@ cp $HOME/.canine/data/priv_validator_state.json $HOME/.canine/priv_validator_sta
 rm -rf $HOME/.canine/data
 curl -o - -L http://jkltest.snapshot.stavr.tech:1015/jackalt/jackalt-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.canine --strip-components 2
 mv $HOME/.canine/priv_validator_state.json.backup $HOME/.canine/data/priv_validator_state.json
-wget -O $HOME/.canine/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Jakal/Jackal-Testnet/addrbook.json"
+wget -O $HOME/.canine/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Jakal/Jackal-Testnet/addrbook.json"
 sudo systemctl restart canined && journalctl -u canined -f -o cat
 ```
