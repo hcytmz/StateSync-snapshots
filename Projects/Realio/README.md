@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥Realio🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Realio)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Realio)
 =
 
 <h1 align="center"> MAINNET</h1>
@@ -19,7 +19,7 @@ s|^(rpc_servers[[:space:]]+=[[:space:]]+).*$|\1\"$SNAP_RPC,$SNAP_RPC\"| ; \
 s|^(trust_height[[:space:]]+=[[:space:]]+).*$|\1$BLOCK_HEIGHT| ; \
 s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"|" $HOME/.realio-network/config/config.toml
 realio-networkd tendermint unsafe-reset-all --home /root/.realio-network
-wget -O $HOME/.realio-network/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Realio/addrbook.json"
+wget -O $HOME/.realio-network/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Realio/addrbook.json"
 sudo systemctl restart realio-networkd && journalctl -u realio-networkd -f -o cat
 ```
 # SnapShot (~0.1 GB) updated every 5 hours
@@ -31,6 +31,6 @@ cp $HOME/.realio-network/data/priv_validator_state.json $HOME/.realio-network/pr
 rm -rf $HOME/.realio-network/data
 curl -o - -L http://realio.snapshot.stavr.tech:1029/realio/realio-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.realio-network --strip-components 2
 mv $HOME/.realio-network/priv_validator_state.json.backup $HOME/.realio-network/data/priv_validator_state.json
-wget -O $HOME/.realio-network/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Realio/addrbook.json"
+wget -O $HOME/.realio-network/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Realio/addrbook.json"
 sudo systemctl restart realio-networkd && journalctl -u realio-networkd -f -o cat
 ```
