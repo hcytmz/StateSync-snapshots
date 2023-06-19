@@ -1,7 +1,7 @@
 <h1 align="center"> 🔥Neutron🔥</h1>
 
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Neutron)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Neutron)
 =
 # StateSync   (Temporarily stopped)
 ```python
