@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥Sao Network🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Sao)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Sao)
 =
 
 <h1 align="center"> TESTNET</h1>
