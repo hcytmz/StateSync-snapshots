@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥Kyve🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Kyve)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Kyve)
 =
 # State Sync KYVE (korellia) (Temporarily stopped)
 ```python
@@ -31,6 +31,6 @@ cp $HOME/.kyve/data/priv_validator_state.json $HOME/.kyve/priv_validator_state.j
 rm -rf $HOME/.kyve/data
 curl -o - -L http://kyve.snapshot.stavr.tech:1007/kyve/kyve-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.kyve --strip-components 2
 mv $HOME/.kyve/priv_validator_state.json.backup $HOME/.kyve/data/priv_validator_state.json
-wget -O $HOME/.kyve/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Kyve/addrbook.json"
+wget -O $HOME/.kyve/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Kyve/addrbook.json"
 sudo systemctl restart kyved && journalctl -u kyved -f -o cat
 ```
