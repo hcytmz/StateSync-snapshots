@@ -1,7 +1,7 @@
 <h1 align="center"> 🔥Pylons🔥</h1>
 
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Pylons)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Pylons)
 =
 # SnapShot  (Temporarily stopped)
 
@@ -29,6 +29,6 @@ cd && cat .pylons/data/priv_validator_state.json
 # don't forget to delete the archive to save space
 cd $HOME
 rm pylonsdata.tar.gz
-wget -O $HOME/.pylons/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Pylons/addrbook.json"
+wget -O $HOME/.pylons/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Pylons/addrbook.json"
 systemctl restart pylonsd && journalctl -u pylonsd -f -o cat
 ```
