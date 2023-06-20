@@ -1,7 +1,7 @@
  <h1 align="center"> 🔥Sifchain🔥</h1>
 
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/blob/main/Sifchain/README.md)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Sifchain)
 =
 
 # StateSync (Temporarily stopped)
