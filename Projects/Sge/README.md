@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥SGE🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/SGE)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/SGE)
 =
 
 # StateSync (Temporarily stopped)
