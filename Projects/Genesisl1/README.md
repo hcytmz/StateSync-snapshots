@@ -1,7 +1,7 @@
 <h1 align="center"> 🔥Genesisl1🔥</h1>
 
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Genesisl1)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Genesisl1)
 =
 
 # Snaphot (57 GB)  (Temporarily stopped)
