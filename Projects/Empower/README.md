@@ -38,11 +38,11 @@ wget -O $HOME/.empowerchain/config/addrbook.json "https://raw.githubusercontent.
 sudo systemctl restart empowerd && sudo journalctl -u empowerd -f -o cat
 ```
 
+<h1 align="center"> TESTNET</h1>
 
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Empower/Testnet)
 =
 
-<h1 align="center"> TESTNET</h1>
 
 # StateSync Testnet
 ```python
