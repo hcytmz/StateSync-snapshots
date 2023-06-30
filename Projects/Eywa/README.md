@@ -9,10 +9,10 @@
 wget -O eywam https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/Projects/Eywa/eywam && chmod +x eywam && ./eywam
 ```
 
-<h1 align="center"> ✅TESTNET✅</h1>
+<h1 align="center"> 🔴TESTNET🔴</h1>
 
 
-## Automatic Testnet snapshot unpacking  (database is updated every 5 minutes)
+## Automatic Testnet snapshot unpacking  (database is updated every 5 minutes) Temporarily Stopped
 ```python
 wget -O eywa https://raw.githubusercontent.com/obajay/StateSync-snapshots/main/Projects/Eywa/eywa && chmod +x eywa && ./eywa
 ```
