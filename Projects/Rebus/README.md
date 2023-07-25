@@ -36,4 +36,13 @@ mv $HOME/.rebusd/priv_validator_state.json.backup $HOME/.rebusd/data/priv_valida
 wget -O $HOME/.rebusd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Rebus/addrbook.json"
 sudo systemctl restart rebusd && journalctl -u rebusd -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
 
+🔥EXPLORER🔥:          https://explorer.stavr.tech/rebus/staking        Indexer "ON" \
+🔥API🔥:                      https://rebus.api.m.stavr.tech \
+🔥RPC🔥:                      http://rebus.rpc.m.stavr.tech:40107              Snapshot-interval = 300 \
+🔥EVM-RPC🔥:                http://rebus.evmrpc.m.stavr.tech:8545 \
+🔥gRPC🔥:                    http://rebus.grpc.m.stavr.tech:3211 \
+🔥peer🔥:                     `0863966356f6532377aeba663415258d44ddbd13@rebus.peer.stavr.tech:40106` \
+🔥Addrbook🔥:    ```wget -O $HOME/.rebusd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Rebus/addrbook.json"``` \
+🔥Auto_install script🔥: ```wget -O rebuss https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Rebus/rebuss && chmod +x rebuss && ./rebuss```
