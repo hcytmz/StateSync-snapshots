@@ -37,3 +37,12 @@ mv $HOME/.lambdavm/priv_validator_state.json.backup $HOME/.lambdavm/data/priv_va
 wget -O $HOME/.lambdavm/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Lambda/addrbook.json"
 sudo systemctl restart lambdavm && sudo journalctl -u lambdavm -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER🔥:      https://explorer.stavr.tech/lambda/staking	        `Indexer "ON"` \
+🔥API🔥: 			 		 https://lambda.api.m.stavr.tech \
+🔥RPC🔥:           http://lambda.rpc.m.stavr.tech:31327	              `Snapshot-interval = 100` \
+🔥gRPC🔥:          http://lambda.grpc.m.stavr.tech:2287 \
+🔥peer🔥:					 `4573d28b7bf5cfb0a1b79e796efb388a1db8d046@lambda.peer.stavr.tech:31326` \
+🔥Addrbook🔥:    ```wget -O $HOME/.lambdavm/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Lambda/addrbook.json"``` \
+🔥Auto_install script🔥: ```wget -O lamb https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Lambda/lamb && chmod +x lamb && ./lamb```
