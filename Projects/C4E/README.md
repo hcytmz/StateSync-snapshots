@@ -36,3 +36,14 @@ mv $HOME/.c4e-chain/priv_validator_state.json.backup $HOME/.c4e-chain/data/priv_
 wget -O $HOME/.c4e-chain/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/C4E/addrbook.json"
 sudo systemctl restart c4ed && journalctl -u c4ed -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER MAINNET🔥:  https://explorer.stavr.tech/c4e/staking            `Indexer "ON"` \
+🔥EXPLORER TESTET🔥:   https://explorer.stavr.tech/c4e-testnet/staking     `Indexer "ON"` \
+🔥API MAINNET🔥:       https://c4e.api.m.stavr.tech \
+🔥API TESTNET🔥:       https://c4e.api.t.stavr.tech \
+🔥RPC🔥:               http://c4e.rpc.m.stavr.tech:17097                  `Snapshot-interval = 100` \
+🔥gRPC🔥:              http://c4e.grpc.m.stavr.tech:7029 \
+🔥peer🔥:              `e3d0b136495c3f4382ac801fbc89083d32625ff8@c4e.peer.stavr.tech:17096` \
+🔥Addrbook🔥:    ```wget https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/C4E/genesis.json -O $HOME/.c4e-chain/config/genesis.json``` \
+🔥Auto_install script🔥: ```wget -O c4 https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/C4E/c4 && chmod +x c4 && ./c4```
