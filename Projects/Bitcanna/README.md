@@ -35,3 +35,16 @@ mv $HOME/.bcna/priv_validator_state.json.backup $HOME/.bcna/data/priv_validator_
 wget -O $HOME/.bcna/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Bitcanna/addrbook.json"
 sudo systemctl restart bcnad && journalctl -u bcnad -f -o cat
 ```
+
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER Mainnet🔥:    https://explorer.stavr.tech/bitcanna/staking          `Indexer "ON"` \
+🔥EXPLORER Devnet🔥:     https://explorer.stavr.tech/bitcanna-dev/staking     `Indexer "ON"` \
+🔥API Mainnet🔥:         https://bitcanna.api.m.stavr.tech \
+🔥API Devnet🔥:          https://bitcanna.api.dev.stavr.tech \
+🔥RPC Mainnet🔥:         http://bitcanna.rpc.m.stavr.tech:21327         `Snapshot-interval = 300` \
+🔥gRPC Mainnet🔥:        http://bitcanna.grpc.m.stavr.tech:9081 \
+🔥peer Mainnet🔥:        `2ff33d346b1b0f19cd59018ceb62d06a6406d472@bitcanna.peers.stavr.tech:21326` \
+🔥Addrbook Mainnet🔥:    ```wget -O $HOME/.bcna/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Bitcanna/addrbook.json"``` \
+🔥Addrbook Devnet🔥:    ```wget -O $HOME/.bcna/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Bitcanna/Bitcanna_DEV/addrbook.json"``` \
+🔥Auto_install script Mainnet🔥:```wget -O bitcanna https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Bitcanna/bitcanna && chmod +x bitcanna && ./bitcanna```
