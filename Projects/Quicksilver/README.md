@@ -74,4 +74,20 @@ mv $HOME/.quicksilverd/priv_validator_state.json.backup $HOME/.quicksilverd/data
 wget -O $HOME/.quicksilverd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Quicksilver/Tetstnet/addrbook.json"
 sudo systemctl restart quicksilverd && journalctl -u quicksilverd -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER Mainnet🔥:        https://explorer.stavr.tech/quicksilver-mainnet/staking    `Indexer "ON"` \
+🔥EXPLORER Testnet🔥:        https://explorer.stavr.tech/quicksilver/staking	        `Indexer "ON"` \
+🔥API Mainnet🔥: 			 https://quick.api.m.stavr.tech \
+🔥API Testnet🔥: 			 https://quick.api.t.stavr.tech \
+🔥RPC Mainnet🔥:             http://quick.rpc.m.stavr.tech:21027              `Snapshot-interval = 300` \
+🔥RPC Testnet🔥:             http://quick.rpc.t.stavr.tech:21027              `Snapshot-interval = 100` \
+🔥gRPC Mainnet🔥:                    http://quick.grpc.m.stavr.tech:9113 \
+🔥gRPC Testnet🔥:                    http://quick.grpc.t.stavr.tech:9213 \
+🔥peer Mainnet🔥:					 `ae44851a5d63d70382c1621bc7727db2a40d10d0@quick.peers.stavr.tech:21026` \
+🔥peer Testnet🔥:					 `d0d0903d8c2f514c92284341d48aa422d4e37740@quickt.peers.stavr.tech:21026` \
+🔥Addrbook Mainnet🔥:    ```wget -O $HOME/.quicksilverd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Quicksilver/addrbook.json"``` \
+🔥Addrbook Testnet🔥:    ```wget -O $HOME/.quicksilverd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Quicksilver/addrbook.json"``` \
+🔥Auto_install script Mainnet🔥: ```wget -O quick https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Quicksilver/quick && chmod +x quick && ./quick``` \
+🔥Auto_install script Testnet🔥: ```wget -O quicktest https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Quicksilver/Tetstnet/quicktest && chmod +x quicktest && ./quicktest```
 
