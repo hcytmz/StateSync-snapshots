@@ -37,3 +37,13 @@ mv $HOME/.ojo/priv_validator_state.json.backup $HOME/.ojo/data/priv_validator_st
 wget -O $HOME/.ojo/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Ojo/addrbook.json"
 sudo systemctl restart ojod && journalctl -u ojod -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER🔥:        https://explorer.stavr.tech/ojo-devnet/staking        `Indexer "ON"` \
+🔥API🔥:                     https://ojo.api.t.stavr.tech \
+🔥RPC🔥:                    http://ojo.rpc.t.stavr.tech:37097              `Snapshot-interval = 100` \
+🔥gRPC🔥:                  http://ojo.grpc.t.stavr.tech:7729 \
+🔥peer🔥:                   `d18abe07d27a732e913a782d31b691087a76078d@ojo.peer.stavr.tech:37096` \
+🔥Genesis🔥:    ```wget -O $HOME/.ojo/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Ojo/genesis.json"``` \
+🔥Addrbook🔥:    ```wget -O $HOME/.ojo/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Ojo/addrbook.json"``` \
+🔥Auto_install script🔥: ```wget -O ojjo https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Ojo/ojjo && chmod +x ojjo && ./ojjo```
