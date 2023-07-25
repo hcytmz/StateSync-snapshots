@@ -34,3 +34,12 @@ mv $HOME/.stride/priv_validator_state.json.backup $HOME/.stride/data/priv_valida
 wget -O $HOME/.stride/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Stride/addrbook.json"
 sudo systemctl restart strided && journalctl -u strided -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER🔥:          https://explorer.stavr.tech/stride/staking        Indexer "ON" \
+🔥API🔥:                    https://stride.api.m.stavr.tech \
+🔥RPC🔥:                      http://stride.rpc.m.stavr.tech:21017              Snapshot-interval = 300 \
+🔥gRPC🔥:                    http://stride.grpc.m.stavr.tech:9986 \
+🔥peer🔥:                     `a7b4cf6f65138ba61518c2c45402da32dc8e28b7@stride.peer.stavr.tech:21016` \
+🔥Addrbook🔥:    ```wget -O $HOME/.stride/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Stride/addrbook.json"``` \
+🔥Auto_install script🔥: ```wget -O stride-x https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Stride/stride-x && chmod +x stride-x && ./stride-x```
