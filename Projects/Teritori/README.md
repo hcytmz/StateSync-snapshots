@@ -39,3 +39,15 @@ mv $HOME/.teritorid/priv_validator_state.json.backup $HOME/.teritorid/data/priv_
 wget -O $HOME/.teritorid/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Teritori/addrbook.json"
 sudo systemctl restart teritorid && journalctl -u teritorid -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER Mainnet🔥:      https://explorer.stavr.tech/teritori-main/staking      `Indexer "ON"` \
+🔥EXPLORER Testnet🔥:        https://explorer.stavr.tech/teritori/staking            `Indexer "ON"` \
+🔥API Mainnet🔥:                   https://teritori.api.m.stavr.tech \
+🔥RPC🔥:                                   https://teritori.rpc.m.stavr.tech                         `Snapshot-interval = 300` \
+🔥API Testnet🔥:                     https://teritori.api.t.stavr.tech \
+🔥peer🔥:                     `ad347ea1ec920d12ccda2341348bcc89687739ef@teritori.peers.stavr.tech:38026` \
+🔥gRPC🔥:                                http://teritori.grpc.m.stavr.tech:6705 \
+🔥WASM🔥: ```curl -o - -L http://teritori.wasm.stavr.tech:1011/wasm-teritori.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.teritorid --strip-components 2``` updated every 2 hours \
+🔥Addrbook🔥:    ```wget -O $HOME/.teritorid/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Teritori/addrbook.json"``` \
+🔥Auto_install script🔥: ```wget -O teritorm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Teritori/teritorm && chmod +x teritorm && ./teritorm```
