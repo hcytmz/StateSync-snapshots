@@ -36,3 +36,15 @@ mv $HOME/.uptickd/priv_validator_state.json.backup $HOME/.uptickd/data/priv_vali
 wget -O $HOME/.uptickd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Uptick/addrbook.json"
 sudo systemctl restart uptickd && journalctl -u uptickd -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER Mainnet🔥:         https://explorer.stavr.tech/uptick-mainnet      `Indexer "ON"` \
+🔥EXPLORER Testnet🔥:           https://explorer.stavr.tech/uptick/staking        `Indexer "ON"` \
+🔥API Mainnet🔥:                      https://uptick.api.m.stavr.tech \
+🔥API Testnet🔥:                        https://uptick.api.t.stavr.tech \
+🔥RPC🔥:                                      http://uptick.rpc.m.stavr.tech:3157              `Snapshot-interval = 100` \
+🔥gRPC🔥:                                    http://uptick.grpc.m.stavr.tech:1901 \
+🔥peer🔥:                                    `c65c6ecfb60635fc8a076b6f90fcd2607aceaa64@uptick.peers.stavr.tech:3156` \
+🔥Genesis🔥:    ```wget -O $HOME/.uptickd/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Uptick/genesis.json"``` \
+🔥Addrbook🔥:    ```wget -O $HOME/.uptickd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Uptick/addrbook.json"``` \
+🔥Auto_install script🔥: ```wget -O uptickm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Uptick/uptickm && chmod +x uptickm && ./uptickm```
