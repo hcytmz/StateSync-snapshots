@@ -79,3 +79,23 @@ mv $HOME/.juno/priv_validator_state.json.backup $HOME/.juno/data/priv_validator_
 wget -O $HOME/.juno/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Juno/Testnet/addrbook.json"
 sudo systemctl restart junod && journalctl -u junod -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER Mainnet🔥:      https://explorer.stavr.tech/juno/staking		        `Indexer "ON"` \
+🔥EXPLORER Testnet🔥:      https://explorer.stavr.tech/juno-testnet/staking       `Indexer "ON"` \
+🔥API Mainnet🔥: 			 		 https://juno.api.m.stavr.tech \
+🔥API Testnet🔥: 			 		 https://juno.api.t.stavr.tech \
+🔥RPC Mainnet🔥:           http://juno.rpc.m.stavr.tech:1067              `Snapshot-interval = 1000` \
+🔥RPC Testnet🔥:           http://juno.rpc.t.stavr.tech:1067              `Snapshot-interval = 1000` \
+🔥gRPC Mainnet🔥:          http://juno.grpc.m.stavr.tech:504 \
+🔥gRPC Testnet🔥:          http://juno.grpc.t.stavr.tech:504 \
+🔥peer Mainnet🔥:					 `3ee2034cf0180e4d50f7b3ed952472add3316faf@juno.peer.stavr.tech:1066` \
+🔥peer Testnet🔥:					 `518d31bf039289b6c8d8defd7e9509d8e28b7cd3@junot.peer.stavr.tech:1066` \
+🔥WASM Mainnet🔥: 		 ```curl -o - -L http://juno.wasm.stavr.tech:1005/wasm-juno.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.juno/ --strip-components 2```		`updated every 10 minutes` \
+🔥WASM Testnet🔥: 		 ```curl -o - -L http://juno-t.wasm.stavr.tech:1001/wasm-junot.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.juno/ --strip-components 2```   `updated every 5 minutes` \
+🔥Genesis Mainnet🔥:     ```wget -O $HOME/.juno/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Juno/genesis.json"``` \
+🔥Genesis Testnet🔥:	 ```wget -O $HOME/.juno/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Juno/Testnet/genesis.json"``` \
+🔥Addrbook Mainnet🔥:    ```wget -O $HOME/.juno/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Juno/addrbook.json"``` \
+🔥Addrbook Testnet🔥:    ```wget -O $HOME/.juno/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Juno/Testnet/addrbook.json"``` \
+🔥Auto_install script Mainnet🔥: ```wget -O jun https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Juno/jun && chmod +x jun && ./jun``` \
+🔥Auto_install script Testnet🔥: ```wget -O juno-t https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Juno/Testnet/juno-t && chmod +x juno-t && ./juno-t```
