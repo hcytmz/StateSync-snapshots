@@ -36,3 +36,12 @@ mv $HOME/.althea/priv_validator_state.json.backup $HOME/.althea/data/priv_valida
 wget -O $HOME/.althea/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/addrbook.json"
 sudo systemctl restart althea && journalctl -u althea -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+ 
+🔥EXPLORER🔥: https://explorer.stavr.tech/althea-testnetl1/staking        `Indexer "ON"` \
+🔥API🔥:      https://althea.api.t4.stavr.tech \
+🔥RPC🔥:      http://althea.rpc.t.stavr.tech:17887              `Snapshot-interval = 100` \
+🔥gRPC🔥:     http://althea.grpc.t.stavr.tech:7719 \
+🔥peer🔥:     `90d692d481c1c4739ba8a7045b5552fa8d410901@althea.peers.stavr.tech:17886` \
+🔥Addrbook🔥: ```wget -O $HOME/.althea/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/addrbook.json"``` \
+🔥Auto_install script🔥:  `wget -O althe https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/althe && chmod +x althe && ./althe`
