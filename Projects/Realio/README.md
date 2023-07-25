@@ -34,3 +34,16 @@ mv $HOME/.realio-network/priv_validator_state.json.backup $HOME/.realio-network/
 wget -O $HOME/.realio-network/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Realio/addrbook.json"
 sudo systemctl restart realio-networkd && journalctl -u realio-networkd -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER Mainnet🔥:       https://explorer.stavr.tech/realio-mainnet  `Indexer "ON"` \
+🔥EXPLORER Testnet🔥:         https://explorer.stavr.tech/realio             `Indexer "ON"` \
+🔥API Mainnet🔥:                    https://realio.api.m.stavr.tech \
+🔥API Testnet🔥:                      https://realio.api.t.stavr.tech \
+🔥RPC Mainnet🔥:                   http://realio.rpc.m.stavr.tech:21097              `Snapshot-interval = 100` \
+🔥gRPC Mainnet🔥:                 http://realio.grpc.m.stavr.tech:9062 \
+🔥peer Mainnet🔥:                   `b09d477f5b59e5e99632ad3a8a11806381efa46f@realio.peers.stavr.tech:21096` \
+🔥Genesis Mainnet🔥:     ```wget -O $HOME/.realio-network/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Realio/genesis.json"``` \
+🔥Addrbook Mainnet🔥:    ```wget -O $HOME/.realio-network/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Realio/addrbook.json"``` \
+🔥Addrbook Testnet🔥:    ```wget -O $HOME/.realio-network/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Realio/Testnet/addrbook.json"```
+:tools: **Auto_install script Mainnet(StateSync/SnapShot included):** ```wget -O realio https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Realio/realio && chmod +x realio && ./realio```s
