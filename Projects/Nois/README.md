@@ -39,3 +39,19 @@ mv $HOME/.noisd/priv_validator_state.json.backup $HOME/.noisd/data/priv_validato
 wget -O $HOME/.noisd/config/addrbook.json https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/addrbook.json
 sudo systemctl restart noisd && journalctl -u noisd -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER Mainnet🔥:       https://explorer.stavr.tech/nois-mainnet         `Indexer "ON"` \
+🔥EXPLORER Testnet🔥:         https://explorer.stavr.tech/nois                 `Indexer "ON"` \
+🔥API Mainnet🔥:                    https://nois.api.m.stavr.tech \
+🔥API Testnet🔥:                      https://nois3.api.t.stavr.tech \
+🔥RPC Mainnet🔥:                   http://nois.rpc.m.stavr.tech          `Snapshot-interval = 100` \
+🔥gRPC Mainnet🔥:                 http://nois.grpc.m.stavr.tech:191 \
+🔥gRPC Testnet🔥:                   http://nois.grpc.t.stavr.tech:191 \
+🔥peer Mainnet🔥:           `2f03f27d96d7f28de26ab38eac26fe4dbfdccfa8@nois.peer.stavr.tech:40136` \
+🔥Genesis Mainnet🔥:     ```wget -O $HOME/.noisd/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/genesis.json"``` \
+🔥WASM Mainnet🔥:        ```curl -o - -L http://nois.wasm.stavr.tech:1004/wasm-nois.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.noisd --strip-components 2``` \
+🔥Addrbook Mainnet🔥:    ```wget -O $HOME/.noisd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/addrbook.json"``` \
+🔥Addrbook Testnet🔥:    ```wget -O $HOME/.noisd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/Noist_Testnet/addrbook.json"``` \
+🔥Auto_install script Mainnet🔥: ```wget -O noism https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/noism && chmod +x noism && ./noism``` \
+🔥Auto_install script Testnet🔥: ```wget -O nois https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/Noist_Testnet/nois && chmod +x nois && ./nois```
