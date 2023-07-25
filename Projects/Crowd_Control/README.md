@@ -34,3 +34,12 @@ mv $HOME/.Cardchain/priv_validator_state.json.backup $HOME/.Cardchain/data/priv_
 wget -O $HOME/.Cardchain/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Crowd_Control/addrbook.json"
 sudo systemctl restart Cardchaind && journalctl -u Cardchaind -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER🔥:    https://explorer.stavr.tech/cardchain/staking        `Indexer "ON"` \
+🔥API🔥:         https://cc.api.t.stavr.tech \
+🔥RPC🔥:         http://crowd.rpc.t.stavr.tech:21207                  `Snapshot-interval = 100` \
+🔥gRPC🔥:        http://crowd.grpc.t.stavr.tech:9907 \
+🔥peer🔥:        `0aa2875c176ffda48fe9cd4569d527e629fd868d@crowd.peer.stavr.tech:21206` \
+🔥Addrbook🔥:    ```wget -O $HOME/.Cardchain/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Crowd_Control/addrbook.json"``` \
+🔥Auto_install script🔥: ```wget -O crowd https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Crowd_Control/crowd && chmod +x crowd && ./crowd```
