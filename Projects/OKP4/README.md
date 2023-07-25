@@ -37,3 +37,12 @@ mv $HOME/.okp4d/priv_validator_state.json.backup $HOME/.okp4d/data/priv_validato
 wget -O $HOME/.okp4d/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/OKP4/addrbook.json"
 sudo systemctl restart okp4d && journalctl -u okp4d -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER🔥:          https://explorer.stavr.tech/okp4-testnet/staking        Indexer "ON" \
+🔥API🔥:                       https://okp4.api.t.stavr.tech \
+🔥RPC🔥:                      http://okp.rpc.t.stavr.tech:10097                  Snapshot-interval = 300 \
+🔥gRPC🔥:                    http://okp.grpc.t.stavr.tech:8029 \
+🔥peer🔥:                     `42eb68bfa046b6cafa53de67d9286651aeffff7c@okp.peer.stavr.tech:10096` \
+🔥Addrbook🔥:    ```wget -O $HOME/.okp4d/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/OKP4/addrbook.json"``` \
+🔥Auto_install script🔥: ```wget -O okp https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/OKP4/okp && chmod +x okp && ./okp```
