@@ -34,3 +34,14 @@ wget -O $HOME/.umee/config/addrbook.json "https://raw.githubusercontent.com/obaj
 mv $HOME/.umee/priv_validator_state.json.backup $HOME/.umee/data/priv_validator_state.json
 sudo systemctl restart umeed && journalctl -u umeed -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER Mainnet🔥:      https://explorer.stavr.tech/umee/staking             `Indexer "ON"` \
+🔥EXPLORER Testnet🔥:        https://explorer.stavr.tech/umee-canon/staking      `Indexer "ON"` \
+🔥API Mainnet🔥:                   https://umee.api.m.stavr.tech \
+🔥API Testnet🔥:                     https://umee.api.t.stavr.tech \
+🔥RPC🔥:                                   http://umee.rpc.m.stavr.tech:10457                     `Snapshot-interval = 300` \
+🔥gRPC🔥:                              http://umee.grpc.m.stavr.tech:9090 \
+🔥peer🔥:                     `1b728581c6d308078e2b969a0c6243852f77d28d@umee.peers.m.stavr.tech:10456` \
+🔥Addrbook🔥:    ```wget -O $HOME/.umee/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Umee/addrbook.json"``` \
+🔥Auto_install script🔥: ```wget -O Ume https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Umee/Ume && chmod +x Ume && ./Ume```
