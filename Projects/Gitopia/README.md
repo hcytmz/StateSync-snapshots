@@ -34,3 +34,12 @@ mv $HOME/.gitopia/priv_validator_state.json.backup $HOME/.gitopia/data/priv_vali
 wget -O $HOME/.gitopia/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Gitopia/addrbook.json"
 sudo systemctl restart gitopiad && journalctl -u gitopiad -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER🔥:      https://explorer.stavr.tech/gitopia-m/staking  `Indexer "ON"` \
+🔥API🔥: 			 		 https://gitopia.api.m.stavr.tech \
+🔥RPC🔥:           http://gitopia.rpc.m.stavr.tech:51057              `Snapshot-interval = 300` \
+🔥GRPC🔥:          http://gitopia.grpc.m.stavr.tech:5123 \
+🔥peer🔥:					 `c903e98ce3923865f521151d97f36510157c8bc1@gitopia.peers.stavr.tech:51056` \
+🔥Addrbook🔥:    ```wget -O $HOME/.gitopia/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Gitopia/addrbook.json"``` \
+🔥Auto_install script🔥: ```wget -O gitopm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Gitopia/gitopm && chmod +x gitopm && ./gitopm```
