@@ -36,3 +36,14 @@ mv $HOME/.hid-node/priv_validator_state.json.backup $HOME/.hid-node/data/priv_va
 wget -O $HOME/.hid-node/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Hypersign/addrbook.json"
 sudo systemctl restart hid-noded && journalctl -u hid-noded -f -o cat
 ```
+
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER🔥:      https://explorer.stavr.tech/hypersign/staking        `Indexer "ON"` \
+🔥API:             https://hid.api.t.stavr.tech \
+🔥RPC🔥:           http://hid.rpc.t.stavr.tech:11057              `Snapshot-interval = 100` \
+🔥gRPC🔥:          http://hid.grpc.t.stavr.tech:8022 \
+🔥peer🔥:          `a3f3d6dba11bfe080693938666064b2324fbaccf@hid.peers.stavr.tech:11056` \
+🔥Genesis🔥:     ```curl -s  https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Hypersign/genesis.json > ~/.hid-node/config/genesis.json``` \
+🔥Addrbook🔥:    ```wget -O $HOME/.hid-node/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Hypersign/addrbook.json"``` \
+🔥Auto_install script🔥: ```wget -O hyper https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Hypersign/hyper && chmod +x hyper && ./hyper```
