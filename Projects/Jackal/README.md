@@ -73,3 +73,20 @@ mv $HOME/.canine/priv_validator_state.json.backup $HOME/.canine/data/priv_valida
 wget -O $HOME/.canine/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Jakal/Jackal-Testnet/addrbook.json"
 sudo systemctl restart canined && journalctl -u canined -f -o cat
 ```
+
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER Mainnet🔥:      https://explorer.stavr.tech/jackal/staking		        `Indexer "ON"` \
+🔥EXPLORER Testnet🔥:      https://explorer.stavr.tech/jackal-testnet/staking     `Indexer "ON"` \
+🔥API Mainnet🔥: 			 		 https://jkl.api.m.stavr.tech \
+🔥API Testnet🔥: 			 		 https://jkl.api.t.stavr.tech \
+🔥RPC Mainnet🔥:           http://jkl.rpc.m.stavr.tech:11127              `Snapshot-interval = 300` \
+🔥RPC Testnet🔥:           http://jkl.rpc.t.stavr.tech:19127              `Snapshot-interval = 100` \
+🔥gRPC Mainnet🔥:          http://jkl.grpc.m.stavr.tech:5013 \
+🔥gRPC Testnet🔥:          http://jkl.grpc.t.stavr.tech:5913 \
+🔥peer Mainnet🔥:					 `26b6255375a592c3b0664bd474a6975f468c3785@jkl.peer.stavr.tech:11126` \
+🔥peer Testnet🔥:					 `8a11570dbaa0f4d98ca2ef0ad117e9c1154d81b9@jkltest.peer.stavr.tech:19126` \
+🔥Addrbook Mainnet🔥:    ```wget -O $HOME/.canine/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Jakal/addrbook.json"``` \
+🔥Addrbook Testnet🔥:    ```wget -O $HOME/.canine/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Jakal/Jackal-Testnet/addrbook.json"``` \
+🔥Auto_install script Mainnet🔥: ```wget -O jkl https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Jakal/jkl && chmod +x jkl && ./jkl``` \
+🔥Auto_install script Testnet🔥: ```wget -O jkltest https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Jakal/Jackal-Testnet/jkltest && chmod +x jkltest && ./jkltest```
