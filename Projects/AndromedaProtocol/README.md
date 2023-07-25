@@ -37,3 +37,14 @@ mv $HOME/.andromedad/priv_validator_state.json.backup $HOME/.andromedad/data/pri
 wget -O $HOME/.andromedad/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/addrbook.json"
 sudo systemctl restart andromedad && journalctl -u andromedad -f -o cat
 ```
+ <h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER🔥:    https://explorer.stavr.tech/andromedad-testnet/staking            `Indexer "ON"` \
+🔥API🔥:         https://andromedad.api.t.stavr.tech \
+🔥RPC🔥:         http://andromedad.rpc.t.stavr.tech:4137                  `Snapshot-interval = 100` \
+🔥gRPC🔥:        http://andromedad.grpc.t.stavr.tech:11090 \
+🔥peer🔥:        `247f3c2bed475978af238d97be68226c1f084180@andromedad.peer.stavr.tech:4376` \
+🔥WASM🔥: updated every 10 hours `curl -o - -L http://andromedad.wasm.stavr.tech:1002/wasm-andromedad.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.andromedad --strip-components 2` \
+🔥Genesis🔥: `wget -O $HOME/.andromedad/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/genesis.json"` \
+🔥Addrbook🔥: `wget -O $HOME/.andromedad/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/addrbook.json"` \
+🔥Auto_install script🔥: `wget -O adprotocol https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/adprotocol && chmod +x adprotocol && ./adprotocol`
