@@ -34,3 +34,12 @@ mv $HOME/.kyve/priv_validator_state.json.backup $HOME/.kyve/data/priv_validator_
 wget -O $HOME/.kyve/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Kyve/addrbook.json"
 sudo systemctl restart kyved && journalctl -u kyved -f -o cat
 ```
+
+<h1 align="center"> Useful Tools</h1>
+
+🔥EXPLORER🔥:     https://explorer.stavr.tech/kyve/staking        Indexer "ON" \
+🔥API🔥: 			 		https://kyve.api.m.stavr.tech \
+🔥RPC🔥:          http://kyve.rpc.m.stavr.tech:12357	              Snapshot-interval = 100 \
+🔥gRPC🔥:         http://kyve.grpc.stavr.tech:7106 \
+🔥peer🔥:					`a349791af7116c82785a2939454247b03a678270@kyve.peer.stavr.tech:12356` \
+🔥Addrbook🔥:    ```wget -O $HOME/.kyve/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Kyve/addrbook.json"```
