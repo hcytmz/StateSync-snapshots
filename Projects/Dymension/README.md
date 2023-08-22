@@ -44,7 +44,7 @@ sudo systemctl restart dymd && journalctl -u dymd -f -o cat
 🔥EXPLORER🔥:     https://explorer.stavr.tech/dymension-testnet/staking        `Indexer "ON"` \
 🔥API🔥:          https://dymension.api.t.stavr.tech \
 🔥RPC🔥:          http://dymension.rpc.t.stavr.tech:17087              `Snapshot-interval = 100` \
-🔥gRPC🔥:         http://dymension.grpc.t.stavr.tech:7719 \
+🔥gRPC🔥:         http://dymension.grpc.t.stavr.tech:7119 \
 🔥peer🔥:         `f85a4dd43cc31b2ef7363667fcfcf2c5cd25ef04@dymension.peers.stavr.tech:17086` \
 🔥Genesis🔥:     ```wget https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/genesis.json -O $HOME/.dymension/config/genesis.json``` \
 🔥Addrbook🔥:    ```wget -O $HOME/.dymension/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/addrbook.json"``` \
