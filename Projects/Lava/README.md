@@ -35,7 +35,7 @@ curl -o - -L http://lava.snapshot.stavr.tech:1020/lava/lava-snap.tar.lz4 | lz4 -
 mv $HOME/.lava/priv_validator_state.json.backup $HOME/.lava/data/priv_validator_state.json
 wget -O $HOME/.lava/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Lava_Network/addrbook.json"
 sudo systemctl restart lavad && journalctl -u lavad -f -o cat
-
+```
  <h1 align="center"> Useful Tools</h1>
  
 🔥EXPLORER🔥: https://explorer.stavr.tech/lava-testnet/staking        `Indexer "ON"` \
