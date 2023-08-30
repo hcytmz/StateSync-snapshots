@@ -25,7 +25,7 @@ saod tendermint unsafe-reset-all --home /root/.sao --keep-addr-book
 sed -i -e "s/^snapshot-interval *=.*/snapshot-interval = \"1500\"/" $HOME/.sao/config/app.toml
 sudo systemctl restart saod && journalctl -u saod -f -o cat
 ```
-# SnapShot (~0.2 GB) updated every 5 hours (Temporarily stopped)
+# SnapShot (~40 GB) 
 ```python
 cd $HOME
 apt install lz4
@@ -34,6 +34,6 @@ cp $HOME/.sao/data/priv_validator_state.json $HOME/.sao/priv_validator_state.jso
 rm -rf $HOME/.sao/data
 curl -o - -L http://sao.snapshot.stavr.tech:1025/sao/sao-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.sao --strip-components 2
 mv $HOME/.sao/priv_validator_state.json.backup $HOME/.sao/data/priv_validator_state.json
-wget -O $HOME/.sao/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Sao/addrbook.json"
+wget -O $HOME/.sao/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Sao/addrbook.json"
 sudo systemctl restart saod && journalctl -u saod -f -o cat
 ```
