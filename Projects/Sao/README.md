@@ -37,3 +37,17 @@ mv $HOME/.sao/priv_validator_state.json.backup $HOME/.sao/data/priv_validator_st
 wget -O $HOME/.sao/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Sao/addrbook.json"
 sudo systemctl restart saod && journalctl -u saod -f -o cat
 ```
+
+# Binary Saod
+```python
+curl -o - -L http://sao.binary.stavr.tech:1026/sao-binary/sao-binary.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/ --strip-components 3
+```
+
+```
+commit: 1a4827b3013b27a053c236d917607658674a5ea4
+cosmos_sdk_version: v0.46.6
+go: go version go1.19.7 linux/amd64
+name: sao
+server_name: sao
+version: testnet-v0.1.7
+```
