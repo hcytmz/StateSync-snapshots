@@ -4,7 +4,7 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Teritori)
 =
 
-# StateSync
+# StateSync (Temporarily stopped)
 ```python
 SNAP_RPC=https://teritori.rpc.m.stavr.tech:443
 peers="ad347ea1ec920d12ccda2341348bcc89687739ef@teritori.peers.stavr.tech:38026"
@@ -26,7 +26,7 @@ wget -O $HOME/.teritorid/config/addrbook.json "https://raw.githubusercontent.com
 sudo systemctl restart teritorid && journalctl -u teritorid -f -o cat
 ```
 
-# SnapShot (~0.7 GB) updated every 5 hours
+# SnapShot (~0.7 GB) updated every 5 hours (Temporarily stopped)
 ```python
 cd $HOME
 apt install lz4
