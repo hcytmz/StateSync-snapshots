@@ -62,7 +62,7 @@ echo -e 'To check logs:        \e[1m\e[33mdocker logs -f $EYWANAME --follow --ta
 break
 ;;
 "Check node logs")
-docker logs -f $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
+docker logs -f $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names') --follow --tail=500
 
 break
 ;;
