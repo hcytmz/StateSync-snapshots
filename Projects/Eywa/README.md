@@ -26,6 +26,7 @@ docker restart $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("
 `Logs`
 ```python
 docker logs -f $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names')
+docker logs -f $(docker ps -a --format='{{json .}}'|jq -r 'select(.Image|match("eywa-p2p-bridge")).Names') --follow --tail=500
 ```
 `Synchronization status`
 ```python
