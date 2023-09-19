@@ -39,7 +39,7 @@ sudo systemctl restart andromedad && journalctl -u andromedad -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:    https://explorer.stavr.tech/andromedad-testnet/staking            `Indexer "ON"` \
+🔥EXPLORER🔥:    https://explorer.stavr.tech/Andromedad-testnet/staking            `Indexer "ON"` \
 🔥API🔥:         https://andromedad.api.t.stavr.tech \
 🔥RPC🔥:         http://andromedad.rpc.t.stavr.tech:4137                  `Snapshot-interval = 100` \
 🔥gRPC🔥:        http://andromedad.grpc.t.stavr.tech:11090 \
