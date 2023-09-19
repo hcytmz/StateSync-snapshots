@@ -36,7 +36,7 @@ sudo systemctl restart Cardchaind && journalctl -u Cardchaind -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:    https://explorer.stavr.tech/cardchain/staking        `Indexer "ON"` \
+🔥EXPLORER🔥:    https://explorer.stavr.tech/CARDCHAIN/staking        `Indexer "ON"` \
 🔥API🔥:         https://cc.api.t.stavr.tech \
 🔥RPC🔥:         http://crowd.rpc.t.stavr.tech:21207                  `Snapshot-interval = 100` \
 🔥gRPC🔥:        http://crowd.grpc.t.stavr.tech:9907 \
