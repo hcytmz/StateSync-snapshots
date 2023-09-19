@@ -38,7 +38,7 @@ sudo systemctl restart uptickd && journalctl -u uptickd -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER Mainnet🔥:         https://explorer.stavr.tech/uptick-mainnet      `Indexer "ON"` \
+🔥EXPLORER Mainnet🔥:         https://explorer.stavr.tech/Uptick-Mainnet      `Indexer "ON"` \
 🔥EXPLORER Testnet🔥:           https://explorer.stavr.tech/uptick/staking        `Indexer "ON"` \
 🔥API Mainnet🔥:                      https://uptick.api.m.stavr.tech \
 🔥API Testnet🔥:                        https://uptick.api.t.stavr.tech \
