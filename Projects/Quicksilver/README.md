@@ -76,8 +76,8 @@ sudo systemctl restart quicksilverd && journalctl -u quicksilverd -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER Mainnet🔥:        https://explorer.stavr.tech/quicksilver-mainnet/staking    `Indexer "ON"` \
-🔥EXPLORER Testnet🔥:        https://explorer.stavr.tech/quicksilver/staking	        `Indexer "ON"` \
+🔥EXPLORER Mainnet🔥:        https://explorer.stavr.tech/Quicksilver-Mainnet/staking    `Indexer "ON"` \
+🔥EXPLORER Testnet🔥:        https://explorer.stavr.tech/Quicksilver/staking	        `Indexer "ON"` \
 🔥API Mainnet🔥: 			 https://quick.api.m.stavr.tech \
 🔥API Testnet🔥: 			 https://quick.api.t.stavr.tech \
 🔥RPC Mainnet🔥:             http://quick.rpc.m.stavr.tech:21027              `Snapshot-interval = 300` \
