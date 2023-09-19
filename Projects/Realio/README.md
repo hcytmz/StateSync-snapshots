@@ -36,8 +36,8 @@ sudo systemctl restart realio-networkd && journalctl -u realio-networkd -f -o ca
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER Mainnet🔥:       https://explorer.stavr.tech/realio-mainnet  `Indexer "ON"` \
-🔥EXPLORER Testnet🔥:         https://explorer.stavr.tech/realio             `Indexer "ON"` \
+🔥EXPLORER Mainnet🔥:       https://explorer.stavr.tech/Realio-Mainnet  `Indexer "ON"` \
+🔥EXPLORER Testnet🔥:         https://explorer.stavr.tech/Realio             `Indexer "ON"` \
 🔥API Mainnet🔥:                    https://realio.api.m.stavr.tech \
 🔥API Testnet🔥:                      https://realio.api.t.stavr.tech \
 🔥RPC Mainnet🔥:                   http://realio.rpc.m.stavr.tech:21097              `Snapshot-interval = 100` \
