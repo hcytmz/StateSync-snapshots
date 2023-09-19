@@ -36,7 +36,7 @@ sudo systemctl restart umeed && journalctl -u umeed -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER Mainnet🔥:      https://explorer.stavr.tech/umee/staking             `Indexer "ON"` \
+🔥EXPLORER Mainnet🔥:      https://explorer.stavr.tech/Umee/staking             `Indexer "ON"` \
 🔥EXPLORER Testnet🔥:        https://explorer.stavr.tech/umee-canon/staking      `Indexer "ON"` \
 🔥API Mainnet🔥:                   https://umee.api.m.stavr.tech \
 🔥API Testnet🔥:                     https://umee.api.t.stavr.tech \
