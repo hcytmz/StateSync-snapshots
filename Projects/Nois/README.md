@@ -41,8 +41,8 @@ sudo systemctl restart noisd && journalctl -u noisd -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER Mainnet🔥:       https://explorer.stavr.tech/nois-mainnet         `Indexer "ON"` \
-🔥EXPLORER Testnet🔥:         https://explorer.stavr.tech/nois                 `Indexer "ON"` \
+🔥EXPLORER Mainnet🔥:       https://explorer.stavr.tech/Nois-Mainnet         `Indexer "ON"` \
+🔥EXPLORER Testnet🔥:         https://explorer.stavr.tech/Nois-Testnet                 `Indexer "ON"` \
 🔥API Mainnet🔥:                    https://nois.api.m.stavr.tech \
 🔥API Testnet🔥:                      https://nois3.api.t.stavr.tech \
 🔥RPC Mainnet🔥:                   http://nois.rpc.m.stavr.tech          `Snapshot-interval = 100` \
