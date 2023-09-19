@@ -41,8 +41,8 @@ sudo systemctl restart teritorid && journalctl -u teritorid -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER Mainnet🔥:      https://explorer.stavr.tech/teritori-main/staking      `Indexer "ON"` \
-🔥EXPLORER Testnet🔥:        https://explorer.stavr.tech/teritori/staking            `Indexer "ON"` \
+🔥EXPLORER Mainnet🔥:      https://explorer.stavr.tech/Teritori-Main/staking      `Indexer "ON"` \
+🔥EXPLORER Testnet🔥:        https://explorer.stavr.tech/Teritori/staking            `Indexer "ON"` \
 🔥API Mainnet🔥:                   https://teritori.api.m.stavr.tech \
 🔥RPC🔥:                                   https://teritori.rpc.m.stavr.tech                         `Snapshot-interval = 100` \
 🔥API Testnet🔥:                     https://teritori.api.t.stavr.tech \
