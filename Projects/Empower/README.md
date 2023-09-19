@@ -80,8 +80,8 @@ sudo systemctl restart empowerd && sudo journalctl -u empowerd -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER M🔥:          https://explorer.stavr.tech/empower-mainnet        `Indexer "ON"` \
-🔥EXPLORER T🔥:          https://explorer.stavr.tech/empower        `Indexer "ON"` \
+🔥EXPLORER M🔥:          https://explorer.stavr.tech/Empower-Mainnet        `Indexer "ON"` \
+🔥EXPLORER T🔥:          https://explorer.stavr.tech/Empower        `Indexer "ON"` \
 🔥API M🔥:                       https://empw.api.m.stavr.tech \
 🔥API T🔥:                       https://empw.api.t.stavr.tech \
 🔥RPC M🔥:                      http://empw.rpc.m.stavr.tech:22057              `Snapshot-interval = 500`  \
