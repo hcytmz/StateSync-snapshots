@@ -39,7 +39,7 @@ sudo systemctl restart okp4d && journalctl -u okp4d -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:          https://explorer.stavr.tech/okp4-testnet/staking        Indexer "ON" \
+🔥EXPLORER🔥:          https://explorer.stavr.tech/OKP4-Testnet/staking        Indexer "ON" \
 🔥API🔥:                       https://okp4.api.t.stavr.tech \
 🔥RPC🔥:                      http://okp.rpc.t.stavr.tech:10097                  Snapshot-interval = 300 \
 🔥gRPC🔥:                    http://okp.grpc.t.stavr.tech:8029 \
