@@ -36,7 +36,7 @@ sudo systemctl restart gitopiad && journalctl -u gitopiad -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:      https://explorer.stavr.tech/gitopia-m/staking  `Indexer "ON"` \
+🔥EXPLORER🔥:      https://explorer.stavr.tech/Gitopia-M/staking  `Indexer "ON"` \
 🔥API🔥: 			 		 https://gitopia.api.m.stavr.tech \
 🔥RPC🔥:           http://gitopia.rpc.m.stavr.tech:51057              `Snapshot-interval = 300` \
 🔥GRPC🔥:          http://gitopia.grpc.m.stavr.tech:5123 \
