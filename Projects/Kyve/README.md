@@ -37,7 +37,7 @@ sudo systemctl restart kyved && journalctl -u kyved -f -o cat
 
 <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:     https://explorer.stavr.tech/kyve/staking        Indexer "ON" \
+🔥EXPLORER🔥:     https://explorer.stavr.tech/Kyve/staking        Indexer "ON" \
 🔥API🔥: 			 		https://kyve.api.m.stavr.tech \
 🔥RPC🔥:          http://kyve.rpc.m.stavr.tech:12357	              Snapshot-interval = 100 \
 🔥gRPC🔥:         http://kyve.grpc.stavr.tech:7106 \
