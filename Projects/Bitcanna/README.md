@@ -38,8 +38,8 @@ sudo systemctl restart bcnad && journalctl -u bcnad -f -o cat
 
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER Mainnet🔥:    https://explorer.stavr.tech/bitcanna/staking          `Indexer "ON"` \
-🔥EXPLORER Devnet🔥:     https://explorer.stavr.tech/bitcanna-dev/staking     `Indexer "ON"` \
+🔥EXPLORER Mainnet🔥:    https://explorer.stavr.tech/Bitcanna/staking          `Indexer "ON"` \
+🔥EXPLORER Devnet🔥:     https://explorer.stavr.tech/Bitcanna-DEV/staking     `Indexer "ON"` \
 🔥API Mainnet🔥:         https://bitcanna.api.m.stavr.tech \
 🔥API Devnet🔥:          https://bitcanna.api.dev.stavr.tech \
 🔥RPC Mainnet🔥:         http://bitcanna.rpc.m.stavr.tech:21327         `Snapshot-interval = 300` \
