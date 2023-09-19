@@ -38,8 +38,8 @@ sudo systemctl restart c4ed && journalctl -u c4ed -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER MAINNET🔥:  https://explorer.stavr.tech/c4e/staking            `Indexer "ON"` \
-🔥EXPLORER TESTET🔥:   https://explorer.stavr.tech/c4e-testnet/staking     `Indexer "ON"` \
+🔥EXPLORER MAINNET🔥:  https://explorer.stavr.tech/C4E/staking            `Indexer "ON"` \
+🔥EXPLORER TESTET🔥:   https://explorer.stavr.tech/C4E-Testnet/staking     `Indexer "ON"` \
 🔥API MAINNET🔥:       https://c4e.api.m.stavr.tech \
 🔥API TESTNET🔥:       https://c4e.api.t.stavr.tech \
 🔥RPC🔥:               http://c4e.rpc.m.stavr.tech:17097                  `Snapshot-interval = 100` \
