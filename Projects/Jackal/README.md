@@ -76,8 +76,8 @@ sudo systemctl restart canined && journalctl -u canined -f -o cat
 
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER Mainnet🔥:      https://explorer.stavr.tech/jackal/staking		        `Indexer "ON"` \
-🔥EXPLORER Testnet🔥:      https://explorer.stavr.tech/jackal-testnet/staking     `Indexer "ON"` \
+🔥EXPLORER Mainnet🔥:      https://explorer.stavr.tech/Jackal/staking		        `Indexer "ON"` \
+🔥EXPLORER Testnet🔥:      https://explorer.stavr.tech/Jackal-Testnet/staking     `Indexer "ON"` \
 🔥API Mainnet🔥: 			 		 https://jkl.api.m.stavr.tech \
 🔥API Testnet🔥: 			 		 https://jkl.api.t.stavr.tech \
 🔥RPC Mainnet🔥:           http://jkl.rpc.m.stavr.tech:11127              `Snapshot-interval = 300` \
