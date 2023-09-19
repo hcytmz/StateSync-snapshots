@@ -38,7 +38,7 @@ sudo systemctl restart althea && journalctl -u althea -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
  
-🔥EXPLORER🔥: https://explorer.stavr.tech/althea-testnetl1/staking        `Indexer "ON"` \
+🔥EXPLORER🔥: https://explorer.stavr.tech/Althea-testnetL1/staking        `Indexer "ON"` \
 🔥API🔥:      https://althea.api.t4.stavr.tech \
 🔥RPC🔥:      http://althea.rpc.t.stavr.tech:17887              `Snapshot-interval = 100` \
 🔥gRPC🔥:     http://althea.grpc.t.stavr.tech:7719 \
