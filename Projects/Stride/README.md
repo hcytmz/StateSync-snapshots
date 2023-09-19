@@ -36,7 +36,7 @@ sudo systemctl restart strided && journalctl -u strided -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:          https://explorer.stavr.tech/stride/staking        Indexer "ON" \
+🔥EXPLORER🔥:          https://explorer.stavr.tech/Stride/staking        Indexer "ON" \
 🔥API🔥:                    https://stride.api.m.stavr.tech \
 🔥RPC🔥:                      http://stride.rpc.m.stavr.tech:21017              Snapshot-interval = 300 \
 🔥gRPC🔥:                    http://stride.grpc.m.stavr.tech:9986 \
