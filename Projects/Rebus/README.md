@@ -38,7 +38,7 @@ sudo systemctl restart rebusd && journalctl -u rebusd -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:          https://explorer.stavr.tech/rebus/staking        Indexer "ON" \
+🔥EXPLORER🔥:          https://explorer.stavr.tech/Rebus/staking        Indexer "ON" \
 🔥API🔥:                      https://rebus.api.m.stavr.tech \
 🔥RPC🔥:                      http://rebus.rpc.m.stavr.tech:40107              Snapshot-interval = 300 \
 🔥EVM-RPC🔥:                http://rebus.evmrpc.m.stavr.tech:8545 \
