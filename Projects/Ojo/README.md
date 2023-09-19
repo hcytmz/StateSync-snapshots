@@ -39,7 +39,7 @@ sudo systemctl restart ojod && journalctl -u ojod -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:        https://explorer.stavr.tech/ojo-devnet/staking        `Indexer "ON"` \
+🔥EXPLORER🔥:        https://explorer.stavr.tech/Ojo-Devnet/staking        `Indexer "ON"` \
 🔥API🔥:                     https://ojo.api.t.stavr.tech \
 🔥RPC🔥:                    http://ojo.rpc.t.stavr.tech:37097              `Snapshot-interval = 100` \
 🔥gRPC🔥:                  http://ojo.grpc.t.stavr.tech:7729 \
