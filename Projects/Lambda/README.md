@@ -39,7 +39,7 @@ sudo systemctl restart lambdavm && sudo journalctl -u lambdavm -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:      https://explorer.stavr.tech/lambda/staking	        `Indexer "ON"` \
+🔥EXPLORER🔥:      https://explorer.stavr.tech/Lambda/staking	        `Indexer "ON"` \
 🔥API🔥: 			 		 https://lambda.api.m.stavr.tech \
 🔥RPC🔥:           http://lambda.rpc.m.stavr.tech:31327	              `Snapshot-interval = 100` \
 🔥gRPC🔥:          http://lambda.grpc.m.stavr.tech:2287 \
