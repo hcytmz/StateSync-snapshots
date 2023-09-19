@@ -41,7 +41,7 @@ sudo systemctl restart dymd && journalctl -u dymd -f -o cat
 
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:     https://explorer.stavr.tech/Dymension-Testnet/staking        `Indexer "ON"` \
+🔥EXPLORER🔥:     https://explorer.stavr.tech/Dymension-testnet/staking        `Indexer "ON"` \
 🔥API🔥:          https://dymension.api.t.stavr.tech \
 🔥RPC🔥:          http://dymension.rpc.t.stavr.tech:17087              `Snapshot-interval = 100` \
 🔥gRPC🔥:         http://dymension.grpc.t.stavr.tech:7119 \
