@@ -39,7 +39,7 @@ sudo systemctl restart hid-noded && journalctl -u hid-noded -f -o cat
 
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:      https://explorer.stavr.tech/hypersign/staking        `Indexer "ON"` \
+🔥EXPLORER🔥:      https://explorer.stavr.tech/HyperSign/staking        `Indexer "ON"` \
 🔥API:             https://hid.api.t.stavr.tech \
 🔥RPC🔥:           http://hid.rpc.t.stavr.tech:11057              `Snapshot-interval = 100` \
 🔥gRPC🔥:          http://hid.grpc.t.stavr.tech:8022 \
