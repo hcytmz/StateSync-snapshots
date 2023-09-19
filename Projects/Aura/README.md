@@ -44,7 +44,7 @@ sudo systemctl restart aurad && journalctl -u aurad -f -o cat
 
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:     https://explorer.stavr.tech/aura-mainnet/staking        `Indexer "ON"` \
+🔥EXPLORER🔥:     https://explorer.stavr.tech/Aura-Mainnet/staking        `Indexer "ON"` \
 🔥API🔥:          https://aura.api.m.stavr.tech \
 🔥RPC🔥:          http://aura.rpc.m.stavr.tech:11047              `Snapshot-interval = 100` \
 🔥gRPC🔥:         http://aura.grpc.m.stavr.tech:9901 \
