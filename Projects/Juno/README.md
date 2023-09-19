@@ -81,8 +81,8 @@ sudo systemctl restart junod && journalctl -u junod -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER Mainnet🔥:      https://explorer.stavr.tech/juno/staking		        `Indexer "ON"` \
-🔥EXPLORER Testnet🔥:      https://explorer.stavr.tech/juno-testnet/staking       `Indexer "ON"` \
+🔥EXPLORER Mainnet🔥:      https://explorer.stavr.tech/Juno/staking		        `Indexer "ON"` \
+🔥EXPLORER Testnet🔥:      https://explorer.stavr.tech/Juno-Testnet/staking       `Indexer "ON"` \
 🔥API Mainnet🔥: 			 		 https://juno.api.m.stavr.tech \
 🔥API Testnet🔥: 			 		 https://juno.api.t.stavr.tech \
 🔥RPC Mainnet🔥:           http://juno.rpc.m.stavr.tech:1067              `Snapshot-interval = 1000` \
