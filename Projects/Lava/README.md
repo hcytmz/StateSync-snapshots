@@ -38,7 +38,7 @@ sudo systemctl restart lavad && journalctl -u lavad -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
  
-🔥EXPLORER🔥: https://explorer.stavr.tech/lava-testnet/staking        `Indexer "ON"` \
+🔥EXPLORER🔥: https://explorer.stavr.tech/Lava-Testnet/staking        `Indexer "ON"` \
 🔥API🔥:      https://lava.api.t.stavr.tech \
 🔥RPC🔥:      http://lava.rpc.t.stavr.tech:198              `Snapshot-interval = 100` \
 🔥gRPC🔥:     http://lava.grpc.t.stavr.tech:179 \
