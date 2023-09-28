@@ -18,6 +18,7 @@ wget -O $HOME/.source/config/addrbook.json "https://raw.githubusercontent.com/ob
 sed -i.bak -E "s|^(enable[[:space:]]+=[[:space:]]+).*$|\1false|" ~/.source/config/config.toml
 sudo systemctl restart sourced && journalctl -u sourced -f -o cat
 ```
+<h1 align="center"> Useful Tools</h1>
 
 🔥EXPLORER🔥:    https://explorer.stavr.tech/Source/staking            `Indexer "ON"` \
 🔥API🔥:         https://source.api.t.stavr.tech \
