@@ -3,7 +3,7 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Stride)
 =
 
-# StateSync STRIDE
+# StateSync STRIDE (Temporarily stopped)
 ```python
 SNAP_RPC=http://stride.rpc.m.stavr.tech:21017
 peers="a7b4cf6f65138ba61518c2c45402da32dc8e28b7@stride.peer.stavr.tech:21016"
@@ -22,7 +22,7 @@ s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.stride/config/config.toml
 strided tendermint unsafe-reset-all --home /root/.stride --keep-addr-book
 sudo systemctl restart strided && journalctl -u strided -f -o cat
 ```
-# SnapShot (~0.8 GB) updated every 5 hours
+# SnapShot (~0.8 GB) updated every 5 hours  (Temporarily stopped)
 ```python
 cd $HOME
 apt install lz4
