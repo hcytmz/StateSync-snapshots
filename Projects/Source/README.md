@@ -1,4 +1,4 @@
-<h1 align="center"> 🔥Source🔥</h1>
+<h1 align="center"> 🔥Source Testnet🔥</h1>
 
 
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Source)
@@ -20,7 +20,9 @@ sudo systemctl restart sourced && journalctl -u sourced -f -o cat
 ```
 <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:    https://explorer.stavr.tech/Source/staking            `Indexer "ON"` \
-🔥API🔥:         https://source.api.t.stavr.tech \
+🔥EXPLORER-M🔥:    https://explorer.stavr.tech/Source-Mainnet/staking    `Indexer "ON"` \
+🔥EXPLORER-T🔥:    https://explorer.stavr.tech/Source/staking            `Indexer "ON"` \
+🔥API-M🔥:         https://source.api.m.stavr.tech \
+🔥API-T🔥:         https://source.api.t.stavr.tech \
 🔥Addrbook🔥: `wget -O $HOME/.source/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Source/addrbook.json"` \
 🔥Auto_install script🔥: `wget -O sources https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Source/sources && chmod +x sources && ./sources`
