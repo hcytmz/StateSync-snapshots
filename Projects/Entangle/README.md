@@ -9,7 +9,7 @@
 ```python
 SOON
 ```
-# SnapShot (~0.7 GB) Arhive node
+# SnapShot (~4.2 GB) Arhive node
 ```python
 cd $HOME
 apt install lz4
