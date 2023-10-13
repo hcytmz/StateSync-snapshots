@@ -1,0 +1,30 @@
+<h1 align="center"> 🔥Entangle🔥</h1>
+
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Entangle)
+=
+
+<h1 align="center"> TESTNET</h1>
+
+# StateSync Entangle Testnet
+```python
+SOON
+```
+# SnapShot (~0.7 GB) Arhive node
+```python
+cd $HOME
+apt install lz4
+sudo systemctl stop entangled
+sed -i.bak -E "s|^(enable[[:space:]]+=[[:space:]]+).*$|\1false|" ~/.entangled/config/config.toml
+cp $HOME/.entangled/data/priv_validator_state.json $HOME/.entangled/priv_validator_state.json.backup
+rm -rf $HOME/.entangled/data
+curl -o - -L http://entagle.snapshot.stavr.tech:1030/entagle/entagle-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.entangled --strip-components 2
+mv $HOME/.entangled/priv_validator_state.json.backup $HOME/.entangled/data/priv_validator_state.json
+wget -O $HOME/.entangled/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Entangle/addrbook.json"
+sudo systemctl restart entangled && journalctl -u entangled -f -o cat
+```
+ <h1 align="center"> Useful Tools</h1>
+ 
+🔥EXPLORER🔥: https://explorer.stavr.tech/Entangle-testnet/staking        `Indexer "ON"` \
+🔥API🔥:      https://entangle.api.t.stavr.tech \
+🔥Addrbook🔥: ```wget -O $HOME/.entangled/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Entangle/addrbook.json"``` \
+🔥Auto_install script🔥:  `wget -O entaglet https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Entangle/entaglet && chmod +x entaglet && ./entaglet`
