@@ -1,4 +1,4 @@
-<h1 align="center"> 🔥Source Testnet🔥</h1>
+<h1 align="center"> 🔥Source Mainnet🔥</h1>
 
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Source)
 =
@@ -64,8 +64,8 @@ sudo systemctl restart sourced && journalctl -u sourced -f -o cat
 🔥API-T🔥:         https://source.api.t.stavr.tech \
 🔥RPC-M🔥:         https://source.rpc.m.stavr.tech:443              `Snapshot-interval = 100` \
 🔥gRPC-M🔥:        http://source.grpc.m.stavr.tech:9590 \
-🔥peer-M🔥:        `3c729ffe80393abd430a7c723fab2e8aa60ffa46@source.peers.stavr.tech:20056`
+🔥peer-M🔥:        `3c729ffe80393abd430a7c723fab2e8aa60ffa46@source.peers.stavr.tech:20056` \
 🔥Addrbook-M🔥: `wget -O $HOME/.source/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Source/addrbook.json"` \
 🔥Addrbook-T🔥: `wget -O $HOME/.source/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Source/addrbook.json"` \
-🔥Auto_install script-M🔥: `wget -O sourcem https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Source/sourcem && chmod +x sourcem && ./sourcem`
+🔥Auto_install script-M🔥: `wget -O sourcem https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Source/sourcem && chmod +x sourcem && ./sourcem` \
 🔥Auto_install script-T🔥: `wget -O sources https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Source/Testnet/sources && chmod +x sources && ./sources`
