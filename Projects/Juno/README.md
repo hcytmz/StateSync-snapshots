@@ -90,7 +90,7 @@ sudo systemctl restart junod && journalctl -u junod -f -o cat
 🔥gRPC Mainnet🔥:          http://juno.grpc.m.stavr.tech:504 \
 🔥gRPC Testnet🔥:          http://juno.grpc.t.stavr.tech:504 \
 🔥peer Mainnet🔥:					 `3ee2034cf0180e4d50f7b3ed952472add3316faf@juno.peer.stavr.tech:1066` \
-🔥peer Testnet🔥:					 `518d31bf039289b6c8d8defd7e9509d8e28b7cd3@junot.peer.stavr.tech:1066` \
+🔥peer Testnet🔥:					 `eb4cbf9bfea70a9e02baffbe35df02f073c70049@junot.peer.stavr.tech:1066` \
 🔥WASM Mainnet🔥: 		 ```curl -o - -L http://juno.wasm.stavr.tech:1005/wasm-juno.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.juno/ --strip-components 2```		`updated every 10 minutes` \
 🔥WASM Testnet🔥: 		 ```curl -o - -L http://juno-t.wasm.stavr.tech:1001/wasm-junot.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.juno/ --strip-components 2```   `updated every 5 minutes` \
 🔥Genesis Mainnet🔥:     ```wget -O $HOME/.juno/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Juno/genesis.json"``` \
