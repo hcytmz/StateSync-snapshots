@@ -8,7 +8,7 @@
 ```python
 cd $HOME
 SNAP_RPC=http://crowd.rpc.t.stavr.tech:21207
-PEERS="b1d70944441f46e5d92e81d7d0caa0a5e64e26c7@crowd.peer.stavr.tech:21206"
+PEERS="ec585d7fb38b67619dcb79aad90722f0eaf0faa3@crowd.peer.stavr.tech:21206"
 sed -i.bak -e "s/^seeds *=.*/seeds = \"$SEEDS\"/; s/^persistent_peers *=.*/persistent_peers = \"$PEERS\"/" $HOME/.Cardchain/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height) \
 && BLOCK_HEIGHT=$((LATEST_HEIGHT - 100)) \
@@ -42,7 +42,7 @@ sudo systemctl restart Cardchaind && journalctl -u Cardchaind -f -o cat
 🔥API🔥:         https://cc.api.t.stavr.tech \
 🔥RPC🔥:         http://crowd.rpc.t.stavr.tech:21207                  `Snapshot-interval = 100` \
 🔥gRPC🔥:        http://crowd.grpc.t.stavr.tech:9907 \
-🔥peer🔥:        `b1d70944441f46e5d92e81d7d0caa0a5e64e26c7@crowd.peer.stavr.tech:21206` \
+🔥peer🔥:        `ec585d7fb38b67619dcb79aad90722f0eaf0faa3@crowd.peer.stavr.tech:21206` \
 🔥Addrbook🔥:    ```wget -O $HOME/.Cardchain/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Crowd_Control/addrbook.json"``` \
 🔥Auto_install script🔥: ```wget -O crowd https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Crowd_Control/crowd && chmod +x crowd && ./crowd```
 
