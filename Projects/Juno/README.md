@@ -45,7 +45,7 @@ sudo systemctl restart junod && journalctl -u junod -f -o cat
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Juno/Testnet)
 =
 
-# StateSync Juno Testnet
+# StateSync Juno Testnet (Temporarily stopped)
 ```python
 SNAP_RPC=http://juno.rpc.t.stavr.tech:1067
 PEERS="518d31bf039289b6c8d8defd7e9509d8e28b7cd3@junot.peer.stavr.tech:1066"
@@ -66,7 +66,7 @@ curl -o - -L http://juno-t.wasm.stavr.tech:1001/wasm-junot.tar.lz4 | lz4 -c -d -
 sudo systemctl restart junod && journalctl -u junod -f -o cat
 ```
 
-# SnapShot (~2GB) updated every 5 hours
+# SnapShot (~5GB) updated every 5 hours (Temporarily stopped)
 ```python
 cd $HOME
 snap install lz4
