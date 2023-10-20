@@ -8,7 +8,7 @@
 # StateSync Lava Testnet
 ```python
 SNAP_RPC=http://lava.rpc.t.stavr.tech:198
-peers="824d2fc1a31e3d2637b23e33e0ae69934f9a161b@lava.peers.stavr.tech:197"
+peers="46a02fc2908aec60985fd2852c424907d6f79ed7@lava.peers.stavr.tech:197"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.lava/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 100)); \
@@ -42,7 +42,7 @@ sudo systemctl restart lavad && journalctl -u lavad -f -o cat
 🔥API🔥:      https://lava.api.t.stavr.tech \
 🔥RPC🔥:      http://lava.rpc.t.stavr.tech:198              `Snapshot-interval = 100` \
 🔥gRPC🔥:     http://lava.grpc.t.stavr.tech:179 \
-🔥peer🔥:     `824d2fc1a31e3d2637b23e33e0ae69934f9a161b@lava.peers.stavr.tech:197` \
+🔥peer🔥:     `46a02fc2908aec60985fd2852c424907d6f79ed7@lava.peers.stavr.tech:197` \
 🔥Genesis🔥:  ```curl -s https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Lava_Network/genesis.json > $HOME/.lava/config/genesis.json``` \
 🔥Addrbook🔥: ```wget -O $HOME/.lava/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Lava_Network/addrbook.json"``` \
 🔥Auto_install script🔥:  `wget -O lav https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Lava_Network/lav && chmod +x lav && ./lav`
