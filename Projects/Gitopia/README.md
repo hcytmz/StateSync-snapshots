@@ -20,6 +20,7 @@ s|^(trust_height[[:space:]]+=[[:space:]]+).*$|\1$BLOCK_HEIGHT| ; \
 s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
 s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.gitopia/config/config.toml
 gitopiad tendermint unsafe-reset-all --home /root/.gitopia
+wget -O $HOME/.gitopia/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Gitopia/addrbook.json"
 systemctl restart gitopiad && journalctl -u gitopiad -f -o cat
 ```
 # SnapShot (~1 GB) updated every 5 hours
@@ -40,6 +41,6 @@ sudo systemctl restart gitopiad && journalctl -u gitopiad -f -o cat
 🔥API🔥: 			 		 https://gitopia.api.m.stavr.tech \
 🔥RPC🔥:           http://gitopia.rpc.m.stavr.tech:51057              `Snapshot-interval = 300` \
 🔥GRPC🔥:          http://gitopia.grpc.m.stavr.tech:5123 \
-🔥peer🔥:					 `c903e98ce3923865f521151d97f36510157c8bc1@gitopia.peers.stavr.tech:51056` \
+🔥peer🔥:					 `9cf13158d8d5b17dbe0bf0c1030f2c1e1874f73f@gitopia.peers.stavr.tech:51056` \
 🔥Addrbook🔥:    ```wget -O $HOME/.gitopia/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Gitopia/addrbook.json"``` \
 🔥Auto_install script🔥: ```wget -O gitopm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Gitopia/gitopm && chmod +x gitopm && ./gitopm```
