@@ -5,7 +5,7 @@
 # StateSync KYVE Mainnet
 ```python
 SNAP_RPC=http://kyve.rpc.m.stavr.tech:12357
-peers="a349791af7116c82785a2939454247b03a678270@kyve.peer.stavr.tech:12356"
+peers="23f2668adb6d7387c8bc7fdc8a9d10430a092df7@kyve.peer.stavr.tech:12356"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.kyve/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 500)); \
@@ -41,5 +41,5 @@ sudo systemctl restart kyved && journalctl -u kyved -f -o cat
 🔥API🔥: 			 		https://kyve.api.m.stavr.tech \
 🔥RPC🔥:          http://kyve.rpc.m.stavr.tech:12357	              Snapshot-interval = 100 \
 🔥gRPC🔥:         http://kyve.grpc.stavr.tech:7106 \
-🔥peer🔥:					`a349791af7116c82785a2939454247b03a678270@kyve.peer.stavr.tech:12356` \
+🔥peer🔥:					`23f2668adb6d7387c8bc7fdc8a9d10430a092df7@kyve.peer.stavr.tech:12356` \
 🔥Addrbook🔥:    ```wget -O $HOME/.kyve/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Kyve/addrbook.json"```
