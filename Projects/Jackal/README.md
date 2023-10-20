@@ -45,7 +45,7 @@ sudo systemctl restart canined && journalctl -u canined -f -o cat
 # StateSync Jackal Testnet
 ```python
 SNAP_RPC=http://jkl.rpc.t.stavr.tech:19127
-peers="8a11570dbaa0f4d98ca2ef0ad117e9c1154d81b9@jkltest.peer.stavr.tech:19126"
+peers="80613772b20df144945801b42f327d0945a24374@jkltest.peer.stavr.tech:19126"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.canine/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 100)); \
@@ -85,7 +85,7 @@ sudo systemctl restart canined && journalctl -u canined -f -o cat
 🔥gRPC Mainnet🔥:          http://jkl.grpc.m.stavr.tech:5013 \
 🔥gRPC Testnet🔥:          http://jkl.grpc.t.stavr.tech:5913 \
 🔥peer Mainnet🔥:					 `26b6255375a592c3b0664bd474a6975f468c3785@jkl.peer.stavr.tech:11126` \
-🔥peer Testnet🔥:					 `8a11570dbaa0f4d98ca2ef0ad117e9c1154d81b9@jkltest.peer.stavr.tech:19126` \
+🔥peer Testnet🔥:					 `80613772b20df144945801b42f327d0945a24374@jkltest.peer.stavr.tech:19126` \
 🔥Addrbook Mainnet🔥:    ```wget -O $HOME/.canine/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Jakal/addrbook.json"``` \
 🔥Addrbook Testnet🔥:    ```wget -O $HOME/.canine/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Jakal/Jackal-Testnet/addrbook.json"``` \
 🔥Auto_install script Mainnet🔥: ```wget -O jkl https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Jakal/jkl && chmod +x jkl && ./jkl``` \
