@@ -9,7 +9,6 @@
 # StateSync Mainnet
 ```python
 SNAP_RPC=http://empw.rpc.m.stavr.tech:22057
-sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.empowerchain/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 500)); \
 TRUST_HASH=$(curl -s "$SNAP_RPC/block?height=$BLOCK_HEIGHT" | jq -r .result.block_id.hash)
@@ -88,7 +87,7 @@ sudo systemctl restart empowerd && sudo journalctl -u empowerd -f -o cat
 🔥RPC T🔥:                      http://empw.rpc.t.stavr.tech:22057              `Snapshot-interval = 100` \
 🔥gRPC M🔥:                    http://empw.grpc.m.stavr.tech:9141 \
 🔥gRPC T🔥:                    http://empw.grpc.t.stavr.tech:9141 \
-🔥peer M🔥:                     `192d6c396fe0f9da1b1b700aab8bdd1ce6a49490@empw-m.peers.stavr.tech:22056` \
+🔥peer M🔥:                     `8ee67177159d849dbb9c471702c6c08cdc28b1d6@empw-m.peers.stavr.tech:22056` \
 🔥peer T🔥:                     `a8f7749ee8ba55b5c2181a1591d7e291db594883@empw.peers.stavr.tech:22056` \
 🔥WASM T🔥:```curl -o - -L http://empw.wasm.stavr.tech:1001/wasm-empw.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.empowerchain --strip-components 2``` \
 🔥Addrbook M🔥:    ```wget -O $HOME/.empowerchain/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Empower/addrbook.json"``` \
