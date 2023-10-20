@@ -23,7 +23,7 @@ gitopiad tendermint unsafe-reset-all --home /root/.gitopia
 wget -O $HOME/.gitopia/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Gitopia/addrbook.json"
 systemctl restart gitopiad && journalctl -u gitopiad -f -o cat
 ```
-# SnapShot (~1 GB) updated every 5 hours
+# SnapShot (~2 GB) updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
