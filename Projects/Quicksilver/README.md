@@ -43,8 +43,8 @@ sudo systemctl restart quicksilverd && journalctl -u quicksilverd -f -o cat
 
 # StateSync Testnet
 ```python
-SNAP_RPC=http://quick.rpc.t.stavr.tech:21027
-peers="d0d0903d8c2f514c92284341d48aa422d4e37740@quickt.peers.stavr.tech:21026"
+SNAP_RPC=http://quick.rpc.t.stavr.tech:20027
+peers="c04fb8ab18c3807d5a8f07cdfedeefce846e55d1@quickt.peers.stavr.tech:20026"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.quicksilverd/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 100)); \
@@ -81,11 +81,11 @@ sudo systemctl restart quicksilverd && journalctl -u quicksilverd -f -o cat
 🔥API Mainnet🔥: 			 https://quick.api.m.stavr.tech \
 🔥API Testnet🔥: 			 https://quick.api.t.stavr.tech \
 🔥RPC Mainnet🔥:             http://quick.rpc.m.stavr.tech:21027              `Snapshot-interval = 300` \
-🔥RPC Testnet🔥:             http://quick.rpc.t.stavr.tech:21027              `Snapshot-interval = 100` \
+🔥RPC Testnet🔥:             http://quick.rpc.t.stavr.tech:20027              `Snapshot-interval = 100` \
 🔥gRPC Mainnet🔥:                    http://quick.grpc.m.stavr.tech:9113 \
-🔥gRPC Testnet🔥:                    http://quick.grpc.t.stavr.tech:9213 \
+🔥gRPC Testnet🔥:                    http://quick.grpc.t.stavr.tech:9112 \
 🔥peer Mainnet🔥:					 `ae44851a5d63d70382c1621bc7727db2a40d10d0@quick.peers.stavr.tech:21026` \
-🔥peer Testnet🔥:					 `d0d0903d8c2f514c92284341d48aa422d4e37740@quickt.peers.stavr.tech:21026` \
+🔥peer Testnet🔥:					 `c04fb8ab18c3807d5a8f07cdfedeefce846e55d1@quickt.peers.stavr.tech:20026` \
 🔥Addrbook Mainnet🔥:    ```wget -O $HOME/.quicksilverd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Quicksilver/addrbook.json"``` \
 🔥Addrbook Testnet🔥:    ```wget -O $HOME/.quicksilverd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Quicksilver/addrbook.json"``` \
 🔥Auto_install script Mainnet🔥: ```wget -O quick https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Quicksilver/quick && chmod +x quick && ./quick``` \
