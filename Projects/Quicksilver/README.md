@@ -28,6 +28,7 @@ systemctl restart quicksilverd && sudo journalctl -u quicksilverd -f -o cat
 cd $HOME
 apt install lz4
 sudo systemctl stop quicksilverd
+sed -i.bak -E "s|^(enable[[:space:]]+=[[:space:]]+).*$|\1false|" ~/.quicksilverd/config/config.toml
 cp $HOME/.quicksilverd/data/priv_validator_state.json $HOME/.quicksilverd/priv_validator_state.json.backup
 rm -rf $HOME/.quicksilverd/data
 curl -o - -L http://quick.snapshot.stavr.tech:1009/quick/quick-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.quicksilverd --strip-components 2
@@ -62,11 +63,12 @@ systemctl restart quicksilverd && sudo journalctl -u quicksilverd -f -o cat
 
 ```
 
-# SnapShot (~0.2GB) updated every 5 hours
+# SnapShot Testnet (~0.2GB) updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
 sudo systemctl stop quicksilverd
+sed -i.bak -E "s|^(enable[[:space:]]+=[[:space:]]+).*$|\1false|" ~/.quicksilverd/config/config.toml
 cp $HOME/.quicksilverd/data/priv_validator_state.json $HOME/.quicksilverd/priv_validator_state.json.backup
 rm -rf $HOME/.quicksilverd/data
 curl -o - -L http://quickt.snapshot.stavr.tech:1016/quickt/quickt-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.quicksilverd --strip-components 2
