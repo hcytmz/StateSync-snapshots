@@ -8,7 +8,7 @@
 # StateSync
 ```python
 SNAP_RPC=http://quick.rpc.m.stavr.tech:21027
-peers="ae44851a5d63d70382c1621bc7727db2a40d10d0@quick.peers.stavr.tech:21026"
+peers="f2846ba84070d3fdc21c09ef44bac4eeed2f8722@quick.peers.stavr.tech:21026"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.quicksilverd/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 300)); \
@@ -86,7 +86,7 @@ sudo systemctl restart quicksilverd && journalctl -u quicksilverd -f -o cat
 🔥RPC Testnet🔥:             http://quick.rpc.t.stavr.tech:20027              `Snapshot-interval = 100` \
 🔥gRPC Mainnet🔥:                    http://quick.grpc.m.stavr.tech:9113 \
 🔥gRPC Testnet🔥:                    http://quick.grpc.t.stavr.tech:9112 \
-🔥peer Mainnet🔥:					 `ae44851a5d63d70382c1621bc7727db2a40d10d0@quick.peers.stavr.tech:21026` \
+🔥peer Mainnet🔥:					 `f2846ba84070d3fdc21c09ef44bac4eeed2f8722@quick.peers.stavr.tech:21026` \
 🔥peer Testnet🔥:					 `c04fb8ab18c3807d5a8f07cdfedeefce846e55d1@quickt.peers.stavr.tech:20026` \
 🔥Addrbook Mainnet🔥:    ```wget -O $HOME/.quicksilverd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Quicksilver/addrbook.json"``` \
 🔥Addrbook Testnet🔥:    ```wget -O $HOME/.quicksilverd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Quicksilver/addrbook.json"``` \
