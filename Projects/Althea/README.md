@@ -8,7 +8,7 @@
 # StateSync Althea Testnet
 ```python
 SNAP_RPC=http://althea.rpc.t.stavr.tech:17887
-peers="90d692d481c1c4739ba8a7045b5552fa8d410901@althea.peers.stavr.tech:17886"
+peers="a1ef55814e2b9aa6c75fbdda52a0ce3d10aebfec@althea.peers.stavr.tech:17886"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.althea/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 100)); \
@@ -42,6 +42,6 @@ sudo systemctl restart althea && journalctl -u althea -f -o cat
 🔥API🔥:      https://althea.api.t4.stavr.tech \
 🔥RPC🔥:      http://althea.rpc.t.stavr.tech:17887              `Snapshot-interval = 100` \
 🔥gRPC🔥:     http://althea.grpc.t.stavr.tech:7719 \
-🔥peer🔥:     `90d692d481c1c4739ba8a7045b5552fa8d410901@althea.peers.stavr.tech:17886` \
+🔥peer🔥:     `a1ef55814e2b9aa6c75fbdda52a0ce3d10aebfec@althea.peers.stavr.tech:17886` \
 🔥Addrbook🔥: ```wget -O $HOME/.althea/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/addrbook.json"``` \
 🔥Auto_install script🔥:  `wget -O althe https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/althe && chmod +x althe && ./althe`
