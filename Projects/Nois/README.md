@@ -5,7 +5,7 @@
 # StateSync MAINNET
 ```python
 SNAP_RPC=https://nois.rpc.m.stavr.tech:443
-peers="2f03f27d96d7f28de26ab38eac26fe4dbfdccfa8@nois.peer.stavr.tech:40136"
+peers="9fa9b59890187293a8f6b57d1f606fdfe751396e@nois.peer.stavr.tech:40136"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.noisd/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 100)); \
@@ -48,7 +48,7 @@ sudo systemctl restart noisd && journalctl -u noisd -f -o cat
 🔥RPC Mainnet🔥:                   http://nois.rpc.m.stavr.tech          `Snapshot-interval = 100` \
 🔥gRPC Mainnet🔥:                 http://nois.grpc.m.stavr.tech:191 \
 🔥gRPC Testnet🔥:                   http://nois.grpc.t.stavr.tech:191 \
-🔥peer Mainnet🔥:           `2f03f27d96d7f28de26ab38eac26fe4dbfdccfa8@nois.peer.stavr.tech:40136` \
+🔥peer Mainnet🔥:           `9fa9b59890187293a8f6b57d1f606fdfe751396e@nois.peer.stavr.tech:40136` \
 🔥Genesis Mainnet🔥:     ```wget -O $HOME/.noisd/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/genesis.json"``` \
 🔥WASM Mainnet🔥:        ```curl -o - -L http://nois.wasm.stavr.tech:1004/wasm-nois.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.noisd --strip-components 2``` \
 🔥Addrbook Mainnet🔥:    ```wget -O $HOME/.noisd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/addrbook.json"``` \
