@@ -6,7 +6,7 @@
 # StateSync Umee
 ```python
 SNAP_RPC=http://umee.rpc.m.stavr.tech:10457
-peers="1b728581c6d308078e2b969a0c6243852f77d28d@umee.peers.m.stavr.tech:10456"
+peers="c014463cb2de618bef420e40f503c5e57decade4@umee.peers.m.stavr.tech:10456"
 sed -i -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" ~/.umee/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 300)); \
@@ -41,7 +41,7 @@ sudo systemctl restart umeed && journalctl -u umeed -f -o cat
 🔥API Mainnet🔥:                   https://umee.api.m.stavr.tech \
 🔥API Testnet🔥:                     https://umee.api.t.stavr.tech \
 🔥RPC🔥:                                   http://umee.rpc.m.stavr.tech:10457                     `Snapshot-interval = 300` \
-🔥gRPC🔥:                              http://umee.grpc.m.stavr.tech:9090 \
-🔥peer🔥:                     `1b728581c6d308078e2b969a0c6243852f77d28d@umee.peers.m.stavr.tech:10456` \
+🔥gRPC🔥:                              http://umee.grpc.m.stavr.tech:1190 \
+🔥peer🔥:                     `c014463cb2de618bef420e40f503c5e57decade4@umee.peers.m.stavr.tech:10456` \
 🔥Addrbook🔥:    ```wget -O $HOME/.umee/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Umee/addrbook.json"``` \
 🔥Auto_install script🔥: ```wget -O Ume https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Umee/Ume && chmod +x Ume && ./Ume```
