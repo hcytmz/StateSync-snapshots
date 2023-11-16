@@ -8,7 +8,7 @@
 # StateSync Juno Mainnet
 ```python
 SNAP_RPC=http://juno.rpc.m.stavr.tech:1067
-PEERS="3ee2034cf0180e4d50f7b3ed952472add3316faf@juno.peer.stavr.tech:1066"
+PEERS="9ec270e1b4cdd38557da9d374ae4333145ee9300@juno.peer.stavr.tech:1066"
 sed -i.bak -e "s/^seeds *=.*/seeds = \"$SEEDS\"/; s/^persistent_peers *=.*/persistent_peers = \"$PEERS\"/" $HOME/.juno/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 1000)); \
@@ -89,7 +89,7 @@ sudo systemctl restart junod && journalctl -u junod -f -o cat
 🔥RPC Testnet🔥:           http://juno.rpc.t.stavr.tech:1067              `Snapshot-interval = 1000` \
 🔥gRPC Mainnet🔥:          http://juno.grpc.m.stavr.tech:504 \
 🔥gRPC Testnet🔥:          http://juno.grpc.t.stavr.tech:504 \
-🔥peer Mainnet🔥:					 `3ee2034cf0180e4d50f7b3ed952472add3316faf@juno.peer.stavr.tech:1066` \
+🔥peer Mainnet🔥:					 `9ec270e1b4cdd38557da9d374ae4333145ee9300@juno.peer.stavr.tech:1066` \
 🔥peer Testnet🔥:					 `eb4cbf9bfea70a9e02baffbe35df02f073c70049@junot.peer.stavr.tech:1066` \
 🔥WASM Mainnet🔥: 		 ```curl -o - -L http://juno.wasm.stavr.tech:1005/wasm-juno.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.juno/ --strip-components 2```		`updated every 10 minutes` \
 🔥WASM Testnet🔥: 		 ```curl -o - -L http://juno-t.wasm.stavr.tech:1001/wasm-junot.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.juno/ --strip-components 2```   `updated every 5 minutes` \
