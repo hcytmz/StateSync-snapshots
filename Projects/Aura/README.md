@@ -8,7 +8,7 @@
 # State Sync
 ```python
 SNAP_RPC=http://aura.rpc.m.stavr.tech:11047
-SEEDS="57406c041d38af3bac9acdcb2b4bdc90dc7a8852@aura.peers.stavr.tech:21056"
+SEEDS="7cefc9a64cd34f6de30e0289d16ee83978f309cc@aura.peers.stavr.tech:21056"
 cp $HOME/.aura/data/priv_validator_state.json $HOME/.aura/priv_validator_state.json.backup
 sed -i -e "/seeds =/ s/= .*/= \"$SEEDS\"/"  $HOME/.aura/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -48,7 +48,7 @@ sudo systemctl restart aurad && journalctl -u aurad -f -o cat
 🔥API🔥:          https://aura.api.m.stavr.tech \
 🔥RPC🔥:          http://aura.rpc.m.stavr.tech:11047              `Snapshot-interval = 100` \
 🔥gRPC🔥:         http://aura.grpc.m.stavr.tech:9901 \
-🔥peer🔥:         `57406c041d38af3bac9acdcb2b4bdc90dc7a8852@aura.peers.stavr.tech:21056` \
+🔥peer🔥:         `7cefc9a64cd34f6de30e0289d16ee83978f309cc@aura.peers.stavr.tech:21056` \
 🔥WASM Mainnet🔥:`curl -o - -L http://aura.wasm.stavr.tech:1102/wasm-aura.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.aura --strip-components 2` \
 🔥Addrbook🔥:  `wget -O $HOME/.aura/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Aura/addrbook.json"` \
 🔥Genesis🔥:  `wget -O $HOME/.aura/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Aura/genesis.json"` \
