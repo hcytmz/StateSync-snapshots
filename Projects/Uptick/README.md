@@ -44,7 +44,7 @@ sudo systemctl restart uptickd && journalctl -u uptickd -f -o cat
 🔥API Testnet🔥:                        https://uptick.api.t.stavr.tech \
 🔥RPC🔥:                                      http://uptick.rpc.m.stavr.tech:3157              `Snapshot-interval = 100` \
 🔥gRPC🔥:                                    http://uptick.grpc.m.stavr.tech:1901 \
-🔥peer🔥:                                    `c65c6ecfb60635fc8a076b6f90fcd2607aceaa64@uptick.peers.stavr.tech:3156` \
+🔥peer🔥:                                    `ee147b5a411750138a7add20dd004e4f8f1a2179@uptick.peers.stavr.tech:3156` \
 🔥Genesis🔥:    ```wget -O $HOME/.uptickd/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Uptick/genesis.json"``` \
 🔥Addrbook🔥:    ```wget -O $HOME/.uptickd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Uptick/addrbook.json"``` \
 🔥Auto_install script🔥: ```wget -O uptickm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Uptick/uptickm && chmod +x uptickm && ./uptickm```
