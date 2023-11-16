@@ -42,7 +42,7 @@ sudo systemctl restart realio-networkd && journalctl -u realio-networkd -f -o ca
 🔥API Testnet🔥:                      https://realio.api.t.stavr.tech \
 🔥RPC Mainnet🔥:                   http://realio.rpc.m.stavr.tech:21097              `Snapshot-interval = 100` \
 🔥gRPC Mainnet🔥:                 http://realio.grpc.m.stavr.tech:9062 \
-🔥peer Mainnet🔥:                   `b09d477f5b59e5e99632ad3a8a11806381efa46f@realio.peers.stavr.tech:21096` \
+🔥peer Mainnet🔥:                   `0f1a87ee4400c0b6332343775a4ff659bc3daf29@realio.peers.stavr.tech:21096` \
 🔥Genesis Mainnet🔥:     ```wget -O $HOME/.realio-network/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Realio/genesis.json"``` \
 🔥Addrbook Mainnet🔥:    ```wget -O $HOME/.realio-network/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Realio/addrbook.json"``` \
 🔥Addrbook Testnet🔥:    ```wget -O $HOME/.realio-network/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Realio/Testnet/addrbook.json"```
