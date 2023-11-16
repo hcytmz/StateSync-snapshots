@@ -7,7 +7,7 @@
 # StateSync Mainnet
 ```python
 SNAP_RPC=https://teritori.rpc.m.stavr.tech:443
-peers="29c218fb6d31d2316b854c1178327157fbce8aa7@teritori.peers.stavr.tech:38026"
+peers="ab77fecd8c58d89a1bd28bc198449aa2d7fb8740@teritori.peers.stavr.tech:38026"
 sed -i.bak -e "s/^seeds *=.*/seeds = \"$SEEDS\"/; s/^persistent_peers *=.*/persistent_peers = \"$PEERS\"/" $HOME/.teritorid/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 100)); \
@@ -46,7 +46,7 @@ sudo systemctl restart teritorid && journalctl -u teritorid -f -o cat
 🔥API Mainnet🔥:                   https://teritori.api.m.stavr.tech \
 🔥RPC🔥:                                   https://teritori.rpc.m.stavr.tech                         `Snapshot-interval = 100` \
 🔥API Testnet🔥:                     https://teritori.api.t.stavr.tech \
-🔥peer🔥:                     `29c218fb6d31d2316b854c1178327157fbce8aa7@teritori.peers.stavr.tech:38026` \
+🔥peer🔥:                     `ab77fecd8c58d89a1bd28bc198449aa2d7fb8740@teritori.peers.stavr.tech:38026` \
 🔥gRPC🔥:                                http://teritori.grpc.m.stavr.tech:6705 \
 🔥WASM🔥: ```curl -o - -L http://teritori.wasm.stavr.tech:1011/wasm-teritori.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.teritorid --strip-components 2``` updated every 2 hours \
 🔥Addrbook🔥:    ```wget -O $HOME/.teritorid/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Teritori/addrbook.json"``` \
