@@ -7,7 +7,7 @@
 # StateSync
 ```python
 SNAP_RPC=http://okp.rpc.t.stavr.tech:10097
-peers="42eb68bfa046b6cafa53de67d9286651aeffff7c@okp.peer.stavr.tech:10096"
+peers="3301c449cf9706c35a0fafb7b97d20e40cdb96df@okp.peer.stavr.tech:10096"
 sed -i.bak -e  "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" ~/.okp4d/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 300)); \
@@ -43,6 +43,6 @@ sudo systemctl restart okp4d && journalctl -u okp4d -f -o cat
 🔥API🔥:                       https://okp4.api.t.stavr.tech \
 🔥RPC🔥:                      http://okp.rpc.t.stavr.tech:10097                  Snapshot-interval = 300 \
 🔥gRPC🔥:                    http://okp.grpc.t.stavr.tech:8029 \
-🔥peer🔥:                     `42eb68bfa046b6cafa53de67d9286651aeffff7c@okp.peer.stavr.tech:10096` \
+🔥peer🔥:                     `3301c449cf9706c35a0fafb7b97d20e40cdb96df@okp.peer.stavr.tech:10096` \
 🔥Addrbook🔥:    ```wget -O $HOME/.okp4d/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/OKP4/addrbook.json"``` \
 🔥Auto_install script🔥: ```wget -O okp https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/OKP4/okp && chmod +x okp && ./okp```
