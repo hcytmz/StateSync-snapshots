@@ -8,7 +8,7 @@
 # StateSync Andromedad Testnet
 ```python
 SNAP_RPC=http://andromedad.rpc.t.stavr.tech:4137
-peers="247f3c2bed475978af238d97be68226c1f084180@andromedad.peer.stavr.tech:4376"
+peers="d083506ef2e9d5f2ee22dabf4fa893a72e6cf483@andromedad.peer.stavr.tech:4376"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.andromedad/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 100)); \
@@ -43,7 +43,7 @@ sudo systemctl restart andromedad && journalctl -u andromedad -f -o cat
 🔥API🔥:         https://andromedad.api.t.stavr.tech \
 🔥RPC🔥:         http://andromedad.rpc.t.stavr.tech:4137                  `Snapshot-interval = 100` \
 🔥gRPC🔥:        http://andromedad.grpc.t.stavr.tech:11090 \
-🔥peer🔥:        `247f3c2bed475978af238d97be68226c1f084180@andromedad.peer.stavr.tech:4376` \
+🔥peer🔥:        `d083506ef2e9d5f2ee22dabf4fa893a72e6cf483@andromedad.peer.stavr.tech:4376` \
 🔥WASM🔥: updated every 10 hours `curl -o - -L http://andromedad.wasm.stavr.tech:1002/wasm-andromedad.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.andromedad --strip-components 2` \
 🔥Genesis🔥: `wget -O $HOME/.andromedad/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/genesis.json"` \
 🔥Addrbook🔥: `wget -O $HOME/.andromedad/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/addrbook.json"` \
