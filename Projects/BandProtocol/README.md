@@ -1,4 +1,4 @@
-<h1 align="center"> 🔥BAND🔥</h1>
+<h1 align="center"> 🔥BAND PROTOCOL🔥</h1>
 
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/BandProtocol)
 =
