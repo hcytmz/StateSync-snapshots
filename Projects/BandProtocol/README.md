@@ -94,8 +94,6 @@ sudo systemctl restart bandd && journalctl -u bandd -f -o cat
 <h2 align="center"> We scan nodes in real time every 4 hours. And we provide the final result of RPC endpoints.
 We cannot influence the operation of these nodes in any way. </h2>
 
-[raw json](https://rpc-check.bandm.stavr.tech/bandm/rpcbandm_result.json)
-=
 
 ```python
 If Voting Power is higher than 0 --> then the Node is a validator of the network and may be subject to attack and be a potential threat to the chain.
@@ -104,6 +102,7 @@ If Voting Power is higher than 0 --> then the Node is a validator of the network
 We marked such validators with a red symbol
 ```
 
-
+[raw json](https://rpc-check.bandm.stavr.tech/bandm/rpcbandm_result.json)
+=
 
 <table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>5.9.99.172:22957</td><td>laozi-mainnet</td><td>BRAND-band-relayer 🟢</td><td>23252209</td><td>17555001</td><td>False</td><td>0</td><td>2023-11-20T15:33:22.722086828UTC</td></tr><tr><td>91.246.64.247:26657</td><td>laozi-mainnet</td><td>band4 🟢</td><td>23252202</td><td>19975001</td><td>False</td><td>0</td><td>2023-11-20T15:33:04.042921561UTC</td></tr><tr><td>23.88.91.115:22957</td><td>laozi-mainnet</td><td>SerGo-band-main 🔴</td><td>23252172</td><td>20191963</td><td>False</td><td>7</td><td>2023-11-20T15:31:42.357390656UTC</td></tr><tr><td>213.239.192.52:26657</td><td>laozi-mainnet</td><td>node 🟢</td><td>23252193</td><td>21737961</td><td>False</td><td>0</td><td>2023-11-20T15:32:39.133183868UTC</td></tr><tr><td>65.109.89.45:26657</td><td>laozi-mainnet</td><td>nn 🟢</td><td>23252190</td><td>22126860</td><td>False</td><td>0</td><td>2023-11-20T15:32:30.385309273UTC</td></tr><tr><td>176.9.147.146:46657</td><td>laozi-mainnet</td><td>band-sentry 🟢</td><td>23252183</td><td>23160001</td><td>False</td><td>0</td><td>2023-11-20T15:32:11.185009437UTC</td></tr><tr><td>135.181.210.171:11067</td><td>laozi-mainnet</td><td>STAVR-Service 🟢</td><td>23252191</td><td>23239744</td><td>False</td><td>0</td><td>2023-11-20T15:32:32.776112879UTC</td></tr></table>
