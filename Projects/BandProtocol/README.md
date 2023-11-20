@@ -39,7 +39,7 @@ sudo systemctl restart bandd && journalctl -u bandd -f -o cat
 
 <h1 align="center"> TESTNET</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Juno/Testnet)
+[Node installation instructions]()
 =
 
 # StateSync Band Testnet (Temporarily stopped)
