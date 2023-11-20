@@ -94,6 +94,9 @@ sudo systemctl restart bandd && journalctl -u bandd -f -o cat
 <h2 align="center"> We scan nodes in real time every 4 hours. And we provide the final result of RPC endpoints.
 We cannot influence the operation of these nodes in any way. </h2>
 
+[raw json](https://rpc-check.bandm.stavr.tech/bandm/rpcbandm_result.json)
+=
+
 ```python
 If Voting Power is higher than 0 --> then the Node is a validator of the network and may be subject to attack and be a potential threat to the chain.
 ```
