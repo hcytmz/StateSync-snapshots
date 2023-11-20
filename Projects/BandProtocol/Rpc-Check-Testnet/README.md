@@ -1,4 +1,5 @@
 
-
+[raw json Testnet](https://rpc-check.bandt.stavr.tech/bandt/rpcbandt_result.json)
+=
 
 <table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>222.106.187.14:53602</td><td>band-laozi-testnet6</td><td>Cosmostation 🔴</td><td>13097508</td><td>9380001</td><td>False</td><td>2203223</td><td>2023-11-20T17:12:03.578219772UTC</td></tr><tr><td>35.213.166.39:26657</td><td>band-laozi-testnet6</td><td>internal-1 🟢</td><td>13097509</td><td>12997509</td><td>False</td><td>0</td><td>2023-11-20T17:12:06.800218067UTC</td></tr><tr><td>35.213.189.166:26657</td><td>band-laozi-testnet6</td><td>rest-2 🟢</td><td>13097510</td><td>12997509</td><td>False</td><td>0</td><td>2023-11-20T17:12:08.009726164UTC</td></tr><tr><td>35.213.128.139:26657</td><td>band-laozi-testnet6</td><td>rest-1 🟢</td><td>13097510</td><td>12997510</td><td>False</td><td>0</td><td>2023-11-20T17:12:09.209601059UTC</td></tr><tr><td>135.181.210.171:14057</td><td>band-laozi-testnet6</td><td>STAVR-Service 🟢</td><td>13096610</td><td>13095001</td><td>False</td><td>0</td><td>2023-11-20T17:12:02.241541881UTC</td></tr></table>
