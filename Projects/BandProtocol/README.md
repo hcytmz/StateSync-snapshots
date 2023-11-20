@@ -108,7 +108,7 @@ If Voting Power is higher than 0 --> then the Node is a validator of the network
 We marked such validators with a red symbol
 ```
 
-[raw json Mainnet](https://rpc-check.bandm.stavr.tech/bandm/rpcbandm_result.json)
+[raw json Mainnet](https://rpc-check.bandm.stavr.tech/bandm/rpcbandm_result.json) \
 [raw json Testnet](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/BandProtocol/Rpc-Check-Testnet)
 =
 
