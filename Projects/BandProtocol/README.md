@@ -62,14 +62,14 @@ sudo systemctl stop bandd && bandd tendermint unsafe-reset-all --keep-addr-book
 sudo systemctl restart bandd && journalctl -u bandd -f -o cat
 ```
 
-# SnapShot (~2GB) updated every 5 hours
+# SnapShot Testnet (~2GB) updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
 sudo systemctl stop bandd
 cp $HOME/.band/data/priv_validator_state.json $HOME/.band/priv_validator_state.json.backup
 rm -rf $HOME/.band/data
-curl -o - -L http://band-t.snapshot.stavr.tech:1025/band/band-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.band --strip-components 2
+curl -o - -L http://band-t.snapshot.stavr.tech:1025/bandt/bandt-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.band --strip-components 2
 mv $HOME/.band/priv_validator_state.json.backup $HOME/.band/data/priv_validator_state.json
 wget -O $HOME/.band/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/BandProtocol/Testnet/addrbook.json"
 sudo systemctl restart bandd && journalctl -u bandd -f -o cat
