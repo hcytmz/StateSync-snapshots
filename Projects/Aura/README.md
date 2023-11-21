@@ -54,5 +54,19 @@ sudo systemctl restart aurad && journalctl -u aurad -f -o cat
 🔥Genesis🔥:  `wget -O $HOME/.aura/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Aura/genesis.json"` \
 🔥Auto_install script🔥:`wget -O auram https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Aura/auram && chmod +x auram && ./auram`
 
+<h2 align="center"> We scan nodes in real time every 4 hours. And we provide the final result of RPC endpoints.
+We cannot influence the operation of these nodes in any way. </h2>
+
+```python
+If Voting Power is higher than 0 --> then the Node is a validator of the network and may be subject to attack and be a potential threat to the chain.
+```
+```python
+We marked such validators with a red symbol
+```
+
+[raw json](https://rpc-check.auram.stavr.tech/auram/rpcauram_result.json)
+=
+
+
 
 <table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>148.251.88.145:10457</td><td>xstaxy-1</td><td>palamar-archive-node 🟢</td><td>3743896</td><td>1</td><td>False</td><td>0</td><td>2023-11-21T18:15:26.871856418UTC</td></tr><tr><td>65.109.93.152:34657</td><td>xstaxy-1</td><td>AlxVoy 🟢</td><td>3743898</td><td>1</td><td>False</td><td>0</td><td>2023-11-21T18:15:38.052250172UTC</td></tr><tr><td>142.132.202.86:30001</td><td>xstaxy-1</td><td>ramuchi.tech 🟢</td><td>3743899</td><td>1</td><td>False</td><td>0</td><td>2023-11-21T18:15:42.373633979UTC</td></tr><tr><td>65.108.141.109:54657</td><td>xstaxy-1</td><td>node 🟢</td><td>3743897</td><td>151001</td><td>False</td><td>0</td><td>2023-11-21T18:15:29.249339284UTC</td></tr><tr><td>195.3.221.76:21657</td><td>xstaxy-1</td><td>stakr-space 🔴</td><td>3743893</td><td>864001</td><td>False</td><td>2000010</td><td>2023-11-21T18:15:09.673096019UTC</td></tr><tr><td>174.138.180.190:60757</td><td>xstaxy-1</td><td>UTSA_guide 🟢</td><td>3743894</td><td>2058001</td><td>False</td><td>0</td><td>2023-11-21T18:15:12.335783548UTC</td></tr><tr><td>185.162.249.161:28657</td><td>xstaxy-1</td><td>tienthuattoan 🟢</td><td>3743899</td><td>2511001</td><td>False</td><td>0</td><td>2023-11-21T18:15:42.622004547UTC</td></tr><tr><td>65.108.195.29:51657</td><td>xstaxy-1</td><td>Staketab-snap 🟢</td><td>3743898</td><td>2531501</td><td>False</td><td>0</td><td>2023-11-21T18:15:37.727532937UTC</td></tr><tr><td>208.77.197.83:27657</td><td>xstaxy-1</td><td>vidulum.app 🟢</td><td>3743893</td><td>3205801</td><td>False</td><td>0</td><td>2023-11-21T18:15:07.279617085UTC</td></tr><tr><td>95.217.207.236:27557</td><td>xstaxy-1</td><td>web34ever 🟢</td><td>3743900</td><td>3529001</td><td>False</td><td>0</td><td>2023-11-21T18:15:51.135594988UTC</td></tr><tr><td>135.181.210.171:11047</td><td>xstaxy-1</td><td>STAVR-Service 🟢</td><td>3743904</td><td>3742001</td><td>False</td><td>0</td><td>2023-11-21T18:16:09.860814246UTC</td></tr><tr><td>65.109.112.170:31657</td><td>xstaxy-1</td><td>NJ 🟢</td><td>3743905</td><td>3742001</td><td>False</td><td>0</td><td>2023-11-21T18:16:18.354360586UTC</td></tr></table>
