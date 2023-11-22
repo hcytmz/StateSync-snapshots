@@ -53,8 +53,12 @@ sudo systemctl restart bcnad && journalctl -u bcnad -f -o cat
 
 
 
+<details>
+<summary>RPC Scanning</summary>
+
 <h2 align="center"> We scan nodes in real time every 4 hours. And we provide the final result of RPC endpoints.
 We cannot influence the operation of these nodes in any way. </h2>
+
 
 ```python
 If Voting Power is higher than 0 --> then the Node is a validator of the network and may be subject to attack and be a potential threat to the chain.
@@ -62,6 +66,8 @@ If Voting Power is higher than 0 --> then the Node is a validator of the network
 ```python
 We marked such validators with a red symbol
 ```
+
+</details>
 
 [raw json](https://rpc-check.bcam.stavr.tech/bcam/rpc-bcam-result.json)
 =
