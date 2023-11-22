@@ -50,11 +50,14 @@ sudo systemctl restart c4ed && journalctl -u c4ed -f -o cat
 
 
 
+
+
+<details>
+<summary>RPC Scanning</summary>
+
 <h2 align="center"> We scan nodes in real time every 4 hours. And we provide the final result of RPC endpoints.
 We cannot influence the operation of these nodes in any way. </h2>
 
-<details>
-<summary>Description</summary>
 
 ```python
 If Voting Power is higher than 0 --> then the Node is a validator of the network and may be subject to attack and be a potential threat to the chain.
