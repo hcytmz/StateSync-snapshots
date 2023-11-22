@@ -45,7 +45,7 @@ sudo systemctl restart Cardchaind && journalctl -u Cardchaind -f -o cat
 🔥peer🔥:        `ec585d7fb38b67619dcb79aad90722f0eaf0faa3@crowd.peer.stavr.tech:21206` \
 🔥Addrbook🔥:    ```wget -O $HOME/.Cardchain/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Crowd_Control/addrbook.json"``` \
 🔥Auto_install script🔥: ```wget -O crowd https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Crowd_Control/crowd && chmod +x crowd && ./crowd``` \
-[🔥RPC Scanner🔥](https://github.com/obajay/nodes-Guides/tree/main/Projects/Crowd_Control#-we-scan-nodes-in-real-time-every-4-hours-and-we-provide-the-final-result-of-rpc-endpointswe-cannot-influence-the-operation-of-these-nodes-in-any-way-)
+[🔥RPC Scanner🔥](https://github.com/obajay/nodes-Guides/tree/main/Projects/Crowd_Control#-we-scan-nodes-in-real-time-every-4-hours-and-we-provide-the-final-result-of-rpc-endpointswe-cannot-influence-the-operation-of-these-nodes-in-any-way-) [RAW JSON](https://rpc-check.crowd.stavr.tech/crowd/rpc_result.json)
 
 
 # Cardchain Parameters:
