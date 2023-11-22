@@ -52,4 +52,20 @@ sudo systemctl restart bcnad && journalctl -u bcnad -f -o cat
 🔥Auto_install script Mainnet🔥:```wget -O bitcanna https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Bitcanna/bitcanna && chmod +x bitcanna && ./bitcanna```
 
 
+
+<h2 align="center"> We scan nodes in real time every 4 hours. And we provide the final result of RPC endpoints.
+We cannot influence the operation of these nodes in any way. </h2>
+
+```python
+If Voting Power is higher than 0 --> then the Node is a validator of the network and may be subject to attack and be a potential threat to the chain.
+```
+```python
+We marked such validators with a red symbol
+```
+
+[raw json](https://rpc-check.bcam.stavr.tech/bcam/rpc-bcam-result.json)
+=
+
+
+
 <table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>65.108.43.170:16657</td><td>bitcanna-1</td><td>second 🟢</td><td>11349892</td><td>1</td><td>False</td><td>0</td><td>2023-11-22T08:28:52.332459767UTC</td></tr><tr><td>95.216.242.82:36657</td><td>bitcanna-1</td><td>Moniker 🟢</td><td>11349879</td><td>5776907</td><td>False</td><td>0</td><td>2023-11-22T08:27:35.245298466UTC</td></tr><tr><td>65.108.142.81:26683</td><td>bitcanna-1</td><td>Stakely.io 🟢</td><td>11349883</td><td>6152001</td><td>False</td><td>0</td><td>2023-11-22T08:27:58.639109971UTC</td></tr><tr><td>93.115.25.15:26657</td><td>bitcanna-1</td><td>Stakely.io 🟢</td><td>11349882</td><td>6520001</td><td>False</td><td>0</td><td>2023-11-22T08:27:52.108624771UTC</td></tr><tr><td>144.76.97.251:27657</td><td>bitcanna-1</td><td>AlxVoy 🟢</td><td>11349887</td><td>8805201</td><td>False</td><td>0</td><td>2023-11-22T08:28:23.659949896UTC</td></tr><tr><td>185.144.99.40:46657</td><td>bitcanna-1</td><td>cryptech 🟢</td><td>11349879</td><td>9301501</td><td>False</td><td>0</td><td>2023-11-22T08:27:32.251965949UTC</td></tr><tr><td>65.109.155.238:33657</td><td>bitcanna-1</td><td>MultVR 🔴</td><td>11349884</td><td>9933415</td><td>False</td><td>348844</td><td>2023-11-22T08:28:05.556030313UTC</td></tr><tr><td>65.108.76.33:26777</td><td>bitcanna-1</td><td>StakePool-bitcanna 🟢</td><td>11349879</td><td>10823915</td><td>False</td><td>0</td><td>2023-11-22T08:27:34.645234807UTC</td></tr><tr><td>65.109.93.152:26357</td><td>bitcanna-1</td><td>AlxVoy 🔴</td><td>11349889</td><td>10824001</td><td>False</td><td>1391603</td><td>2023-11-22T08:28:31.550525645UTC</td></tr><tr><td>193.34.144.156:26657</td><td>bitcanna-1</td><td>Paranorm 🟢</td><td>11349885</td><td>10961301</td><td>False</td><td>0</td><td>2023-11-22T08:28:12.294949391UTC</td></tr><tr><td>65.108.131.190:21957</td><td>bitcanna-1</td><td>bitcanna 🔴</td><td>11349885</td><td>11249885</td><td>False</td><td>408032</td><td>2023-11-22T08:28:12.009762936UTC</td></tr><tr><td>161.97.150.65:26657</td><td>bitcanna-1</td><td>New_peer 🟢</td><td>11349883</td><td>11334001</td><td>False</td><td>0</td><td>2023-11-22T08:27:59.008624185UTC</td></tr><tr><td>168.119.36.251:11657</td><td>bitcanna-1</td><td>Indonode-Service 🟢</td><td>11349879</td><td>11344001</td><td>False</td><td>0</td><td>2023-11-22T08:27:34.893671315UTC</td></tr><tr><td>144.91.65.13:26667</td><td>bitcanna-1</td><td>AviaDoc_by_AviaOne 🟢</td><td>11349885</td><td>11344001</td><td>False</td><td>0</td><td>2023-11-22T08:28:18.972013566UTC</td></tr><tr><td>135.181.210.171:21327</td><td>bitcanna-1</td><td>STAVR-Service 🟢</td><td>11349887</td><td>11348001</td><td>False</td><td>0</td><td>2023-11-22T08:28:23.401982200UTC</td></tr></table>
