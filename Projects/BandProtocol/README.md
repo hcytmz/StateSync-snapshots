@@ -97,6 +97,9 @@ sudo systemctl restart bandd && journalctl -u bandd -f -o cat
 🔥Auto_install script Mainnet🔥: ```wget -O bandm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/BandProtocol/bandm && chmod +x bandm && ./bandm``` \
 🔥Auto_install script Testnet🔥: ```wget -O bandt https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/BandProtocol/Testnet/bandt && chmod +x bandt && ./bandt```
 
+<details>
+<summary>RPC Scanning</summary>
+
 <h2 align="center"> We scan nodes in real time every 4 hours. And we provide the final result of RPC endpoints.
 We cannot influence the operation of these nodes in any way. </h2>
 
@@ -107,6 +110,8 @@ If Voting Power is higher than 0 --> then the Node is a validator of the network
 ```python
 We marked such validators with a red symbol
 ```
+
+</details>
 
 [raw json Mainnet](https://rpc-check.bandm.stavr.tech/bandm/rpcbandm_result.json) \
 [raw json Testnet](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/BandProtocol/Rpc-Check-Testnet)
