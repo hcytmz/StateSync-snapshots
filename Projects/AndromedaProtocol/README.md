@@ -76,13 +76,21 @@ sudo systemctl restart andromedad && journalctl -u andromedad -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:    https://explorer.stavr.tech/Andromedad-testnet/staking            `Indexer "ON"` \
-🔥API🔥:         https://andromedad.api.t.stavr.tech \
-🔥RPC🔥:         http://andromedad.rpc.t.stavr.tech:4137                  `Snapshot-interval = 100` \
-🔥gRPC🔥:        http://andromedad.grpc.t.stavr.tech:11090 \
-🔥peer🔥:        `d083506ef2e9d5f2ee22dabf4fa893a72e6cf483@andromedad.peer.stavr.tech:4376` \
-🔥WASM🔥: updated every 10 hours `curl -o - -L http://andromedad.wasm.stavr.tech:1002/wasm-andromedad.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.andromedad --strip-components 2` \
+🔥EXPLORER-M🔥:    https://explorer.stavr.tech/Andromeda-Mainnet            `Indexer "ON"` \
+🔥EXPLORER-T🔥:    https://explorer.stavr.tech/Andromedad-testnet/staking            `Indexer "ON"` \
+🔥API-M🔥:         https://andro.api.m.stavr.tech \
+🔥API-T🔥:         https://andromedad.api.t.stavr.tech \
+🔥RPC-M🔥:         https://andro.rpc.m.stavr.tech:443                  `Snapshot-interval = 100` \
+🔥RPC-T🔥:         http://andromedad.rpc.t.stavr.tech:4137                  `Snapshot-interval = 100` \
+🔥gRPC-M🔥:        http://andromedad.grpc.t.stavr.tech:132 \
+🔥gRPC-T🔥:        http://andromedad.grpc.t.stavr.tech:11090 \
+🔥peer-M🔥:        `e4c2267b90c7cfbb45090ab7647dc01df97f58f9@andromeda-m.peer.stavr.tech:4376` \
+🔥peer-T🔥:        `d083506ef2e9d5f2ee22dabf4fa893a72e6cf483@andromedad.peer.stavr.tech:4376` \
+🔥WASM-M🔥: updated every 2 hours `curl -o - -L http://andro.wasm.stavr.tech:1017/wasm-andromeda.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.andromeda --strip-components 2` \
+🔥WASM-T🔥: updated every 2 hours `curl -o - -L http://andromedad.wasm.stavr.tech:1002/wasm-andromedad.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.andromedad --strip-components 2` \
+🔥Genesis-M🔥: `wget -O $HOME/.andromeda/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/genesis.json"` \
 🔥Genesis-T🔥: `wget -O $HOME/.andromedad/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/Testnet/genesis.json"` \
+🔥Addrbook-M🔥: `wget -O $HOME/.andromeda/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/addrbook.json"` \
 🔥Addrbook-T🔥: `wget -O $HOME/.andromedad/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/Testnet/addrbook.json"` \
 🔥Auto_install script-T🔥: `wget -O adprotocol https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/Testnet/adprotocol && chmod +x adprotocol && ./adprotocol`
 
