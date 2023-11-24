@@ -1,11 +1,52 @@
-<h1 align="center"> 🔥AndromedaProtocol🔥</h1>
+<h1 align="center"> 🔥AndromedaProtocol Mainnet🔥</h1>
 
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/AndromedaProtocol)
 =
 
 <h1 align="center"> TESTNET</h1>
 
-# StateSync Andromedad Testnet
+# StateSync Andromedad Mainnet
+```python
+SNAP_RPC=https://andro.rpc.m.stavr.tech:443
+peers=e4c2267b90c7cfbb45090ab7647dc01df97f58f9@andromeda-m.peer.stavr.tech:4376
+sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.andromeda/config/config.toml
+LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
+BLOCK_HEIGHT=$((LATEST_HEIGHT - 1000)); \
+TRUST_HASH=$(curl -s "$SNAP_RPC/block?height=$BLOCK_HEIGHT" | jq -r .result.block_id.hash)
+
+echo $LATEST_HEIGHT $BLOCK_HEIGHT $TRUST_HASH
+
+sed -i.bak -E "s|^(enable[[:space:]]+=[[:space:]]+).*$|\1true| ; \
+s|^(rpc_servers[[:space:]]+=[[:space:]]+).*$|\1\"$SNAP_RPC,$SNAP_RPC\"| ; \
+s|^(trust_height[[:space:]]+=[[:space:]]+).*$|\1$BLOCK_HEIGHT| ; \
+s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
+s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.andromeda/config/config.toml
+andromedad tendermint unsafe-reset-all --home $HOME/.andromeda
+systemctl restart andromedad && journalctl -u andromedad -f -o cat
+```
+# SnapShot Mainnet (~0.5 GB) updated every 5 hours
+```python
+cd $HOME
+apt install lz4
+sudo systemctl stop andromedad
+cp $HOME/.andromeda/data/priv_validator_state.json $HOME/.andromeda/priv_validator_state.json.backup
+rm -rf $HOME/.andromeda/data
+curl -o - -L http://andro.snapshot.stavr.tech:1030/andromeda/andromeda-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.andromeda --strip-components 2
+curl -o - -L http://andro.wasm.stavr.tech:1017/wasm-andromeda.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.andromeda --strip-components 2
+mv $HOME/.andromeda/priv_validator_state.json.backup $HOME/.andromeda/data/priv_validator_state.json
+wget -O $HOME/.andromeda/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/addrbook.json"
+sudo systemctl restart andromedad && journalctl -u andromedad -f -o cat
+```
+
+
+<h1 align="center"> 🔥AndromedaProtocol Testnet🔥</h1>
+
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/AndromedaProtocol/Testnet)
+=
+
+<h1 align="center"> TESTNET</h1>
+
+# StateSync Andromedad Testnet (Temporarily disable)
 ```python
 SNAP_RPC=http://andromedad.rpc.t.stavr.tech:4137
 peers="d083506ef2e9d5f2ee22dabf4fa893a72e6cf483@andromedad.peer.stavr.tech:4376"
@@ -24,7 +65,7 @@ s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.andromedad/config/config.
 andromedad tendermint unsafe-reset-all --home $HOME/.andromedad
 systemctl restart andromedad && journalctl -u andromedad -f -o cat
 ```
-# SnapShot (~0.5 GB) updated every 5 hours
+# SnapShot Testnet (~0.5 GB) (Temporarily disable)
 ```python
 cd $HOME
 apt install lz4
@@ -45,11 +86,9 @@ sudo systemctl restart andromedad && journalctl -u andromedad -f -o cat
 🔥gRPC🔥:        http://andromedad.grpc.t.stavr.tech:11090 \
 🔥peer🔥:        `d083506ef2e9d5f2ee22dabf4fa893a72e6cf483@andromedad.peer.stavr.tech:4376` \
 🔥WASM🔥: updated every 10 hours `curl -o - -L http://andromedad.wasm.stavr.tech:1002/wasm-andromedad.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.andromedad --strip-components 2` \
-🔥Genesis🔥: `wget -O $HOME/.andromedad/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/genesis.json"` \
-🔥Addrbook🔥: `wget -O $HOME/.andromedad/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/addrbook.json"` \
-🔥Auto_install script🔥: `wget -O adprotocol https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/adprotocol && chmod +x adprotocol && ./adprotocol`
-
-
+🔥Genesis-T🔥: `wget -O $HOME/.andromedad/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/Testnet/genesis.json"` \
+🔥Addrbook-T🔥: `wget -O $HOME/.andromedad/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/Testnet/addrbook.json"` \
+🔥Auto_install script-T🔥: `wget -O adprotocol https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/Testnet/adprotocol && chmod +x adprotocol && ./adprotocol`
 
 <details>
 <summary>RPC Scanning</summary>
