@@ -3,8 +3,6 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/AndromedaProtocol)
 =
 
-<h1 align="center"> TESTNET</h1>
-
 # StateSync Andromedad Mainnet
 ```python
 SNAP_RPC=https://andro.rpc.m.stavr.tech:443
@@ -43,8 +41,6 @@ sudo systemctl restart andromedad && journalctl -u andromedad -f -o cat
 
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/AndromedaProtocol/Testnet)
 =
-
-<h1 align="center"> TESTNET</h1>
 
 # StateSync Andromedad Testnet (Temporarily disable)
 ```python
