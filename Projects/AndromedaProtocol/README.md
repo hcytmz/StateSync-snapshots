@@ -110,7 +110,7 @@ We marked such validators with a red symbol
 
 </details>
 
-[raw json](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/AndromedaProtocol/Rpc-Check-Testnet)
+[raw Mainnet json](https://rpc-check.androm.stavr.tech/androm/rpc-androm-result.json)
 =
 
 <table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Voting Power</th><th>Scan Time</th></tr></table>
