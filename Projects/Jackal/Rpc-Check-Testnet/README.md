@@ -1,1 +1,4 @@
 
+
+
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>65.109.93.152:31657</td><td>lupulella-2</td><td>LiluPunk 🔴</td><td>5424683</td><td>3688866</td><td>False</td><td>685033</td><td>2023-11-25T11:31:47.470870939UTC</td></tr><tr><td>51.89.232.234:27687</td><td>lupulella-2</td><td>cyberG 🟢</td><td>5402825</td><td>3693701</td><td>False</td><td>0</td><td>2023-11-25T11:31:53.938399604UTC</td></tr><tr><td>144.126.140.252:29657</td><td>lupulella-2</td><td>moodman 🔴</td><td>5424684</td><td>5324684</td><td>False</td><td>769094</td><td>2023-11-25T11:31:54.703630763UTC</td></tr><tr><td>135.181.210.171:19127</td><td>lupulella-2</td><td>STAVR-Service 🟢</td><td>5424683</td><td>5424001</td><td>False</td><td>0</td><td>2023-11-25T11:31:47.134273520UTC</td></tr></table>
