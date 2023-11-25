@@ -2,7 +2,7 @@
 
 ![eywa](https://user-images.githubusercontent.com/44331529/233964599-6d89835c-b2f4-4b4c-9814-c2fbc2b30db3.png)
 
-<h1 align="center"> 🔥MAINNET🔥</h1>
+<h1 align="center"> 🟢MAINNET🟢</h1>
 
 ## Automatic Mainnet snapshot unpacking  (database is updated every 5 minutes)
 ```python
