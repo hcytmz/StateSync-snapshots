@@ -48,5 +48,23 @@ sudo systemctl restart hid-noded && journalctl -u hid-noded -f -o cat
 🔥Addrbook🔥:    ```wget -O $HOME/.hid-node/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Hypersign/addrbook.json"``` \
 🔥Auto_install script🔥: ```wget -O hyper https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Hypersign/hyper && chmod +x hyper && ./hyper```
 
+<details>
+<summary>RPC Scanning</summary>
+
+<h2 align="center"> We scan nodes in real time every 4 hours. And we provide the final result of RPC endpoints.
+We cannot influence the operation of these nodes in any way. </h2>
+
+
+```python
+If Voting Power is higher than 0 --> then the Node is a validator of the network and may be subject to attack and be a potential threat to the chain.
+```
+```python
+We marked such validators with a red symbol
+```
+
+</details>
+
+[raw Testnet json](https://rpc-check.hypert.stavr.tech/hypert/rpc-hypert-result.json)
+=
 
 <table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>95.217.207.236:24557</td><td>jagrat</td><td>web34ever 🔴</td><td>6286683</td><td>5962514</td><td>False</td><td>223838</td><td>2023-11-25T11:07:38.959278431UTC</td></tr><tr><td>65.109.28.177:29227</td><td>jagrat</td><td>AlxVoy 🔴</td><td>6286682</td><td>6024901</td><td>False</td><td>261966</td><td>2023-11-25T11:07:36.317468551UTC</td></tr><tr><td>23.88.55.152:46657</td><td>jagrat</td><td>cryptobtcbuyer 🔴</td><td>6286682</td><td>6204001</td><td>False</td><td>265132</td><td>2023-11-25T11:07:33.239417422UTC</td></tr><tr><td>213.239.207.175:34657</td><td>jagrat</td><td>landeros 🔴</td><td>6286682</td><td>6229701</td><td>False</td><td>230530</td><td>2023-11-25T11:07:36.556892045UTC</td></tr><tr><td>65.108.238.61:56657</td><td>jagrat</td><td>alex 🟢</td><td>6286483</td><td>6285701</td><td>False</td><td>0</td><td>2023-11-25T11:07:33.597993228UTC</td></tr></table>
