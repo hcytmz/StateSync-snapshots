@@ -92,4 +92,24 @@ sudo systemctl restart canined && journalctl -u canined -f -o cat
 🔥Auto_install script Testnet🔥: ```wget -O jkltest https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Jakal/Jackal-Testnet/jkltest && chmod +x jkltest && ./jkltest```
 
 
+<details>
+<summary>RPC Scanning</summary>
+
+<h2 align="center"> We scan nodes in real time every 4 hours. And we provide the final result of RPC endpoints.
+We cannot influence the operation of these nodes in any way. </h2>
+
+
+```python
+If Voting Power is higher than 0 --> then the Node is a validator of the network and may be subject to attack and be a potential threat to the chain.
+```
+```python
+We marked such validators with a red symbol
+```
+
+</details>
+
+[raw json Mainnet](https://rpc-check.jaclalm.stavr.tech/jaclalm/rpc-jaclalm-result.json) \
+[raw json Testnet](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Jackal/Rpc-Check-Testnet)
+=
+
 <table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>167.142.158.242:36657</td><td>jackal-1</td><td>jackal-archive 🟢</td><td>5362765</td><td>2770293</td><td>False</td><td>0</td><td>2023-11-25T11:24:35.504263244UTC</td></tr><tr><td>65.108.226.26:31657</td><td>jackal-1</td><td>NODERSTEAMSERVICE 🟢</td><td>5362755</td><td>4612701</td><td>False</td><td>0</td><td>2023-11-25T11:23:32.959118740UTC</td></tr><tr><td>65.21.139.150:37657</td><td>jackal-1</td><td>nkbblocks 🟢</td><td>5362757</td><td>4985001</td><td>False</td><td>0</td><td>2023-11-25T11:23:43.818061491UTC</td></tr><tr><td>174.138.180.190:60857</td><td>jackal-1</td><td>UTSA_guide 🟢</td><td>5362760</td><td>5137845</td><td>False</td><td>0</td><td>2023-11-25T11:23:59.121233325UTC</td></tr><tr><td>65.108.141.109:18657</td><td>jackal-1</td><td>node 🟢</td><td>5362756</td><td>5140847</td><td>False</td><td>0</td><td>2023-11-25T11:23:35.331972362UTC</td></tr><tr><td>208.77.197.83:28657</td><td>jackal-1</td><td>vidulum.app 🟢</td><td>5362765</td><td>5198401</td><td>False</td><td>0</td><td>2023-11-25T11:24:32.725481979UTC</td></tr><tr><td>65.108.75.107:18657</td><td>jackal-1</td><td>node 🟢</td><td>5362761</td><td>5215600</td><td>False</td><td>0</td><td>2023-11-25T11:24:07.708708670UTC</td></tr><tr><td>135.181.114.86:13759</td><td>jackal-1</td><td>YOUR_MONIKER_GOES_HERE 🔴</td><td>5362761</td><td>5235006</td><td>False</td><td>86326</td><td>2023-11-25T11:24:08.056501956UTC</td></tr><tr><td>65.21.90.141:12131</td><td>jackal-1</td><td>SerGo 🔴</td><td>5362757</td><td>5262757</td><td>False</td><td>51025</td><td>2023-11-25T11:23:44.182640761UTC</td></tr><tr><td>94.130.137.122:33657</td><td>jackal-1</td><td>Vagif 🔴</td><td>5362765</td><td>5262765</td><td>False</td><td>60579</td><td>2023-11-25T11:24:31.920358676UTC</td></tr><tr><td>65.109.116.50:27657</td><td>jackal-1</td><td>Vagif 🟢</td><td>5362767</td><td>5262767</td><td>False</td><td>0</td><td>2023-11-25T11:24:46.027099447UTC</td></tr><tr><td>65.108.44.149:23657</td><td>jackal-1</td><td>ams 🟢</td><td>5362763</td><td>5321263</td><td>False</td><td>0</td><td>2023-11-25T11:24:23.069404500UTC</td></tr><tr><td>65.108.66.174:27657</td><td>jackal-1</td><td>hello-BccNodesRPC 🟢</td><td>5362762</td><td>5339301</td><td>False</td><td>0</td><td>2023-11-25T11:24:16.593465166UTC</td></tr><tr><td>65.108.230.113:11127</td><td>jackal-1</td><td>STAVR-Service 🟢</td><td>5362764</td><td>5359801</td><td>False</td><td>0</td><td>2023-11-25T11:24:25.450923312UTC</td></tr></table>
