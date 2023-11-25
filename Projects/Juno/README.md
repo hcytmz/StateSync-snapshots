@@ -99,3 +99,23 @@ sudo systemctl restart junod && journalctl -u junod -f -o cat
 🔥Addrbook Testnet🔥:    ```wget -O $HOME/.juno/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Juno/Testnet/addrbook.json"``` \
 🔥Auto_install script Mainnet🔥: ```wget -O jun https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Juno/jun && chmod +x jun && ./jun``` \
 🔥Auto_install script Testnet🔥: ```wget -O juno-t https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Juno/Testnet/juno-t && chmod +x juno-t && ./juno-t```
+
+<details>
+<summary>RPC Scanning</summary>
+
+<h2 align="center"> We scan nodes in real time every 4 hours. And we provide the final result of RPC endpoints.
+We cannot influence the operation of these nodes in any way. </h2>
+
+
+```python
+If Voting Power is higher than 0 --> then the Node is a validator of the network and may be subject to attack and be a potential threat to the chain.
+```
+```python
+We marked such validators with a red symbol
+```
+
+</details>
+
+[raw json Mainnet](https://rpc-check.junom.stavr.tech/junom/rpc-junom-result.json) \
+[raw json Testnet](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Juno/Rpc-Check-Testnet)
+=
