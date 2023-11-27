@@ -46,3 +46,23 @@ sudo systemctl restart rebusd && journalctl -u rebusd -f -o cat
 🔥peer🔥:                     `629adb3c3c5331a562a978bc093238ae1b0b6720@rebus.peer.stavr.tech:40106` \
 🔥Addrbook🔥:    ```wget -O $HOME/.rebusd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Rebus/addrbook.json"``` \
 🔥Auto_install script🔥: ```wget -O rebuss https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Rebus/rebuss && chmod +x rebuss && ./rebuss```
+
+<details>
+<summary>RPC Scanning</summary>
+
+<h2 align="center"> We scan nodes in real time every 4 hours. And we provide the final result of RPC endpoints.
+We cannot influence the operation of these nodes in any way. </h2>
+
+
+```python
+If Voting Power is higher than 0 --> then the Node is a validator of the network and may be subject to attack and be a potential threat to the chain.
+```
+```python
+We marked such validators with a red symbol
+```
+
+</details>
+
+[raw json Mainnet](https://rpc-check.rebusm.stavr.tech/rebusm/rpc-rebusm-result.json)
+=
+
