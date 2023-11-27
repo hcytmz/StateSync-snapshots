@@ -69,7 +69,8 @@ We marked such validators with a red symbol
 
 </details>
 
-[raw json](https://rpc-check.bcam.stavr.tech/bcam/rpc-bcam-result.json)
+[raw Mainnet json](https://rpc-check.bcam.stavr.tech/bcam/rpc-bcam-result.json) \
+[raw Testnet json](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna/Rpc-Check-Testnet)
 =
 
 
