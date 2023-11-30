@@ -1,4 +1,4 @@
 [raw json Testnet](https://rpc-check.jaclalt.stavr.tech/jaclalt/rpc-jaclalt-result.json)
 =
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>65.109.93.152:31657</td><td>lupulella-2</td><td>LiluPunk 🔴</td><td>5493583</td><td>3688866</td><td>False</td><td>685033</td><td>2023-11-29T23:51:54.323889243UTC</td></tr><tr><td>144.126.140.252:29657</td><td>lupulella-2</td><td>moodman 🔴</td><td>5493584</td><td>5393584</td><td>False</td><td>769094</td><td>2023-11-29T23:52:01.181118285UTC</td></tr><tr><td>135.181.210.171:19127</td><td>lupulella-2</td><td>STAVR-Service 🟢</td><td>5493583</td><td>5491401</td><td>False</td><td>0</td><td>2023-11-29T23:51:54.004942557UTC</td></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Voting Power</th><th>Scan Time</th></tr></table>
