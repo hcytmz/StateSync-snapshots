@@ -27,7 +27,15 @@ sudo systemctl restart shentud && journalctl -u shentud -f -o cat
 ```
 # SnapShot (~2 GB) updated every 5 hours
 ```python
-SOON
+cd $HOME
+apt install lz4
+sudo systemctl stop shentud
+cp $HOME/.shentud/data/priv_validator_state.json $HOME/.shentud/priv_validator_state.json.backup
+rm -rf $HOME/.shentud/data
+curl -o - -L http://shentu.snapshot.stavr.tech:2/shentud/shentud-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.shentud --strip-components 2
+mv $HOME/.shentud/priv_validator_state.json.backup $HOME/.shentud/data/priv_validator_state.json
+wget -O $HOME/.shentud/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Shentu/addrbook.json"
+sudo systemctl restart shentud && journalctl -u shentud -f -o cat
 ```
 
  <h1 align="center"> Useful Tools</h1>
