@@ -68,3 +68,6 @@ We marked such validators with a red symbol
 [raw Mainnet json](https://rpc-check.pointm.stavr.tech/pointm/rpc-pointm-result.json)
 =
 
+
+
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>65.21.90.141:12141</td><td>point_10687-1</td><td>point-mainnet 🔴</td><td>24727592</td><td>24627592</td><td>False</td><td>6500009</td><td>2023-12-04T10:59:52.162459135UTC</td></tr><tr><td>66.45.246.166:1057</td><td>point_10687-1</td><td>STAVR-Service 🟢</td><td>24727594</td><td>24726601</td><td>False</td><td>0</td><td>2023-12-04T10:59:54.844725581UTC</td></tr></table>
