@@ -70,7 +70,7 @@ We marked such validators with a red symbol
 
 </details>
 
-[raw json](https://rpc-check.auram.stavr.tech/auram/rpcauram_result.json)
+[raw Mainnet json](https://rpc-check.auram.stavr.tech/auram/rpcauram_result.json)
 =
 
 
