@@ -25,7 +25,7 @@ shentud tendermint unsafe-reset-all --home $HOME/.shentud --keep-addr-book
 mv $HOME/.shentud/priv_validator_state.json.backup $HOME/.shentud/data/priv_validator_state.json
 sudo systemctl restart shentud && journalctl -u shentud -f -o cat
 ```
-# SnapShot (~2 GB) updated every 5 hours
+# SnapShot (~3 GB) updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
