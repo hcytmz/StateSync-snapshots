@@ -6,8 +6,8 @@
 
 # StateSync
 ```python
-SNAP_RPC=
-SEEDS=
+SNAP_RPC=http://like.rpc.m.stavr.tech:1007
+SEEDS=fd7589625f4ad41bb93f96f4c962ed6638426497@like.peer.stavr.tech:1006
 cp $HOME/.liked/data/priv_validator_state.json $HOME/.liked/priv_validator_state.json.backup
 sed -i -e "/seeds =/ s/= .*/= \"$SEEDS\"/"  $HOME/.liked/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
