@@ -25,7 +25,7 @@ ixod tendermint unsafe-reset-all --home $HOME/.ixod --keep-addr-book
 mv $HOME/.ixod/priv_validator_state.json.backup $HOME/.ixod/data/priv_validator_state.json
 sudo systemctl restart ixod && journalctl -u ixod -f -o cat
 ```
-# SnapShot (~3 GB) updated every 5 hours
+# SnapShot (~0.2 GB) updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
