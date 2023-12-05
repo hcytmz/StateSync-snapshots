@@ -68,3 +68,6 @@ We marked such validators with a red symbol
 [raw Mainnet json](https://rpc-check.planqm.stavr.tech/planqm/rpc-planqm-result.json)
 =
 
+
+
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>185.190.140.93:14657</td><td>planq_7070-2</td><td>geonodes 🔴</td><td>6337519</td><td>1763655</td><td>False</td><td>623550</td><td>2023-12-05T07:40:36.519032593UTC</td></tr><tr><td>65.108.66.174:31657</td><td>planq_7070-2</td><td>hello-BccNodesRPC 🟢</td><td>6337527</td><td>6064001</td><td>False</td><td>0</td><td>2023-12-05T07:41:17.016413838UTC</td></tr><tr><td>66.45.246.166:1077</td><td>planq_7070-2</td><td>STAVR-Service 🟢</td><td>6337525</td><td>6337001</td><td>False</td><td>0</td><td>2023-12-05T07:41:05.842106396UTC</td></tr></table>
