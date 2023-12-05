@@ -71,4 +71,4 @@ We marked such validators with a red symbol
 =
 
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>62.210.90.254:26657</td><td>ixo-5</td><td>empower-validator 🔴</td><td>3723596</td><td>1</td><td>False</td><td>2099488</td><td>2023-12-05T02:24:59.418191671UTC</td></tr><tr><td>66.45.246.166:1017</td><td>ixo-5</td><td>STAVR-Service 🟢</td><td>3723597</td><td>3721501</td><td>False</td><td>0</td><td>2023-12-05T02:25:02.107549177UTC</td></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>62.210.90.254:26657</td><td>ixo-5</td><td>empower-validator 🔴</td><td>3726046</td><td>1</td><td>False</td><td>2099488</td><td>2023-12-05T06:26:40.768547728UTC</td></tr><tr><td>66.45.246.166:1017</td><td>ixo-5</td><td>STAVR-Service 🟢</td><td>3726046</td><td>3724001</td><td>False</td><td>0</td><td>2023-12-05T06:26:43.400210541UTC</td></tr></table>
