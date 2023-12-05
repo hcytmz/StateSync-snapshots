@@ -32,7 +32,7 @@ apt install lz4
 sudo systemctl stop planqd
 cp $HOME/.planqd/data/priv_validator_state.json $HOME/.planqd/priv_validator_state.json.backup
 rm -rf $HOME/.planqd/data
-curl -o - -L http://planq.snapshot.stavr.tech:7/planqd/planqd-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.planqd --strip-components 2
+curl -o - -L http://planq.snapshot.stavr.tech:8/planqd/planqd-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.planqd --strip-components 2
 mv $HOME/.planqd/priv_validator_state.json.backup $HOME/.planqd/data/priv_validator_state.json
 wget -O $HOME/.planqd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Planq/addrbook.json"
 sudo systemctl restart planqd && journalctl -u planqd -f -o cat
