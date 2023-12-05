@@ -26,7 +26,7 @@ mv $HOME/.firmachain/priv_validator_state.json.backup $HOME/.firmachain/data/pri
 curl -o - -L http://firma.wasm.stavr.tech:12/wasm-firma.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.firmachain --strip-components 2
 sudo systemctl restart firmachaind && journalctl -u firmachaind -f -o cat
 ```
-# SnapShot (~0.2 GB) updated every 5 hours
+# SnapShot (~0.9 GB) updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
