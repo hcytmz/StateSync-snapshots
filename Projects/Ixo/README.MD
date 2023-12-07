@@ -6,7 +6,7 @@
 
 # StateSync
 ```python
-SNAP_RPC=http://ixo.rpc.m.stavr.tech:1017
+SNAP_RPC=https://ixo.rpc.m.stavr.tech:443
 SEEDS=d4448c5b10b43d444034533ede7d2e66cbf9e519@ixo.peer.stavr.tech:1016
 cp $HOME/.ixod/data/priv_validator_state.json $HOME/.ixod/priv_validator_state.json.backup
 sed -i -e "/seeds =/ s/= .*/= \"$SEEDS\"/"  $HOME/.ixod/config/config.toml
@@ -44,7 +44,7 @@ sudo systemctl restart ixod && journalctl -u ixod -f -o cat
 
 🔥EXPLORER🔥:     https://explorer.stavr.tech/IXO-Mainnet        `Indexer "ON"` \
 🔥API🔥:          https://ixo.api.m.stavr.tech \
-🔥RPC🔥:          http://ixo.rpc.m.stavr.tech:1017              `Snapshot-interval = 1000` \
+🔥RPC🔥:          https://ixo.rpc.m.stavr.tech:443              `Snapshot-interval = 1000` \
 🔥gRPC🔥:         http://ixo.grpc.m.stavr.tech:2010 \
 🔥peer🔥:         `d4448c5b10b43d444034533ede7d2e66cbf9e519@ixo.peer.stavr.tech:1016` \
 🔥Addrbook🔥:  `wget -O $HOME/.ixod/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Ixo/addrbook.json"` \
