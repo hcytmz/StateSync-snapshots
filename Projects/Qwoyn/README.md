@@ -43,7 +43,7 @@ sudo systemctl restart qwoynd && journalctl -u qwoynd -f -o cat
 🔥EXPLORER🔥:     https://explorer.stavr.tech/Qwoyn-Mainnet        `Indexer "ON"` \
 🔥API🔥:          https://qwoyn.api.m.stavr.tech \
 🔥RPC🔥:          https://qwoyn.rpc.m.stavr.tech:443              `Snapshot-interval = 1000` \
-🔥gRPC🔥:         https://qwoyn.grpc.m.stavr.tech:443 \
+🔥gRPC🔥:         https://qwoyn.grpc.m.stavr.tech:1907 \
 🔥peer🔥:         `becf65550dd8453e36393cb2b97ca4e2494b2460@qwoyn.peer.stavr.tech:11206` \
 🔥Addrbook🔥:  `wget -O $HOME/.qwoynd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Cosmic_Horizon/addrbook.json"` \
 🔥Genesis🔥:  `wget -O $HOME/.qwoynd/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Cosmic_Horizon/genesis.json"` \
