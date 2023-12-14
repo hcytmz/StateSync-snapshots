@@ -8,7 +8,7 @@
 # StateSync HyperSign Testnet
 ```python
 SNAP_RPC=http://hid.rpc.t.stavr.tech:11057
-peers="8d558ede2b12c6cbc07d9849accf58cecd521196@hid.peer.stavr.tech:11056"
+peers="3845ba311cee9c82469ec2f7b1e5cf8afbd9a434@hid.peer.stavr.tech:11056"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.hid-node/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 100)); \
@@ -43,7 +43,7 @@ sudo systemctl restart hid-noded && journalctl -u hid-noded -f -o cat
 🔥API:             https://hid.api.t.stavr.tech \
 🔥RPC🔥:           http://hid.rpc.t.stavr.tech:11057              `Snapshot-interval = 100` \
 🔥gRPC🔥:          http://hid.grpc.t.stavr.tech:8022 \
-🔥peer🔥:          `8d558ede2b12c6cbc07d9849accf58cecd521196@hid.peer.stavr.tech:11056` \
+🔥peer🔥:          `3845ba311cee9c82469ec2f7b1e5cf8afbd9a434@hid.peer.stavr.tech:11056` \
 🔥Genesis🔥:     ```curl -s  https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Hypersign/genesis.json > ~/.hid-node/config/genesis.json``` \
 🔥Addrbook🔥:    ```wget -O $HOME/.hid-node/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Hypersign/addrbook.json"``` \
 🔥Auto_install script🔥: ```wget -O hyper https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Hypersign/hyper && chmod +x hyper && ./hyper```
