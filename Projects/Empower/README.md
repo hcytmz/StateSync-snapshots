@@ -8,7 +8,7 @@
 
 # StateSync Mainnet
 ```python
-SNAP_RPC=http://empw.rpc.m.stavr.tech:22057
+SNAP_RPC=https://empw.rpc.m.stavr.tech:443
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 500)); \
 TRUST_HASH=$(curl -s "$SNAP_RPC/block?height=$BLOCK_HEIGHT" | jq -r .result.block_id.hash)
@@ -83,7 +83,7 @@ sudo systemctl restart empowerd && sudo journalctl -u empowerd -f -o cat
 🔥EXPLORER T🔥:          https://explorer.stavr.tech/Empower        `Indexer "ON"` \
 🔥API M🔥:                       https://empw.api.m.stavr.tech \
 🔥API T🔥:                       https://empw.api.t.stavr.tech \
-🔥RPC M🔥:                      http://empw.rpc.m.stavr.tech:22057              `Snapshot-interval = 500`  \
+🔥RPC M🔥:                      https://empw.rpc.m.stavr.tech:443              `Snapshot-interval = 500`  \
 🔥RPC T🔥:                      http://empw.rpc.t.stavr.tech:22057              `Snapshot-interval = 100` \
 🔥gRPC M🔥:                    http://empw.grpc.m.stavr.tech:9141 \
 🔥gRPC T🔥:                    http://empw.grpc.t.stavr.tech:9141 \
