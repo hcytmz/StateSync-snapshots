@@ -7,7 +7,7 @@
 
 # StateSync HyperSign Testnet
 ```python
-SNAP_RPC=http://hid.rpc.t.stavr.tech:11057
+SNAP_RPC=https://hid.rpc.t.stavr.tech:443
 peers="3845ba311cee9c82469ec2f7b1e5cf8afbd9a434@hid.peer.stavr.tech:11056"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.hid-node/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -41,7 +41,7 @@ sudo systemctl restart hid-noded && journalctl -u hid-noded -f -o cat
 
 🔥EXPLORER🔥:      https://explorer.stavr.tech/HyperSign/staking        `Indexer "ON"` \
 🔥API:             https://hid.api.t.stavr.tech \
-🔥RPC🔥:           http://hid.rpc.t.stavr.tech:11057              `Snapshot-interval = 100` \
+🔥RPC🔥:           https://hid.rpc.t.stavr.tech:443              `Snapshot-interval = 100` \
 🔥gRPC🔥:          http://hid.grpc.t.stavr.tech:8022 \
 🔥peer🔥:          `3845ba311cee9c82469ec2f7b1e5cf8afbd9a434@hid.peer.stavr.tech:11056` \
 🔥Genesis🔥:     ```curl -s  https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Hypersign/genesis.json > ~/.hid-node/config/genesis.json``` \
