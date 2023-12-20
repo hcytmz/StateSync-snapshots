@@ -1,8 +1,9 @@
 
 
+| Data Center | I
 | Data Center | IP Count |
 |-------------|----------|
-| HETZNER | 32 |
+| HETZNER | 30 |
 | OVH | 7 |
 | AMAZON | 4 |
 | MEVSPACE | 3 |
@@ -12,5 +13,5 @@
 | Netcup | 1 |
 | PSINet | 1 |
 | Vultr | 1 |
-| OTHER | 11 |
+| OTHER | 13 |
 
