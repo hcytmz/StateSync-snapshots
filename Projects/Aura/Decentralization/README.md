@@ -1,4 +1,4 @@
-| Data Center | IP Count | Percentage |
+| Data Center | IP Count | Percentage || Data Center | IP Count | Percentage |
 |:------------:|:--------:|:-----------:|
 | HETZNER | 30 | 46.15% |
 | OVH | 7 | 10.77% |
