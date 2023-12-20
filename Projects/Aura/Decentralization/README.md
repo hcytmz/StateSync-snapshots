@@ -1,17 +1,15 @@
+# Заголовок
 
-
-| Data Center | I
-| Data Center | IP Count |
-|-------------|----------|
-| HETZNER | 30 |
-| OVH | 7 |
-| AMAZON | 4 |
-| MEVSPACE | 3 |
-| Contabo | 2 |
-| GoDaddy | 2 |
-| Interserver | 1 |
-| Netcup | 1 |
-| PSINet | 1 |
-| Vultr | 1 |
-| OTHER | 13 |
-
+| Data Center | IP Count | Percentage |
+|:------------:|:--------:|:-----------:|
+| HETZNER | 32 | 48.48% |
+| OVH | 7 | 10.61% |
+| AMAZON | 4 | 6.06% |
+| MEVSPACE | 3 | 4.55% |
+| Contabo | 2 | 3.03% |
+| GoDaddy | 2 | 3.03% |
+| Interserver | 1 | 1.52% |
+| Netcup | 1 | 1.52% |
+| PSINet | 1 | 1.52% |
+| Vultr | 1 | 1.52% |
+| OTHER | 12 | 18.18% |
