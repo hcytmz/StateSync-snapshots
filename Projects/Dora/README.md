@@ -31,7 +31,7 @@ apt install lz4
 sudo systemctl stop dorad
 cp $HOME/.dora/data/priv_validator_state.json $HOME/.dora/priv_validator_state.json.backup
 rm -rf $HOME/.dora/data
-curl -o - -L https://dorat.snapshot.stavr.tech/dora/dora-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.dora --strip-components 2
+curl -o - -L https://dorat.snapshot.stavr.tech/dora-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.dora --strip-components 2
 curl -o - -L http://dorat.wasm.stavr.tech:1103/wasm-dora.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.dora --strip-components 2
 mv $HOME/.dora/priv_validator_state.json.backup $HOME/.dora/data/priv_validator_state.json
 wget -O $HOME/.dora/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/DORA/addrbook.json"
