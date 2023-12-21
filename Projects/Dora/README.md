@@ -66,6 +66,6 @@ We marked such validators with a red symbol
 
 </details>
 
-[raw json](https://rpc-check.dorat.stavr.tech/dorat/rpc-dorat-result.json)
+[Testnet raw json](https://rpc-check.dorat.stavr.tech/dorat/rpc-dorat-result.json)
 =
 
