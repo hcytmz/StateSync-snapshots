@@ -7,8 +7,8 @@
 
 # StateSync Dora Testnet
 ```python
-SNAP_RPC=
-peers=
+SNAP_RPC=https://dora.rpc.t.stavr.tech:443
+peers="3c21389d10b9499df09a7eb36afa8e748433c286@dora-t.peer.stavr.tech:32046"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.dora/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 1000)); \
