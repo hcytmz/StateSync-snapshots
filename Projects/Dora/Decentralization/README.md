@@ -2,7 +2,7 @@
 
 
 <!-- START_TABLE -->
-| IP-адрес | Moniker | NetName | Organization |
+| IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
 | 65.109.118.240 | lesnik_utsa | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.122.105 | STAVR_guide | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
