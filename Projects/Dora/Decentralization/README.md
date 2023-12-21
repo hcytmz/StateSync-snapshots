@@ -5,10 +5,8 @@
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
 | 65.109.118.240 | lesnik_utsa | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.122.105 | STAVR_guide | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.117.219 | moodman | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.72.253 | ITRocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.92.240 | STAVR | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 213.133.100.172 | 79anvi | HETZNER-RZ-NBG-NET |  |
 | 85.10.197.17 | 1ce | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 152.228.211.19 | NodeStake | RIPE PCI-GRA11 | RIPE Network Coordination Centre OVH SAS |
