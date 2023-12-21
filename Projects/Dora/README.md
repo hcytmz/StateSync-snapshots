@@ -41,7 +41,7 @@ sudo systemctl restart dorad && journalctl -u dorad -f -o cat
  
 🔥EXPLORER-T🔥: https://explorer.stavr.tech/Dora-Testnet        `Indexer "ON"` \
 🔥API-T🔥:      https://dora.api.t.stavr.tech \
-🔥RPC-T🔥:      https://dora.rpc.t.stavr.tech:443              `Snapshot-interval = 100` \
+🔥RPC-T🔥:      https://dora.rpc.t.stavr.tech:443              `Snapshot-interval = 1000` \
 🔥gRPC-T🔥:     http://dora.grpc.t.stavr.tech:1912 \
 🔥peer-T🔥:     `3c21389d10b9499df09a7eb36afa8e748433c286@dora-t.peer.stavr.tech:32046` \
 🔥WASM-T🔥:     ```curl -o - -L http://dorat.wasm.stavr.tech:1103/wasm-dora.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.dora --strip-components 2``` \
