@@ -1,6 +1,6 @@
 | Data Center | IP Count | Percentage |
 |:------------:|:--------:|:-----------:|
-| HETZNER | 8 | 57.14% |
-| AMAZON | 3 | 21.43% |
-| OVH | 1 | 7.14% |
-| OTHER | 2 | 14.29% |
+| HETZNER | 10 | 58.82% |
+| AMAZON | 3 | 17.65% |
+| OVH | 2 | 11.76% |
+| OTHER | 2 | 11.76% |
