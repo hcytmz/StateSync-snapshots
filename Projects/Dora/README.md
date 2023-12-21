@@ -69,3 +69,6 @@ We marked such validators with a red symbol
 [Testnet raw json](https://rpc-check.dorat.stavr.tech/dorat/rpc-dorat-result.json)
 =
 
+
+
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>135.181.210.171:32047</td><td>vota-vk</td><td>STAVR-Service 🟢</td><td>12410</td><td>1</td><td>False</td><td>on</td><td>0</td><td>2023-12-21T08:17:22.972741622UTC</td></tr><tr><td>18.143.75.85:26657</td><td>vota-vk</td><td>dorafactory 🟢</td><td>12410</td><td>1</td><td>False</td><td>on</td><td>0</td><td>2023-12-21T08:17:23.944665952UTC</td></tr></table>
