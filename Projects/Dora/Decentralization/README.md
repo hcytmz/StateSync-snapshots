@@ -1,4 +1,4 @@
-| Data Center | IP Count | Percentage | Color |
+| Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
 | HETZNER | 11 | 61.11% | 🔴 |
 | AMAZON | 3 | 16.67% | 🟢 |
