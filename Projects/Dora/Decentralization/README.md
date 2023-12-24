@@ -20,7 +20,7 @@
 | 52.221.239.121 | dorafactory-02 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 88.99.148.44 | StakeUs | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 65.108.72.253 | ITRocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 192.99.20.53 | node | OVH-ARIN-7 | OVH Hosting, Inc. |
+| 192.99.20.53 | node | OVH-ARIN-7 |  |
 | 18.143.75.85 | dorafactory | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 13.213.30.203 | dorafactory02 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 213.239.207.175 | StakeUp | HETZNER-RZ-NBG-NET2 |  |
