@@ -48,7 +48,7 @@ sudo systemctl restart dorad && journalctl -u dorad -f -o cat
 🔥Genesis-T🔥:  ```wget -O $HOME/.dora/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/DORA/genesis.json"``` \
 🔥Addrbook-T🔥: ```wget -O $HOME/.dora/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/DORA/addrbook.json"``` \
 🔥Auto_install script-T🔥:  `wget -O dorat https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/DORA/dorat && chmod +x dorat && ./dorat` \
-🔥[Decentralization](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Dora/Decentralization)🔥
+🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Dora/Decentralization)🔥
 
 <details>
 <summary>RPC Scanning</summary>
