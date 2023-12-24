@@ -39,7 +39,7 @@
 | 94.130.26.9 | Pro-Nodes75 | HETZNER-nbg1-dc3 | Hetzner Online GmbH |
 | 65.108.68.86 | emperor | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.237.231 | MMS | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.216.164.176 | yanks | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.231.124 | itrocket_seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.92.249 | Nodiu | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 116.202.227.117 | big-mamba | STUB-116-202SLASH15 |  |
 | 136.243.148.154 | terlia | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -60,5 +60,7 @@
 | 65.109.94.221 | TestnetPride | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 95.216.164.176 | yanks | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.31.106 | CryptoSJnet | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
