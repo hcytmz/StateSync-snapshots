@@ -13,7 +13,7 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 65.108.233.103 | mainnet-rpc-2 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 62.210.88.126 | rfluxval | SCALEWAY-DEDIBOX | Scaleway |
 | 141.95.66.199 | oc-ovh-de-peer | SD-LIM-fra1-lim3-sdagg10a-b-n93-2-2 | OVH GmbH |
 | 5.9.106.230 | andromeda-1 | HETZNER-fsn1-dc7 |  |
 | 136.243.67.45 | 3d9b1b31-7158-5bfb-a001-04a0dbd033c0 | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -36,6 +36,6 @@
 | 51.91.215.27 | andromeda-1 | SD-GAME-GRA2 | OVH SAS |
 | 213.133.100.206 | andromeda-2 | HETZNER-RZ-NBG-NET |  |
 | 141.94.240.156 | andromeda-node-1 | SD-RBX-fra1-lim3-sdagg9a-b-n93-2-2 | OVH SAS |
-| 62.210.88.126 | rfluxval | SCALEWAY-DEDIBOX | Scaleway |
+| 65.108.233.103 | mainnet-rpc-2 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
