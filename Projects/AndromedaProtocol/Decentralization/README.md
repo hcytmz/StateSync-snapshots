@@ -35,6 +35,7 @@
 | 15.235.187.108 | seltonstake | HO-2 OVHCLOUD-SGP VPS-SGP2 | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 51.91.215.27 | andromeda-1 | SD-GAME-GRA2 | OVH SAS |
 | 213.133.100.206 | andromeda-2 | HETZNER-RZ-NBG-NET |  |
+| 141.94.240.156 | andromeda-node-1 | SD-RBX-fra1-lim3-sdagg9a-b-n93-2-2 | OVH SAS |
 | 62.210.88.126 | rfluxval | SCALEWAY-DEDIBOX | Scaleway |
 
 <!-- END_TABLE -->
