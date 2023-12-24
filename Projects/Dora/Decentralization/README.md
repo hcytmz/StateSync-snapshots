@@ -31,5 +31,6 @@
 | 167.235.178.134 | hello-dora-testrelay | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.72.253 | ITRocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 161.97.77.219 | Apollo | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 15.235.212.150 | rpc-1.testnet.dora.nodes.guru | HO-2 OVHCLOUD-SGP SD-SGP-SGP02-SGP0201A-MAGGIE-INFRA-002 | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 
 <!-- END_TABLE -->
