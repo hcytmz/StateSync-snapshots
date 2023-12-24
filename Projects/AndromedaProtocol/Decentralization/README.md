@@ -32,10 +32,9 @@
 | 185.119.116.245 | dankuzone_w_daic | AT-IPAX-20150930 | IPAX GmbH |
 | 2001:bc8:3de9:100::7 | andromeda-mainnet | SCALEWAY | Scaleway |
 | 65.108.73.25 | andromeda | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 15.235.187.108 | seltonstake | HO-2 OVHCLOUD-SGP VPS-SGP2 | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
+| 15.235.187.108 | seltonstake | HO-2 OVHCLOUD-SGP VPS-SGP2 | OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 51.91.215.27 | andromeda-1 | SD-GAME-GRA2 | OVH SAS |
 | 213.133.100.206 | andromeda-2 | HETZNER-RZ-NBG-NET |  |
 | 5.9.106.230 | andromeda-1 | HETZNER-fsn1-dc7 |  |
-| 65.108.227.217 | andromeda-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
