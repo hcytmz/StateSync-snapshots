@@ -17,15 +17,15 @@
 | 65.109.118.240 | lesnik_utsa | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.217.68.182 | Nodeist-dora-test | HO-2 | OVH Hosting, Inc. |
 | 65.109.117.219 | moodman | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 188.40.66.173 | hello-dora-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
+| 52.221.239.121 | dorafactory-02 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 88.99.148.44 | StakeUs | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 65.108.72.253 | ITRocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 192.99.20.53 | node | OVH-ARIN-7 | OVH Hosting, Inc. |
 | 18.143.75.85 | dorafactory | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 13.213.30.203 | dorafactory02 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 213.239.207.175 | StakeUp | HETZNER-RZ-NBG-NET2 |  |
-| 167.235.178.134 | hello-dora-testrelay | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 85.10.197.17 | 1ce | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 38.242.249.115 | kooltek68 | COGENT-A | PSINet, Inc. |
-| 52.221.239.121 | dorafactory-02 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 188.40.66.173 | hello-dora-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
