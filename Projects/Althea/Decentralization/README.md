@@ -60,7 +60,7 @@
 | 65.109.94.221 | TestnetPride | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 95.111.240.82 | CryptoSJnet | CONTABO |  |
-| 144.217.68.182 | Nodeist-althea-test | HO-2 | OVH Hosting, Inc. |
 | 95.216.164.176 | yanks | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 144.217.68.182 | Nodeist-althea-test | HO-2 | OVH Hosting, Inc. |
 
 <!-- END_TABLE -->
