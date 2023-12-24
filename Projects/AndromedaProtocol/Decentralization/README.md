@@ -37,5 +37,6 @@
 | 213.133.100.206 | andromeda-2 | HETZNER-RZ-NBG-NET |  |
 | 141.94.240.156 | andromeda-node-1 | SD-RBX-fra1-lim3-sdagg9a-b-n93-2-2 | OVH SAS |
 | 65.108.233.103 | mainnet-rpc-2 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.21.10.105 | andromeda-1 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
