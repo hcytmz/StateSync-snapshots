@@ -6,6 +6,10 @@
 | PSINet | 1 | 5.00% | 🟢 |
 | OTHER | 2 | 10.00% | 🟢 |
 
+![Diagramm](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/Dora/1/README.md)
+
+
+
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
