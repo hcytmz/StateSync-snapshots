@@ -36,7 +36,7 @@
 | 78.46.103.246 | F5Nodes | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 185.119.116.232 | dankuzone_w_daic | AT-IPAX-20150930 | IPAX GmbH |
 | 194.163.161.219 | vmi1469323.contaboserver.net | CONTABO |  |
-| 94.130.26.9 | Pro-Nodes75 | HETZNER-nbg1-dc3 | Hetzner Online GmbH |
+| 65.109.126.23 | s-althea-testrelay | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.68.86 | emperor | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.237.231 | MMS | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.231.124 | itrocket_seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -61,6 +61,6 @@
 | 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 95.216.164.176 | yanks | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.126.23 | s-althea-testrelay | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 94.130.26.9 | Pro-Nodes75 | HETZNER-nbg1-dc3 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
