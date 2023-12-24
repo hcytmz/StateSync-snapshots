@@ -27,5 +27,6 @@
 | 85.10.197.17 | 1ce | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 38.242.249.115 | kooltek68 | COGENT-A | PSINet, Inc. |
 | 188.40.66.173 | hello-dora-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
+| 167.235.178.134 | hello-dora-testrelay | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
