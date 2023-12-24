@@ -70,4 +70,4 @@ We marked such validators with a red symbol
 
 
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>208.77.197.82:28657</td><td>vidulum-1</td><td>vidulum.app 🟢</td><td>11656748</td><td>8679101</td><td>False</td><td>on</td><td>0</td><td>2023-12-24T03:45:12.479365771UTC</td></tr><tr><td>185.237.252.152:26652</td><td>vidulum-1</td><td>cryptobtcbuyer 🔴</td><td>11656750</td><td>9758001</td><td>False</td><td>on</td><td>57649</td><td>2023-12-24T03:45:23.421637178UTC</td></tr><tr><td>135.181.210.171:1047</td><td>vidulum-1</td><td>STAVR-Service 🟢</td><td>11656748</td><td>11655801</td><td>False</td><td>on</td><td>0</td><td>2023-12-24T03:45:12.844769964UTC</td></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr></table>
