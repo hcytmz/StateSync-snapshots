@@ -1,20 +1,17 @@
-![Diagramm](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/Aura/1/README.md)
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
-| HETZNER | 39 | 43.33% | 🔴 |
-| OVH | 9 | 10.00% | 🟢 |
-| AMAZON | 8 | 8.89% | 🟢 |
-| MEVSPACE | 5 | 5.56% | 🟢 |
-| Interserver | 3 | 3.33% | 🟢 |
-| PSINet | 3 | 3.33% | 🟢 |
-| GoDaddy | 2 | 2.22% | 🟢 |
-| HIVELOCITY | 2 | 2.22% | 🟢 |
-| Contabo | 1 | 1.11% | 🟢 |
-| Google-Cloud | 1 | 1.11% | 🟢 |
-| Kamatera | 1 | 1.11% | 🟢 |
-| myLoc | 1 | 1.11% | 🟢 |
-| Netcup | 1 | 1.11% | 🟢 |
-| StackPath | 1 | 1.11% | 🟢 |
-| Vultr | 1 | 1.11% | 🟢 |
-| Wolfpaw | 1 | 1.11% | 🟢 |
-| OTHER | 11 | 12.22% | 🟢 |
+| HETZNER | 19 | 38.00% | 🟢 |
+| OVH | 6 | 12.00% | 🟢 |
+| AMAZON | 4 | 8.00% | 🟢 |
+| MEVSPACE | 3 | 6.00% | 🟢 |
+| PSINet | 3 | 6.00% | 🟢 |
+| GoDaddy | 2 | 4.00% | 🟢 |
+| Interserver | 2 | 4.00% | 🟢 |
+| Google-Cloud | 1 | 2.00% | 🟢 |
+| HIVELOCITY | 1 | 2.00% | 🟢 |
+| Kamatera | 1 | 2.00% | 🟢 |
+| myLoc | 1 | 2.00% | 🟢 |
+| StackPath | 1 | 2.00% | 🟢 |
+| Vultr | 1 | 2.00% | 🟢 |
+| Wolfpaw | 1 | 2.00% | 🟢 |
+| OTHER | 4 | 8.00% | 🟢 |
