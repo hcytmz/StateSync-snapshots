@@ -52,7 +52,7 @@
 | 65.108.238.166 | hello-band-relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 103.19.25.19 | poorbuthappy | UDOMAIN-HK |  |
 | 15.235.14.28 | EhocPM2jrG | HO-2 SD-BHS-BHS8-B808A-MAGGIE-INFRA-002-2IEME | OVH Hosting, Inc. OVH Hosting, Inc. |
-| 107.135.15.67 | Architect Nodes | SIS-80-10-10-13 SBC-107-135-15-64-29-2209273549 | AT&T Corp. |
+| 107.135.15.67 | Architect Nodes | SIS-80-10-10-13 SBC-107-135-15-64-29-2209273549 |  |
 | 121.78.241.76 | WeStaking | KINXINC KINXINC-KR |  |
 | 51.83.140.142 | w3coins | SD-MAGGIE-WAW-S324B-W16A-B-waw1-sdagg15a-b-n93 | OVH Sp. z o. o. |
 | 45.13.59.97 | Inter Blockchaine Services | TT-2021111902 | Contabo GmbH |
@@ -94,11 +94,11 @@
 | 194.163.160.48 | Crypto Lion | CONTABO |  |
 | 135.181.138.95 | 154fd0ce-70a82a | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 35.198.219.75 | band-sentry-asia-southeast | GOOGLE-CLOUD | Google LLC |
-| 14.224.158.246 | Chainp2p | VNPT-VN |  |
+| 109.70.113.97 | band.d3akash.cloud | AS8758-GieldanowskiConsulting |  |
 | 54.244.131.5 | Wanchain | AMAZON-2011L AMAZO-ZPDX2 | Amazon Technologies Inc. Amazon.com, Inc. |
 | 89.149.218.43 | random33 | NL-LEASEWEB-20060223 | LeaseWeb Netherlands B.V. |
 | 162.55.92.114 | 1d1de7c5-dbe068 | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 193.34.212.203 | Ysewdd | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 34.87.84.50 | public2-2 | GOOGL-2 | Google LLC |
 | 168.119.146.110 | PB | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 162.55.234.190 | StakeCraft | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -112,7 +112,7 @@
 | 57.128.133.1 | Forbole | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
 | 35.74.104.174 | p | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
 | 34.150.156.78 | seed-2 | GOOGL-2 | Google LLC |
-| 193.34.212.203 | Ysewdd | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
+| 57.128.133.20 | forbole-sentry | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
 | 136.243.40.17 | senodesr | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 103.107.183.177 | owlstake | PEGA-VN |  |
 | 15.235.53.219 | 9W6YPA6MhV | HO-2 | OVH Hosting, Inc. |
@@ -120,7 +120,7 @@
 | 173.212.240.62 | Wellstake | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 95.214.55.227 | 2ksuoz4myt8c | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 98.157.122.100 | BandSentry1 | RRWE | Charter Communications Inc |
-| 34.64.245.112 | bf-s-kr | GOOGL-2 GOOGLE-CLOUD | Google LLC |
+| 34.64.245.112 | bf-s-kr | GOOGL-2 GOOGLE-CLOUD | Google LLC Google Asia Pacific Pte. Ltd. |
 | 167.235.180.97 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 3.126.103.168 | dj3dja | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 45.129.147.242 | ams-atlas-staking | qupra-access-2 |  |
@@ -136,5 +136,6 @@
 | 35.187.224.251 | public1-1 | GOOGLE-CLOUD | Google LLC |
 | 45.153.35.148 | ThomasBlock.io | DE-XSSERVER4-20190913 | XSServer GmbH |
 | 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
+| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 
 <!-- END_TABLE -->
