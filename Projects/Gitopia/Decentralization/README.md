@@ -45,8 +45,8 @@
 | 188.165.232.199 | CyrptoNet | OVH |  |
 | 144.126.200.166 | tester-121 | DIGITALOCEAN-144-126-192-0 | DigitalOcean, LLC |
 | 37.252.184.245 | dankuzone_w_daic | AT-IPAX-20120420 | IPAX GmbH |
-| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 139.99.131.163 | SRG0Z10 | HO-2 OVH-AU-1 OVH-DEDICATED | OVH Hosting, Inc. OVH Australia PTY LTD OVH Australia PTY LTD |
+| 194.163.171.231 | F-Staking_RPC | CONTABO |  |
+| 139.99.131.163 | SRG0Z10 | HO-2 OVH-AU-1 OVH-DEDICATED | OVH Australia PTY LTD OVH Australia PTY LTD |
 | 165.227.88.210 | SpacePotato | DIGITALOCEAN-165-227-0-0 | DigitalOcean, LLC |
 | 5.161.57.196 | MONADA | CLOUD-ASH | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.153.140 | RoomIT | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -69,7 +69,7 @@
 | 51.195.104.64 | genznodes_sentry_2 | SD-LIM-fra1-lim1-sdagg30a-b-n93-1-1 | OVH GmbH |
 | 135.181.5.169 | Guzel | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.214.53.6 | localhost | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
-| 57.128.96.155 | c5fd53c8-65d5-501e-9b65-931e30a2ea32 | RIPE-ERX-57 SDAGG40-2-2 | RIPE Network Coordination Centre OVH SAS |
+| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.76.45.59 | huginn | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 65.108.208.226 | STAKKY | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.158.219 | StakeAngle_RPC | HETZNER-fsn1-dc7 | Hetzner Online GmbH |
@@ -86,7 +86,7 @@
 | 5.181.190.114 | L0vd.com | PL-MEV-20190403 | MEVSPACE sp. z o.o. |
 | 95.214.52.139 | 2hgugjpg566g | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 65.109.17.23 | F-Staking | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.21.239.121 | node | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 185.8.104.230 | everexsiting | BALTICSERVERS-LT-DEDICATED |  |
 | 88.198.69.44 | Nocturnal Labs | HETZNER-ONLINE-AG-EIGENE-NETZE | Hetzner Online GmbH |
 | 5.9.147.22 | StingRay | HETZNER-fsn1-dc10 |  |
@@ -119,19 +119,16 @@
 | 167.235.39.5 | tarabukinivan | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.52.115 | MAHOF | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.133.249 | StakeUp_rpc | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 158.69.125.73 | Nodeist-gitopia-main | HO-2 | OVH Hosting, Inc. |
+| 158.69.125.73 | Nodeist-gitopia-main | HO-2 |  |
 | 213.32.24.201 | #22 | FR-OVH-19990628 | OVH SAS |
 | 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
-| 65.109.112.170 | NJ-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 159.148.146.132 | SGTstake | RIPE-ERX-159-147-0-0 BITELATVIJA | RIPE Network Coordination Centre SIA BITE Latvija |
 | 135.181.156.192 | MCB | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.226.26 | [NODERS]TEAM_SERVICE | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.154.185 | NODEJUMPER | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.45.69 | cyberG | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 65.108.15.170 | ramuchi.tech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.33.48 | L0vd.com | RPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 194.163.171.231 | F-Staking_RPC | CONTABO |  |
-| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 159.148.146.132 | SGTstake | RIPE-ERX-159-147-0-0 BITELATVIJA | RIPE Network Coordination Centre SIA BITE Latvija |
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 
 <!-- END_TABLE -->
