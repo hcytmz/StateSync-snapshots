@@ -27,7 +27,7 @@
 | 142.132.158.93 | 879ed78b-f49c-5185-912c-eeb37948232e | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 75.119.159.96 | vaipoa.node | RIPE CONTABO | RIPE Network Coordination Centre |
 | 159.65.188.152 | fd831666aab6 | DIGITALOCEAN-159-65-0-0 | DigitalOcean, LLC |
-| 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 188.166.17.65 | Animo Solutions | EU-DIGITALOCEAN-NL1 | DigitalOcean, LLC |
 | 51.250.33.38 | 3vag7g42 | RU-YANDEXCLOUD | Yandex.Cloud LLC |
 | 23.88.77.182 | masterval-2-main | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 167.235.133.235 | danubetech-v2 | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -61,9 +61,9 @@
 | 84.244.95.238 | RockawayX Infra | NET-BLOCKAD-CZ |  |
 | 206.189.137.229 | Blockfend Genesis Labs | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
 | 54.38.38.149 | vNodes Validators | RIPE SD-RBX-rbx8-sdagg17a-b-n93-2-2 | RIPE Network Coordination Centre OVH SAS |
-| 188.166.17.65 | Animo Solutions | EU-DIGITALOCEAN-NL1 | DigitalOcean, LLC |
+| 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 54.153.187.95 | Anonyome Labs | AMAZON | Amazon Technologies Inc. |
 | 157.90.242.105 | sentry1-eu-mainnet-cheqd | RIPE CLOUD-FSN1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.28.177 | AlxVoy | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 185.16.39.158 | 0nh4mmx35f1t | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
 
 <!-- END_TABLE -->
