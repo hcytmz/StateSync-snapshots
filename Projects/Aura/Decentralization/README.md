@@ -87,7 +87,7 @@
 | 65.109.69.140 | StakeCraft | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.162.249.161 | tienthuattoan | DE-NETCUP-SERVER | netcup GmbH |
 | 142.44.213.82 | aura_enigma | HO-2 | OVH Hosting, Inc. |
-| 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.225.86 | HSS | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 80.232.244.29 | SGTstake | LTC-HOME-STATIC |  |
 | 65.109.97.249 | hello-aura-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.75.107 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -108,10 +108,8 @@
 | 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 57.128.20.163 | 1079ae08-29da-5422-83ee-35dd2ffbd84b | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 65.108.232.168 | KonsorTech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.225.86 | HSS | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 3.89.124.251 | aura | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.212.224 | xstaxy-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 75.119.155.250 | xstaxy-1-seed | RIPE CONTABO | RIPE Network Coordination Centre |
-| 38.242.150.63 | xstaxy-1-seed | COGENT-A | PSINet, Inc. |
+| 65.108.227.217 | xstaxy-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
