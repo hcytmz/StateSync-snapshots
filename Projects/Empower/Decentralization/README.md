@@ -27,7 +27,7 @@
 | 148.113.159.22 | WhisperNode | HO-2 SD-BHS-BHS8-B812B-MAGGIE-INFRA-002-IP1 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 136.243.67.189 | hello-empower-main | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 51.79.77.103 | itrocket.net | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
-| 3.80.107.9 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 192.9.134.157 | SAWAYO | ORACLE-BRM1 | Oracle Corporation |
 | 142.132.253.112 | itrocket_seed | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.199.236 | LiveRaveN | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 46.4.81.216 | 34f349erf | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
@@ -77,11 +77,13 @@
 | 65.109.97.249 | hello-empower-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.105.110 | Anatolian Team | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 81.0.220.94 | e215fecfedd1a84f87836bc9 | TT-20221122 | Contabo GmbH |
-| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 213.239.194.132 | stakevillage | HETZNER-RZ-NBG-NET2 |  |
 | 142.132.193.194 | ECO Stake | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 80.254.8.54 | ITpro | EXPRESS |  |
 | 141.95.157.139 | randomblahblahfkdsjaflkdsaj | SD-GRA-gra3-sdagg17ab-n93 | OVH SAS |
 | 65.108.78.101 | Moonbridge | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 135.181.5.219 | empowerchain-1-seed | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.216.164.165 | empowerchain-1-seed | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 138.201.220.51 | empowerchain-1-seed | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
