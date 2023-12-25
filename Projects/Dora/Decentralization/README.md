@@ -22,7 +22,7 @@
 | 144.217.68.182 | Nodeist-dora-test | HO-2 | OVH Hosting, Inc. |
 | 5.161.240.23 | RPC | CLOUD-ASH | Hetzner Online GmbH Hetzner Online GmbH |
 | 88.99.148.44 | StakeUs | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
-| 188.40.66.173 | hello-dora-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
+| 65.108.231.124 | itrocket_seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 152.228.211.19 | NodeStake | RIPE PCI-GRA11 | RIPE Network Coordination Centre OVH SAS |
 | 34.118.242.103 | oibek | GOOGL-2 | Google LLC |
 | 78.46.45.174 | [NODERS]TEAM | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
@@ -39,10 +39,10 @@
 | 65.108.72.253 | ITRocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 216.158.237.22 | BlockBeacon | INTERSERVER | Interserver, Inc |
 | 65.109.146.123 | emperor | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.231.124 | itrocket_seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 38.242.249.115 | kooltek68 | COGENT-A | PSINet, Inc. |
 | 69.197.26.12 | POSTHUMAN | STACKPATH-69-197-0-0-1 SP-SOLANA-69-197-26-0-24 | StackPath, LLC. |
 | 167.235.14.83 | NodeName | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 52.221.239.121 | dorafactory-02 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 188.40.66.173 | hello-dora-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
