@@ -56,5 +56,6 @@
 | 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.148.169.198 | 08ac7d2e-d7d7-528c-9ff3-46844e28ac15 | OUL-16 SD-VIN-V119-MAGGIE-INFRA-002 | OVH US LLC OVH US LLC |
 | 154.53.59.45 | os-node-usw-con |  |  |
+| 65.108.227.217 | ixo-5-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
