@@ -15,7 +15,7 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 167.235.133.235 | danubetech-v2 | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 44.214.37.79 | cheqd-mainnet-1 | AMAZO-4 AMAZON-IAD | Amazon.com, Inc. Amazon Data Services NoVa |
 | 65.108.64.116 | c631fa9b453a89b1c6c05573d56baec8 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.56.244.244 | RoundTable21 by WildSage Labs | K3com |  |
 | 219.100.163.38 | Start-Staking.cc |  |  |
@@ -30,6 +30,7 @@
 | 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.250.33.38 | 3vag7g42 | RU-YANDEXCLOUD | Yandex.Cloud LLC |
 | 23.88.77.182 | masterval-2-main | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 167.235.133.235 | danubetech-v2 | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 116.203.250.20 | esatus-node | STUB-116-202SLASH15 |  |
 | 143.198.36.150 | 82719c86c60d | DIGITALOCEAN-143-198-0-0 | DigitalOcean, LLC |
 | 65.108.225.126 | BadgerBite | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -47,7 +48,7 @@
 | 144.76.63.67 | sentry-vps-1 | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 34.83.46.249 | DoraFactory | GOOGL-2 | Google LLC |
 | 65.21.254.210 | o | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 157.90.242.105 | sentry1-eu-mainnet-cheqd | RIPE CLOUD-FSN1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 116.203.54.9 | seed1-eu-mainnet-cheqd | STUB-116-202SLASH15 |  |
 | 64.227.177.178 | c84a0a9c5cf4 | DO-13 | DigitalOcean, LLC |
 | 65.108.76.228 | jabbey | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.248.253 | Blackhox | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -62,7 +63,7 @@
 | 54.38.38.149 | vNodes Validators | RIPE SD-RBX-rbx8-sdagg17a-b-n93-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 188.166.17.65 | Animo Solutions | EU-DIGITALOCEAN-NL1 | DigitalOcean, LLC |
 | 54.153.187.95 | Anonyome Labs | AMAZON | Amazon Technologies Inc. |
-| 116.203.54.9 | seed1-eu-mainnet-cheqd | STUB-116-202SLASH15 |  |
-| 44.214.37.79 | cheqd-mainnet-1 | AMAZO-4 AMAZON-IAD | Amazon.com, Inc. Amazon Data Services NoVa |
+| 157.90.242.105 | sentry1-eu-mainnet-cheqd | RIPE CLOUD-FSN1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.28.177 | AlxVoy | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
