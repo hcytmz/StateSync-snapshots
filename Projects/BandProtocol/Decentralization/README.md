@@ -33,7 +33,7 @@
 | 65.21.65.121 | tienthuattoan | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.81.167.60 | Cosmostation | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 65.109.153.140 | RoomIT | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 3.112.138.57 | bandprod | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
+| 35.187.224.251 | public1-1 | GOOGLE-CLOUD | Google LLC |
 | 162.19.138.20 | band | RIPE SD-LIM-fra1-lim3-sdagg16a-b-n93-1-2 | RIPE Network Coordination Centre OVH GmbH |
 | 15.235.115.152 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 13.213.122.116 | bandchain | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
@@ -76,7 +76,7 @@
 | 34.142.199.94 | public2-1 | GOOGL-2 | Google LLC |
 | 77.68.30.186 | band | UK-NGCS | Fasthosts Internet Limited |
 | 5.135.137.127 | StakeSabai | OVH |  |
-| 91.246.64.247 | band4 | Skyware | Skyware Sp. z o.o. |
+| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 46.137.209.178 | b-band-s0-sg | AMAZON-SIN |  |
 | 135.181.114.86 | YOUR_MONIKER_GOES_HERE | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 34.138.126.238 | bf-s-use | GOOGL-2 | Google LLC |
@@ -110,9 +110,9 @@
 | 209.182.237.121 | tienthuattoan | SN-209-182-232-0-21 | Strasmore, Inc. |
 | 62.171.165.6 | anchorstaking | CONTABO | Contabo GmbH |
 | 57.128.133.1 | Forbole | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
-| 35.74.104.174 | p | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
+| 35.78.98.26 | 1c-1 | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
 | 34.150.156.78 | seed-2 | GOOGL-2 | Google LLC |
-| 14.224.158.246 | Chainp2p | VNPT-VN |  |
+| 91.246.64.247 | band4 | Skyware | Skyware Sp. z o.o. |
 | 136.243.40.17 | senodesr | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 103.107.183.177 | owlstake | PEGA-VN |  |
 | 15.235.53.219 | 9W6YPA6MhV | HO-2 | OVH Hosting, Inc. |
@@ -125,17 +125,16 @@
 | 3.126.103.168 | dj3dja | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 45.129.147.242 | ams-atlas-staking | qupra-access-2 |  |
 | 34.76.55.114 | bf-s-euw | GOOGL-2 | Google LLC |
-| 51.159.16.49 | band_tanger | ONLINENET_DEDICATED_SERVERS | Scaleway |
+| 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 23.88.62.189 | blockscape | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.24.82 | StakeTown | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 20.244.6.120 | BandNode01 | MSFT | Microsoft Corporation |
 | 89.149.218.44 | random111 | NL-LEASEWEB-20060223 | LeaseWeb Netherlands B.V. |
 | 18.138.54.118 | bandchain | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 65.21.202.61 | band-api | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 35.78.98.26 | 1c-1 | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
-| 35.187.224.251 | public1-1 | GOOGLE-CLOUD | Google LLC |
+| 18.180.93.129 | bandd-node | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
+| 3.112.138.57 | bandprod | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
 | 57.128.133.20 | forbole-sentry | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
-| 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
-| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 3.114.200.136 | 123456 | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
 
 <!-- END_TABLE -->
