@@ -37,7 +37,6 @@
 | 195.3.222.183 | goto5k | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 209.126.116.182 | auranetwork | GO-DADDY-COM-LLC | GoDaddy.com, LLC |
 | 65.108.238.166 | hello-aura-relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.202.86 | ramuchi.tech | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 18.143.52.13 | node | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 51.79.72.77 | w3coins | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
@@ -109,6 +108,6 @@
 | 57.128.20.163 | 1079ae08-29da-5422-83ee-35dd2ffbd84b | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.212.224 | xstaxy-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 144.126.147.58 | Aura Node | CONTA-48 | Contabo Inc. |
+| 38.242.150.63 | xstaxy-1-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
