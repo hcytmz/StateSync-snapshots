@@ -107,11 +107,12 @@
 | 62.171.182.169 | feel-mining | CONTABO | Contabo GmbH |
 | 141.95.65.98 | 812rcl1rKC | SD-LIM-fra1-lim3-sdagg10a-b-n93-1-2 | OVH GmbH |
 | 162.55.129.170 | forbole-fsn | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 62.171.165.6 | anchorstaking | CONTABO | Contabo GmbH |
 | 57.128.133.1 | Forbole | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
 | 35.74.104.174 | p | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
 | 34.150.156.78 | seed-2 | GOOGL-2 | Google LLC |
-| 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
+| 14.224.158.246 | Chainp2p | VNPT-VN |  |
 | 136.243.40.17 | senodesr | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 103.107.183.177 | owlstake | PEGA-VN |  |
 | 15.235.53.219 | 9W6YPA6MhV | HO-2 | OVH Hosting, Inc. |
@@ -127,14 +128,14 @@
 | 51.159.16.49 | band_tanger | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 23.88.62.189 | blockscape | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.24.82 | StakeTown | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 209.182.237.121 | tienthuattoan | SN-209-182-232-0-21 | Strasmore, Inc. |
+| 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 89.149.218.44 | random111 | NL-LEASEWEB-20060223 | LeaseWeb Netherlands B.V. |
 | 18.138.54.118 | bandchain | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 65.21.202.61 | band-api | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 35.78.98.26 | 1c-1 | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
 | 35.187.224.251 | public1-1 | GOOGLE-CLOUD | Google LLC |
 | 57.128.133.20 | forbole-sentry | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
-| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
-| 13.215.242.190 | band_ip-10-192-68-99 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 209.182.237.121 | tienthuattoan | SN-209-182-232-0-21 | Strasmore, Inc. |
+| 176.9.147.146 | band-sentry | HETZNER-fsn1-dc7 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
