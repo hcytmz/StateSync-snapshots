@@ -1,15 +1,15 @@
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
-| HETZNER | 37 | 53.62% | 🔴 |
-| OVH | 5 | 7.25% | 🟢 |
-| Contabo | 4 | 5.80% | 🟢 |
-| Scaleway | 4 | 5.80% | 🟢 |
-| IPAX | 2 | 2.90% | 🟢 |
-| MEVSPACE | 2 | 2.90% | 🟢 |
-| Netcup | 2 | 2.90% | 🟢 |
-| AMAZON | 1 | 1.45% | 🟢 |
-| Interserver | 1 | 1.45% | 🟢 |
-| IONOS | 1 | 1.45% | 🟢 |
-| LeaseWeb | 1 | 1.45% | 🟢 |
-| PSINet | 1 | 1.45% | 🟢 |
-| OTHER | 8 | 11.59% | 🟢 |
+| HETZNER | 36 | 52.94% | 🔴 |
+| OVH | 5 | 7.35% | 🟢 |
+| Contabo | 4 | 5.88% | 🟢 |
+| Scaleway | 4 | 5.88% | 🟢 |
+| IPAX | 2 | 2.94% | 🟢 |
+| MEVSPACE | 2 | 2.94% | 🟢 |
+| Netcup | 2 | 2.94% | 🟢 |
+| AMAZON | 1 | 1.47% | 🟢 |
+| Interserver | 1 | 1.47% | 🟢 |
+| IONOS | 1 | 1.47% | 🟢 |
+| LeaseWeb | 1 | 1.47% | 🟢 |
+| PSINet | 1 | 1.47% | 🟢 |
+| OTHER | 8 | 11.76% | 🟢 |
