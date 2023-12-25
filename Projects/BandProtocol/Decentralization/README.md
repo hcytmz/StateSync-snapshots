@@ -56,7 +56,7 @@
 | 121.78.241.76 | WeStaking | KINXINC KINXINC-KR |  |
 | 51.83.140.142 | w3coins | SD-MAGGIE-WAW-S324B-W16A-B-waw1-sdagg15a-b-n93 | OVH Sp. z o. o. |
 | 113.190.42.196 | BlockShark | VNPT-VN |  |
-| 193.34.212.203 | Ysewdd | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
+| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 131.153.174.13 | Jamaharon | SSL-65 | SECURED SERVERS LLC |
 | 199.247.13.82 | band-node02 | RIPE NET-V4-199-247-0-0-19 | RIPE Network Coordination Centre Vultr Holdings LLC Paris |
 | 13.212.159.242 | bprod-band-2 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
@@ -98,7 +98,7 @@
 | 54.244.131.5 | Wanchain | AMAZON-2011L AMAZO-ZPDX2 | Amazon Technologies Inc. Amazon.com, Inc. |
 | 89.149.218.43 | random33 | NL-LEASEWEB-20060223 | LeaseWeb Netherlands B.V. |
 | 162.55.92.114 | 1d1de7c5-dbe068 | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 3.114.200.136 | 123456 | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
+| 14.224.158.246 | Chainp2p | VNPT-VN |  |
 | 34.87.84.50 | public2-2 | GOOGL-2 | Google LLC |
 | 168.119.146.110 | PB | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 162.55.234.190 | StakeCraft | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -110,7 +110,7 @@
 | 209.182.237.121 | tienthuattoan | SN-209-182-232-0-21 | Strasmore, Inc. |
 | 62.171.165.6 | anchorstaking | CONTABO | Contabo GmbH |
 | 57.128.133.1 | Forbole | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
-| 35.78.98.26 | 1c-1 | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
+| 45.13.59.97 | Inter Blockchaine Services | TT-2021111902 | Contabo GmbH |
 | 34.150.156.78 | seed-2 | GOOGL-2 | Google LLC |
 | 91.246.64.247 | band4 | Skyware | Skyware Sp. z o.o. |
 | 136.243.40.17 | senodesr | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -132,10 +132,7 @@
 | 89.149.218.44 | random111 | NL-LEASEWEB-20060223 | LeaseWeb Netherlands B.V. |
 | 18.138.54.118 | bandchain | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 65.21.202.61 | band-api | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 18.180.93.129 | bandd-node | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
-| 3.112.138.57 | bandprod | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
-| 14.224.158.246 | Chainp2p | VNPT-VN |  |
-| 45.13.59.97 | Inter Blockchaine Services | TT-2021111902 | Contabo GmbH |
 | 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
+| 193.34.212.203 | Ysewdd | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 
 <!-- END_TABLE -->
