@@ -28,7 +28,7 @@
 | 65.21.73.18 | ST-Server | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 178.162.165.154 | andromeda-0 | NL-LEASEWEB-20100205 | LeaseWeb Netherlands B.V. |
 | 5.9.106.230 | andromeda-1 | HETZNER-fsn1-dc7 |  |
-| 136.243.67.47 | e8245fac-0b7e-55fe-bafe-eaeeb87fb58c | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 65.108.201.167 | Synergy_Nodes | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 206.125.33.62 | node | SWSF | Scott Technology Center |
 | 15.235.187.108 | seltonstake | HO-2 OVHCLOUD-SGP VPS-SGP2 | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 51.91.215.27 | andromeda-1 | SD-GAME-GRA2 | OVH SAS |
@@ -37,6 +37,6 @@
 | 185.119.116.245 | dankuzone_w_daic | AT-IPAX-20150930 | IPAX GmbH |
 | 65.21.10.105 | andromeda-1 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 178.162.165.193 | andromeda-0 | NL-LEASEWEB-20100205 | LeaseWeb Netherlands B.V. |
-| 65.108.201.167 | Synergy_Nodes | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 136.243.67.47 | e8245fac-0b7e-55fe-bafe-eaeeb87fb58c | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
