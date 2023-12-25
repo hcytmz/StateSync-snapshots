@@ -62,7 +62,7 @@
 | 65.109.28.165 | Decentrio | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.58.28 | Validatrium.com | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 149.102.128.221 | StingRay | COGENT-149-102-16 | PSINet, Inc. |
-| 144.91.65.13 | AviaDoc_by_AviaOne | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 128.199.10.240 | leelucky | RIPE-ERX-128-199-0-0 DigitalOcean | RIPE Network Coordination Centre DigitalOcean, LLC |
 | 5.9.83.110 | 1ce | HETZNER-fsn1-dc7 |  |
 | 144.126.148.159 | HKNVAL | CONTA-48 | Contabo Inc. |
 | 207.180.199.130 | radym | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -97,7 +97,7 @@
 | 46.4.107.67 | Archive | MZONDER | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 65.108.108.54 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.73.170 | Pro-Nodes75 | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 15.235.160.84 | node | HO-2 OVHCLOUD-SGP SD-SGP | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
+| 15.235.160.84 | node | HO-2 OVHCLOUD-SGP SD-SGP | OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 167.235.12.38 | Hexnodes | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 173.249.7.30 | CryptoDropsID | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 89.117.57.201 | rc-bh-rocks | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
@@ -128,6 +128,6 @@
 | 65.21.73.18 | ST-Server | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 88.99.61.173 | deNodes | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 148.251.177.108 | hello-dymension-test | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 128.199.10.240 | leelucky | RIPE-ERX-128-199-0-0 DigitalOcean | RIPE Network Coordination Centre DigitalOcean, LLC |
+| 144.91.65.13 | AviaDoc_by_AviaOne | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 
 <!-- END_TABLE -->
