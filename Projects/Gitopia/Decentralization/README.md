@@ -48,12 +48,11 @@
 | 194.163.171.231 | F-Staking_RPC | CONTABO |  |
 | 139.99.131.163 | SRG0Z10 | HO-2 OVH-AU-1 OVH-DEDICATED | OVH Hosting, Inc. OVH Australia PTY LTD OVH Australia PTY LTD |
 | 165.227.88.210 | SpacePotato | DIGITALOCEAN-165-227-0-0 | DigitalOcean, LLC |
-| 193.26.159.34 | side-genznodes-2 | NETCUP-NETWORK-193-26-156-0-22 | netcup GmbH |
 | 5.161.57.196 | MONADA | CLOUD-ASH | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.153.140 | RoomIT | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 35.198.158.89 | sentry-2 | GOOGLE-CLOUD | Google LLC |
 | 34.87.123.13 | gitopia-faucet-unisentry-1 | GOOGL-2 | Google LLC |
-| 65.21.239.121 | node | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 144.76.40.53 | f9e69acc-2641-58fc-861f-4e2ea627bcf0 | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 46.4.14.172 | PPNV | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 65.109.29.150 | range | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 84.39.241.20 | Gavryushev | UBN |  |
@@ -98,7 +97,7 @@
 | 176.191.97.120 | New_peer | FR-BOUYGTEL-20110706 | Bouygues Telecom SA |
 | 65.109.23.237 | moodman | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.116.109 | cyberG | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 161.97.108.208 | Snap | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.121.247 | KingSuper | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 159.148.146.132 | SGTstake | RIPE-ERX-159-147-0-0 BITELATVIJA | RIPE Network Coordination Centre SIA BITE Latvija |
 | 135.181.73.57 | Blockpower Capital | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -120,7 +119,7 @@
 | 167.235.39.5 | tarabukinivan | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.52.115 | MAHOF | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.133.249 | StakeUp_rpc | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 158.69.125.73 | Nodeist-gitopia-main | HO-2 |  |
+| 158.69.125.73 | Nodeist-gitopia-main | HO-2 | OVH Hosting, Inc. |
 | 213.32.24.201 | #22 | FR-OVH-19990628 | OVH SAS |
 | 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 65.109.112.170 | NJ-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -132,7 +131,7 @@
 | 65.109.33.48 | L0vd.com | RPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 148.251.235.130 | snap-gitopia | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 147.135.138.180 | CyrptoNet | RIPE SD-OVH | RIPE Network Coordination Centre OVH SAS |
-| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 38.242.150.63 | gitopia-seed | COGENT-A | PSINet, Inc. |
+| 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 135.181.5.219 | gitopia-seed | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
