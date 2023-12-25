@@ -111,7 +111,7 @@
 | 195.3.220.54 | x5orz6jty7xw | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 43.157.50.9 | P2P.ORG - P2P Validator |  |  |
 | 84.54.23.41 | becktak | TT-20220730 | Contabo GmbH |
-| 144.217.68.182 | Nodeist-dymension-test | HO-2 | OVH Hosting, Inc. |
+| 144.217.68.182 | Nodeist-dymension-test | HO-2 |  |
 | 164.68.105.143 | Dikci | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 144.76.18.199 | Validatrium | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 194.180.176.22 | kiyo | TT-20220721 | Contabo GmbH |
