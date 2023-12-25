@@ -82,6 +82,7 @@
 | 142.132.193.194 | ECO Stake | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 80.254.8.54 | ITpro | EXPRESS |  |
 | 141.95.157.139 | randomblahblahfkdsjaflkdsaj | SD-GRA-gra3-sdagg17ab-n93 | OVH SAS |
-| 161.97.82.203 | ams-rpc | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 142.132.253.112 | itrocket_seed | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 138.201.220.51 | empowerchain-1-seed | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
