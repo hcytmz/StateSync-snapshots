@@ -25,7 +25,7 @@
 | 65.109.158.190 | StakePool | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.74.56 | ChainodeTech | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 86.48.31.105 | BigBrainStaking2 | TT-20220523 | Contabo GmbH |
-| 128.199.10.240 | leelucky | RIPE-ERX-128-199-0-0 DigitalOcean | RIPE Network Coordination Centre DigitalOcean, LLC |
+| 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 130.185.118.30 | Genuwine007 | RIPE-ERX-130-185-0-0 TT-2022010304 | RIPE Network Coordination Centre Contabo GmbH |
 | 85.10.201.125 | jayjay | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 173.249.45.161 | Ezshik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -128,6 +128,6 @@
 | 65.21.73.18 | ST-Server | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 88.99.61.173 | deNodes | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 148.251.177.108 | hello-dymension-test | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 128.199.10.240 | leelucky | RIPE-ERX-128-199-0-0 DigitalOcean | RIPE Network Coordination Centre DigitalOcean, LLC |
 
 <!-- END_TABLE -->
