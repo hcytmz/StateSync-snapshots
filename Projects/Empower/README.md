@@ -94,7 +94,8 @@ sudo systemctl restart empowerd && sudo journalctl -u empowerd -f -o cat
 🔥Addrbook T🔥:    ```wget -O $HOME/.empowerchain/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Empower/Testnet/addrbook.json"``` \
 🔥Genesis🔥:     ```wget -O $HOME/.empowerchain/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Empower/Testnet/genesis.json"``` \
 🔥Auto_install script🔥M: ```wget -O empwm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Empower/empwm && chmod +x empwm && ./empwm``` \
-🔥Auto_install script🔥T: ```wget -O empw https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Empower/Testnet/empw && chmod +x empw && ./empw```
+🔥Auto_install script🔥T: ```wget -O empw https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Empower/Testnet/empw && chmod +x empw && ./empw``` \
+🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Empower/Decentralization)🔥
 
 <details>
 <summary>RPC Scanning</summary>
