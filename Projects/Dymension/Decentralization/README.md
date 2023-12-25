@@ -77,7 +77,7 @@
 | 162.55.1.176 | NacionCrypto - Parceros | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 162.19.237.150 | NodeStake | RIPE PCI-DE1 | RIPE Network Coordination Centre OVH GmbH |
 | 173.212.223.233 | test | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 95.216.65.177 | CreeptoCat | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 18.119.112.130 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 89.117.52.159 | BigBrainStaking | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 46.4.23.42 | NakoTurk | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 194.233.90.134 | geonodes | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
@@ -85,7 +85,7 @@
 | 146.19.24.101 | duality | RIPE-ERX-146-19-0-0 PL-DIGICRON-20211111 | RIPE Network Coordination Centre Adam Ochmanski trading as Digicron |
 | 135.181.117.144 | Panda_Team | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.106.214 | Conqueror | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 18.119.112.130 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 144.91.65.13 | AviaDoc_by_AviaOne | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 136.38.55.33 | Silk Nodes | GOOGLE-FIBER | Google Fiber Inc. |
 | 65.109.104.171 | Inter Blockchain Services | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 88.99.143.105 | StakeRun | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
@@ -97,7 +97,7 @@
 | 46.4.107.67 | Archive | MZONDER | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 65.108.108.54 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.73.170 | Pro-Nodes75 | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 15.235.160.84 | node | HO-2 OVHCLOUD-SGP SD-SGP | OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
+| 15.235.160.84 | node | HO-2 OVHCLOUD-SGP SD-SGP | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 167.235.12.38 | Hexnodes | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 173.249.7.30 | CryptoDropsID | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 89.117.57.201 | rc-bh-rocks | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
@@ -128,6 +128,6 @@
 | 65.21.73.18 | ST-Server | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 88.99.61.173 | deNodes | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 148.251.177.108 | hello-dymension-test | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 144.91.65.13 | AviaDoc_by_AviaOne | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 95.216.65.177 | CreeptoCat | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
