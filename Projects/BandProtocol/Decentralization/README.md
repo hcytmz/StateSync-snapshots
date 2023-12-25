@@ -17,7 +17,7 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 57.128.133.20 | forbole-sentry | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
+| 193.34.212.170 | nodexxw32 | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 65.109.62.37 | laozi-mainnet | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.201.154 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.76.68.79 | band-node01 | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -73,7 +73,7 @@
 | 34.87.51.255 | gateway-2 | GOOGL-2 | Google LLC |
 | 193.34.213.144 | GateOmega | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 185.16.39.172 | yvrota6ma2rw | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
-| 65.109.97.249 | hello-band-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 34.142.199.94 | public2-1 | GOOGL-2 | Google LLC |
 | 77.68.30.186 | band | UK-NGCS | Fasthosts Internet Limited |
 | 5.135.137.127 | StakeSabai | OVH |  |
 | 91.246.64.247 | band4 | Skyware | Skyware Sp. z o.o. |
@@ -120,7 +120,7 @@
 | 173.212.240.62 | Wellstake | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 95.214.55.227 | 2ksuoz4myt8c | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 98.157.122.100 | BandSentry1 | RRWE | Charter Communications Inc |
-| 34.64.245.112 | bf-s-kr | GOOGL-2 GOOGLE-CLOUD | Google LLC Google Asia Pacific Pte. Ltd. |
+| 34.64.245.112 | bf-s-kr | GOOGL-2 GOOGLE-CLOUD | Google LLC |
 | 167.235.180.97 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 3.126.103.168 | dj3dja | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 45.129.147.242 | ams-atlas-staking | qupra-access-2 |  |
@@ -135,6 +135,5 @@
 | 35.78.98.26 | 1c-1 | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
 | 35.187.224.251 | public1-1 | GOOGLE-CLOUD | Google LLC |
 | 35.240.157.121 | public3-1 | GOOGLE-CLOUD | Google LLC |
-| 34.142.199.94 | public2-1 | GOOGL-2 | Google LLC |
 
 <!-- END_TABLE -->
