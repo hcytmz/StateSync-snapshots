@@ -36,7 +36,6 @@
 | 142.132.202.50 | cryptobtcbuyer | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.151.17 | [NODERS]TEAM | HETZNER-fsn1-dc7 | Hetzner Online GmbH |
 | 95.214.55.138 | side-genznodes-1 | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
-| 194.163.144.185 | Oldcat-gitopia-main | CONTABO |  |
 | 5.9.106.214 | node | HETZNER-fsn1-dc7 |  |
 | 138.201.204.5 | haciyatmaz | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 142.132.202.86 | ramuchi.tech | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -87,7 +86,7 @@
 | 5.181.190.114 | L0vd.com | PL-MEV-20190403 | MEVSPACE sp. z o.o. |
 | 57.128.96.155 | c5fd53c8-65d5-501e-9b65-931e30a2ea32 | RIPE-ERX-57 SDAGG40-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 65.109.17.23 | F-Staking | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.21.239.121 | node | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 185.8.104.230 | everexsiting | BALTICSERVERS-LT-DEDICATED |  |
 | 88.198.69.44 | Nocturnal Labs | HETZNER-ONLINE-AG-EIGENE-NETZE | Hetzner Online GmbH |
 | 5.9.147.22 | StingRay | HETZNER-fsn1-dc10 |  |
@@ -98,7 +97,7 @@
 | 176.191.97.120 | New_peer | FR-BOUYGTEL-20110706 | Bouygues Telecom SA |
 | 65.109.23.237 | moodman | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.116.109 | cyberG | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 3.14.249.97 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 95.214.52.139 | a0adrd8rz5h5 | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 95.217.121.247 | KingSuper | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 103.180.28.90 | Forbole | METROPOLIS-AP | Metropolis Networks Inc |
 | 135.181.73.57 | Blockpower Capital | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -129,6 +128,7 @@
 | 65.109.154.185 | NODEJUMPER | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.45.69 | cyberG | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 65.108.15.170 | ramuchi.tech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.214.52.139 | a0adrd8rz5h5 | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
+| 3.14.249.97 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 138.197.189.243 | gitopia-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
