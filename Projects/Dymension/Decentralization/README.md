@@ -85,7 +85,7 @@
 | 146.19.24.101 | duality | RIPE-ERX-146-19-0-0 PL-DIGICRON-20211111 | RIPE Network Coordination Centre Adam Ochmanski trading as Digicron |
 | 135.181.117.144 | Panda_Team | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.106.214 | Conqueror | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.216.65.177 | CreeptoCat | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 88.99.61.173 | deNodes | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 136.38.55.33 | Silk Nodes | GOOGLE-FIBER | Google Fiber Inc. |
 | 65.109.104.171 | Inter Blockchain Services | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 88.99.143.105 | StakeRun | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
@@ -93,7 +93,7 @@
 | 51.159.138.189 | restake-dymension-test-00-0 | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 190.2.137.108 | pops |  |  |
 | 65.21.67.137 | Blockscope | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.217.119.56 | stakecat | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 95.216.65.177 | CreeptoCat | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 46.4.107.67 | Archive | MZONDER | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 65.108.108.54 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.73.170 | Pro-Nodes75 | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -126,7 +126,6 @@
 | 199.60.101.162 | mydymnode1 | USD-NET-199-60-101 | Dedicated.com |
 | 46.4.99.152 | node | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 65.21.73.18 | ST-Server | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 88.99.61.173 | deNodes | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 144.91.65.13 | AviaDoc_by_AviaOne | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 
 <!-- END_TABLE -->
