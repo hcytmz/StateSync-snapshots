@@ -13,7 +13,6 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 65.108.231.124 | itrocket_seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.188.249.46 | BonyNode | TT-202200809 | Contabo GmbH |
 | 107.155.125.170 | Spectrum | NET-107-155-64-0-18 ARN1-EDGE-COMPUTE | HIVELOCITY, Inc. |
 | 97.126.7.255 | blitmore | CENTURYLINK-LEGACY-QWEST-INET-125 | CenturyLink Communications, LLC |
@@ -61,5 +60,6 @@
 | 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 207.180.249.127 | DiBugNodes | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 135.181.156.192 | MCB | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.231.124 | itrocket_seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
