@@ -72,7 +72,7 @@
 | 57.128.82.197 | NodeStake | RIPE-ERX-57 PCI-GRA11 | RIPE Network Coordination Centre OVH SAS |
 | 51.159.221.31 | bloclick | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 65.108.232.182 | Mrs_ml | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 142.132.253.112 | itrocket_seed | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 192.9.134.157 | SAWAYO | ORACLE-BRM1 | Oracle Corporation |
 | 142.132.157.153 | yldmsempower | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 3.80.107.9 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 65.109.105.110 | Anatolian Team | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -82,9 +82,6 @@
 | 142.132.193.194 | ECO Stake | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 80.254.8.54 | ITpro | EXPRESS |  |
 | 141.95.157.139 | randomblahblahfkdsjaflkdsaj | SD-GRA-gra3-sdagg17ab-n93 | OVH SAS |
-| 173.249.24.244 | empowerchain-1-seed | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 192.9.134.157 | SAWAYO | ORACLE-BRM1 | Oracle Corporation |
-| 95.216.164.165 | empowerchain-1-seed | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 195.201.222.82 | empowerchain-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 161.97.82.203 | ams-rpc | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 
 <!-- END_TABLE -->
