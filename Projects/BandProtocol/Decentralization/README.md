@@ -1,13 +1,14 @@
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
-| HETZNER | 32 | 26.89% | 🟢 |
-| OVH | 14 | 11.76% | 🟢 |
-| AMAZON | 10 | 8.40% | 🟢 |
-| Contabo | 4 | 3.36% | 🟢 |
-| MEVSPACE | 4 | 3.36% | 🟢 |
-| LeaseWeb | 2 | 1.68% | 🟢 |
-| Vultr | 2 | 1.68% | 🟢 |
-| Fasthosts | 1 | 0.84% | 🟢 |
-| Netcup | 1 | 0.84% | 🟢 |
-| Scaleway | 1 | 0.84% | 🟢 |
-| OTHER | 48 | 40.34% | 🟢 |
+| HETZNER | 32 | 26.67% | 🟢 |
+| Google-Cloud | 21 | 17.50% | 🟢 |
+| OVH | 14 | 11.67% | 🟢 |
+| AMAZON | 11 | 9.17% | 🟢 |
+| Contabo | 4 | 3.33% | 🟢 |
+| MEVSPACE | 4 | 3.33% | 🟢 |
+| LeaseWeb | 2 | 1.67% | 🟢 |
+| Vultr | 2 | 1.67% | 🟢 |
+| Fasthosts | 1 | 0.83% | 🟢 |
+| Netcup | 1 | 0.83% | 🟢 |
+| Scaleway | 1 | 0.83% | 🟢 |
+| OTHER | 27 | 22.50% | 🟢 |
