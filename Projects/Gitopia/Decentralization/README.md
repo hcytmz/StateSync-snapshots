@@ -53,6 +53,7 @@
 | 65.109.153.140 | RoomIT | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.33.48 | L0vd.com | RPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 34.87.123.13 | gitopia-faucet-unisentry-1 | GOOGL-2 | Google LLC |
+| 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 46.4.14.172 | PPNV | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 65.109.29.150 | range | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 84.39.241.20 | Gavryushev | UBN |  |
@@ -86,7 +87,7 @@
 | 5.181.190.114 | L0vd.com | PL-MEV-20190403 | MEVSPACE sp. z o.o. |
 | 57.128.96.155 | c5fd53c8-65d5-501e-9b65-931e30a2ea32 | RIPE-ERX-57 SDAGG40-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 65.109.17.23 | F-Staking | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
+| 65.21.239.121 | node | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.8.104.230 | everexsiting | BALTICSERVERS-LT-DEDICATED |  |
 | 88.198.69.44 | Nocturnal Labs | HETZNER-ONLINE-AG-EIGENE-NETZE | Hetzner Online GmbH |
 | 5.9.147.22 | StingRay | HETZNER-fsn1-dc10 |  |
@@ -128,9 +129,6 @@
 | 65.109.154.185 | NODEJUMPER | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.45.69 | cyberG | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 65.108.15.170 | ramuchi.tech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.214.52.139 | uxy3r2n2y2dt | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
-| 38.146.3.100 | gitopia-seed | COGENT-A | PSINet, Inc. |
-| 46.38.232.86 | gitopia-seed | DE-NETCUP-20101202 | netcup GmbH |
-| 38.242.150.63 | gitopia-seed | COGENT-A | PSINet, Inc. |
+| 95.214.52.139 | a0adrd8rz5h5 | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 
 <!-- END_TABLE -->
