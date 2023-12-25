@@ -92,6 +92,6 @@
 | 135.181.28.178 | F5Nodes | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 167.142.158.242 | jackal-archive | AUREON-BLK1 NET-167-142-158-0-24 | Aureon Network Services |
 | 65.109.50.30 | Goatlabs | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 138.197.189.243 | jackal-1-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
+| 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
