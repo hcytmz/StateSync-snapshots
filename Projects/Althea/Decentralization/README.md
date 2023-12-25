@@ -29,7 +29,7 @@
 | 95.217.58.111 | haciyatmaz | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.121.109 | mymoniker | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
-| 144.217.68.182 | Nodeist-althea-test | HO-2 | OVH Hosting, Inc. |
+| 91.108.24.20 | ramuchi.tech | eTelecom_Users |  |
 | 66.45.231.30 | cyberomanov | INTERSERVER | Interserver, Inc |
 | 138.201.225.104 | mymoniker | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 144.76.174.27 | kokos | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -39,7 +39,6 @@
 | 65.109.126.23 | s-althea-testrelay | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.68.86 | emperor | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.237.231 | MMS | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 94.130.26.9 | Pro-Nodes75 | HETZNER-nbg1-dc3 | Hetzner Online GmbH |
 | 65.109.92.249 | Nodiu | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 116.202.227.117 | big-mamba | STUB-116-202SLASH15 |  |
 | 136.243.148.154 | terlia | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -60,6 +59,7 @@
 | 65.109.94.221 | TestnetPride | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 173.212.252.12 | Edward | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 91.108.24.20 | ramuchi.tech | eTelecom_Users |  |
+| 144.217.68.182 | Nodeist-althea-test | HO-2 | OVH Hosting, Inc. |
+| 207.180.249.127 | DiBugNodes | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 
 <!-- END_TABLE -->
