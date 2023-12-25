@@ -83,8 +83,5 @@
 | 65.108.78.101 | Moonbridge | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.214.52.139 | u8rgw8mxbsfm | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 161.97.82.203 | ams-rpc | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 135.181.5.219 | empowerchain-1-seed | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 138.197.189.243 | empowerchain-1-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
-| 173.249.24.244 | empowerchain-1-seed | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 
 <!-- END_TABLE -->
