@@ -39,5 +39,6 @@
 | 51.91.215.27 | andromeda-1 | SD-GAME-GRA2 | OVH SAS |
 | 178.162.165.193 | andromeda-0 | NL-LEASEWEB-20100205 | LeaseWeb Netherlands B.V. |
 | 135.181.221.225 | anisev | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.227.217 | andromeda-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
