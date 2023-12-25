@@ -25,7 +25,7 @@
 | 65.109.117.219 | moodman | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.118.240 | lesnik_utsa | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 192.99.20.53 | node | OVH-ARIN-7 | OVH Hosting, Inc. |
-| 144.217.68.182 | Nodeist-dora-test | HO-2 |  |
+| 144.217.68.182 | Nodeist-dora-test | HO-2 | OVH Hosting, Inc. |
 | 65.109.92.148 | Shoni | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 13.213.30.203 | dorafactory02 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 18.143.75.85 | dorafactory | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
