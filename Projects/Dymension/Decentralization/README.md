@@ -22,7 +22,7 @@
 | 37.27.14.211 | F5Nodes | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.30.110 | mercurius | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.112.180 | Leo23 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 148.251.177.108 | hello-dymension-test | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 95.217.176.55 | Klever | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.74.56 | ChainodeTech | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 86.48.31.105 | BigBrainStaking2 | TT-20220523 | Contabo GmbH |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -126,7 +126,6 @@
 | 199.60.101.162 | mydymnode1 | USD-NET-199-60-101 | Dedicated.com |
 | 46.4.99.152 | node | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 65.21.73.18 | ST-Server | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.217.176.55 | Klever | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 192.99.160.197 | NodeName | OVH-ARIN-7 | OVH Hosting, Inc. |
+| 148.251.177.108 | hello-dymension-test | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
