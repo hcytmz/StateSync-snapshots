@@ -61,7 +61,6 @@
 | 62.171.190.198 | Roemer | CONTABO | Contabo GmbH |
 | 158.220.92.97 | AVIAONE | RIPE-ERX-158-220-0-0 TT-20230331 | RIPE Network Coordination Centre Contabo GmbH |
 | 95.111.244.78 | Panthea EU | CONTABO |  |
-| 148.251.13.186 | hello-bitcanna-backup | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 193.34.144.156 | Paranorm | CONTABO | Contabo GmbH |
 
 <!-- END_TABLE -->
