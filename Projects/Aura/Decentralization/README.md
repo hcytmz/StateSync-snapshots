@@ -108,8 +108,6 @@
 | 57.128.20.163 | 1079ae08-29da-5422-83ee-35dd2ffbd84b | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 65.109.97.249 | hello-aura-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.212.224 | xstaxy-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 38.242.150.63 | xstaxy-1-seed | COGENT-A | PSINet, Inc. |
-| 65.108.227.217 | xstaxy-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
