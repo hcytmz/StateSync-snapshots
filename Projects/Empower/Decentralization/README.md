@@ -28,7 +28,7 @@
 | 136.243.67.189 | hello-empower-main | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 51.79.77.103 | itrocket.net | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 65.108.78.101 | Moonbridge | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.97.249 | hello-empower-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 142.132.253.112 | itrocket_seed | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.199.236 | LiveRaveN | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 46.4.81.216 | 34f349erf | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 65.108.108.54 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -82,7 +82,9 @@
 | 142.132.193.194 | ECO Stake | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 80.254.8.54 | ITpro | EXPRESS |  |
 | 141.95.157.139 | randomblahblahfkdsjaflkdsaj | SD-GRA-gra3-sdagg17ab-n93 | OVH SAS |
-| 142.132.253.112 | itrocket_seed | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.97.249 | hello-empower-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 135.181.5.219 | empowerchain-1-seed | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 173.249.24.244 | empowerchain-1-seed | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 138.201.220.51 | empowerchain-1-seed | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
