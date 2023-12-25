@@ -58,8 +58,8 @@
 | 144.76.17.123 | goto5k | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 65.109.94.221 | TestnetPride | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
-| 173.212.252.12 | Edward | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 144.217.68.182 | Nodeist-althea-test | HO-2 | OVH Hosting, Inc. |
 | 207.180.249.127 | DiBugNodes | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 144.217.68.182 | Nodeist-althea-test | HO-2 | OVH Hosting, Inc. |
+| 173.212.252.12 | Edward | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 
 <!-- END_TABLE -->
