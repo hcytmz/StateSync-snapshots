@@ -30,7 +30,6 @@
 | 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.250.33.38 | 3vag7g42 | RU-YANDEXCLOUD | Yandex.Cloud LLC |
 | 23.88.77.182 | masterval-2-main | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 44.214.37.79 | cheqd-mainnet-1 | AMAZO-4 AMAZON-IAD | Amazon.com, Inc. Amazon Data Services NoVa |
 | 116.203.250.20 | esatus-node | STUB-116-202SLASH15 |  |
 | 143.198.36.150 | 82719c86c60d | DIGITALOCEAN-143-198-0-0 | DigitalOcean, LLC |
 | 65.108.225.126 | BadgerBite | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -64,5 +63,6 @@
 | 188.166.17.65 | Animo Solutions | EU-DIGITALOCEAN-NL1 | DigitalOcean, LLC |
 | 54.153.187.95 | Anonyome Labs | AMAZON | Amazon Technologies Inc. |
 | 116.203.54.9 | seed1-eu-mainnet-cheqd | STUB-116-202SLASH15 |  |
+| 44.214.37.79 | cheqd-mainnet-1 | AMAZO-4 AMAZON-IAD | Amazon.com, Inc. Amazon Data Services NoVa |
 
 <!-- END_TABLE -->
