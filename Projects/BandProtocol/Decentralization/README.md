@@ -56,7 +56,7 @@
 | 121.78.241.76 | WeStaking | KINXINC KINXINC-KR |  |
 | 51.83.140.142 | w3coins | SD-MAGGIE-WAW-S324B-W16A-B-waw1-sdagg15a-b-n93 | OVH Sp. z o. o. |
 | 113.190.42.196 | BlockShark | VNPT-VN |  |
-| 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
+| 193.34.212.203 | Ysewdd | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 131.153.174.13 | Jamaharon | SSL-65 | SECURED SERVERS LLC |
 | 199.247.13.82 | band-node02 | RIPE NET-V4-199-247-0-0-19 | RIPE Network Coordination Centre Vultr Holdings LLC Paris |
 | 13.212.159.242 | bprod-band-2 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
@@ -76,7 +76,7 @@
 | 34.142.199.94 | public2-1 | GOOGL-2 | Google LLC |
 | 77.68.30.186 | band | UK-NGCS | Fasthosts Internet Limited |
 | 5.135.137.127 | StakeSabai | OVH |  |
-| 193.34.212.203 | Ysewdd | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
+| 65.109.97.249 | hello-band-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 46.137.209.178 | b-band-s0-sg | AMAZON-SIN |  |
 | 135.181.114.86 | YOUR_MONIKER_GOES_HERE | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 34.138.126.238 | bf-s-use | GOOGL-2 | Google LLC |
@@ -136,6 +136,6 @@
 | 3.112.138.57 | bandprod | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
 | 14.224.158.246 | Chainp2p | VNPT-VN |  |
 | 45.13.59.97 | Inter Blockchaine Services | TT-2021111902 | Contabo GmbH |
-| 65.109.97.249 | hello-band-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
