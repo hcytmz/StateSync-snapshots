@@ -95,7 +95,8 @@ sudo systemctl restart bandd && journalctl -u bandd -f -o cat
 🔥Addrbook Mainnet🔥:    ```wget -O $HOME/.band/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/BandProtocol/addrbook.json"``` \
 🔥Addrbook Testnet🔥:    ```wget -O $HOME/.band/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/BandProtocol/Testnet/addrbook.json"``` \
 🔥Auto_install script Mainnet🔥: ```wget -O bandm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/BandProtocol/bandm && chmod +x bandm && ./bandm``` \
-🔥Auto_install script Testnet🔥: ```wget -O bandt https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/BandProtocol/Testnet/bandt && chmod +x bandt && ./bandt```
+🔥Auto_install script Testnet🔥: ```wget -O bandt https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/BandProtocol/Testnet/bandt && chmod +x bandt && ./bandt``` \
+🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/BandProtocol/Decentralization)🔥
 
 <details>
 <summary>RPC Scanning</summary>
