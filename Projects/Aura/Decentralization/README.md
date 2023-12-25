@@ -36,6 +36,7 @@
 | 195.3.221.76 | stakr-space | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 65.109.69.140 | StakeCraft | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.121.109 | StakeAngle | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
+| 95.214.52.139 | nse7xa14jfuh | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 5.78.71.200 | Moniker | CLOUD-HIL | Hetzner Online GmbH Hetzner Online GmbH |
 | 209.159.148.90 | UTSA_guide | INTERSERVER | Interserver, Inc |
 | 208.77.197.83 | vidulum.app | WOLFPAW | Wolfpaw Data Centres Inc |
@@ -66,6 +67,5 @@
 | 135.181.239.114 | Degen Power | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 69.197.2.27 | web3validator | STACKPATH-69-197-0-0-1 SP-SOLANA-69-197-2-0-24 | StackPath, LLC. |
 | 13.250.159.219 | node | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
-| 95.214.52.139 | nse7xa14jfuh | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 
 <!-- END_TABLE -->
