@@ -62,5 +62,6 @@
 | 158.220.92.97 | AVIAONE | RIPE-ERX-158-220-0-0 TT-20230331 | RIPE Network Coordination Centre Contabo GmbH |
 | 95.111.244.78 | Panthea EU | CONTABO |  |
 | 212.6.176.21 | New_peer | MEDAS-COMPUTERS-NET |  |
+| 168.119.89.31 | bitcanna | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
