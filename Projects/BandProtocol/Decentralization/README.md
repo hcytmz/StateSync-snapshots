@@ -56,7 +56,7 @@
 | 121.78.241.76 | WeStaking | KINXINC KINXINC-KR |  |
 | 51.83.140.142 | w3coins | SD-MAGGIE-WAW-S324B-W16A-B-waw1-sdagg15a-b-n93 | OVH Sp. z o. o. |
 | 113.190.42.196 | BlockShark | VNPT-VN |  |
-| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 109.70.113.100 | band.d3akash.cloud | AS8758-GieldanowskiConsulting |  |
 | 131.153.174.13 | Jamaharon | SSL-65 | SECURED SERVERS LLC |
 | 199.247.13.82 | band-node02 | RIPE NET-V4-199-247-0-0-19 | RIPE Network Coordination Centre Vultr Holdings LLC Paris |
 | 13.212.159.242 | bprod-band-2 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
@@ -134,5 +134,8 @@
 | 65.21.202.61 | band-api | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 193.34.212.203 | Ysewdd | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
+| 65.108.108.42 | 0base.vc-laozi-mainnet-bandprotocol-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 54.199.153.43 | sintral-s1 | AMAZON AMAZO-ZNRT4 | Amazon Technologies Inc. Amazon.com, Inc. |
+| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 
 <!-- END_TABLE -->
