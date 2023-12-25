@@ -29,7 +29,6 @@
 | 18.143.75.85 | dorafactory | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 95.214.53.6 | CP DAO | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 65.109.146.123 | emperor | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 195.201.197.4 | itrocket_rpc | DE-HETZNER-20120425 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.20.77.19 | BlackNodes | CONSTANT VULTR | The Constant Company, LLC |
 | 65.108.231.124 | itrocket_seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.217.68.182 | Nodeist-dora-test | HO-2 | OVH Hosting, Inc. |
@@ -45,6 +44,5 @@
 | 13.213.30.203 | dorafactory02 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 164.68.108.76 | echo | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 69.197.26.12 | POSTHUMAN | STACKPATH-69-197-0-0-1 SP-SOLANA-69-197-26-0-24 | StackPath, LLC. |
-| 176.9.82.221 | vota-vk-seed | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
