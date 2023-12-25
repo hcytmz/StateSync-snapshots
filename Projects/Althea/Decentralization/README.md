@@ -60,6 +60,6 @@
 | 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 207.180.249.127 | DiBugNodes | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 144.217.68.182 | Nodeist-althea-test | HO-2 | OVH Hosting, Inc. |
-| 173.212.252.12 | Edward | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 65.108.231.124 | itrocket_seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
