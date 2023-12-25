@@ -41,7 +41,7 @@
 | 185.103.132.18 | ARCTIC | RU-ITB-20150608 | LLC IT Business |
 | 169.155.168.66 | Tendermint | ALLNO | Allnodes Inc |
 | 37.120.191.47 | Midora | NETCUP_NET-15 | netcup GmbH |
-| 161.97.90.72 | Arcturian Tech | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.208.207.12 | BRAND-bitcanna-main | TT-202200809 | Contabo GmbH |
 | 93.115.25.15 | Stakely.io | Dedicated_servers |  |
 | 135.181.223.115 | notional | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -62,6 +62,6 @@
 | 158.220.92.97 | AVIAONE | RIPE-ERX-158-220-0-0 TT-20230331 | RIPE Network Coordination Centre Contabo GmbH |
 | 95.111.244.78 | Panthea EU | CONTABO |  |
 | 193.34.144.156 | Paranorm | CONTABO | Contabo GmbH |
-| 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 66.19.157.37 | Long Street Nodes | PAETECCOMM | Windstream Communications LLC |
 
 <!-- END_TABLE -->
