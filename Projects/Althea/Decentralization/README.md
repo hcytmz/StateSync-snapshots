@@ -45,7 +45,7 @@
 | 136.243.148.154 | terlia | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 213.133.100.172 | 79anvi | HETZNER-RZ-NBG-NET |  |
 | 141.94.193.28 | rpc-1.althea.nodes.guru | rbx8-sdagg27a-b-n93-2-2 | OVH SAS |
-| 91.108.24.20 | ramuchi.tech | eTelecom_Users |  |
+| 207.180.236.138 | bengelass | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 5.75.252.0 | Oneplus | CLOUD-FSN1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.40.230 | Birkoff | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 173.249.59.70 | moodman | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -59,7 +59,7 @@
 | 144.76.17.123 | goto5k | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 65.109.94.221 | TestnetPride | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
-| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 173.212.252.12 | Edward | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 91.108.24.20 | ramuchi.tech | eTelecom_Users |  |
 
 <!-- END_TABLE -->
