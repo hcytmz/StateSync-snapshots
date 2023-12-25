@@ -105,11 +105,11 @@
 | 34.232.44.200 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 103.107.183.89 | owlstake | PEGA-VN |  |
 | 138.128.247.108 | Taobaorich | KAMAT CLOUDWEBMANAGE-NY | Kamatera, Inc. Cloud Web Manage |
-| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 75.119.155.250 | xstaxy-1-seed | RIPE CONTABO | RIPE Network Coordination Centre |
 | 57.128.20.163 | 1079ae08-29da-5422-83ee-35dd2ffbd84b | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 65.108.232.168 | KonsorTech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.212.224 | xstaxy-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.227.217 | xstaxy-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 38.242.150.63 | xstaxy-1-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
