@@ -34,7 +34,7 @@
 | 51.81.49.176 | hello-bitcanna-main | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 95.216.242.82 | Moniker | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 144.91.114.250 | OptimusValidatorNetwork | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 192.99.4.66 | CryptoNet | OVH-ARIN-7 |  |
+| 192.99.4.66 | CryptoNet | OVH-ARIN-7 | OVH Hosting, Inc. |
 | 185.180.222.190 | CryptoSailors | WORLDSTREAM |  |
 | 161.97.150.65 | New_peer | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 185.103.132.18 | ARCTIC | RU-ITB-20150608 | LLC IT Business |
