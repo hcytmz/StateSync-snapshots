@@ -97,7 +97,7 @@
 | 46.4.107.67 | Archive | MZONDER | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 65.108.108.54 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.73.170 | Pro-Nodes75 | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 15.235.160.84 | node | HO-2 OVHCLOUD-SGP SD-SGP | OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
+| 15.235.160.84 | node | HO-2 OVHCLOUD-SGP SD-SGP | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 167.235.12.38 | Hexnodes | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 173.249.7.30 | CryptoDropsID | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 89.117.57.201 | rc-bh-rocks | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
@@ -111,7 +111,7 @@
 | 195.3.220.54 | x5orz6jty7xw | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 43.157.50.9 | P2P.ORG - P2P Validator |  |  |
 | 65.109.158.190 | StakePool | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 144.217.68.182 | Nodeist-dymension-test | HO-2 |  |
+| 144.217.68.182 | Nodeist-dymension-test | HO-2 | OVH Hosting, Inc. |
 | 84.54.23.41 | becktak | TT-20220730 | Contabo GmbH |
 | 144.76.18.199 | Validatrium | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 194.180.176.22 | kiyo | TT-20220721 | Contabo GmbH |
