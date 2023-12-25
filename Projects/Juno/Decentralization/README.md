@@ -27,6 +27,7 @@
 | 136.243.79.95 | Validavia | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 5.9.49.11 | 2923knwefk | HETZNER-fsn1-dc7 |  |
 | 138.201.21.121 | Validatrium-rpc | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 178.128.220.188 | witval | DIGITALOCEAN |  |
 | 167.235.118.135 | master-backup-1-juno-main | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 169.155.44.89 | Tendermint | ALLNO | Allnodes Inc |
 | 85.114.132.30 | cpujuno | FASTIT-DE-DUS1-COLO4 |  |
@@ -91,7 +92,7 @@
 | 65.109.64.51 | juno-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 198.244.176.186 | juno | RIPE GAME-lon1-eri1-game-protego4 | RIPE Network Coordination Centre OVH Ltd |
 | 136.243.69.55 | d742a98b-724e-5eca-9574-e8edfa1b132c | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 38.242.144.15 | LandoNorris | COGENT-A | PSINet, Inc. |
+| 38.242.144.15 | LandoNorris | COGENT-A |  |
 | 172.111.52.52 | Otto the Great | HDC-MLNT-ALLOCATION-03 | Halton Datacenter Inc. |
 | 198.244.167.63 | the-right-schrute | RIPE SD-ERI1-E112A-lon1-eri1-sdagg23a-b-n93 | RIPE Network Coordination Centre OVH Ltd |
 | 146.59.52.137 | e2140e30-3b1c-50cd-ad05-aca43d36b6e4 | RIPE-ERX-146-59-0-0 SD-Game-WAW-W17A | RIPE Network Coordination Centre OVH Sp. z o. o. |
@@ -147,8 +148,8 @@
 | 194.247.187.67 | juno-node01 | NL-HOSTKEY-20191101 | HOSTKEY B.V. |
 | 128.140.75.225 | node-1 | RIPE-ERX-128-140-0-0 CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.216.46.125 | StakeTown-API | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.32.148 | Architect Nodes Relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 167.235.110.87 | blockscape | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 178.128.220.188 | witval | DIGITALOCEAN |  |
+| 65.109.32.148 | Architect Nodes Relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 51.210.209.49 | node | sdagg4-2 | OVH SAS |
 
 <!-- END_TABLE -->
