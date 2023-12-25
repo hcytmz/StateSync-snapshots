@@ -24,7 +24,7 @@
 | 65.109.96.189 | Kalia Network | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.216.10.232 | SRG0Z10 | HETZNER-hel1-dc2 | Hetzner Online GmbH |
 | 65.109.159.69 | NODEJUMPER | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 148.113.159.22 | WhisperNode | HO-2 SD-BHS-BHS8-B812B-MAGGIE-INFRA-002-IP1 | OVH Hosting, Inc. OVH Hosting, Inc. |
+| 148.113.159.22 | WhisperNode | HO-2 SD-BHS-BHS8-B812B-MAGGIE-INFRA-002-IP1 |  |
 | 136.243.67.189 | hello-empower-main | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 51.79.77.103 | itrocket.net | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 3.80.107.9 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
@@ -84,5 +84,7 @@
 | 65.108.78.101 | Moonbridge | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.214.52.139 | u8rgw8mxbsfm | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 161.97.82.203 | ams-rpc | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 95.216.164.165 | empowerchain-1-seed | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 138.197.189.243 | empowerchain-1-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
