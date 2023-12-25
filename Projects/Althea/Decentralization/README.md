@@ -13,7 +13,7 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 135.181.156.192 | MCB | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.231.124 | itrocket_seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.188.249.46 | BonyNode | TT-202200809 | Contabo GmbH |
 | 107.155.125.170 | Spectrum | NET-107-155-64-0-18 ARN1-EDGE-COMPUTE | HIVELOCITY, Inc. |
 | 97.126.7.255 | blitmore | CENTURYLINK-LEGACY-QWEST-INET-125 | CenturyLink Communications, LLC |
@@ -44,7 +44,7 @@
 | 136.243.148.154 | terlia | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 213.133.100.172 | 79anvi | HETZNER-RZ-NBG-NET |  |
 | 141.94.193.28 | rpc-1.althea.nodes.guru | rbx8-sdagg27a-b-n93-2-2 | OVH SAS |
-| 207.180.236.138 | bengelass | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 144.217.68.182 | Nodeist-althea-test | HO-2 | OVH Hosting, Inc. |
 | 5.75.252.0 | Oneplus | CLOUD-FSN1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.40.230 | Birkoff | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 173.249.59.70 | moodman | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -59,7 +59,7 @@
 | 65.109.94.221 | TestnetPride | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 207.180.249.127 | DiBugNodes | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 144.217.68.182 | Nodeist-althea-test | HO-2 | OVH Hosting, Inc. |
-| 65.108.231.124 | itrocket_seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 135.181.156.192 | MCB | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.89.18 | itrocket_rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
