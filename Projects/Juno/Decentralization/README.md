@@ -1,4 +1,3 @@
-![Diagramm](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/Juno/1/README.md)
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
 | HETZNER | 60 | 44.44% | 🔴 |
@@ -10,8 +9,8 @@
 | Scaleway | 3 | 2.22% | 🟢 |
 | LeaseWeb | 2 | 1.48% | 🟢 |
 | MEVSPACE | 2 | 1.48% | 🟢 |
+| PSINet | 2 | 1.48% | 🟢 |
 | HIVELOCITY | 1 | 0.74% | 🟢 |
 | myLoc | 1 | 0.74% | 🟢 |
-| PSINet | 1 | 0.74% | 🟢 |
 | Vultr | 1 | 0.74% | 🟢 |
-| OTHER | 31 | 22.96% | 🟢 |
+| OTHER | 30 | 22.22% | 🟢 |
