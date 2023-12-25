@@ -21,7 +21,7 @@
 | 57.128.22.76 | mzonder | RIPE-ERX-57 SBG5-S506-Game | RIPE Network Coordination Centre OVH SAS |
 | 37.27.14.211 | F5Nodes | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.30.110 | mercurius | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.112.180 | Leo23 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.206.118 | lesnik_utsa | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.176.55 | Klever | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.74.56 | ChainodeTech | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 86.48.31.105 | BigBrainStaking2 | TT-20220523 | Contabo GmbH |
@@ -49,7 +49,7 @@
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 148.251.177.108 | hello-dymension-test | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 84.203.117.234 | Silk_Nodes.. | IE-DIGIWEB-BROADBAND-IPV4 |  |
-| 65.108.206.118 | lesnik_utsa | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 144.91.65.13 | AviaDoc_by_AviaOne | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 46.166.170.53 | dymension-validator-testnet | LT-CHERRYSERVERS-20101216 | UAB Cherry Servers |
 | 88.99.56.200 | Staketab | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 38.242.239.185 | BigBrainStaking3 | COGENT-A | PSINet, Inc. |
@@ -126,6 +126,5 @@
 | 199.60.101.162 | mydymnode1 | USD-NET-199-60-101 | Dedicated.com |
 | 46.4.99.152 | node | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 65.21.73.18 | ST-Server | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 144.91.65.13 | AviaDoc_by_AviaOne | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 
 <!-- END_TABLE -->
