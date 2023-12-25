@@ -23,7 +23,7 @@
 | 62.210.88.126 | rfluxval | SCALEWAY-DEDIBOX | Scaleway |
 | 2001:bc8:3de9:100::7 | andromeda-mainnet | SCALEWAY | Scaleway |
 | 95.56.244.244 | RoundTable21 | K3com |  |
-| 158.69.125.73 | Nodeist-andromeda-main | HO-2 | OVH Hosting, Inc. |
+| 136.243.67.47 | e8245fac-0b7e-55fe-bafe-eaeeb87fb58c | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 18.227.48.210 | coinhall.org | AT-88-Z | Amazon Technologies Inc. |
 | 65.21.73.18 | ST-Server | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 178.162.165.154 | andromeda-0 | NL-LEASEWEB-20100205 | LeaseWeb Netherlands B.V. |
@@ -37,6 +37,6 @@
 | 185.119.116.245 | dankuzone_w_daic | AT-IPAX-20150930 | IPAX GmbH |
 | 65.21.10.105 | andromeda-1 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 178.162.165.193 | andromeda-0 | NL-LEASEWEB-20100205 | LeaseWeb Netherlands B.V. |
-| 136.243.67.47 | e8245fac-0b7e-55fe-bafe-eaeeb87fb58c | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 158.69.125.73 | Nodeist-andromeda-main | HO-2 | OVH Hosting, Inc. |
 
 <!-- END_TABLE -->
