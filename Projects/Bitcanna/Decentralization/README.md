@@ -49,7 +49,7 @@
 | 167.235.102.45 | Indonode-Service | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.202.173.197 | relayer-001 | CA-HEYMMAN15-20170509 | Heymman Servers Corporation |
 | 136.38.115.3 | The Silver Fox | GOOGLE-FIBER | Google Fiber Inc. |
-| 66.19.157.37 | Long Street Nodes | PAETECCOMM | Windstream Communications LLC |
+| 148.251.13.186 | hello-bitcanna-backup | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 65.108.142.81 | Stakely.io | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.33.48 | L0vd.com | RPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 169.155.46.44 | Tendermint | ALLNO | Allnodes Inc |
@@ -62,5 +62,6 @@
 | 158.220.92.97 | AVIAONE | RIPE-ERX-158-220-0-0 TT-20230331 | RIPE Network Coordination Centre Contabo GmbH |
 | 95.111.244.78 | Panthea EU | CONTABO |  |
 | 193.34.144.156 | Paranorm | CONTABO | Contabo GmbH |
+| 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
