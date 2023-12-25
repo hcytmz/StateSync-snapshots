@@ -35,7 +35,7 @@
 | 142.132.148.140 | Brochain | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.200.233 | Brochain | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.125.189.91 | bhcreovh | RIPE GAME-LIM3-fra1-lim3-game-protego1 | RIPE Network Coordination Centre OVH GmbH |
-| 65.109.116.50 | Vagif | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 86.33.3.136 | europlots | HR-TELE2-20050415 | Telemach Hrvatska d.o.o. |
 | 142.132.132.173 | Brochain | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.66.174 | hello-BccNodesRPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 81.0.220.94 | c7170e8e29ac1885 | TT-20221122 | Contabo GmbH |
@@ -50,7 +50,7 @@
 | 104.207.138.181 | XavierCapital | CONSTANT NET-104-207-138-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 65.109.50.30 | Goatlabs | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.95.15 | 1ce | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 18.119.142.182 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 184.145.1.125 | srloin | BELLCANADA-20 HSE-DYNAMIC-1663307581-CA | Bell Canada |
 | 94.250.203.238 | ericet | CONTABO-08 | Contabo GmbH |
 | 188.165.200.129 | mainnet | OVH |  |
@@ -86,14 +86,11 @@
 | 185.242.113.34 | freak12techno | IPP-NET-44 |  |
 | 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 146.59.47.210 | USArmy | RIPE-ERX-146-59-0-0 SD-WAW-WAW1-FAT-MAGGIE-SDAGG25-1 | RIPE Network Coordination Centre OVH Sp. z o. o. |
-| 195.3.223.168 | g1sj3ru2mbhy | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
+| 18.119.142.182 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 207.244.82.219 | secure scerets | LEASEWEB-USA-WDC-01 NET-SOURCE32 | Leaseweb USA, Inc. Source Code Corp. |
 | 135.181.28.178 | F5Nodes | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.91.160 | 79anvi | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.76.40.53 | 819ef192-2aab-5afc-a670-e0977a81560f | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 103.180.28.103 | jackal-m-horcrux6-ep2-hk | METROPOLIS-AP | Metropolis Networks Inc |
-| 86.33.3.136 | europlots | HR-TELE2-20050415 | Telemach Hrvatska d.o.o. |
-| 172.105.110.122 | Neta DAO | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 65.108.227.217 | jackal-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
