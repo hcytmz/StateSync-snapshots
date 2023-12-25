@@ -72,7 +72,7 @@
 | 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.195.61.86 | Moonlet | GAME-LIM-lim1-game-til4 | OVH GmbH |
-| 185.162.249.161 | tienthuattoan | DE-NETCUP-SERVER | netcup GmbH |
+| 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 65.109.93.152 | AlxVoy | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 148.251.88.145 | palamar-archive-node | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 38.242.249.1 | Maintain | COGENT-A | PSINet, Inc. |
@@ -109,8 +109,9 @@
 | 57.128.20.163 | 1079ae08-29da-5422-83ee-35dd2ffbd84b | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 65.108.232.168 | KonsorTech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.225.86 | HSS | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
-| 65.108.212.224 | xstaxy-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 135.181.5.219 | xstaxy-1-seed | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 185.162.249.161 | tienthuattoan | DE-NETCUP-SERVER | netcup GmbH |
+| 65.108.75.174 | ST-Server | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.217.207.236 | web34ever | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.227.217 | xstaxy-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
