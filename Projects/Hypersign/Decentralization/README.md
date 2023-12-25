@@ -30,8 +30,8 @@
 | 37.27.15.94 | klever | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 185.144.99.229 | cryptech | ULTRAPAK | Ultra-Pak LLC |
-| 65.109.68.190 | prajna-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 51.89.195.66 | KonsorTech | lon1-eri1-sdagg17a-b-n93-2-2 | OVH Ltd |
 | 178.18.254.211 | CosmoBook | CONTABO |  |
+| 51.89.195.66 | KonsorTech | lon1-eri1-sdagg17a-b-n93-2-2 | OVH Ltd |
+| 89.58.13.159 | prajna-1-seed | DE-NETCUP-20051123 | netcup GmbH |
 
 <!-- END_TABLE -->
