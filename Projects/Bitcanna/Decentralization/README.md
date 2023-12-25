@@ -23,7 +23,7 @@
 | 173.215.85.171 | bcna-69 | AUREON-BLK2 NET-173-215-85-0-24 | Aureon Network Services MI FIBER URBANDALE |
 | 51.195.104.64 | genznodes_sentry_2 | SD-LIM-fra1-lim1-sdagg30a-b-n93-1-1 | OVH GmbH |
 | 65.108.68.86 | emperor | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.21.29.228 | Kitkat-bitcanna-relayer | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 168.119.89.31 | bitcanna | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.131.190 | bitcanna | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.196.251 | sxlmnwb | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 107.191.36.154 | ValidatorNode | CONSTANT NET-107-191-36-128-25 | The Constant Company, LLC Vultr Holdings, LLC |
@@ -62,6 +62,5 @@
 | 158.220.92.97 | AVIAONE | RIPE-ERX-158-220-0-0 TT-20230331 | RIPE Network Coordination Centre Contabo GmbH |
 | 95.111.244.78 | Panthea EU | CONTABO |  |
 | 212.6.176.21 | New_peer | MEDAS-COMPUTERS-NET |  |
-| 168.119.89.31 | bitcanna | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
