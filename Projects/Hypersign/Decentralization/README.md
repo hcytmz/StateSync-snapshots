@@ -23,5 +23,14 @@
 | 37.27.15.94 | klever | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 51.89.195.66 | KonsorTech | lon1-eri1-sdagg17a-b-n93-2-2 | OVH Ltd |
 | 34.100.151.52 | monn | GOOGL-2 | Google LLC |
+| 65.109.39.223 | rjsimp | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 178.18.254.211 | CosmoBook | CONTABO |  |
+| 162.55.103.44 | cwt | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 65.21.134.219 | hypersign-node-1 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 154.12.228.93 | D-Stake |  |  |
+| 185.144.99.229 | cryptech | ULTRAPAK | Ultra-Pak LLC |
+| 188.40.66.173 | hello-hypersign-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
+| 2a05:4140:3::925 | s-hypersign-test | C1V | Cinzia Tocci trading as C1V |
 
 <!-- END_TABLE -->
