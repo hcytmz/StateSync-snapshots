@@ -17,7 +17,7 @@
 | 185.119.116.245 | dankuzone_w_daic | AT-IPAX-20150930 | IPAX GmbH |
 | 141.95.66.199 | oc-ovh-de-peer | SD-LIM-fra1-lim3-sdagg10a-b-n93-2-2 | OVH GmbH |
 | 144.76.74.73 | NODEJUMPER | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 136.243.67.47 | e8245fac-0b7e-55fe-bafe-eaeeb87fb58c | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 149.102.159.171 | Train_To_Crypto | COGENT-149-102-16 | PSINet, Inc. |
 | 109.228.61.221 | andromeda-1 | UK-NGCS | Fasthosts Internet Limited |
 | 57.128.92.207 | oc-ovh-fr-peer | RIPE-ERX-57 SDAGG39-1-2 | RIPE Network Coordination Centre OVH SAS |
 | 178.162.165.65 | Synergy_Nodes | NL-LEASEWEB-20100205 | LeaseWeb Netherlands B.V. |
@@ -33,12 +33,11 @@
 | 213.133.100.206 | andromeda-2 | HETZNER-RZ-NBG-NET |  |
 | 178.162.165.154 | andromeda-0 | NL-LEASEWEB-20100205 | LeaseWeb Netherlands B.V. |
 | 136.243.67.45 | 3d9b1b31-7158-5bfb-a001-04a0dbd033c0 | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 15.235.187.108 | seltonstake | HO-2 OVHCLOUD-SGP VPS-SGP2 | OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
+| 15.235.187.108 | seltonstake | HO-2 OVHCLOUD-SGP VPS-SGP2 | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 65.21.10.105 | andromeda-1 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.9.106.230 | andromeda-1 | HETZNER-fsn1-dc7 |  |
 | 65.108.73.25 | andromeda | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.233.103 | mainnet-rpc-2 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 149.102.159.171 | Train_To_Crypto | COGENT-149-102-16 | PSINet, Inc. |
-| 65.108.227.217 | andromeda-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 136.243.67.47 | e8245fac-0b7e-55fe-bafe-eaeeb87fb58c | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
