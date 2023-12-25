@@ -106,14 +106,9 @@
 | 103.107.183.89 | owlstake | PEGA-VN |  |
 | 138.128.247.108 | Taobaorich | KAMAT CLOUDWEBMANAGE-NY | Kamatera, Inc. Cloud Web Manage |
 | 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 107.155.65.7 | soteria | NET-107-155-64-0-18 | HIVELOCITY, Inc. |
-| 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.212.224 | xstaxy-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.217.207.236 | web34ever | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 57.128.20.163 | 1079ae08-29da-5422-83ee-35dd2ffbd84b | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
-| 65.108.75.174 | ST-Server | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 38.242.150.63 | xstaxy-1-seed | COGENT-A | PSINet, Inc. |
-| 144.76.45.59 | RPCHuginn | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 173.249.24.244 | xstaxy-1-seed | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 46.38.232.86 | xstaxy-1-seed | DE-NETCUP-20101202 | netcup GmbH |
+| 65.108.212.224 | xstaxy-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
