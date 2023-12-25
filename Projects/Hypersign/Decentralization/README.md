@@ -33,6 +33,5 @@
 | 51.89.195.66 | KonsorTech | lon1-eri1-sdagg17a-b-n93-2-2 | OVH Ltd |
 | 185.144.99.229 | cryptech | ULTRAPAK | Ultra-Pak LLC |
 | 178.18.254.211 | CosmoBook | CONTABO |  |
-| 89.58.13.159 | KonsorTech-Services | DE-NETCUP-20051123 | netcup GmbH |
 
 <!-- END_TABLE -->
