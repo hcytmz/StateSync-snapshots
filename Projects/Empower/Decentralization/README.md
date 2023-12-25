@@ -28,14 +28,14 @@
 | 136.243.67.189 | hello-empower-main | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 51.79.77.103 | itrocket.net | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 192.9.134.157 | SAWAYO | ORACLE-BRM1 | Oracle Corporation |
-| 142.132.253.112 | itrocket_seed | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.97.249 | hello-empower-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.199.236 | LiveRaveN | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 46.4.81.216 | 34f349erf | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 65.108.108.54 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.152.46 | ax61vs2004hwe | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 168.119.64.20 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.116.151 | itrocket_rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 38.146.3.145 | empower | COGENT-A | PSINet, Inc. |
+| 38.146.3.145 | empower | COGENT-A |  |
 | 213.239.218.218 | w3coins | HETZNER-RZ-NBG-NET |  |
 | 46.38.232.86 | KonsorTech | DE-NETCUP-20101202 | netcup GmbH |
 | 81.0.218.135 | sentry-1 | TT-20221122 | Contabo GmbH |
@@ -74,7 +74,7 @@
 | 65.108.232.182 | Mrs_ml | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.112.170 | NJ-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.157.153 | yldmsempower | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.97.249 | hello-empower-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 3.80.107.9 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 65.109.105.110 | Anatolian Team | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 81.0.220.94 | e215fecfedd1a84f87836bc9 | TT-20221122 | Contabo GmbH |
 | 213.239.194.132 | stakevillage | HETZNER-RZ-NBG-NET2 |  |
@@ -82,8 +82,7 @@
 | 80.254.8.54 | ITpro | EXPRESS |  |
 | 141.95.157.139 | randomblahblahfkdsjaflkdsaj | SD-GRA-gra3-sdagg17ab-n93 | OVH SAS |
 | 65.108.78.101 | Moonbridge | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 135.181.5.219 | empowerchain-1-seed | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.216.164.165 | empowerchain-1-seed | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 138.201.220.51 | empowerchain-1-seed | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 142.132.253.112 | itrocket_seed | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 138.197.189.243 | empowerchain-1-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
