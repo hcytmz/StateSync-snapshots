@@ -40,7 +40,7 @@
 | 169.0.111.199 | buildkitsandbox | AFRINIC-ERX-169-0-0-0 AFRIHOST-DYNAMIC | African Network Information Center |
 | 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
 | 18.166.133.210 | ixo-hk-sentry-1 | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
-| 158.247.219.236 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
+| 135.148.169.198 | 08ac7d2e-d7d7-528c-9ff3-46844e28ac15 | OUL-16 SD-VIN-V119-MAGGIE-INFRA-002 | OVH US LLC OVH US LLC |
 | 54.36.108.222 | Stakewolle | RIPE SD-LIM1 | RIPE Network Coordination Centre OVH GmbH |
 | 31.171.241.167 | Gateway FM | CLOUDSIGMA |  |
 | 139.84.226.60 | ixo.validator.africa | CONSTANT NET-139-84-226-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
@@ -54,7 +54,6 @@
 | 31.171.250.63 | Gateway FM | CH-CLOUDSIGMA |  |
 | 79.19.137.58 | Kleomedes | TELECOM-ADSL-POOL |  |
 | 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 135.148.169.198 | 08ac7d2e-d7d7-528c-9ff3-46844e28ac15 | OUL-16 SD-VIN-V119-MAGGIE-INFRA-002 | OVH US LLC OVH US LLC |
 | 154.53.59.45 | os-node-usw-con |  |  |
 
 <!-- END_TABLE -->
