@@ -25,7 +25,7 @@
 | 65.109.117.219 | moodman | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.118.240 | lesnik_utsa | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 192.99.20.53 | node | OVH-ARIN-7 | OVH Hosting, Inc. |
-| 144.217.68.182 | Nodeist-dora-test | HO-2 | OVH Hosting, Inc. |
+| 144.217.68.182 | Nodeist-dora-test | HO-2 |  |
 | 65.109.92.148 | Shoni | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 13.213.30.203 | dorafactory02 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 18.143.75.85 | dorafactory | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
@@ -36,5 +36,6 @@
 | 15.235.212.150 | rpc-1.testnet.dora.nodes.guru | HO-2 OVHCLOUD-SGP SD-SGP-SGP02-SGP0201A-MAGGIE-INFRA-002 | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 161.97.77.219 | Apollo | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 5.161.240.23 | RPC | CLOUD-ASH | Hetzner Online GmbH Hetzner Online GmbH |
+| 34.118.242.103 | oibek | GOOGL-2 | Google LLC |
 
 <!-- END_TABLE -->
