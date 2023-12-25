@@ -119,7 +119,7 @@
 | 167.235.39.5 | tarabukinivan | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.52.115 | MAHOF | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.133.249 | StakeUp_rpc | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 158.69.125.73 | Nodeist-gitopia-main | HO-2 | OVH Hosting, Inc. |
+| 158.69.125.73 | Nodeist-gitopia-main | HO-2 |  |
 | 213.32.24.201 | #22 | FR-OVH-19990628 | OVH SAS |
 | 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 65.109.112.170 | NJ-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -132,6 +132,6 @@
 | 148.251.235.130 | snap-gitopia | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 147.135.138.180 | CyrptoNet | RIPE SD-OVH | RIPE Network Coordination Centre OVH SAS |
 | 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 46.38.232.86 | gitopia-seed | DE-NETCUP-20101202 | netcup GmbH |
+| 38.242.150.63 | gitopia-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
