@@ -16,7 +16,7 @@
 | 135.181.156.192 | MCB | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.188.249.46 | BonyNode | TT-202200809 | Contabo GmbH |
 | 107.155.125.170 | Spectrum | NET-107-155-64-0-18 ARN1-EDGE-COMPUTE | HIVELOCITY, Inc. |
-| 97.126.7.255 | blitmore | CENTURYLINK-LEGACY-QWEST-INET-125 | CenturyLink Communications, LLC |
+| 97.126.7.255 | blitmore | CENTURYLINK-LEGACY-QWEST-INET-125 |  |
 | 65.108.31.106 | CryptoSJnet | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.239.209.180 | surfsUP | TT-2021092909 | Contabo GmbH |
 | 65.108.206.74 | vinjan | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
