@@ -22,7 +22,7 @@
 | 88.99.148.44 | StakeUs | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 5.161.240.23 | RPC | CLOUD-ASH | Hetzner Online GmbH Hetzner Online GmbH |
 | 192.99.20.53 | node | OVH-ARIN-7 | OVH Hosting, Inc. |
-| 18.143.75.85 | dorafactory | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 15.235.212.150 | rpc-1.testnet.dora.nodes.guru | HO-2 OVHCLOUD-SGP SD-SGP-SGP02-SGP0201A-MAGGIE-INFRA-002 | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 13.213.30.203 | dorafactory02 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 213.239.207.175 | StakeUp | HETZNER-RZ-NBG-NET2 |  |
 | 85.10.197.17 | 1ce | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
@@ -31,6 +31,6 @@
 | 167.235.178.134 | hello-dora-testrelay | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.72.253 | ITRocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 161.97.77.219 | Apollo | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 15.235.212.150 | rpc-1.testnet.dora.nodes.guru | HO-2 OVHCLOUD-SGP SD-SGP-SGP02-SGP0201A-MAGGIE-INFRA-002 | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
+| 18.143.75.85 | dorafactory | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 
 <!-- END_TABLE -->
