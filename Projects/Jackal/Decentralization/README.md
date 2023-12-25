@@ -19,7 +19,7 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
 | 23.88.103.35 | node-1 | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 46.4.81.204 | Kalia Network | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
@@ -50,7 +50,7 @@
 | 104.207.138.181 | XavierCapital | CONSTANT NET-104-207-138-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 65.109.50.30 | Goatlabs | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.95.15 | 1ce | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 192.99.4.20 | Alien | OVH-ARIN-7 | OVH Hosting, Inc. |
+| 18.119.142.182 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 184.145.1.125 | srloin | BELLCANADA-20 HSE-DYNAMIC-1663307581-CA | Bell Canada |
 | 94.250.203.238 | ericet | CONTABO-08 | Contabo GmbH |
 | 188.165.200.129 | mainnet | OVH |  |
@@ -76,9 +76,9 @@
 | 167.235.2.206 | Brightlystake | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.128.114 | hello-jackal-backup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 136.38.55.33 | Silk_Nodes | GOOGLE-FIBER | Google Fiber Inc. |
-| 148.113.16.109 | Stakewolle | HO-2 OVHCLOUD-MUMBAI-01 SD-BART-2-YNM-22 | OVH Hosting, Inc. OVHTECH R&D (INDIA) PRIVATE LIMITED OVHTECH R&D (INDIA) PRIVATE LIMITED |
+| 104.193.254.36 | Noderunners | KING-SERVERS KING-SERVERS-R007 | Hosting Solution Ltd. |
 | 208.77.197.83 | vidulum.app | WOLFPAW | Wolfpaw Data Centres Inc |
-| 18.119.142.182 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 95.217.0.158 | Scrib Code | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 51.210.223.80 | 01b58725-6bf3-5893-8753-65a50eb9c20f | SD-GAME-GRA2 | OVH SAS |
 | 65.108.66.34 | web34ever | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 87.196.42.235 | tedcrypto | NOS |  |
@@ -92,8 +92,8 @@
 | 65.21.91.160 | 79anvi | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.76.40.53 | 819ef192-2aab-5afc-a670-e0977a81560f | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 103.180.28.103 | jackal-m-horcrux6-ep2-hk | METROPOLIS-AP | Metropolis Networks Inc |
-| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.217.0.158 | Scrib Code | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 86.33.3.136 | europlots | HR-TELE2-20050415 | Telemach Hrvatska d.o.o. |
+| 172.105.110.122 | Neta DAO | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 65.108.227.217 | jackal-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
