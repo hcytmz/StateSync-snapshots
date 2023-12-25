@@ -33,7 +33,7 @@
 | 213.133.100.206 | andromeda-2 | HETZNER-RZ-NBG-NET |  |
 | 178.162.165.154 | andromeda-0 | NL-LEASEWEB-20100205 | LeaseWeb Netherlands B.V. |
 | 136.243.67.45 | 3d9b1b31-7158-5bfb-a001-04a0dbd033c0 | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 15.235.187.108 | seltonstake | HO-2 OVHCLOUD-SGP VPS-SGP2 | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
+| 15.235.187.108 | seltonstake | HO-2 OVHCLOUD-SGP VPS-SGP2 | OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 65.21.10.105 | andromeda-1 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.9.106.230 | andromeda-1 | HETZNER-fsn1-dc7 |  |
 | 65.108.73.25 | andromeda | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
