@@ -65,6 +65,5 @@
 | 188.166.17.65 | Animo Solutions | EU-DIGITALOCEAN-NL1 | DigitalOcean, LLC |
 | 54.153.187.95 | Anonyome Labs | AMAZON | Amazon Technologies Inc. |
 | 116.203.54.9 | seed1-eu-mainnet-cheqd | STUB-116-202SLASH15 |  |
-| 66.45.246.166 | Paradigm | INTERSERVER | Interserver, Inc |
 
 <!-- END_TABLE -->
