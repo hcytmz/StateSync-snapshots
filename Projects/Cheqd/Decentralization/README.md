@@ -36,7 +36,7 @@
 | 65.108.225.126 | BadgerBite | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 206.189.25.194 | baby-yoda-node | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
 | 65.21.197.25 | Blockval_node | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 178.128.20.15 | sentry1-ap-mainnet-cheqd | DIGITALOCEAN |  |
+| 159.69.146.121 | seed3-eu-mainnet-cheqd | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 13.245.249.96 | DIDx | AT-88-Z AMAZON-CPT | Amazon Technologies Inc. Amazon Data Services South Africa |
 | 79.19.137.58 | Kleomedes | TELECOM-ADSL-POOL |  |
 | 139.59.121.243 | seed1-ap-mainnet-cheqd | APNIC-ERX-139-59-0-0 DIGITALOCEAN-AP | Asia Pacific Network Information Centre |
@@ -64,6 +64,6 @@
 | 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 116.203.54.9 | seed1-eu-mainnet-cheqd | STUB-116-202SLASH15 |  |
 | 157.90.242.105 | sentry1-eu-mainnet-cheqd | RIPE CLOUD-FSN1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 159.69.146.121 | seed3-eu-mainnet-cheqd | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 178.128.20.15 | sentry1-ap-mainnet-cheqd | DIGITALOCEAN |  |
 
 <!-- END_TABLE -->
