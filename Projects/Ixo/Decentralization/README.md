@@ -54,6 +54,6 @@
 | 31.171.250.63 | Gateway FM | CH-CLOUDSIGMA |  |
 | 79.19.137.58 | Kleomedes | TELECOM-ADSL-POOL |  |
 | 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 154.53.59.45 | os-node-usw-con |  |  |
+| 65.108.227.217 | ixo-5-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
