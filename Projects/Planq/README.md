@@ -47,7 +47,8 @@ sudo systemctl restart planqd && journalctl -u planqd -f -o cat
 🔥peer🔥:         `192ff55d15d7ad9fc9ded5c5a9f4393beba9b222@planq.peer.stavr.tech:1076` \
 🔥Addrbook🔥:  `wget -O $HOME/.planqd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Planq/addrbook.json"` \
 🔥Genesis🔥:  `wget -O $HOME/.planqd/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Planq/genesis.json"` \
-🔥Auto_install script🔥:`wget -O planqm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Planq/planqm && chmod +x planqm && ./planqm`
+🔥Auto_install script🔥:`wget -O planqm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Planq/planqm && chmod +x planqm && ./planqm` \
+🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Planq/Decentralization)🔥
 
 <details>
 <summary>RPC Scanning</summary>
