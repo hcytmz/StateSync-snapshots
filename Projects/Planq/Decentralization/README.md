@@ -95,9 +95,10 @@
 | 185.246.85.48 | kodokcuan | IKOULA-DED-SERVERS |  |
 | 51.159.103.88 | PLQ-mainnet-prod | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 65.108.201.167 | Synergy_Nodes | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.153.140 | RoomIT | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.195.63.229 | Frankfurt7 | SD-LIM-LIM1-L107B-Maggie-infra-002 | OVH GmbH |
 | 35.198.181.13 | sentry-1 | GOOGLE-CLOUD | Google LLC |
+| 65.109.153.140 | RoomIT | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 47.245.101.121 | Crxa | AL-3 | Alibaba Cloud LLC |
+| 135.181.5.219 | planq_7070-2-seed | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
