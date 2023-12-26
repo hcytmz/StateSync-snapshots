@@ -89,7 +89,6 @@
 | 142.44.213.82 | aura_enigma | HO-2 | OVH Hosting, Inc. |
 | 65.109.225.86 | HSS | RIPE | RIPE Network Coordination Centre |
 | 80.232.244.29 | SGTstake |  |  |
-| 65.108.212.224 | xstaxy-1-multiseed | RIPE | RIPE Network Coordination Centre |
 | 65.108.75.107 | node | RIPE | RIPE Network Coordination Centre |
 | 81.30.157.94 | AURA-mainnet-test |  |  |
 | 93.43.199.2 | Safe Block |  |  |
@@ -113,7 +112,6 @@
 | 18.143.52.13 | node | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 95.216.100.99 | mainnet-backup-1 |  |  |
 | 73.40.151.121 | thechickencoop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
-| 38.242.150.63 | xstaxy-1-seed | COGENT-A | PSINet, Inc. |
-| 135.181.5.219 | xstaxy-1-seed | RIPE | RIPE Network Coordination Centre |
+| 65.108.212.224 | xstaxy-1-multiseed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
