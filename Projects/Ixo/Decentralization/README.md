@@ -32,7 +32,7 @@
 | 162.55.133.237 | STAKECRAFT | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.67.185 | Tuzem | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.203.173 | BMV | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 154.53.59.45 | os-node-usw-con |  |  |
+| 154.53.59.45 | os-node-usw-con | COGENT-154-53-16 | PSINet, Inc. |
 | 37.27.18.188 | KingSuper | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.195.98 | StakeLab | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 156.59.230.130 | Impacts DAO | APNIC-ERX-156-59-0-0 ZEN-SG | Asia Pacific Network Information Centre Zenlayer (Singapore) PTE. LTD |
@@ -40,7 +40,7 @@
 | 169.0.111.199 | buildkitsandbox | AFRINIC-ERX-169-0-0-0 AFRIHOST-DYNAMIC | African Network Information Center |
 | 79.19.137.58 | Kleomedes | TELECOM-ADSL-POOL |  |
 | 18.166.133.210 | ixo-hk-sentry-1 | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
-| 135.148.169.198 | 08ac7d2e-d7d7-528c-9ff3-46844e28ac15 | OUL-16 SD-VIN-V119-MAGGIE-INFRA-002 | OVH US LLC OVH US LLC |
+| 144.76.63.67 | ezstaking-sentry-1 | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 54.36.108.222 | Stakewolle | RIPE SD-LIM1 | RIPE Network Coordination Centre OVH GmbH |
 | 31.171.241.167 | Gateway FM | CLOUDSIGMA |  |
 | 139.84.226.60 | ixo.validator.africa | CONSTANT NET-139-84-226-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
@@ -54,6 +54,6 @@
 | 31.171.250.63 | Gateway FM | CH-CLOUDSIGMA |  |
 | 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.38.240 | RPCIBC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 144.76.63.67 | ezstaking-sentry-1 | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 135.148.169.198 | 08ac7d2e-d7d7-528c-9ff3-46844e28ac15 | OUL-16 SD-VIN-V119-MAGGIE-INFRA-002 | OVH US LLC OVH US LLC |
 
 <!-- END_TABLE -->
