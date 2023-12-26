@@ -18,7 +18,7 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 195.3.223.168 | g1sj3ru2mbhy |  |  |
+| 135.181.28.178 | F5Nodes | RIPE | RIPE Network Coordination Centre |
 | 148.113.16.109 | Stakewolle | HO-2 OVHCLOUD-MUMBAI-01 SD-BART-2-YNM-22 | OVH Hosting, Inc. OVHTECH R&D (INDIA) PRIVATE LIMITED OVHTECH R&D (INDIA) PRIVATE LIMITED |
 | 23.88.103.35 | node-1 | RIPE | RIPE Network Coordination Centre |
 | 46.4.81.204 | Kalia Network |  |  |
@@ -29,7 +29,7 @@
 | 5.9.73.62 | Brochain |  |  |
 | 51.81.49.59 | hello-jackal-main |  |  |
 | 142.132.134.181 | Brochain | RIPE | RIPE Network Coordination Centre |
-| 154.12.227.132 | D-stake |  |  |
+| 18.119.142.182 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 131.153.59.6 | cow_level | SSL-65 | SECURED SERVERS LLC |
 | 142.132.148.140 | Brochain | RIPE | RIPE Network Coordination Centre |
 | 142.132.200.233 | Brochain | RIPE | RIPE Network Coordination Centre |
@@ -45,11 +45,11 @@
 | 144.217.158.127 | rpc | HO-2 OVH-DEDICATED-FO | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.109.105.110 | Anatolian Team | RIPE | RIPE Network Coordination Centre |
 | 85.17.52.219 | SecretSaturn |  |  |
-| 103.180.28.103 | jackal-m-horcrux6-ep2-hk | METROPOLIS-AP | Metropolis Networks Inc |
+| 195.3.223.168 | g1sj3ru2mbhy |  |  |
 | 135.148.33.246 | VAOR | OUL-16 VPS-US-EAST-VA-2 | OVH US LLC OVH US LLC |
 | 65.21.95.15 | 1ce | RIPE | RIPE Network Coordination Centre |
-| 135.181.28.178 | F5Nodes | RIPE | RIPE Network Coordination Centre |
-| 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
+| 65.109.50.30 | Goatlabs | RIPE | RIPE Network Coordination Centre |
+| 103.180.28.103 | jackal-m-horcrux6-ep2-hk | METROPOLIS-AP | Metropolis Networks Inc |
 | 94.250.203.238 | ericet |  |  |
 | 188.165.200.129 | mainnet |  |  |
 | 142.132.248.253 | Blackhox | RIPE | RIPE Network Coordination Centre |
@@ -87,7 +87,7 @@
 | 65.109.60.54 | testnetrun | RIPE | RIPE Network Coordination Centre |
 | 89.38.96.114 | node |  |  |
 | 51.79.72.176 | hikari-research |  |  |
-| 192.99.4.20 | Alien | OVH-ARIN-7 | OVH Hosting, Inc. |
+| 144.76.40.53 | 819ef192-2aab-5afc-a670-e0977a81560f | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 65.21.91.160 | 79anvi | RIPE | RIPE Network Coordination Centre |
 | 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 207.244.82.219 | secure scerets | LEASEWEB-USA-WDC-01 NET-SOURCE32 | Leaseweb USA, Inc. Source Code Corp. |
@@ -97,10 +97,8 @@
 | 51.210.223.80 | 01b58725-6bf3-5893-8753-65a50eb9c20f |  |  |
 | 65.109.116.50 | Vagif | RIPE | RIPE Network Coordination Centre |
 | 89.245.24.148 | windpowerstake23 |  |  |
-| 65.109.50.30 | Goatlabs | RIPE | RIPE Network Coordination Centre |
+| 192.99.4.20 | Alien | OVH-ARIN-7 | OVH Hosting, Inc. |
 | 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
-| 18.119.142.182 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 144.76.40.53 | 819ef192-2aab-5afc-a670-e0977a81560f | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
-| 135.181.5.219 | jackal-1-seed | RIPE | RIPE Network Coordination Centre |
+| 138.197.189.243 | jackal-1-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
