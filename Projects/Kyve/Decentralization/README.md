@@ -75,7 +75,7 @@
 | 52.14.245.93 | Finoa Consensus Services | AT-88-Z | Amazon Technologies Inc. |
 | 65.109.104.118 | UTSA_guide | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 169.150.206.202 | zpl-kyve-mainnet-sentry.node[0] | RIPE CDN77-FRA | RIPE Network Coordination Centre |
-| 3.72.28.238 | node | AT-88-Z AMAZON-FRA | Amazon Technologies Inc. A100 ROW GmbH |
+| 146.59.85.223 | 9f18d3e0-875d-5dcc-92bb-8c512bd35f8c | RIPE-ERX-146-59-0-0 SD-WAW-SDAGG29-FAT-MAGGIE-2-2 | RIPE Network Coordination Centre OVH Sp. z o. o. |
 | 138.201.32.103 | MCB | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 65.109.94.221 | TestnetPride | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 188.214.129.148 | kyve | BALTICSERVERS-LT-DEDICATED |  |
@@ -107,14 +107,12 @@
 | 142.132.185.90 | node | RIPE CLOUD-FSN1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 148.251.8.22 | Pro-Nodes | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 SD-GRA-gra3-sdagg32ab-n93 | RIPE Network Coordination Centre OVH SAS |
-| 104.196.101.86 | P2P.ORG Validator | GOOGLE-CLOUD | Google LLC |
-| 146.59.85.223 | 9f18d3e0-875d-5dcc-92bb-8c512bd35f8c | RIPE-ERX-146-59-0-0 SD-WAW-SDAGG29-FAT-MAGGIE-2-2 | RIPE Network Coordination Centre OVH Sp. z o. o. |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 RU-SBCLOUD-20210827 | RIPE Network Coordination Centre SBCloud LLC |
+| 35.161.244.76 | node | AT-88-Z AMAZO-ZPDX9 | Amazon Technologies Inc. Amazon.com, Inc. |
 | 65.108.0.94 | hello-kyve-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.100.61 | kyveDG-1_DG | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 158.247.215.181 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 65.108.71.92 | rpc-1.kyve.nodes.guru | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 18.196.127.224 | node | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 91.230.153.214 | RuValidator | ERTH-EKAT-IPOE-3-NET | JSC ER-Telecom Holding Yekaterinburg Branch JSC ER-Telecom Holding Yekaterinburg Branch |
-| 81.17.60.127 | node | UK-LEASEWEB-20020109 | LEASEWEB UK LIMITED |
 
 <!-- END_TABLE -->
