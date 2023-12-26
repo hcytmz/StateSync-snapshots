@@ -82,10 +82,8 @@
 | 141.164.61.145 | node | RIPE-ERX-141 | RIPE Network Coordination Centre |
 | 5.39.249.16 | Sr20de |  |  |
 | 162.19.124.59 | NodeStake | RIPE | RIPE Network Coordination Centre |
+| 213.32.24.201 | genznodes_sentry_1 |  |  |
 | 65.109.118.169 | jayjayservice | RIPE | RIPE Network Coordination Centre |
-| 46.38.232.86 | sgenet-1-seed |  |  |
-| 142.93.211.137 | sgenet-1-seed | DIGITALOCEAN-142-93-0-0 | DigitalOcean, LLC |
-| 185.221.152.32 | sgenet-1-seed |  |  |
-| 135.181.5.219 | sgenet-1-seed | RIPE | RIPE Network Coordination Centre |
+| 38.146.3.100 | sgenet-1-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
