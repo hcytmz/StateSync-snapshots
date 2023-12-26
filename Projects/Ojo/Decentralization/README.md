@@ -103,8 +103,8 @@
 | 167.86.119.194 | Artyr_guru | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 5.78.91.63 | KingSuper | CLOUD-HIL | Hetzner Online GmbH Hetzner Online GmbH |
 | 167.235.180.97 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 34.141.29.140 | snapshot-28393080-882b5 | GOOGL-2 | Google LLC |
+| 137.184.183.45 | fiseq | DIGITALOCEAN-137-184-0-0 | DigitalOcean, LLC |
 | 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 141.94.193.28 | rpc-1.ojo.nodes.guru | rbx8-sdagg27a-b-n93-2-2 | OVH SAS |
+| 35.198.181.13 | sentry-0 | GOOGLE-CLOUD | Google LLC |
 
 <!-- END_TABLE -->
