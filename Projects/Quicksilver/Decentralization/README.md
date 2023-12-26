@@ -146,7 +146,7 @@
 | 65.108.238.102 | e6172c1d-642e-50a6-8128-a39b820f6c5e | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 169.155.47.144 | Tendermint | ALLNO | Allnodes Inc |
 | 146.19.24.101 | duality | RIPE-ERX-146-19-0-0 PL-DIGICRON-20211111 | RIPE Network Coordination Centre Adam Ochmanski trading as Digicron |
-| 193.34.212.170 | qnodede | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
+| 65.108.233.103 | mainnet-rpc-2 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.32.13 | STAKKY | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 159.89.171.207 | KingSuper | DIGITALOCEAN-159-89-0-0 | DigitalOcean, LLC |
 | 146.59.81.92 | quicksilver | RIPE-ERX-146-59-0-0 SD-WAW-SDAGG28-FAT-MAGGIE-1-2 | RIPE Network Coordination Centre OVH Sp. z o. o. |
@@ -155,6 +155,7 @@
 | 51.81.166.95 | Cosmostation | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 95.217.60.22 | DTEAM | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 78.47.214.204 | openbitlab | HOS-565748 | Hetzner Online GmbH |
-| 65.108.227.217 | quicksilver-2-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 193.34.212.170 | qnodede | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 
 <!-- END_TABLE -->
