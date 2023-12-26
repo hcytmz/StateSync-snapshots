@@ -62,7 +62,7 @@
 | 95.217.34.147 | testovich | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 46.4.14.172 | PPNV | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 5.9.69.241 | [NODERS]TEAM | HETZNER-fsn1-dc7 |  |
-| 65.108.226.26 | NODERSTEAMSERVICE | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 167.142.158.242 | jackal-archive | AUREON-BLK1 NET-167-142-158-0-24 | Aureon Network Services |
 | 185.208.207.12 | Oldcat-jackal-main | TT-202200809 | Contabo GmbH |
 | 85.239.241.71 | OS-node-usc | TT-20221122 | Contabo GmbH |
@@ -84,9 +84,9 @@
 | 87.196.42.235 | tedcrypto | NOS |  |
 | 158.69.125.73 | Nodeist-jackal-main | HO-2 | OVH Hosting, Inc. |
 | 185.242.113.34 | freak12techno | IPP-NET-44 |  |
-| 195.3.223.168 | g1sj3ru2mbhy | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
+| 65.108.226.26 | NODERSTEAMSERVICE | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 146.59.47.210 | USArmy | RIPE-ERX-146-59-0-0 SD-WAW-WAW1-FAT-MAGGIE-SDAGG25-1 | RIPE Network Coordination Centre OVH Sp. z o. o. |
-| 18.119.142.182 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 89.38.96.114 | node | WORLDSTREAM |  |
 | 207.244.82.219 | secure scerets | LEASEWEB-USA-WDC-01 NET-SOURCE32 | Leaseweb USA, Inc. Source Code Corp. |
 | 65.108.66.174 | hello-BccNodesRPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -96,6 +96,5 @@
 | 192.171.215.94 | Da MidWest BoiZ | AUREON-BLK18 | Aureon Network Services |
 | 172.105.110.122 | Neta DAO | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 104.207.138.181 | XavierCapital | CONSTANT NET-104-207-138-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
-| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
