@@ -1,3 +1,4 @@
+![Diagramm](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/BandProtocol/1/README.md)
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
 | HETZNER | 36 | 30.25% | 🟢 |
