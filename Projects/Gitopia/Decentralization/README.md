@@ -82,7 +82,7 @@
 | 35.240.242.57 | gitopia-graphql-unisentry-1 | GOOGLE-CLOUD | Google LLC |
 | 35.240.211.32 | gitopia-faucet-unisentry-1 | GOOGLE-CLOUD | Google LLC |
 | 213.239.194.132 | semalist | HETZNER-RZ-NBG-NET2 |  |
-| 65.21.198.100 | nodexrelay | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 193.26.159.34 | side-genznodes-2 | NETCUP-NETWORK-193-26-156-0-22 | netcup GmbH |
 | 5.181.190.114 | L0vd.com | PL-MEV-20190403 | MEVSPACE sp. z o.o. |
 | 57.128.96.155 | c5fd53c8-65d5-501e-9b65-931e30a2ea32 | RIPE-ERX-57 SDAGG40-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 65.109.17.23 | F-Staking | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -118,17 +118,14 @@
 | 167.235.39.5 | tarabukinivan | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.52.115 | MAHOF | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.133.249 | StakeUp_rpc | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 158.69.125.73 | Nodeist-gitopia-main | HO-2 | OVH Hosting, Inc. |
+| 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 213.32.24.201 | #22 | FR-OVH-19990628 | OVH SAS |
 | 65.108.15.170 | ramuchi.tech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 159.148.146.132 | SGTstake | RIPE-ERX-159-147-0-0 BITELATVIJA | RIPE Network Coordination Centre SIA BITE Latvija |
 | 135.181.156.192 | MCB | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.226.26 | [NODERS]TEAM_SERVICE | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 95.214.52.139 | 3asvtv27mo7x | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
-| 38.146.3.100 | gitopia-seed | COGENT-A | PSINet, Inc. |
-| 138.197.189.243 | gitopia-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
-| 38.242.150.63 | gitopia-seed | COGENT-A | PSINet, Inc. |
+| 144.76.40.53 | f9e69acc-2641-58fc-861f-4e2ea627bcf0 | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 158.69.125.73 | Nodeist-gitopia-main | HO-2 | OVH Hosting, Inc. |
 
 <!-- END_TABLE -->
