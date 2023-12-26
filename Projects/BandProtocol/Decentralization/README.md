@@ -38,7 +38,7 @@
 | 13.213.122.116 | bandchain | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 65.108.225.126 | DECALI.io | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 88.198.38.151 | band-node | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
-| 148.113.153.111 | band | HO-2 SD-BHS-BHS8-B812B-2EME-MAGGIE-INFRA-002 | OVH Hosting, Inc. OVH Hosting, Inc. |
+| 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 34.143.167.214 | emitter | GOOGL-2 | Google LLC |
 | 34.86.22.251 | peer-2 | GOOGL-2 | Google LLC |
 | 35.247.154.38 | archive-1 | GOOGLE-CLOUD | Google LLC |
@@ -54,8 +54,8 @@
 | 95.217.117.99 | 0base.vc-laozi-mainnet-bandprotocol-0 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 121.78.241.76 | WeStaking | KINXINC KINXINC-KR |  |
 | 51.83.140.142 | w3coins | SD-MAGGIE-WAW-S324B-W16A-B-waw1-sdagg15a-b-n93 | OVH Sp. z o. o. |
-| 113.190.42.196 | BlockShark | VNPT-VN |  |
-| 109.70.113.100 | band.d3akash.cloud | AS8758-GieldanowskiConsulting |  |
+| 34.142.204.241 | public4-2 | GOOGL-2 | Google LLC |
+| 193.34.212.170 | nodexxw32 | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 131.153.174.13 | Jamaharon | SSL-65 | SECURED SERVERS LLC |
 | 199.247.13.82 | band-node02 | RIPE NET-V4-199-247-0-0-19 | RIPE Network Coordination Centre Vultr Holdings LLC Paris |
 | 13.212.159.242 | bprod-band-2 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
@@ -94,7 +94,7 @@
 | 135.181.138.95 | 154fd0ce-70a82a | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 35.198.219.75 | band-sentry-asia-southeast | GOOGLE-CLOUD | Google LLC |
 | 45.153.35.148 | ThomasBlock.io | DE-XSSERVER4-20190913 | XSServer GmbH |
-| 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
+| 89.149.218.43 | random33 | NL-LEASEWEB-20060223 | LeaseWeb Netherlands B.V. |
 | 65.109.97.249 | hello-band-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 162.55.92.114 | 1d1de7c5-dbe068 | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.108.42 | 0base.vc-laozi-mainnet-bandprotocol-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -127,7 +127,7 @@
 | 3.112.138.57 | bandprod | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
 | 23.88.62.189 | blockscape | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.24.82 | StakeTown | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 107.135.15.67 | Architect Nodes | SIS-80-10-10-13 SBC-107-135-15-64-29-2209273549 |  |
+| 107.135.15.67 | Architect Nodes | SIS-80-10-10-13 SBC-107-135-15-64-29-2209273549 | AT&T Corp. |
 | 89.149.218.44 | random111 | NL-LEASEWEB-20060223 | LeaseWeb Netherlands B.V. |
 | 18.138.54.118 | bandchain | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 65.21.202.61 | band-api | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -135,6 +135,6 @@
 | 18.222.108.4 | infstones | AT-88-Z | Amazon Technologies Inc. |
 | 57.128.133.20 | forbole-sentry | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
 | 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
-| 176.9.147.146 | band-sentry | HETZNER-fsn1-dc7 | Hetzner Online GmbH |
+| 71.13.17.144 | Antrix Validators | CC04 DLT-MN-71-13-16 | Charter Communications Charter Communications |
 
 <!-- END_TABLE -->
