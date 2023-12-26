@@ -43,10 +43,10 @@
 | 65.109.115.226 | hello-jackal-relayer | RIPE | RIPE Network Coordination Centre |
 | 185.16.38.210 | 7axqtbd5tz2w |  |  |
 | 95.165.89.222 | maxfoton |  |  |
-| 144.217.158.127 | rpc | HO-2 OVH-DEDICATED-FO | OVH Hosting, Inc. OVH Hosting, Inc. |
+| 144.217.158.127 | rpc | HO-2 OVH-DEDICATED-FO |  |
 | 65.109.105.110 | Anatolian Team | RIPE | RIPE Network Coordination Centre |
 | 85.17.52.219 | SecretSaturn |  |  |
-| 65.109.50.30 | Goatlabs | RIPE | RIPE Network Coordination Centre |
+| 65.109.116.50 | Vagif | RIPE | RIPE Network Coordination Centre |
 | 135.148.33.246 | VAOR | OUL-16 VPS-US-EAST-VA-2 | OVH US LLC OVH US LLC |
 | 65.21.95.15 | 1ce | RIPE | RIPE Network Coordination Centre |
 | 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
@@ -94,12 +94,12 @@
 | 49.12.131.50 | Arcpool | STUB-49-12SLASH15 |  |
 | 192.171.215.94 | Da MidWest BoiZ | AUREON-BLK18 | Aureon Network Services |
 | 104.193.254.36 | Noderunners | KING-SERVERS KING-SERVERS-R007 | Hosting Solution Ltd. |
-| 51.210.223.80 | 01b58725-6bf3-5893-8753-65a50eb9c20f |  |  |
-| 18.119.142.182 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 65.109.50.30 | Goatlabs | RIPE | RIPE Network Coordination Centre |
+| 195.3.223.168 | g1sj3ru2mbhy |  |  |
 | 89.245.24.148 | windpowerstake23 |  |  |
 | 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 172.105.110.122 | Neta DAO | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
-| 195.3.223.168 | g1sj3ru2mbhy |  |  |
+| 18.119.142.182 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 51.210.223.80 | 01b58725-6bf3-5893-8753-65a50eb9c20f |  |  |
 
 <!-- END_TABLE -->
