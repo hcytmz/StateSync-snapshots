@@ -23,7 +23,7 @@
 | 178.162.165.65 | Synergy_Nodes | NL-LEASEWEB-20100205 | LeaseWeb Netherlands B.V. |
 | 2001:bc8:3de9:100::7 | andromeda-mainnet | SCALEWAY | Scaleway |
 | 109.228.61.221 | andromeda-1 | UK-NGCS | Fasthosts Internet Limited |
-| 158.69.125.73 | Nodeist-andromeda-main | HO-2 | OVH Hosting, Inc. |
+| 136.243.67.47 | e8245fac-0b7e-55fe-bafe-eaeeb87fb58c | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 18.227.48.210 | coinhall.org | AT-88-Z | Amazon Technologies Inc. |
 | 65.21.73.18 | ST-Server | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.56.244.244 | RoundTable21 | K3com |  |
@@ -38,6 +38,7 @@
 | 65.21.10.105 | andromeda-1 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 213.133.100.206 | andromeda-2 | HETZNER-RZ-NBG-NET |  |
 | 5.189.151.202 | AVIAONE | CONTABO | Contabo GmbH |
-| 136.243.67.47 | e8245fac-0b7e-55fe-bafe-eaeeb87fb58c | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 158.69.125.73 | Nodeist-andromeda-main | HO-2 | OVH Hosting, Inc. |
+| 149.102.159.171 | Train_To_Crypto | COGENT-149-102-16 | PSINet, Inc. |
 
 <!-- END_TABLE -->
