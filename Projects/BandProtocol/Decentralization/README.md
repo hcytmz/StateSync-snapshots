@@ -77,7 +77,7 @@
 | 77.68.30.186 | band | UK-NGCS | Fasthosts Internet Limited |
 | 5.135.137.127 | StakeSabai | OVH |  |
 | 65.109.97.249 | hello-band-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 46.137.209.178 | b-band-s0-sg | AMAZON-SIN |  |
+| 185.16.39.172 | vjogjnq82g51 | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
 | 135.181.114.86 | YOUR_MONIKER_GOES_HERE | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 34.138.126.238 | bf-s-use | GOOGL-2 | Google LLC |
 | 51.91.67.48 | chorus_sentry09 | SD-GRA-G243-gra2-sdagg36a-b-n93 | OVH SAS |
@@ -133,8 +133,9 @@
 | 18.138.54.118 | bandchain | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 65.21.202.61 | band-api | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 158.247.218.149 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
-| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 57.128.133.20 | forbole-sentry | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
-| 185.16.39.172 | vjogjnq82g51 | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
+| 46.137.209.178 | b-band-s0-sg | AMAZON-SIN |  |
+| 5.79.98.1 | HSS-backup | NL-LEASEWEB-20120614 | LeaseWeb Netherlands B.V. |
+| 176.9.147.146 | band-sentry | HETZNER-fsn1-dc7 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
