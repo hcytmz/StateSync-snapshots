@@ -74,14 +74,14 @@
 | 65.109.154.181 | MyNode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.198.100 | nodexrelay | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 150.230.137.157 | Alien | ERX-NETBLOCK |  |
-| 46.38.232.86 | sgenet-1-seed | DE-NETCUP-20101202 | netcup GmbH |
+| 192.99.160.197 | KYN-SIDE | OVH-ARIN-7 | OVH Hosting, Inc. |
 | 158.69.27.233 | KYN-PUBLIC | HO-2 | OVH Hosting, Inc. |
 | 15.235.160.127 | 90a159a7-e08d-53e3-8b6c-0e82c68bee52 | HO-2 OVHCLOUD-SGP SD-SGP | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 94.130.13.186 | sge | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 142.132.202.86 | ramuchi.tech | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.164.61.145 | node | RIPE-ERX-141 NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK | RIPE Network Coordination Centre |
 | 65.109.108.47 | a42cbcd2-68dc-516c-81aa-ba2de5a54d9e | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 192.99.160.197 | KYN-SIDE | OVH-ARIN-7 | OVH Hosting, Inc. |
-| 167.172.111.114 | e3fc5e98cb63 | RIPE-ERX-167-172-0-0 DigitalOcean | RIPE Network Coordination Centre DigitalOcean, LLC |
+| 185.221.152.32 | sgenet-1-seed | RUWEB-NET | RuWeb LLC |
+| 92.46.90.14 | 1e610c05fdac | GPON_FTTH_SERVICES |  |
 
 <!-- END_TABLE -->
