@@ -44,11 +44,11 @@
 | 65.108.238.166 | hello-band-relayer | RIPE | RIPE Network Coordination Centre |
 | 103.19.25.19 | poorbuthappy | UDOMAIN-HK |  |
 | 15.235.14.28 | EhocPM2jrG | HO-2 SD-BHS-BHS8-B808A-MAGGIE-INFRA-002-2IEME | OVH Hosting, Inc. OVH Hosting, Inc. |
-| 193.34.212.203 | Ysewdd |  |  |
+| 176.9.147.146 | band-sentry |  |  |
 | 121.78.241.76 | WeStaking | KINXINC KINXINC-KR |  |
 | 51.83.140.142 | w3coins |  |  |
 | 34.142.204.241 | public4-2 | GOOGL-2 | Google LLC |
-| 57.128.133.20 | forbole-sentry | RIPE-ERX-57 | RIPE Network Coordination Centre |
+| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 131.153.174.13 | Jamaharon | SSL-65 | SECURED SERVERS LLC |
 | 199.247.13.82 | band-node02 | RIPE | RIPE Network Coordination Centre |
 | 13.212.159.242 | bprod-band-2 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
@@ -118,15 +118,15 @@
 | 45.129.147.242 | ams-atlas-staking |  |  |
 | 34.76.55.114 | bf-s-euw | GOOGL-2 | Google LLC |
 | 3.112.138.57 | bandprod | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
-| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 18.222.108.4 | infstones | AT-88-Z | Amazon Technologies Inc. |
 | 65.109.24.82 | StakeTown | RIPE | RIPE Network Coordination Centre |
 | 107.135.15.67 | Architect Nodes | SIS-80-10-10-13 SBC-107-135-15-64-29-2209273549 | AT&T Corp. |
 | 89.149.218.44 | random111 |  |  |
 | 18.138.54.118 | bandchain | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 65.21.202.61 | band-api | RIPE | RIPE Network Coordination Centre |
 | 158.247.218.149 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
-| 18.222.108.4 | infstones | AT-88-Z | Amazon Technologies Inc. |
 | 88.99.208.54 | StakeTown-API |  |  |
-| 176.9.147.146 | band-sentry |  |  |
+| 57.128.133.20 | forbole-sentry | RIPE-ERX-57 | RIPE Network Coordination Centre |
+| 193.34.212.203 | Ysewdd |  |  |
 
 <!-- END_TABLE -->
