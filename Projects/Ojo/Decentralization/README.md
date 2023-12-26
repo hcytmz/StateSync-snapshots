@@ -100,6 +100,8 @@
 | 137.184.183.45 | fiseq | DIGITALOCEAN-137-184-0-0 | DigitalOcean, LLC |
 | 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 3.239.191.168 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
-| 34.107.24.146 | snapshot-28393380-74tj5 | GOOGL-2 | Google LLC |
+| 35.198.181.13 | sentry-0 | GOOGLE-CLOUD | Google LLC |
+| 138.201.220.51 | ojo-devnet-seed | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
+| 176.9.82.221 | ojo-devnet-seed |  |  |
 
 <!-- END_TABLE -->
