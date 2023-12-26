@@ -57,7 +57,7 @@
 | 85.239.238.23 | CosmoBook | TT-20221122 | Contabo GmbH |
 | 20.38.38.221 | ADORA | MSFT | Microsoft Corporation |
 | 95.214.55.100 | Jaha | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
-| 148.251.13.186 | hello-quicksilver-backup | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 209.159.148.90 | UTSA_guide | INTERSERVER | Interserver, Inc |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
 | 176.9.155.156 | F5 Nodes | HETZNER-fsn1-dc7 | Hetzner Online GmbH |
 | 169.155.44.196 | Tendermint | ALLNO | Allnodes Inc |
@@ -156,5 +156,7 @@
 | 95.217.60.22 | DTEAM | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 78.47.214.204 | openbitlab | HOS-565748 | Hetzner Online GmbH |
 | 142.132.253.112 | itrocket | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 185.119.118.118 | vDQNYS-nxJO | AT-IPAX-20150930 | IPAX GmbH |
+| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
