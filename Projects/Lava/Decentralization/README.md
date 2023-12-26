@@ -79,7 +79,7 @@
 | 213.239.207.175 | landeros |  |  |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
 | 65.108.75.174 | ST-Server | RIPE | RIPE Network Coordination Centre |
-| 154.12.245.42 | DarkSteem |  |  |
+| 154.12.245.42 | DarkSteem | COGENT-154-12-16 | PSINet, Inc. |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 35.205.44.215 | testnet2-validator-3 | GOOGLE-CLOUD | Google LLC |
@@ -131,16 +131,16 @@
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 65.108.124.121 | Lapatylin | RIPE | RIPE Network Coordination Centre |
 | 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
-| 154.38.168.132 | Wildweststaking2 |  |  |
-| 65.109.93.58 | nj-snap | RIPE | RIPE Network Coordination Centre |
+| 154.38.168.132 | Wildweststaking2 | COGENT-154-38-16 | PSINet, Inc. |
+| 65.108.72.233 | Busta Rhymes | RIPE | RIPE Network Coordination Centre |
 | 62.171.170.79 | albina |  |  |
-| 154.12.245.41 | ReLaX |  |  |
+| 154.12.245.41 | ReLaX | COGENT-154-12-16 | PSINet, Inc. |
 | 195.14.6.2 | 01node |  |  |
 | 146.0.78.166 | erfrf | RIPE-ERX-146-0-0-0 | RIPE Network Coordination Centre |
 | 144.126.138.62 | LanceLoT | CONTA-48 | Contabo Inc. |
 | 178.18.252.105 | testnet |  |  |
 | 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
-| 154.53.51.114 | stone | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.51.114 | stone |  |  |
 | 23.88.7.159 | semalist | RIPE | RIPE Network Coordination Centre |
 | 154.53.54.154 | paha |  |  |
 | 134.255.244.236 | Republic Crypto | Runtime | RIPE-ERX-134-255-0-0 | RIPE Network Coordination Centre |
@@ -150,6 +150,5 @@
 | 217.160.220.223 | BabyScope |  |  |
 | 15.204.216.192 | InfraSingularity | OUL-16 PCI-US-EAST-VA-1 | OVH US LLC OVH (NWK) |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
-| 65.108.72.233 | Busta Rhymes | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
