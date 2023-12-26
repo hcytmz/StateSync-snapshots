@@ -37,6 +37,8 @@
 | 65.21.95.15 | 1ce | RIPE | RIPE Network Coordination Centre |
 | 65.109.122.105 | Seasting | RIPE | RIPE Network Coordination Centre |
 | 159.69.200.24 | Simurgh | RIPE | RIPE Network Coordination Centre |
-| 45.84.138.149 | rch |  |  |
+| 38.242.244.85 | Coverlet | COGENT-A | PSINet, Inc. |
+| 178.33.161.116 | vertotrade |  |  |
+| 65.109.65.210 | moodman | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
