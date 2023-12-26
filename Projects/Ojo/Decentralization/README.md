@@ -22,7 +22,7 @@
 | 142.132.209.236 | node | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.159.220.202 | Blockscope.net | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 158.220.92.97 | AVIAONE | RIPE-ERX-158-220-0-0 TT-20230331 | RIPE Network Coordination Centre Contabo GmbH |
-| 35.198.181.13 | sentry-0 | GOOGLE-CLOUD | Google LLC |
+| 34.141.29.140 | snapshot-28393020-5wnjs | GOOGL-2 | Google LLC |
 | 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
 | 65.109.61.113 | vbv | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.68.86 | emperor | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -105,7 +105,6 @@
 | 5.78.91.63 | KingSuper | CLOUD-HIL | Hetzner Online GmbH Hetzner Online GmbH |
 | 167.235.180.97 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 116.203.96.161 | vinnodesojo | STUB-116-202SLASH15 |  |
-| 141.94.193.28 | rpc-1.ojo.nodes.guru | rbx8-sdagg27a-b-n93-2-2 | OVH SAS |
 | 138.201.220.51 | ojo-devnet-seed | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
