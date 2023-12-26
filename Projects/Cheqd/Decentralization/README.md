@@ -61,9 +61,9 @@
 | 84.244.95.238 | RockawayX Infra | NET-BLOCKAD-CZ |  |
 | 206.189.137.229 | Blockfend Genesis Labs | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
 | 54.38.38.149 | vNodes Validators | RIPE SD-RBX-rbx8-sdagg17a-b-n93-2-2 | RIPE Network Coordination Centre OVH SAS |
-| 65.108.132.107 | resync | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.16.39.158 | 0nh4mmx35f1t | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
 | 157.90.242.105 | sentry1-eu-mainnet-cheqd | RIPE CLOUD-FSN1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 159.69.146.121 | seed3-eu-mainnet-cheqd | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
