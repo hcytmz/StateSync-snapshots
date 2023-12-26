@@ -96,7 +96,7 @@
 | 176.191.97.120 | New_peer | FR-BOUYGTEL-20110706 | Bouygues Telecom SA |
 | 65.109.23.237 | moodman | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.116.109 | cyberG | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 3.14.249.97 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 95.214.52.139 | rbhuzvjgvibw | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 95.217.121.247 | KingSuper | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 103.180.28.90 | Forbole | METROPOLIS-AP | Metropolis Networks Inc |
 | 135.181.73.57 | Blockpower Capital | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -106,7 +106,7 @@
 | 2a01:4f9:3a:11e0::4 | gitopia | HOS-646951 | Hetzner Online GmbH |
 | 65.21.91.160 | 79anvi | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 194.163.144.185 | Oldcat-gitopia-main | CONTABO |  |
-| 65.109.112.170 | NJ-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.115.56 | CoreNode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.199.236 | LiveRaveN | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 157.90.128.250 | DanielX | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -125,7 +125,8 @@
 | 135.181.156.192 | MCB | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.226.26 | [NODERS]TEAM_SERVICE | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 144.76.40.53 | f9e69acc-2641-58fc-861f-4e2ea627bcf0 | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 3.14.249.97 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 158.69.125.73 | Nodeist-gitopia-main | HO-2 | OVH Hosting, Inc. |
+| 35.246.139.111 | snapshot-28392375-xzbdb | GOOGLE-CLOUD | Google LLC |
 
 <!-- END_TABLE -->
