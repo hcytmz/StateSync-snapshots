@@ -27,7 +27,7 @@
 | 51.195.7.27 | The_Cybernetics |  |  |
 | 158.69.226.83 | Stake Frites | HO-2 | OVH Hosting, Inc. |
 | 136.243.79.95 | Validavia | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
-| 167.235.216.230 | blockscape | RIPE | RIPE Network Coordination Centre |
+| 142.132.193.194 | ECO Stake | RIPE | RIPE Network Coordination Centre |
 | 173.215.85.171 | NosNode-JunoRPC | AUREON-BLK2 NET-173-215-85-0-24 | Aureon Network Services MI FIBER URBANDALE |
 | 54.217.156.221 | juno_node | AMAZON AMAZO-ZDUB3 | Amazon Technologies Inc. Amazon.com, Inc. |
 | 95.214.52.139 | sbl8fu8w95kl |  |  |
@@ -44,7 +44,7 @@
 | 135.125.189.14 | bhcreovh | RIPE | RIPE Network Coordination Centre |
 | 202.61.237.202 | cosmic-node | STUB-202-61-192SLASH18 |  |
 | 65.108.232.134 | ng | RIPE | RIPE Network Coordination Centre |
-| 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
+| 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 |  |
 | 93.115.25.178 | Zenscape |  |  |
 | 154.12.241.136 | contabo-node-12 |  |  |
 | 138.201.48.217 | archive | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
@@ -77,8 +77,7 @@
 | 157.90.129.168 | KalpaTech | RIPE | RIPE Network Coordination Centre |
 | 167.235.118.135 | master-backup-1-juno-main | RIPE | RIPE Network Coordination Centre |
 | 135.181.5.176 | ZenChainLabs-RPC | RIPE | RIPE Network Coordination Centre |
-| 144.126.217.120 | SpacePotato | DIGITALOCEAN-144-126-192-0 | DigitalOcean, LLC |
-| 136.243.40.17 | xaxaaxxa | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
+| 95.168.173.33 | JUNO-mainnet-prod |  |  |
 | 213.239.213.142 | BRAND-juno-relayer |  |  |
 | 95.217.202.49 | rpc |  |  |
 | 65.108.77.220 | eYxqQk-PVQC | RIPE | RIPE Network Coordination Centre |
@@ -113,10 +112,12 @@
 | 185.185.80.225 | BRAND-juno-main |  |  |
 | 65.109.113.86 | bricks_juno | RIPE | RIPE Network Coordination Centre |
 | 5.9.49.11 | 2923knwefk |  |  |
+| 178.18.255.244 | KalpaTech |  |  |
 | 5.9.97.174 | Wave |  |  |
 | 37.120.245.21 | Inotel |  |  |
 | 65.108.77.106 | ezstaking-sentry-3 | RIPE | RIPE Network Coordination Centre |
 | 136.243.67.44 | 1cc4fca4-1d82-5350-a345-23a135a4b91d | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
+| 107.135.15.67 | Architect Nodes | SIS-80-10-10-13 SBC-107-135-15-64-29-2209273549 | AT&T Corp. |
 | 65.109.96.189 | Kalia Network | RIPE | RIPE Network Coordination Centre |
 | 135.181.215.115 | Architect Nodes | RIPE | RIPE Network Coordination Centre |
 | 158.247.219.236 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
@@ -131,7 +132,7 @@
 | 66.172.36.140 | node | CYBERVERSE06 CYBERVERSE-66-172-36-0 | Evocative, Inc. |
 | 65.108.11.167 | Mercury | RIPE | RIPE Network Coordination Centre |
 | 65.21.74.247 | #SoloNation | RIPE | RIPE Network Coordination Centre |
-| 178.18.255.244 | KalpaTech |  |  |
+| 193.34.212.203 | Yrfrf |  |  |
 | 65.108.66.34 | Depool-hetz | RIPE | RIPE Network Coordination Centre |
 | 65.108.71.166 | Beastie | RIPE | RIPE Network Coordination Centre |
 | 66.165.240.138 | node | NET-66-165-224-0-19 66-165-240-0-24 | HIVELOCITY, Inc. |
@@ -150,8 +151,7 @@
 | 178.128.220.188 | witval |  |  |
 | 204.93.241.110 | luckyfriday | SCN-6 | Server Central Network |
 | 88.218.224.157 | SmartStakeBackup |  |  |
-| 95.168.173.33 | JUNO-mainnet-prod |  |  |
-| 107.135.15.67 | Architect Nodes | SIS-80-10-10-13 SBC-107-135-15-64-29-2209273549 | AT&T Corp. |
-| 142.132.193.194 | ECO Stake | RIPE | RIPE Network Coordination Centre |
+| 144.126.217.120 | SpacePotato | DIGITALOCEAN-144-126-192-0 | DigitalOcean, LLC |
+| 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
