@@ -30,7 +30,6 @@
 | 95.217.192.222 | MakingCash | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 195.201.231.163 | ubuntu-8gb-nbg1-1 | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 188.165.205.120 | kjnodes | OVH |  |
-| 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 95.70.238.194 | Ugur | BursaPOP_XdslDynamic |  |
 | 3.80.123.118 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 46.197.106.168 | MAHOF | TURKSAT-NET |  |
@@ -46,6 +45,6 @@
 | 65.109.82.87 | 11d0560e-0454-5674-a7f5-1d95ef56e600 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.11.6 | Moonshine.cc Validation | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 45.77.126.244 | qwoyn-full-node | CONSTANT NET-45-77-126-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
-| 138.201.220.51 | qwoyn-1-seed | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
