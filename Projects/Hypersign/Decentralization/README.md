@@ -32,6 +32,5 @@
 | 185.144.99.229 | cryptech | ULTRAPAK | Ultra-Pak LLC |
 | 188.40.66.173 | hello-hypersign-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 2a05:4140:3::925 | s-hypersign-test | C1V | Cinzia Tocci trading as C1V |
-| 89.58.13.159 | KonsorTech-Services | DE-NETCUP-20051123 | netcup GmbH |
 
 <!-- END_TABLE -->
