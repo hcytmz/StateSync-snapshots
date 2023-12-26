@@ -63,9 +63,9 @@
 | 51.210.209.49 | node | sdagg4-2 | OVH SAS |
 | 66.85.137.122 | Domerium Labs | SS7 | SECURED SERVERS LLC |
 | 65.108.121.190 | fb32d3b5-f6e468 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.122.246 | Architect Nodes Relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 142.132.205.120 | uGaenn-juno-relayer | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 157.90.213.21 | Validatus | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 50.93.74.165 | CACGroup-1 | TELUS TELUS-FIBRE-LEDCAB1 | TELUS Communications Inc. |
+| 135.181.113.227 | juno-api | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 74.96.207.60 | test | VIS-BLOCK FTTP | Verizon Business |
 | 65.108.194.228 | Validatus | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.123.53 | juno-node | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -99,9 +99,9 @@
 | 135.181.141.29 | juno-node-1 | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 146.59.52.137 | e2140e30-3b1c-50cd-ad05-aca43d36b6e4 | RIPE-ERX-146-59-0-0 SD-Game-WAW-W17A | RIPE Network Coordination Centre OVH Sp. z o. o. |
 | 51.81.49.59 | hello-juno-main | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
-| 172.105.110.122 | Neta DAO | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 144.168.44.178 | White Whale | NET-144-168-32-0-20 | HIVELOCITY, Inc. |
 | 95.111.249.160 | Node.Monster.One | CONTABO |  |
-| 135.181.113.227 | juno-api | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 167.235.128.33 | node-1 | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.35.90 | jabbey | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.207.236 | Oni | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.94.73.39 | rpc-5.juno.nodes.guru | rbx8-sdagg18a-b-n93-1-2 | OVH SAS |
@@ -112,7 +112,7 @@
 | 78.46.88.125 | cosmoshub-0-main | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 185.185.80.225 | BRAND-juno-main | TT-2022010305 | Contabo GmbH |
 | 65.109.113.86 | bricks_juno | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 195.201.63.87 | Allnodes | HETZNER-fsn1-dc4 | Hetzner Online GmbH |
+| 5.9.49.11 | 2923knwefk | HETZNER-fsn1-dc7 |  |
 | 167.235.110.87 | blockscape | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.9.97.174 | Wave | HETZNER-fsn1-dc7 |  |
 | 37.120.245.21 | Inotel | RO-M247RO-20120213 | M247 Europe SRL |
@@ -146,13 +146,13 @@
 | 5.22.211.140 | sentry | UPCLOUD-NL-AMS1-NET |  |
 | 141.94.97.24 | burby | SD-SBG3-GAME | OVH SAS |
 | 116.202.96.76 | blockscape | STUB-116-202SLASH15 |  |
-| 65.109.32.148 | Architect Nodes Relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 109.70.113.100 | Decloud Nodes Lab | AS8758-GieldanowskiConsulting |  |
 | 136.243.21.50 | 14709 | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 65.109.115.226 | hello-juno-relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 178.128.220.188 | witval | DIGITALOCEAN |  |
+| 144.126.217.120 | SpacePotato | DIGITALOCEAN-144-126-192-0 | DigitalOcean, LLC |
 | 95.214.52.139 | xhe3lbjhk7qw | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
-| 167.235.128.33 | node-1 | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 109.70.113.100 | Decloud Nodes Lab | AS8758-GieldanowskiConsulting |  |
-| 142.132.205.120 | uGaenn-juno-relayer | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 50.93.74.165 | CACGroup-1 | TELUS TELUS-FIBRE-LEDCAB1 | TELUS Communications Inc. |
+| 38.109.200.33 | juno-mainnet-fullnode-2 | COGENT-A |  |
+| 65.109.32.148 | Architect Nodes Relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
