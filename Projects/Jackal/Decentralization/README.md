@@ -44,10 +44,11 @@
 | 15.235.114.33 | Pupmos | HO-2 SD-BHS-BHS8-B811B-2EME-IP-MAGGIE-INFRA-002 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.109.115.226 | hello-jackal-relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.16.38.210 | 7axqtbd5tz2w | MEVSPACE | MEVSPACE sp. z o.o. |
-| 65.109.116.50 | Vagif | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
 | 144.217.158.127 | rpc | HO-2 OVH-DEDICATED-FO | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.109.105.110 | Anatolian Team | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 85.17.52.219 | SecretSaturn | LEASEWEB |  |
+| 172.105.110.122 | Neta DAO | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 95.217.0.158 | Scrib Code | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.95.15 | 1ce | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -78,8 +79,8 @@
 | 136.38.55.33 | Silk_Nodes | GOOGLE-FIBER | Google Fiber Inc. |
 | 18.119.142.182 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 208.77.197.83 | vidulum.app | WOLFPAW | Wolfpaw Data Centres Inc |
-| 195.3.223.168 | g1sj3ru2mbhy | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
-| 51.210.223.80 | 01b58725-6bf3-5893-8753-65a50eb9c20f | SD-GAME-GRA2 | OVH SAS |
+| 158.69.125.73 | Nodeist-jackal-main | HO-2 | OVH Hosting, Inc. |
+| 65.21.170.3 | Munris | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.66.34 | web34ever | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 87.196.42.235 | tedcrypto | NOS |  |
 | 167.142.158.242 | jackal-archive | AUREON-BLK1 NET-167-142-158-0-24 | Aureon Network Services |
@@ -96,10 +97,9 @@
 | 49.12.131.50 | Arcpool | STUB-49-12SLASH15 |  |
 | 192.171.215.94 | Da MidWest BoiZ | AUREON-BLK18 | Aureon Network Services |
 | 104.193.254.36 | Noderunners | KING-SERVERS KING-SERVERS-R007 | Hosting Solution Ltd. |
-| 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
-| 65.21.170.3 | Munris | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 158.69.125.73 | Nodeist-jackal-main | HO-2 | OVH Hosting, Inc. |
-| 172.105.110.122 | Neta DAO | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 135.181.5.219 | jackal-1-seed | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 192.99.4.20 | Alien | OVH-ARIN-7 | OVH Hosting, Inc. |
+| 51.210.223.80 | 01b58725-6bf3-5893-8753-65a50eb9c20f | SD-GAME-GRA2 | OVH SAS |
+| 195.3.223.168 | g1sj3ru2mbhy | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
+| 138.197.189.243 | jackal-1-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
