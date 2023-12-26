@@ -52,7 +52,7 @@
 | 54.39.128.229 | Cumulo | HO-2 SD-BHS-SD-1G-VOIE-A-B707A | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 167.160.93.90 | nois | UDL-17 | Dedicated.com |
 | 142.132.209.97 | ECO Stake | RIPE | RIPE Network Coordination Centre |
-| 65.108.79.237 | chaintools-relayer-node | RIPE | RIPE Network Coordination Centre |
+| 57.128.20.163 | 45d756ee-69c2-5344-9233-fa8ac733f323 | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 45.63.104.164 | nois-node | CONSTANT NET-45-63-104-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 195.3.223.9 | jpoop0n4q4rk |  |  |
 | 65.21.52.246 | nois-1 | RIPE | RIPE Network Coordination Centre |
@@ -87,7 +87,8 @@
 | 57.128.163.232 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
-| 57.128.20.163 | 45d756ee-69c2-5344-9233-fa8ac733f323 | RIPE-ERX-57 | RIPE Network Coordination Centre |
+| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 65.108.79.237 | chaintools-relayer-node | RIPE | RIPE Network Coordination Centre |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 
 <!-- END_TABLE -->
