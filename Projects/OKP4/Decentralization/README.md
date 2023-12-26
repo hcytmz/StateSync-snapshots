@@ -48,7 +48,7 @@
 | 15.235.46.79 | NodeStake | HO-2 PCI-BHS5 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.92.180 | blockonaut | RIPE | RIPE Network Coordination Centre |
 | 144.91.115.146 | OKP4 | RIPE | RIPE Network Coordination Centre |
-| 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
+| 65.109.82.249 | bulevar | RIPE | RIPE Network Coordination Centre |
 | 135.181.116.246 | waynewayner | RIPE | RIPE Network Coordination Centre |
 | 65.108.192.123 | Cros-Nest | RIPE | RIPE Network Coordination Centre |
 | 195.3.220.54 | mv7bfopywjxf |  |  |
@@ -64,8 +64,6 @@
 | 94.130.137.122 | Vagif |  |  |
 | 65.109.84.33 | Nodejumper | RIPE | RIPE Network Coordination Centre |
 | 188.40.66.173 | hello-okp4-test |  |  |
-| 65.109.82.249 | bulevar | RIPE | RIPE Network Coordination Centre |
-| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
-| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
