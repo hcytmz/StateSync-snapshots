@@ -20,7 +20,7 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 95.217.0.158 | Scrib Code | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 144.76.40.53 | 819ef192-2aab-5afc-a670-e0977a81560f | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
 | 23.88.103.35 | node-1 | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 46.4.81.204 | Kalia Network | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
@@ -48,10 +48,10 @@
 | 144.217.158.127 | rpc | HO-2 OVH-DEDICATED-FO | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.109.105.110 | Anatolian Team | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 85.17.52.219 | SecretSaturn | LEASEWEB |  |
-| 65.109.50.30 | Goatlabs | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 192.171.215.94 | Da MidWest BoiZ | AUREON-BLK18 | Aureon Network Services |
 | 65.21.95.15 | 1ce | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 184.145.1.125 | srloin | BELLCANADA-20 HSE-DYNAMIC-1663307581-CA | Bell Canada |
+| 135.181.28.178 | F5Nodes | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 94.250.203.238 | ericet | CONTABO-08 | Contabo GmbH |
 | 188.165.200.129 | mainnet | OVH |  |
 | 142.132.248.253 | Blackhox | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -63,13 +63,13 @@
 | 46.4.14.172 | PPNV | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 5.9.69.241 | [NODERS]TEAM | HETZNER-fsn1-dc7 |  |
 | 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 167.142.158.242 | jackal-archive | AUREON-BLK1 NET-167-142-158-0-24 | Aureon Network Services |
+| 103.180.28.103 | jackal-m-horcrux6-ep2-hk | METROPOLIS-AP | Metropolis Networks Inc |
 | 185.208.207.12 | Oldcat-jackal-main | TT-202200809 | Contabo GmbH |
 | 85.239.241.71 | OS-node-usc | TT-20221122 | Contabo GmbH |
 | 206.125.34.196 | Artifact | SWSF | Scott Technology Center |
 | 135.181.114.86 | YOUR_MONIKER_GOES_HERE | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.101.136 | Ubuntu-2204-jammy-amd64-base | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
+| 104.207.138.181 | XavierCapital | CONSTANT NET-104-207-138-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 149.50.96.36 | Jaha | COGENT-149-50-16 MEVERYWHERE-CGNT-NET-1 | PSINet, Inc. MEVSPACE |
 | 65.109.122.105 | Seasting | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 94.130.137.122 | Vagif | HETZNER-fsn1-dc4 | Hetzner Online GmbH |
@@ -78,23 +78,23 @@
 | 136.38.55.33 | Silk_Nodes | GOOGLE-FIBER | Google Fiber Inc. |
 | 104.193.254.36 | Noderunners | KING-SERVERS KING-SERVERS-R007 | Hosting Solution Ltd. |
 | 208.77.197.83 | vidulum.app | WOLFPAW | Wolfpaw Data Centres Inc |
-| 135.181.28.178 | F5Nodes | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 195.3.223.168 | g1sj3ru2mbhy | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 51.210.223.80 | 01b58725-6bf3-5893-8753-65a50eb9c20f | SD-GAME-GRA2 | OVH SAS |
 | 65.108.66.34 | web34ever | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 87.196.42.235 | tedcrypto | NOS |  |
-| 158.69.125.73 | Nodeist-jackal-main | HO-2 | OVH Hosting, Inc. |
+| 167.142.158.242 | jackal-archive | AUREON-BLK1 NET-167-142-158-0-24 | Aureon Network Services |
 | 185.242.113.34 | freak12techno | IPP-NET-44 |  |
 | 65.108.226.26 | NODERSTEAMSERVICE | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 146.59.47.210 | USArmy | RIPE-ERX-146-59-0-0 SD-WAW-WAW1-FAT-MAGGIE-SDAGG25-1 | RIPE Network Coordination Centre OVH Sp. z o. o. |
 | 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 89.38.96.114 | node | WORLDSTREAM |  |
-| 207.244.82.219 | secure scerets | LEASEWEB-USA-WDC-01 NET-SOURCE32 | Leaseweb USA, Inc. Source Code Corp. |
+| 51.79.72.176 | hikari-research | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 65.108.66.174 | hello-BccNodesRPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.91.160 | 79anvi | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 144.76.40.53 | 819ef192-2aab-5afc-a670-e0977a81560f | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 103.180.28.103 | jackal-m-horcrux6-ep2-hk | METROPOLIS-AP | Metropolis Networks Inc |
-| 192.171.215.94 | Da MidWest BoiZ | AUREON-BLK18 | Aureon Network Services |
-| 172.105.110.122 | Neta DAO | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 104.207.138.181 | XavierCapital | CONSTANT NET-104-207-138-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
+| 65.109.50.30 | Goatlabs | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 207.244.82.219 | secure scerets | LEASEWEB-USA-WDC-01 NET-SOURCE32 | Leaseweb USA, Inc. Source Code Corp. |
+| 18.119.142.182 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 95.217.0.158 | Scrib Code | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 138.197.189.243 | jackal-1-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
