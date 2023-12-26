@@ -47,7 +47,7 @@
 | 23.88.91.115 | SerGo-band-main | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 178.18.251.87 | EthicalNode | CONTABO |  |
 | 35.240.152.216 | peer-1 | GOOGLE-CLOUD | Google LLC |
-| 185.246.86.130 | HSS | IKOULA-DED-SERVERS-EPPES |  |
+| 193.34.212.170 | nodexxw32 | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 35.240.171.219 | bf-s-as | GOOGLE-CLOUD | Google LLC |
 | 65.108.238.166 | hello-band-relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 103.19.25.19 | poorbuthappy | UDOMAIN-HK |  |
@@ -125,17 +125,18 @@
 | 3.126.103.168 | dj3dja | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 45.129.147.242 | ams-atlas-staking | qupra-access-2 |  |
 | 34.76.55.114 | bf-s-euw | GOOGL-2 | Google LLC |
-| 193.34.212.203 | Ysewdd | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
+| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 23.88.62.189 | blockscape | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.24.82 | StakeTown | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 20.244.6.120 | BandNode01 | MSFT | Microsoft Corporation |
+| 57.128.133.20 | forbole-sentry | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
 | 89.149.218.44 | random111 | NL-LEASEWEB-20060223 | LeaseWeb Netherlands B.V. |
 | 18.138.54.118 | bandchain | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 65.21.202.61 | band-api | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 158.247.218.149 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
-| 57.128.133.20 | forbole-sentry | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
+| 14.224.158.246 | Chainp2p | VNPT-VN |  |
 | 46.137.209.178 | b-band-s0-sg | AMAZON-SIN |  |
 | 5.79.98.1 | HSS-backup | NL-LEASEWEB-20120614 | LeaseWeb Netherlands B.V. |
+| 193.34.212.203 | Ysewdd | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 176.9.147.146 | band-sentry | HETZNER-fsn1-dc7 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
