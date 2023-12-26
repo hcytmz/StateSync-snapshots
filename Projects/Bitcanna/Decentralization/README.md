@@ -32,7 +32,7 @@
 | 142.132.158.93 | 3f412f21-e6e3-5896-a9b9-c12648822d01 | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.109.223 | Yeah | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.67.84 | nodexrelayers | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 51.81.49.176 | hello-bitcanna-main | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
+| 212.6.176.21 | New_peer | MEDAS-COMPUTERS-NET |  |
 | 95.216.242.82 | Moniker | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 144.91.114.250 | OptimusValidatorNetwork | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 192.99.4.66 | CryptoNet | OVH-ARIN-7 | OVH Hosting, Inc. |
@@ -61,6 +61,7 @@
 | 62.171.190.198 | Roemer | CONTABO | Contabo GmbH |
 | 158.220.92.97 | AVIAONE | RIPE-ERX-158-220-0-0 TT-20230331 | RIPE Network Coordination Centre Contabo GmbH |
 | 95.111.244.78 | Panthea EU | CONTABO |  |
-| 212.6.176.21 | New_peer | MEDAS-COMPUTERS-NET |  |
+| 65.21.29.228 | Kitkat-bitcanna-relayer | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 148.251.13.186 | hello-bitcanna-backup | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
