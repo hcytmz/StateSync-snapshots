@@ -52,14 +52,14 @@
 | 65.109.154.181 | Indonode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 195.3.223.250 | swissstar | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 161.97.182.71 | Army IDs | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 65.108.68.86 | emperor | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.66.174 | hello-BccNodesRPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.68.86 | emperor | RIPE | RIPE Network Coordination Centre |
+| 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
 | 147.135.36.120 | RioValidator | OUL-16 SD-1G-HILL-H109 | OVH US LLC |
-| 57.128.110.81 | NodeStake | RIPE-ERX-57 PCI-SBG5 | RIPE Network Coordination Centre OVH SAS |
-| 65.109.52.56 | StiggaRealio | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 51.195.104.64 | genznodes_sentry_RST_2 | SD-LIM-fra1-lim1-sdagg30a-b-n93-1-1 | OVH GmbH |
-| 5.9.61.78 | RST | HETZNER-fsn1-dc7 |  |
-| 95.168.173.33 | RIO-mainnet-prod | NL-LEASEWEB-20090106 | LeaseWeb Netherlands B.V. |
+| 57.128.110.81 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
+| 65.109.52.56 | StiggaRealio | RIPE | RIPE Network Coordination Centre |
+| 51.195.104.64 | genznodes_sentry_RST_2 |  |  |
+| 5.9.61.78 | RST |  |  |
+| 95.168.173.33 | RIO-mainnet-prod |  |  |
 | 158.69.125.73 | Nodeist-realio-network-main | HO-2 | OVH Hosting, Inc. |
 
 <!-- END_TABLE -->
