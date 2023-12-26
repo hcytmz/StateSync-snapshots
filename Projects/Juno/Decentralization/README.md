@@ -30,7 +30,7 @@
 | 167.235.216.230 | blockscape | RIPE CLOUD-FSN1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 173.215.85.171 | NosNode-JunoRPC | AUREON-BLK2 NET-173-215-85-0-24 | Aureon Network Services MI FIBER URBANDALE |
 | 141.94.163.236 | Kiln | SD-onenetwork | OVH SAS |
-| 167.235.118.135 | master-backup-1-juno-main | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.168.173.33 | JUNO-mainnet-prod | NL-LEASEWEB-20090106 | LeaseWeb Netherlands B.V. |
 | 169.155.44.89 | Tendermint | ALLNO | Allnodes Inc |
 | 85.114.132.30 | cpujuno | FASTIT-DE-DUS1-COLO4 |  |
 | 65.108.238.102 | be0c022c-cf67-560e-8f64-c6fc9a54ab80 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -107,7 +107,7 @@
 | 141.94.73.39 | rpc-5.juno.nodes.guru | rbx8-sdagg18a-b-n93-1-2 | OVH SAS |
 | 194.163.172.115 | Stake&Relax-juno-main | CONTABO |  |
 | 93.189.30.111 | dankuzone_w_daic | AT-IPAX-20080423 | IPAX GmbH |
-| 37.27.55.115 | alaska-indexer-1 | DE-HETZNER-20111228 | Hetzner Online GmbH Hetzner Online GmbH |
+| 139.180.185.11 | juno | APNIC SGP_VULTR_CUST | Asia Pacific Network Information Centre |
 | 44.214.37.79 | moniker | AMAZO-4 AMAZON-IAD | Amazon.com, Inc. Amazon Data Services NoVa |
 | 78.46.88.125 | cosmoshub-0-main | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 185.185.80.225 | BRAND-juno-main | TT-2022010305 | Contabo GmbH |
@@ -118,7 +118,7 @@
 | 37.120.245.21 | Inotel | RO-M247RO-20120213 | M247 Europe SRL |
 | 62.212.65.138 | CosmosPug | LEASEWEB |  |
 | 136.243.67.44 | 1cc4fca4-1d82-5350-a345-23a135a4b91d | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 95.168.173.33 | JUNO-mainnet-prod | NL-LEASEWEB-20090106 | LeaseWeb Netherlands B.V. |
+| 37.59.21.96 | 30ff9919-50f7-5575-939a-d1c5b9a9cd8a | SD-GRA-GRA3-SDAGG33-FAT-MAGGIE-2-2 | OVH SAS |
 | 65.109.96.189 | Kalia Network | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.214.52.139 | 5z8uk7yjve1p | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 158.247.219.236 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
@@ -152,7 +152,7 @@
 | 178.128.220.188 | witval | DIGITALOCEAN |  |
 | 65.108.40.61 | 29391 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 178.18.255.244 | KalpaTech | CONTABO |  |
-| 37.59.21.96 | 30ff9919-50f7-5575-939a-d1c5b9a9cd8a | SD-GRA-GRA3-SDAGG33-FAT-MAGGIE-2-2 | OVH SAS |
-| 139.180.185.11 | juno | APNIC SGP_VULTR_CUST | Asia Pacific Network Information Centre |
+| 135.181.215.115 | Architect Nodes | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 167.235.128.33 | node-1 | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
