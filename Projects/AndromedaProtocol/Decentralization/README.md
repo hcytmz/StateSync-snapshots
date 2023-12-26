@@ -16,7 +16,7 @@
 | 65.108.233.103 | mainnet-rpc-2 | RIPE | RIPE Network Coordination Centre |
 | 141.95.66.199 | oc-ovh-de-peer |  |  |
 | 144.76.74.73 | NODEJUMPER | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
-| 136.243.67.47 | e8245fac-0b7e-55fe-bafe-eaeeb87fb58c | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
+| 135.181.221.225 | anisev | RIPE | RIPE Network Coordination Centre |
 | 136.243.67.45 | 3d9b1b31-7158-5bfb-a001-04a0dbd033c0 | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
 | 57.128.92.207 | oc-ovh-fr-peer | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 109.228.61.221 | andromeda-1 |  |  |
@@ -38,6 +38,6 @@
 | 15.235.187.108 | seltonstake | HO-2 OVHCLOUD-SGP VPS-SGP2 | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 132.145.158.222 | InfStones | OC-195 OC-195 | Oracle Corporation Oracle Public Cloud |
 | 178.162.165.193 | andromeda-0 |  |  |
-| 135.181.221.225 | anisev | RIPE | RIPE Network Coordination Centre |
+| 136.243.67.47 | e8245fac-0b7e-55fe-bafe-eaeeb87fb58c | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
