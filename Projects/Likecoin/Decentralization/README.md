@@ -18,7 +18,7 @@
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
 | 207.180.197.26 | SupportHK | RIPE | RIPE Network Coordination Centre |
-| 174.62.237.158 | StakeLabz DAO | JUMPSTART-5 CHICAGO-CPE-15 | Comcast Cable Communications, LLC |
+| 174.62.237.158 | StakeLabz DAO | JUMPSTART-5 CHICAGO-CPE-15 |  |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 89.241.118.152 | kamkcir |  |  |
 | 5.9.121.55 | StakeAngle_RPC |  |  |
@@ -48,7 +48,7 @@
 | 144.91.125.80 | BRAND-likecoin-main | RIPE | RIPE Network Coordination Centre |
 | 54.36.108.222 | Stakewolle | RIPE | RIPE Network Coordination Centre |
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
-| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
+| 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
 | 143.244.178.171 | OurBoardRoom | DIGITALOCEAN-143-244-128-0 | DigitalOcean, LLC |
 | 64.226.112.184 | likecoin-public-statefulset-0 | DIGITALOCEAN-64-226-64-0 | DigitalOcean, LLC |
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
@@ -57,6 +57,6 @@
 | 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
 | 188.166.226.230 | PM |  |  |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
-| 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
