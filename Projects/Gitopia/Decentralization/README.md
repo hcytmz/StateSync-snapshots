@@ -18,7 +18,7 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 95.216.100.99 | mainnet-backup-1 |  |  |
+| 57.128.96.155 | c5fd53c8-65d5-501e-9b65-931e30a2ea32 | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 95.216.241.246 | tRDM |  |  |
 | 141.95.157.139 | 07967ec934c77aea22f54b9fb29406f1 |  |  |
 | 135.181.208.166 | OranG3cluB | RIPE | RIPE Network Coordination Centre |
@@ -86,7 +86,7 @@
 | 5.181.190.114 | L0vd.com |  |  |
 | 158.69.125.73 | Nodeist-gitopia-main | HO-2 | OVH Hosting, Inc. |
 | 65.109.17.23 | F-Staking | RIPE | RIPE Network Coordination Centre |
-| 46.4.55.46 | LiveRaveN |  |  |
+| 38.242.150.63 | gitopia-seed | COGENT-A | PSINet, Inc. |
 | 185.8.104.230 | everexsiting |  |  |
 | 88.198.69.44 | Nocturnal Labs |  |  |
 | 5.9.147.22 | StingRay |  |  |
@@ -107,7 +107,7 @@
 | 2a01:4f9:3a:11e0::4 | gitopia |  |  |
 | 65.21.91.160 | 79anvi | RIPE | RIPE Network Coordination Centre |
 | 194.163.144.185 | Oldcat-gitopia-main |  |  |
-| 95.214.52.139 | cki8g4wv4pvc |  |  |
+| 144.76.40.53 | f9e69acc-2641-58fc-861f-4e2ea627bcf0 | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 65.109.115.56 | CoreNode | RIPE | RIPE Network Coordination Centre |
 | 142.132.199.236 | LiveRaveN | RIPE | RIPE Network Coordination Centre |
 | 157.90.128.250 | DanielX | RIPE | RIPE Network Coordination Centre |
@@ -131,11 +131,9 @@
 | 65.108.78.101 | Moonbridge | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
 | 65.109.112.170 | NJ-snap | RIPE | RIPE Network Coordination Centre |
-| 65.21.239.121 | node | RIPE | RIPE Network Coordination Centre |
-| 144.76.40.53 | f9e69acc-2641-58fc-861f-4e2ea627bcf0 | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
-| 57.128.96.155 | c5fd53c8-65d5-501e-9b65-931e30a2ea32 | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 89.58.13.159 | KonsorTech-Services |  |  |
-| 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
+| 135.181.5.219 | gitopia-seed | RIPE | RIPE Network Coordination Centre |
+| 138.197.189.243 | gitopia-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
