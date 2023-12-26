@@ -108,12 +108,12 @@
 | 167.235.102.45 | Indonode-Service | RIPE | RIPE Network Coordination Centre |
 | 5.181.190.157 | StakeUp-rpc |  |  |
 | 94.237.125.124 | sentry |  |  |
-| 38.242.253.58 | Inter Blockchain Services | COGENT-A | PSINet, Inc. |
+| 37.59.21.96 | c4836302-6a6b-5397-b80f-de309d1f2877 |  |  |
 | 195.3.221.249 | OnThePluto |  |  |
 | 162.55.131.238 | c2b34dbe8321 | RIPE | RIPE Network Coordination Centre |
 | 51.91.70.90 | rpc-1.quicksilver.nodes.guru |  |  |
 | 65.109.94.225 | MMS_RPC | RIPE | RIPE Network Coordination Centre |
-| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
+| 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
 | 65.109.116.151 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 195.3.220.153 | thedisik |  |  |
 | 54.39.28.226 | Kitkat-quicksilver-main | HO-2 GAME-BHS | OVH Hosting, Inc. OVH Hosting, Inc. |
@@ -148,8 +148,7 @@
 | 95.217.60.22 | DTEAM |  |  |
 | 78.47.214.204 | openbitlab |  |  |
 | 65.109.117.74 | test | RIPE | RIPE Network Coordination Centre |
-| 193.34.212.170 | qnodede |  |  |
-| 37.59.21.96 | c4836302-6a6b-5397-b80f-de309d1f2877 |  |  |
-| 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
+| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
+| 95.214.52.139 | 5hvnxu7npden |  |  |
 
 <!-- END_TABLE -->
