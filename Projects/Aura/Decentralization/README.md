@@ -50,7 +50,7 @@
 | 194.126.172.246 | SerGo | US-HIVELOCITY | Hivelocity Inc |
 | 209.126.106.27 | auranetwork | GO-DADDY-COM-LLC | GoDaddy.com, LLC |
 | 167.235.98.220 | Huginn | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.232.168 | KonsorTech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.212.224 | xstaxy-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.148.150.217 | Republic-Crypto | OUL-16 SD-VIN-V119-GAME-2ND | OVH US LLC OVH US LLC |
 | 95.214.52.174 | TC Network | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 95.214.53.215 | jy9u8czqylx1 | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
@@ -98,7 +98,7 @@
 | 81.0.220.94 | Chill Validation | TT-20221122 | Contabo GmbH |
 | 65.108.195.29 | Staketab-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 69.197.2.27 | web3validator | STACKPATH-69-197-0-0-1 SP-SOLANA-69-197-2-0-24 | StackPath, LLC. |
-| 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.112.170 | NJ | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.237.232 | MMS_RPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.78.113.134 | F5Nodes | CLOUD-HIL | Hetzner Online GmbH Hetzner Online GmbH |
 | 34.232.44.200 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
@@ -110,10 +110,8 @@
 | 65.109.97.249 | hello-aura-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 13.250.159.219 | node | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 18.143.52.13 | node | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
-| 65.109.112.170 | NJ | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.212.224 | xstaxy-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 135.181.6.226 | ST-Server | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 173.249.24.244 | xstaxy-1-seed | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 65.108.227.217 | xstaxy-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.232.168 | KonsorTech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 75.119.155.250 | xstaxy-1-seed | RIPE CONTABO | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
