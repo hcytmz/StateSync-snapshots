@@ -38,7 +38,7 @@
 | 156.59.230.130 | Impacts DAO | APNIC-ERX-156-59-0-0 ZEN-SG | Asia Pacific Network Information Centre Zenlayer (Singapore) PTE. LTD |
 | 65.21.91.160 | 79anvi | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 169.0.111.199 | buildkitsandbox | AFRINIC-ERX-169-0-0-0 AFRIHOST-DYNAMIC | African Network Information Center |
-| 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 79.19.137.58 | Kleomedes | TELECOM-ADSL-POOL |  |
 | 18.166.133.210 | ixo-hk-sentry-1 | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
 | 135.148.169.198 | 08ac7d2e-d7d7-528c-9ff3-46844e28ac15 | OUL-16 SD-VIN-V119-MAGGIE-INFRA-002 | OVH US LLC OVH US LLC |
 | 54.36.108.222 | Stakewolle | RIPE SD-LIM1 | RIPE Network Coordination Centre OVH GmbH |
@@ -52,7 +52,7 @@
 | 95.179.158.151 | launchpad | NET-V4-95-179-128-0-17 | Vultr Holdings LLC Amsterdam |
 | 43.133.34.14 | ImpactHub node |  |  |
 | 31.171.250.63 | Gateway FM | CH-CLOUDSIGMA |  |
-| 79.19.137.58 | Kleomedes | TELECOM-ADSL-POOL |  |
-| 65.108.227.217 | ixo-5-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.38.240 | RPCIBC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
