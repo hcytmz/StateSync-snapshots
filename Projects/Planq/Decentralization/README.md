@@ -42,6 +42,7 @@
 | 185.252.235.83 | Alien |  |  |
 | 65.21.198.100 | nodexrelay | RIPE | RIPE Network Coordination Centre |
 | 194.163.167.138 | dnsarz |  |  |
+| 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
 | 167.235.12.38 | Hexnodes | RIPE | RIPE Network Coordination Centre |
 | 129.152.30.180 | Safe Block Service | OPC1 | Oracle Corporation |
 | 193.26.159.34 | side-genznodes-2 |  |  |
@@ -88,6 +89,6 @@
 | 65.108.201.167 | Synergy_Nodes | RIPE | RIPE Network Coordination Centre |
 | 51.195.63.229 | Frankfurt7 |  |  |
 | 192.99.160.197 | BACKUP_PLANQ | OVH-ARIN-7 | OVH Hosting, Inc. |
-| 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
+| 47.245.101.121 | Crxa | AL-3 | Alibaba Cloud LLC |
 
 <!-- END_TABLE -->
