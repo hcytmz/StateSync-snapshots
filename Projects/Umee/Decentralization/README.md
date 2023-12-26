@@ -106,7 +106,7 @@
 | 65.108.242.218 | node-hel2 | RIPE | RIPE Network Coordination Centre |
 | 65.21.139.155 | CoinMetrika | RIPE | RIPE Network Coordination Centre |
 | 185.16.39.172 | 002ttuoph7xp |  |  |
-| 65.108.212.224 | umee-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 65.109.69.59 | hello-umee-backup | RIPE | RIPE Network Coordination Centre |
 | 212.23.222.122 | umee-triumph-11 |  |  |
 | 65.108.203.149 | wizard | RIPE | RIPE Network Coordination Centre |
 | 5.9.157.55 | cosmostake-hermes-umee |  |  |
@@ -136,7 +136,7 @@
 | 23.111.165.186 | node | NET-23-111-128-0-18 | HIVELOCITY, Inc. |
 | 38.109.200.33 | umee-mainnet-fullnode-2 | COGENT-A | PSINet, Inc. |
 | 54.210.217.183 | TaxiStake-0 | AMAZON AMAZO-ZIAD5 | Amazon Technologies Inc. Amazon.com, Inc. |
-| 65.109.69.59 | hello-umee-backup | RIPE | RIPE Network Coordination Centre |
+| 65.108.212.224 | umee-1-multiseed | RIPE | RIPE Network Coordination Centre |
 | 135.181.5.219 | umee-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
