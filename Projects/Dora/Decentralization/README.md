@@ -39,10 +39,11 @@
 | 65.108.72.253 | ITRocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 216.158.237.22 | BlockBeacon | INTERSERVER | Interserver, Inc |
 | 52.221.239.121 | dorafactory-02 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
-| 38.242.249.115 | kooltek68 | COGENT-A | PSINet, Inc. |
+| 116.202.85.52 | HoodRun | STUB-116-202SLASH15 |  |
 | 69.197.26.12 | POSTHUMAN | STACKPATH-69-197-0-0-1 SP-SOLANA-69-197-26-0-24 | StackPath, LLC. |
 | 167.235.14.83 | NodeName | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.217.68.182 | Nodeist-dora-test | HO-2 | OVH Hosting, Inc. |
-| 116.202.85.52 | HoodRun | STUB-116-202SLASH15 |  |
+| 38.242.249.115 | kooltek68 | COGENT-A | PSINet, Inc. |
+| 3.144.94.199 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 
 <!-- END_TABLE -->
