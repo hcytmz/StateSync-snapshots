@@ -84,7 +84,7 @@
 | 213.239.207.175 | landeros | HETZNER-RZ-NBG-NET2 |  |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
 | 65.108.75.174 | ST-Server | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 154.12.245.42 | DarkSteem | COGENT-154-12-16 | PSINet, Inc. |
+| 154.12.245.42 | DarkSteem |  |  |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 65.109.143.184 | srklt | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 35.205.44.215 | testnet2-validator-3 | GOOGLE-CLOUD | Google LLC |
@@ -101,7 +101,7 @@
 | 154.53.55.21 | Hawkk |  |  |
 | 144.126.157.206 | robbyn-hilary | CONTA-48 | Contabo Inc. |
 | 176.103.222.22 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
-| 65.108.72.233 | Busta Rhymes | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 209.145.62.91 | torontosan777 | CONTA-48 | Contabo Inc. |
 | 49.12.165.122 | Easy2Stake | STUB-49-12SLASH15 |  |
 | 185.192.97.25 | DuNock Lava | TT-202200809 | Contabo GmbH |
