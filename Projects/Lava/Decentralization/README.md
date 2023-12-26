@@ -133,6 +133,7 @@
 | 173.212.197.148 | DmytriyGuru | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 38.242.251.1 | NakoTurk | COGENT-A | PSINet, Inc. |
 | 185.250.36.72 | volcano-master-239 | TT-20220809 | Contabo GmbH |
+| 65.109.93.58 | nj-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.124.121 | Lapatylin | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 HETZNER-RZ-BLK-ERX4 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 154.38.168.132 | Wildweststaking2 |  |  |
@@ -146,7 +147,7 @@
 | 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
 | 154.53.51.114 | stone |  |  |
 | 23.88.7.159 | semalist | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 154.53.54.154 | paha |  |  |
+| 154.53.54.154 | paha | COGENT-154-53-16 | PSINet, Inc. |
 | 134.255.244.236 | Republic Crypto | Runtime | RIPE-ERX-134-255-0-0 IPP-NET-15 | RIPE Network Coordination Centre |
 | 144.126.138.81 | rachelevgwilmer04 | CONTA-48 | Contabo Inc. |
 | 144.126.138.161 | ougfu | CONTA-48 | Contabo Inc. |
@@ -154,5 +155,6 @@
 | 217.160.220.223 | BabyScope | IONOS-CUSTOMERS | IONOS SE |
 | 15.204.216.192 | InfraSingularity | OUL-16 PCI-US-EAST-VA-1 | OVH US LLC OVH (NWK) |
 | 31.220.80.131 | Userr01 | TT-20230217 | Contabo GmbH |
+| 194.163.174.231 | AviaDoc_by_AviaOne | CONTABO |  |
 
 <!-- END_TABLE -->
