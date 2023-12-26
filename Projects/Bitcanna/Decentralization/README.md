@@ -55,13 +55,13 @@
 | 169.155.46.44 | Tendermint | ALLNO | Allnodes Inc |
 | 5.9.50.59 | Topstaker | HETZNER-fsn1-dc7 |  |
 | 37.187.79.109 | CryptoNet | OVH |  |
-| 95.214.55.138 | side-genznodes-1 | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
+| 51.91.118.17 | PB | sbg3-sdagg11a-b-n93-1-1 | OVH SAS |
 | 66.19.157.37 | Long Street Nodes | PAETECCOMM | Windstream Communications LLC |
 | 212.23.222.86 | Stakeme.io | PL-STOREIQ-20211105 | STORE IQ SP. Z O.O. |
 | 62.171.190.198 | Roemer | CONTABO | Contabo GmbH |
 | 158.220.92.97 | AVIAONE | RIPE-ERX-158-220-0-0 TT-20230331 | RIPE Network Coordination Centre Contabo GmbH |
 | 95.111.244.78 | Panthea EU | CONTABO |  |
 | 148.251.13.186 | hello-bitcanna-backup | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 51.91.118.17 | PB | sbg3-sdagg11a-b-n93-1-1 | OVH SAS |
+| 95.214.55.138 | side-genznodes-1 | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 
 <!-- END_TABLE -->
