@@ -38,10 +38,11 @@
 | 161.97.77.219 | Apollo | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 65.108.72.253 | ITRocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 216.158.237.22 | BlockBeacon | INTERSERVER | Interserver, Inc |
-| 188.40.66.173 | hello-dora-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
+| 52.221.239.121 | dorafactory-02 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 38.242.249.115 | kooltek68 | COGENT-A | PSINet, Inc. |
 | 69.197.26.12 | POSTHUMAN | STACKPATH-69-197-0-0-1 SP-SOLANA-69-197-26-0-24 | StackPath, LLC. |
 | 167.235.14.83 | NodeName | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 52.221.239.121 | dorafactory-02 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 188.40.66.173 | hello-dora-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
+| 176.9.82.221 | vota-vk-seed | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
