@@ -23,7 +23,7 @@
 | 95.214.55.138 | side-genznodes-1 | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 193.26.159.34 | side-genznodes-2 | NETCUP-NETWORK-193-26-156-0-22 | netcup GmbH |
 | 84.46.246.30 | Moon-Nodes | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
-| 142.132.253.112 | ITRocket | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 46.17.250.108 | Sr20de | RU-SBCLOUD-20200904 | SBCloud LLC |
 | 5.9.147.22 | StingRay | HETZNER-fsn1-dc10 |  |
 | 5.75.186.43 | ubuntu-8CPU-16gbRAM-240gbSSD | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 192.99.160.197 | BACKUP | OVH-ARIN-7 | OVH Hosting, Inc. |
@@ -61,6 +61,6 @@
 | 5.9.61.78 | RST | HETZNER-fsn1-dc7 |  |
 | 95.168.173.33 | RIO-mainnet-prod | NL-LEASEWEB-20090106 | LeaseWeb Netherlands B.V. |
 | 158.69.125.73 | Nodeist-realio-network-main | HO-2 | OVH Hosting, Inc. |
-| 46.17.250.108 | Sr20de | RU-SBCLOUD-20200904 | SBCloud LLC |
+| 142.132.253.112 | ITRocket | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
