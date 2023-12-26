@@ -28,7 +28,7 @@
 | 148.113.159.22 | WhisperNode | HO-2 SD-BHS-BHS8-B812B-MAGGIE-INFRA-002-IP1 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 136.243.67.189 | hello-empower-main | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 51.79.77.103 | itrocket.net | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
-| 65.108.78.101 | Moonbridge | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 135.181.58.28 | Validatrium-rpc | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 3.80.107.9 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 142.132.199.236 | LiveRaveN | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 46.4.81.216 | 34f349erf | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
@@ -66,7 +66,6 @@
 | 65.109.30.116 | RyHAOj-srSQ | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 84.208.112.111 | fasgreenlife | OSLO-CUSTOMERS-CABLE |  |
 | 89.245.24.148 | windpowerstake02 | VT-DYNAMICPOOL | 1&1 Versatel Deutschland GmbH |
-| 135.181.58.28 | Validatrium-rpc | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 167.235.180.97 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.159.190.53 | node | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 185.119.118.114 | xSYtxn-fpqe | AT-IPAX-20150930 | IPAX GmbH |
@@ -82,7 +81,8 @@
 | 65.109.97.249 | hello-empower-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.193.194 | ECO Stake | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.95.157.139 | randomblahblahfkdsjaflkdsaj | SD-GRA-gra3-sdagg17ab-n93 | OVH SAS |
-| 95.214.52.139 | u8rgw8mxbsfm | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 161.97.82.203 | ams-rpc | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 65.108.78.101 | Moonbridge | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 173.249.24.244 | empowerchain-1-seed | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 
 <!-- END_TABLE -->
