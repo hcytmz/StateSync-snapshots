@@ -39,9 +39,10 @@
 | 65.108.201.154 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 167.235.12.38 | Hexnodes | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 172.105.229.177 | ovoo-sass-mainnet | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 185.245.182.192 | Meerlabs | TT-2021101309 | Contabo GmbH |
 | 89.58.19.39 | Validatus | AT-NETCUP-01 |  |
 | 5.39.70.167 | Spectrum | OVH |  |
-| 185.245.182.192 | Meerlabs | TT-2021101309 | Contabo GmbH |
+| 37.120.165.125 | Validatus | NETCUP_NET-13 | netcup GmbH |
 | 212.23.222.175 | node | PL-STOREIQ-20211105 | STORE IQ SP. Z O.O. |
 | 65.109.154.181 | Indonode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.252.235.83 | Alien | TT-2021101312 | Contabo GmbH |
@@ -62,6 +63,6 @@
 | 143.110.248.56 | KingSuper | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
 | 198.211.107.250 | b64e8f40980b | DIGITALOCEAN-198-211-96-0 | DigitalOcean, LLC |
 | 65.108.75.107 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 37.120.165.125 | Validatus | NETCUP_NET-13 | netcup GmbH |
+| 149.210.44.220 | apeironnodes-server-2h | OTE |  |
 
 <!-- END_TABLE -->
