@@ -39,6 +39,7 @@
 | 65.109.126.23 | s-althea-testrelay | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.68.86 | emperor | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.237.231 | MMS | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 144.217.68.182 | Nodeist-althea-test | HO-2 | OVH Hosting, Inc. |
 | 65.109.89.18 | itrocket_rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.92.249 | Nodiu | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 116.202.227.117 | big-mamba | STUB-116-202SLASH15 |  |
@@ -61,6 +62,5 @@
 | 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 207.180.249.127 | DiBugNodes | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 135.181.156.192 | MCB | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 144.217.68.182 | Nodeist-althea-test | HO-2 | OVH Hosting, Inc. |
 
 <!-- END_TABLE -->
