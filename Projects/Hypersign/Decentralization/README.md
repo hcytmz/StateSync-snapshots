@@ -27,12 +27,11 @@
 | 65.109.39.223 | rjsimp | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 178.18.254.211 | CosmoBook | CONTABO |  |
 | 162.55.103.44 | cwt | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 65.21.134.219 | hypersign-node-1 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 154.12.228.93 | D-Stake |  |  |
 | 185.144.99.229 | cryptech | ULTRAPAK | Ultra-Pak LLC |
 | 188.40.66.173 | hello-hypersign-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
-| 65.109.68.190 | prajna-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 89.58.13.159 | KonsorTech-Services | DE-NETCUP-20051123 | netcup GmbH |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 
 <!-- END_TABLE -->
