@@ -39,7 +39,7 @@
 | 13.230.20.39 | y15 | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
 | 72.76.12.236 | Nymbus-Node | VIS-72-64 | Verizon Business |
 | 188.165.194.110 | ChainTools |  |  |
-| 18.198.182.214 | node | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
+| 43.207.171.227 | kyve-1a-1 |  |  |
 | 164.90.196.95 | 8912223a1191 | DIGITALOCEAN-164-90-128-0 | DigitalOcean, LLC |
 | 194.163.178.187 | kyve-mainnet |  |  |
 | 65.109.29.224 | Munris | RIPE | RIPE Network Coordination Centre |
@@ -92,7 +92,7 @@
 | 104.196.101.86 | P2P.ORG Validator | GOOGLE-CLOUD | Google LLC |
 | 65.108.229.93 | Lefey | RIPE | RIPE Network Coordination Centre |
 | 23.88.74.54 | Rysiman | RIPE | RIPE Network Coordination Centre |
-| 3.72.28.238 | node | AT-88-Z AMAZON-FRA | Amazon Technologies Inc. A100 ROW GmbH |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 65.108.199.51 | DOUBELTOP_RPC | RIPE | RIPE Network Coordination Centre |
 | 65.108.70.119 | AlxVoy | RIPE | RIPE Network Coordination Centre |
 | 54.93.104.10 | node | AMAZON-2011L AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
@@ -103,11 +103,13 @@
 | 148.251.8.22 | Pro-Nodes | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 75.119.132.25 | moodman | RIPE | RIPE Network Coordination Centre |
-| 3.78.11.203 | node | AT-88-Z AMAZON-FRA | Amazon Technologies Inc. A100 ROW GmbH |
+| 18.198.182.214 | node | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 65.108.0.94 | hello-kyve-backup | RIPE | RIPE Network Coordination Centre |
 | 65.109.100.61 | kyveDG-1_DG | RIPE | RIPE Network Coordination Centre |
 | 158.247.215.181 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 65.108.71.92 | rpc-1.kyve.nodes.guru | RIPE | RIPE Network Coordination Centre |
 | 91.230.153.214 | RuValidator |  |  |
+| 3.72.28.238 | node | AT-88-Z AMAZON-FRA | Amazon Technologies Inc. A100 ROW GmbH |
+| 95.31.6.54 | valar4 |  |  |
 
 <!-- END_TABLE -->
