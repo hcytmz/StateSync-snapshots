@@ -17,7 +17,7 @@
 | 65.108.201.154 | Enigma-Mainnet-Validators | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.223.115 | Notional | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.248.138 | ezstaking-sentry-2 | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.38.240 | RPCIBC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
 | 136.244.109.82 | impacthub-sentry-node | CONSTANT NET-136-244-108-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 172.111.52.52 | Haliphron Atlanticus | HDC-MLNT-ALLOCATION-03 | Halton Datacenter Inc. |
 | 78.47.44.173 | node-1 | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
@@ -53,6 +53,6 @@
 | 43.133.34.14 | ImpactHub node |  |  |
 | 31.171.250.63 | Gateway FM | CH-CLOUDSIGMA |  |
 | 79.19.137.58 | Kleomedes | TELECOM-ADSL-POOL |  |
-| 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
+| 65.108.227.217 | ixo-5-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
