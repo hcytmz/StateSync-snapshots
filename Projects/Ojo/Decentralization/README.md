@@ -105,7 +105,6 @@
 | 167.235.180.97 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 116.203.96.161 | vinnodesojo | STUB-116-202SLASH15 |  |
 | 141.94.193.28 | rpc-1.ojo.nodes.guru | rbx8-sdagg27a-b-n93-2-2 | OVH SAS |
-| 91.201.42.114 | ojo-devnet-seed | RUWEB-NET | RuWeb LLC |
-| 176.9.82.221 | ojo-devnet-seed | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
+| 138.201.220.51 | ojo-devnet-seed | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
