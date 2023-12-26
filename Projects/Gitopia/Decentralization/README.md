@@ -92,7 +92,7 @@
 | 65.108.70.119 | AlxVoy | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.170.3 | Munris | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.68.86 | emperor | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 198.244.167.22 | gitopia_tanger | RIPE SD-ERI1-E112A-lon1-eri1-sdagg23a-b-n93 | RIPE Network Coordination Centre OVH Ltd |
+| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 176.191.97.120 | New_peer | FR-BOUYGTEL-20110706 | Bouygues Telecom SA |
 | 65.109.23.237 | moodman | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.116.109 | cyberG | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -105,8 +105,8 @@
 | 65.109.96.189 | Kalia Network | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 2a01:4f9:3a:11e0::4 | gitopia | HOS-646951 | Hetzner Online GmbH |
 | 65.21.91.160 | 79anvi | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 35.246.139.111 | snapshot-28392375-xzbdb | GOOGLE-CLOUD | Google LLC |
-| 193.26.159.34 | side-genznodes-2 | NETCUP-NETWORK-193-26-156-0-22 | netcup GmbH |
+| 194.163.144.185 | Oldcat-gitopia-main | CONTABO |  |
+| 65.109.112.170 | NJ-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.115.56 | CoreNode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.199.236 | LiveRaveN | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 157.90.128.250 | DanielX | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -127,7 +127,8 @@
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 95.214.52.139 | 3asvtv27mo7x | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
-| 194.163.144.185 | Oldcat-gitopia-main | CONTABO |  |
+| 38.146.3.100 | gitopia-seed | COGENT-A | PSINet, Inc. |
 | 138.197.189.243 | gitopia-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
+| 38.242.150.63 | gitopia-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
