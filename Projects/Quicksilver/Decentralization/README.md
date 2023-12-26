@@ -64,7 +64,7 @@
 | 15.235.115.155 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 165.232.68.110 | quicksilver-node01 | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
 | 88.198.49.30 | KalpaTech |  |  |
-| 38.129.16.175 | one_percent | COGENT-A | PSINet, Inc. |
+| 38.129.16.175 | one_percent | COGENT-A |  |
 | 135.181.223.115 | Notional | RIPE | RIPE Network Coordination Centre |
 | 63.229.234.75 | quicksilver-mainnet-fullnode-2 | CENTURYLINK-LEGACY-QWEST-INET-114 | CenturyLink Communications, LLC |
 | 169.155.46.128 | Tendermint | ALLNO | Allnodes Inc |
@@ -102,7 +102,7 @@
 | 80.64.208.149 | Simply Staking |  |  |
 | 174.138.176.146 | AlxVoy | INTER-83 | Interserver, Inc |
 | 95.217.225.212 | Firstcome |  |  |
-| 65.21.198.100 | nodexrelay | RIPE | RIPE Network Coordination Centre |
+| 193.34.212.203 | 23424c |  |  |
 | 178.162.166.22 | QCK-xxqi4 |  |  |
 | 95.217.197.100 | node001 |  |  |
 | 167.235.102.45 | Indonode-Service | RIPE | RIPE Network Coordination Centre |
@@ -150,5 +150,6 @@
 | 65.109.117.74 | test | RIPE | RIPE Network Coordination Centre |
 | 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 95.214.52.139 | 5hvnxu7npden |  |  |
+| 65.21.198.100 | nodexrelay | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
