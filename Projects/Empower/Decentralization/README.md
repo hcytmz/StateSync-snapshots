@@ -78,11 +78,13 @@
 | 80.254.8.54 | ITpro | EXPRESS |  |
 | 65.109.105.110 | Anatolian Team | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 81.0.220.94 | e215fecfedd1a84f87836bc9 | TT-20221122 | Contabo GmbH |
-| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
+| 95.214.52.139 | u8rgw8mxbsfm | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 65.109.97.249 | hello-empower-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.193.194 | ECO Stake | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.95.157.139 | randomblahblahfkdsjaflkdsaj | SD-GRA-gra3-sdagg17ab-n93 | OVH SAS |
-| 95.214.52.139 | u8rgw8mxbsfm | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 161.97.82.203 | ams-rpc | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 138.197.189.243 | empowerchain-1-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
+| 95.216.164.165 | empowerchain-1-seed | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 138.201.220.51 | empowerchain-1-seed | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
