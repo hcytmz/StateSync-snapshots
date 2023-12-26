@@ -1,14 +1,14 @@
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
-| HETZNER | 58 | 41.43% | 🔴 |
-| Contabo | 33 | 23.57% | 🟢 |
-| PSINet | 7 | 5.00% | 🟢 |
-| Google-Cloud | 4 | 2.86% | 🟢 |
-| OVH | 4 | 2.86% | 🟢 |
-| AMAZON | 3 | 2.14% | 🟢 |
-| DIGITALOCEAN | 2 | 1.43% | 🟢 |
-| IONOS | 1 | 0.71% | 🟢 |
-| MEVSPACE | 1 | 0.71% | 🟢 |
-| Netcup | 1 | 0.71% | 🟢 |
-| Vultr | 1 | 0.71% | 🟢 |
-| OTHER | 25 | 17.86% | 🟢 |
+| HETZNER | 58 | 41.73% | 🔴 |
+| Contabo | 33 | 23.74% | 🟢 |
+| PSINet | 5 | 3.60% | 🟢 |
+| Google-Cloud | 4 | 2.88% | 🟢 |
+| OVH | 4 | 2.88% | 🟢 |
+| AMAZON | 2 | 1.44% | 🟢 |
+| DIGITALOCEAN | 2 | 1.44% | 🟢 |
+| IONOS | 1 | 0.72% | 🟢 |
+| MEVSPACE | 1 | 0.72% | 🟢 |
+| Netcup | 1 | 0.72% | 🟢 |
+| Vultr | 1 | 0.72% | 🟢 |
+| OTHER | 27 | 19.42% | 🟢 |
