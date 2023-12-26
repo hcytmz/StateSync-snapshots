@@ -117,8 +117,5 @@
 | 3.72.28.238 | node | AT-88-Z AMAZON-FRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 35.161.244.76 | node | AT-88-Z AMAZO-ZPDX9 | Amazon Technologies Inc. Amazon.com, Inc. |
 | 34.238.156.45 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 38.242.150.63 | kyve-1-seed | COGENT-A | PSINet, Inc. |
-| 75.119.155.250 | kyve-1-seed | RIPE CONTABO | RIPE Network Coordination Centre |
-| 95.31.6.54 | valar4 | CORBINA-BROADBAND-STATIC |  |
 
 <!-- END_TABLE -->
