@@ -14,7 +14,7 @@
 | 173.249.59.70 | moodman | RIPE | RIPE Network Coordination Centre |
 | 65.108.46.100 | BccNodes | RIPE | RIPE Network Coordination Centre |
 | 65.108.230.113 | Aringoty | RIPE | RIPE Network Coordination Centre |
-| 65.21.198.100 | nodexrelay | RIPE | RIPE Network Coordination Centre |
+| 68.183.43.242 | Rose RST Node | DIGITALOCEAN-68-183-0-0 | DigitalOcean, LLC |
 | 95.214.55.138 | side-genznodes-1 |  |  |
 | 158.69.125.73 | Nodeist-realio-network-main | HO-2 | OVH Hosting, Inc. |
 | 84.46.246.30 | Moon-Nodes |  |  |
