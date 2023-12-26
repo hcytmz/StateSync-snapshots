@@ -1,8 +1,8 @@
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
-| HETZNER | 62 | 45.26% | 🔴 |
+| HETZNER | 61 | 44.53% | 🔴 |
 | OVH | 16 | 11.68% | 🟢 |
-| MEVSPACE | 10 | 7.30% | 🟢 |
+| MEVSPACE | 11 | 8.03% | 🟢 |
 | Contabo | 5 | 3.65% | 🟢 |
 | PSINet | 4 | 2.92% | 🟢 |
 | DIGITALOCEAN | 3 | 2.19% | 🟢 |
