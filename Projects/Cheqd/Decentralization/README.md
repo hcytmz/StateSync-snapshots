@@ -39,7 +39,7 @@
 | 159.69.146.121 | seed3-eu-mainnet-cheqd | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 13.245.249.96 | DIDx | AT-88-Z AMAZON-CPT | Amazon Technologies Inc. Amazon Data Services South Africa |
 | 79.19.137.58 | Kleomedes | TELECOM-ADSL-POOL |  |
-| 139.59.121.243 | seed1-ap-mainnet-cheqd | APNIC-ERX-139-59-0-0 DIGITALOCEAN-AP | Asia Pacific Network Information Centre |
+| 144.76.63.67 | sentry-vps-1 | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 65.108.12.181 | Blockval | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 85.239.248.53 | os-cheqd-use | TT-20221122 | Contabo GmbH |
 | 167.235.118.135 | master-backup-1-cheqd-main | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -64,6 +64,6 @@
 | 178.128.20.15 | sentry1-ap-mainnet-cheqd | DIGITALOCEAN |  |
 | 116.203.54.9 | seed1-eu-mainnet-cheqd | STUB-116-202SLASH15 |  |
 | 142.132.248.138 | ezstaking-sentry-2 | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 144.76.63.67 | sentry-vps-1 | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 139.59.121.243 | seed1-ap-mainnet-cheqd | APNIC-ERX-139-59-0-0 DIGITALOCEAN-AP | Asia Pacific Network Information Centre |
 
 <!-- END_TABLE -->
