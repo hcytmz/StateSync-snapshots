@@ -22,7 +22,7 @@
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 89.241.118.152 | kamkcir |  |  |
 | 5.9.121.55 | StakeAngle_RPC |  |  |
-| 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 |  |
+| 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE | RIPE Network Coordination Centre |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
@@ -48,7 +48,7 @@
 | 144.91.125.80 | BRAND-likecoin-main | RIPE | RIPE Network Coordination Centre |
 | 54.36.108.222 | Stakewolle | RIPE | RIPE Network Coordination Centre |
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
-| 154.53.63.22 | martianforest |  |  |
+| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
 | 143.244.178.171 | OurBoardRoom | DIGITALOCEAN-143-244-128-0 | DigitalOcean, LLC |
 | 64.226.112.184 | likecoin-public-statefulset-0 | DIGITALOCEAN-64-226-64-0 | DigitalOcean, LLC |
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
