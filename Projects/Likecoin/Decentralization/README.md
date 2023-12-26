@@ -18,13 +18,14 @@
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
 | 207.180.197.26 | SupportHK | RIPE | RIPE Network Coordination Centre |
-| 174.62.237.158 | StakeLabz DAO | JUMPSTART-5 CHICAGO-CPE-15 |  |
+| 174.62.237.158 | StakeLabz DAO | JUMPSTART-5 CHICAGO-CPE-15 | Comcast Cable Communications, LLC |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 89.241.118.152 | kamkcir |  |  |
 | 5.9.121.55 | StakeAngle_RPC |  |  |
-| 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
+| 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 |  |
 | 65.21.236.25 | OmniFlix Network | RIPE | RIPE Network Coordination Centre |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
+| 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
 | 62.171.186.77 | moonbeam |  |  |
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
@@ -51,12 +52,11 @@
 | 143.244.178.171 | OurBoardRoom | DIGITALOCEAN-143-244-128-0 | DigitalOcean, LLC |
 | 64.226.112.184 | likecoin-public-statefulset-0 | DIGITALOCEAN-64-226-64-0 | DigitalOcean, LLC |
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
-| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
+| 154.12.227.117 | 50%Banana |  |  |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
 | 188.166.226.230 | PM |  |  |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
