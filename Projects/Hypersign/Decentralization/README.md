@@ -31,6 +31,6 @@
 | 65.108.227.112 | [NODERS]TEAM | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.144.99.229 | cryptech | ULTRAPAK | Ultra-Pak LLC |
 | 188.40.66.173 | hello-hypersign-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
-| 65.109.68.190 | prajna-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 89.58.13.159 | KonsorTech-Services | DE-NETCUP-20051123 | netcup GmbH |
 
 <!-- END_TABLE -->
