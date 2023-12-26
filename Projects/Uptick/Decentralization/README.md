@@ -53,7 +53,7 @@
 | 65.109.58.237 | sega | RIPE | RIPE Network Coordination Centre |
 | 213.239.207.175 | landeros |  |  |
 | 65.108.195.30 | Staketab | RIPE | RIPE Network Coordination Centre |
-| 65.109.60.19 | dimasik | RIPE | RIPE Network Coordination Centre |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 162.55.81.201 | Lex_Prime | RIPE | RIPE Network Coordination Centre |
 | 158.160.62.33 | j6kg9u3g | RIPE-ERX-158-160-0-0 | RIPE Network Coordination Centre |
 | 5.9.138.213 | BwareLabs |  |  |
@@ -107,7 +107,7 @@
 | 185.165.241.20 | popsteam |  |  |
 | 176.57.189.212 | NakoTurk |  |  |
 | 138.201.21.62 | crazydimka | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
-| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
+| 18.119.187.129 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 138.201.127.91 | TheNOP.io-API | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
 | 138.201.225.104 | uptick | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
 | 72.20.10.24 | E2ard | STAMINUS-COMMUNICATIONS | StackPath, LLC. |
@@ -135,7 +135,8 @@
 | 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
 | 95.70.238.194 | Nodeskuge |  |  |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
-| 18.119.187.129 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
+| 65.109.60.19 | dimasik | RIPE | RIPE Network Coordination Centre |
+| 75.119.155.250 | uptick_117-1-seed | RIPE | RIPE Network Coordination Centre |
+| 135.181.116.9 | 01staking | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
