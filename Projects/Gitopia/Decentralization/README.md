@@ -82,11 +82,11 @@
 | 35.240.242.57 | gitopia-graphql-unisentry-1 | GOOGLE-CLOUD | Google LLC |
 | 35.240.211.32 | gitopia-faucet-unisentry-1 | GOOGLE-CLOUD | Google LLC |
 | 213.239.194.132 | semalist |  |  |
-| 144.76.40.53 | f9e69acc-2641-58fc-861f-4e2ea627bcf0 | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
+| 135.181.222.33 | hello-gitopia-backup | RIPE | RIPE Network Coordination Centre |
 | 5.181.190.114 | L0vd.com |  |  |
-| 158.69.125.73 | Nodeist-gitopia-main | HO-2 |  |
+| 158.69.125.73 | Nodeist-gitopia-main | HO-2 | OVH Hosting, Inc. |
 | 65.109.17.23 | F-Staking | RIPE | RIPE Network Coordination Centre |
-| 65.108.226.26 | [NODERS]TEAM_SERVICE | RIPE | RIPE Network Coordination Centre |
+| 46.4.55.46 | LiveRaveN |  |  |
 | 185.8.104.230 | everexsiting |  |  |
 | 88.198.69.44 | Nocturnal Labs |  |  |
 | 5.9.147.22 | StingRay |  |  |
@@ -118,21 +118,19 @@
 | 167.235.39.5 | tarabukinivan | RIPE | RIPE Network Coordination Centre |
 | 65.109.52.115 | MAHOF | RIPE | RIPE Network Coordination Centre |
 | 135.181.133.249 | StakeUp_rpc | RIPE | RIPE Network Coordination Centre |
-| 65.109.112.170 | NJ-snap | RIPE | RIPE Network Coordination Centre |
+| 193.26.159.34 | side-genznodes-2 |  |  |
 | 213.32.24.201 | #22 |  |  |
 | 65.108.15.170 | ramuchi.tech | RIPE | RIPE Network Coordination Centre |
 | 159.148.146.132 | SGTstake | RIPE-ERX-159-147-0-0 | RIPE Network Coordination Centre |
 | 135.181.156.192 | MCB | RIPE | RIPE Network Coordination Centre |
-| 95.214.52.139 | 12uk9vi30eps |  |  |
+| 65.108.226.26 | [NODERS]TEAM_SERVICE | RIPE | RIPE Network Coordination Centre |
 | 57.128.96.155 | c5fd53c8-65d5-501e-9b65-931e30a2ea32 | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 209.159.148.90 | UTSA_guide | INTERSERVER | Interserver, Inc |
 | 65.21.198.100 | nodexrelay | RIPE | RIPE Network Coordination Centre |
 | 51.159.16.49 | gitopia_tanger |  |  |
 | 65.108.78.101 | Moonbridge | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
-| 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
-| 46.4.55.46 | LiveRaveN |  |  |
-| 138.197.189.243 | gitopia-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
-| 135.181.5.219 | gitopia-seed | RIPE | RIPE Network Coordination Centre |
+| 65.109.112.170 | NJ-snap | RIPE | RIPE Network Coordination Centre |
+| 65.21.239.121 | node | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
