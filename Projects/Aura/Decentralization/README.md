@@ -109,6 +109,7 @@
 | 65.109.97.249 | hello-aura-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.214.52.139 | nse7xa14jfuh | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 103.107.183.89 | owlstake | PEGA-VN |  |
-| 144.76.45.59 | RPCHuginn | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 38.242.150.63 | xstaxy-1-seed | COGENT-A | PSINet, Inc. |
+| 173.249.24.244 | xstaxy-1-seed | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 
 <!-- END_TABLE -->
