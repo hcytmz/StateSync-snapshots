@@ -16,32 +16,32 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 85.239.240.194 | zardozmonopoly | TT-20221122 | Contabo GmbH |
-| 176.9.48.38 | MZONDER | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
-| 57.128.22.76 | mzonder | RIPE-ERX-57 SBG5-S506-Game | RIPE Network Coordination Centre OVH SAS |
-| 37.27.14.211 | F5Nodes | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.30.110 | mercurius | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.206.118 | lesnik_utsa | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.217.176.55 | Klever | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 65.21.74.56 | ChainodeTech | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 86.48.31.105 | BigBrainStaking2 | TT-20220523 | Contabo GmbH |
-| 65.108.73.124 | Wetez | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 130.185.118.30 | Genuwine007 | RIPE-ERX-130-185-0-0 TT-2022010304 | RIPE Network Coordination Centre Contabo GmbH |
-| 85.10.201.125 | jayjay | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
-| 173.249.45.161 | Ezshik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 195.201.195.61 | Bro_n_Bro | DE-HETZNER-20120425 | Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.94.221 | TestnetPride | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 185.217.125.110 | tuanphamit | TT-2021092903 | Contabo GmbH |
-| 142.132.151.99 | bb33e6abbf64 | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 85.239.240.194 | zardozmonopoly |  |  |
+| 176.9.48.38 | MZONDER |  |  |
+| 57.128.22.76 | mzonder | RIPE-ERX-57 | RIPE Network Coordination Centre |
+| 37.27.14.211 | F5Nodes |  |  |
+| 65.109.30.110 | mercurius | RIPE | RIPE Network Coordination Centre |
+| 65.108.206.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
+| 95.217.176.55 | Klever |  |  |
+| 65.21.74.56 | ChainodeTech | RIPE | RIPE Network Coordination Centre |
+| 86.48.31.105 | BigBrainStaking2 |  |  |
+| 65.108.73.124 | Wetez | RIPE | RIPE Network Coordination Centre |
+| 130.185.118.30 | Genuwine007 | RIPE-ERX-130-185-0-0 | RIPE Network Coordination Centre |
+| 85.10.201.125 | jayjay |  |  |
+| 173.249.45.161 | Ezshik | RIPE | RIPE Network Coordination Centre |
+| 195.201.195.61 | Bro_n_Bro |  |  |
+| 65.109.94.221 | TestnetPride | RIPE | RIPE Network Coordination Centre |
+| 185.217.125.110 | tuanphamit |  |  |
+| 142.132.151.99 | bb33e6abbf64 | RIPE | RIPE Network Coordination Centre |
 | 103.180.28.219 | Forbole-Testnet | METROPOLIS-AP | Metropolis Networks Inc |
-| 136.243.88.91 | node | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 142.132.146.185 | Staking4All | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 85.10.201.238 | 3bfb6b616e45cd73207ffb0d230c9628 | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
-| 168.119.114.206 | Crypton | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 144.76.138.156 | SandMan | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 95.179.168.216 | active-nodes | NET-V4-95-179-128-0-17 | Vultr Holdings LLC Frankfurt |
-| 51.15.212.195 | Meria | SCALEWAY | Scaleway |
-| 135.181.18.112 | rpc-1.dymension.nodes.guru | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 136.243.88.91 | node | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
+| 142.132.146.185 | Staking4All | RIPE | RIPE Network Coordination Centre |
+| 85.10.201.238 | 3bfb6b616e45cd73207ffb0d230c9628 |  |  |
+| 168.119.114.206 | Crypton | RIPE | RIPE Network Coordination Centre |
+| 144.76.138.156 | SandMan | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
+| 95.179.168.216 | active-nodes |  |  |
+| 51.15.212.195 | Meria |  |  |
+| 135.181.18.112 | rpc-1.dymension.nodes.guru | RIPE | RIPE Network Coordination Centre |
 | 65.108.124.13 | bloclick | RIPE | RIPE Network Coordination Centre |
 | 167.235.7.34 | wb3addctd | RIPE | RIPE Network Coordination Centre |
 | 65.109.61.113 | bitss | RIPE | RIPE Network Coordination Centre |
@@ -86,7 +86,7 @@
 | 135.181.117.144 | Panda_Team | RIPE | RIPE Network Coordination Centre |
 | 65.109.106.214 | Conqueror | RIPE | RIPE Network Coordination Centre |
 | 88.99.61.173 | deNodes |  |  |
-| 136.38.55.33 | Silk Nodes | GOOGLE-FIBER | Google Fiber Inc. |
+| 144.91.65.13 | AviaDoc_by_AviaOne | RIPE | RIPE Network Coordination Centre |
 | 65.109.104.171 | Inter Blockchain Services | RIPE | RIPE Network Coordination Centre |
 | 88.99.143.105 | StakeRun |  |  |
 | 89.117.49.68 | dymension-test |  |  |
@@ -125,6 +125,5 @@
 | 142.132.134.112 | dymension_rpc | RIPE | RIPE Network Coordination Centre |
 | 199.60.101.162 | mydymnode1 | USD-NET-199-60-101 | Dedicated.com |
 | 46.4.99.152 | node |  |  |
-| 144.91.65.13 | AviaDoc_by_AviaOne | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
