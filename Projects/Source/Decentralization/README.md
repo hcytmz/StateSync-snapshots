@@ -100,6 +100,8 @@
 | 162.19.124.59 | NodeStake | RIPE | RIPE Network Coordination Centre |
 | 65.21.198.100 | nodexrelay | RIPE | RIPE Network Coordination Centre |
 | 65.109.116.151 | itrocket_rpc | RIPE | RIPE Network Coordination Centre |
+| 91.233.183.117 | Vnode_casH |  |  |
+| 135.181.5.219 | source-1-seed | RIPE | RIPE Network Coordination Centre |
 | 46.17.250.43 | Sr20de |  |  |
 
 <!-- END_TABLE -->
