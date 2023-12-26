@@ -20,7 +20,6 @@
 | 195.154.99.18 | nysa.network |  |  |
 | 78.46.83.78 | cstp-cheqd |  |  |
 | 142.132.158.93 | 879ed78b-f49c-5185-912c-eeb37948232e | RIPE | RIPE Network Coordination Centre |
-| 75.119.159.96 | vaipoa.node | RIPE | RIPE Network Coordination Centre |
 | 159.65.188.152 | fd831666aab6 | DIGITALOCEAN-159-65-0-0 | DigitalOcean, LLC |
 | 188.166.17.65 | Animo Solutions |  |  |
 | 51.250.33.38 | 3vag7g42 |  |  |
