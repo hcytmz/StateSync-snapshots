@@ -128,7 +128,7 @@
 | 173.212.197.148 | DmytriyGuru | RIPE | RIPE Network Coordination Centre |
 | 38.242.251.1 | NakoTurk | COGENT-A | PSINet, Inc. |
 | 185.250.36.72 | volcano-master-239 |  |  |
-| 65.109.93.58 | nj-snap | RIPE | RIPE Network Coordination Centre |
+| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 65.108.124.121 | Lapatylin | RIPE | RIPE Network Coordination Centre |
 | 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
 | 154.38.168.132 | Wildweststaking2 |  |  |
@@ -150,6 +150,6 @@
 | 217.160.220.223 | BabyScope |  |  |
 | 15.204.216.192 | InfraSingularity | OUL-16 PCI-US-EAST-VA-1 | OVH US LLC OVH (NWK) |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
+| 65.109.93.58 | nj-snap | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
