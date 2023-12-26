@@ -15,37 +15,37 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 65.108.70.119 | AlxVoy | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.70.119 | AlxVoy | RIPE | RIPE Network Coordination Centre |
 | 172.20.1.8 | c4e-dao2-mainnet | PRIVATE-ADDRESS-BBLK-RFC1918-IANA-RESERVED | Internet Assigned Numbers Authority |
-| 51.75.55.49 | keno-saas-mainnet | SD-1G-WAW1-W15A | OVH Sp. z o. o. |
-| 167.86.82.140 | superjax | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 51.75.55.49 | keno-saas-mainnet |  |  |
+| 167.86.82.140 | superjax | RIPE | RIPE Network Coordination Centre |
 | 165.232.123.254 | kryptoekipa | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
 | 172.20.1.3 | c4e-sentry3-mainnet | PRIVATE-ADDRESS-BBLK-RFC1918-IANA-RESERVED | Internet Assigned Numbers Authority |
-| 163.172.18.162 | c4e-dao3-mainnet | SCALEWAY-DEDIBOX | Scaleway |
+| 163.172.18.162 | c4e-dao3-mainnet |  |  |
 | 139.144.96.120 | grenton-sass-mainnet | LINOD LINODE | Akamai Technologies, Inc. Linode |
 | 172.20.1.4 | c4e-sentry4-mainnet | PRIVATE-ADDRESS-BBLK-RFC1918-IANA-RESERVED | Internet Assigned Numbers Authority |
-| 5.135.141.191 | c4e-sentry1-mainnet | OVH |  |
-| 79.137.68.96 | archive-node2 | OVH-DEDICATED | OVH Sp. z o. o. |
-| 149.202.66.111 | archive-node-full-1 | FR-OVH-19990426 | OVH SAS |
-| 84.244.95.248 | RockawayX | NET-BLOCKAD-CZ |  |
-| 95.214.52.138 | duality | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
-| 188.165.195.79 | ekrypto | OVH |  |
-| 185.16.39.158 | arbwe34q5wnx | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
+| 5.135.141.191 | c4e-sentry1-mainnet |  |  |
+| 79.137.68.96 | archive-node2 |  |  |
+| 149.202.66.111 | archive-node-full-1 |  |  |
+| 84.244.95.248 | RockawayX |  |  |
+| 95.214.52.138 | duality |  |  |
+| 188.165.195.79 | ekrypto |  |  |
+| 185.16.39.158 | arbwe34q5wnx |  |  |
 | 15.235.49.208 | NodeStake | HO-2 PCI-BHS5 | OVH Hosting, Inc. OVH Hosting, Inc. |
-| 94.130.230.164 | node-1 | HETZNER-nbg1-dc3 | Hetzner Online GmbH |
-| 167.172.69.221 | 4eca8255c3cc | RIPE-ERX-167-172-0-0 DigitalOcean | RIPE Network Coordination Centre DigitalOcean, LLC |
-| 65.108.238.61 | alex | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 185.169.252.22 | Stake&Relax-c4ed-main | TT-2022010301 | Contabo GmbH |
-| 65.108.201.154 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 167.235.12.38 | Hexnodes | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 94.130.230.164 | node-1 |  |  |
+| 167.172.69.221 | 4eca8255c3cc | RIPE-ERX-167-172-0-0 | RIPE Network Coordination Centre |
+| 65.108.238.61 | alex | RIPE | RIPE Network Coordination Centre |
+| 185.169.252.22 | Stake&Relax-c4ed-main |  |  |
+| 65.108.201.154 | node | RIPE | RIPE Network Coordination Centre |
+| 167.235.12.38 | Hexnodes | RIPE | RIPE Network Coordination Centre |
 | 172.105.229.177 | ovoo-sass-mainnet | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 185.245.182.192 | Meerlabs | TT-2021101309 | Contabo GmbH |
-| 89.58.19.39 | Validatus | AT-NETCUP-01 |  |
-| 5.39.70.167 | Spectrum | OVH |  |
-| 37.120.165.125 | Validatus | NETCUP_NET-13 | netcup GmbH |
-| 212.23.222.175 | node | PL-STOREIQ-20211105 | STORE IQ SP. Z O.O. |
-| 65.109.154.181 | Indonode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 185.252.235.83 | Alien | TT-2021101312 | Contabo GmbH |
+| 185.245.182.192 | Meerlabs |  |  |
+| 89.58.19.39 | Validatus |  |  |
+| 5.39.70.167 | Spectrum |  |  |
+| 37.120.165.125 | Validatus |  |  |
+| 212.23.222.175 | node |  |  |
+| 65.109.154.181 | Indonode | RIPE | RIPE Network Coordination Centre |
+| 185.252.235.83 | Alien |  |  |
 | 95.214.55.138 | side-genznodes-1 |  |  |
 | 65.109.104.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
 | 138.201.85.176 | Archive node | MZONDER | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
