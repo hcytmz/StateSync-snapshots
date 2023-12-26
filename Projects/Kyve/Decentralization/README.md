@@ -109,9 +109,12 @@
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 SD-GRA-gra3-sdagg32ab-n93 | RIPE Network Coordination Centre OVH SAS |
 | 104.196.101.86 | P2P.ORG Validator | GOOGLE-CLOUD | Google LLC |
 | 146.59.85.223 | 9f18d3e0-875d-5dcc-92bb-8c512bd35f8c | RIPE-ERX-146-59-0-0 SD-WAW-SDAGG29-FAT-MAGGIE-2-2 | RIPE Network Coordination Centre OVH Sp. z o. o. |
-| 34.238.156.45 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 65.108.0.94 | hello-kyve-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.100.61 | kyveDG-1_DG | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 158.247.215.181 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 65.108.71.92 | rpc-1.kyve.nodes.guru | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 18.196.127.224 | node | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
+| 91.230.153.214 | RuValidator | ERTH-EKAT-IPOE-3-NET | JSC ER-Telecom Holding Yekaterinburg Branch JSC ER-Telecom Holding Yekaterinburg Branch |
+| 81.17.60.127 | node | UK-LEASEWEB-20020109 | LEASEWEB UK LIMITED |
 
 <!-- END_TABLE -->
