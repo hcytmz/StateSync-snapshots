@@ -32,7 +32,7 @@
 | 162.55.133.237 | STAKECRAFT | RIPE | RIPE Network Coordination Centre |
 | 65.108.67.185 | Tuzem | RIPE | RIPE Network Coordination Centre |
 | 142.132.203.173 | BMV | RIPE | RIPE Network Coordination Centre |
-| 154.53.59.45 | os-node-usw-con | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.59.45 | os-node-usw-con |  |  |
 | 37.27.18.188 | KingSuper |  |  |
 | 65.21.195.98 | StakeLab | RIPE | RIPE Network Coordination Centre |
 | 156.59.230.130 | Impacts DAO | APNIC-ERX-156-59-0-0 ZEN-SG | Asia Pacific Network Information Centre Zenlayer (Singapore) PTE. LTD |
