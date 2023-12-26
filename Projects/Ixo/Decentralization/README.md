@@ -56,5 +56,6 @@
 | 65.108.38.240 | RPCIBC | RIPE | RIPE Network Coordination Centre |
 | 135.148.169.198 | 08ac7d2e-d7d7-528c-9ff3-46844e28ac15 | OUL-16 SD-VIN-V119-MAGGIE-INFRA-002 | OVH US LLC OVH US LLC |
 | 69.129.200.148 | BadgerBite | NETBLK-TDSNET-BLK | TDS TELECOM |
+| 65.108.227.217 | ixo-5-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
