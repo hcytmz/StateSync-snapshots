@@ -128,7 +128,9 @@
 | 209.159.148.90 | UTSA_guide | INTERSERVER | Interserver, Inc |
 | 65.21.198.100 | nodexrelay | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 57.128.96.155 | c5fd53c8-65d5-501e-9b65-931e30a2ea32 | RIPE-ERX-57 SDAGG40-2-2 | RIPE Network Coordination Centre OVH SAS |
-| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 95.214.52.139 | lj53gr5snut3 | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
+| 89.58.13.159 | KonsorTech-Services | DE-NETCUP-20051123 | netcup GmbH |
+| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 38.146.3.100 | gitopia-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
