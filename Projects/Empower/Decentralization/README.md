@@ -65,9 +65,8 @@
 | 65.108.206.74 | vinjan | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.30.116 | RyHAOj-srSQ | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 84.208.112.111 | fasgreenlife | OSLO-CUSTOMERS-CABLE |  |
-| 167.235.180.97 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.58.28 | Validatrium-rpc | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 142.132.253.112 | itrocket_seed | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 167.235.180.97 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.159.190.53 | node | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 185.119.118.114 | xSYtxn-fpqe | AT-IPAX-20150930 | IPAX GmbH |
 | 57.128.82.197 | NodeStake | RIPE-ERX-57 PCI-GRA11 | RIPE Network Coordination Centre OVH SAS |
@@ -82,9 +81,8 @@
 | 65.109.97.249 | hello-empower-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.193.194 | ECO Stake | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.95.157.139 | randomblahblahfkdsjaflkdsaj | SD-GRA-gra3-sdagg17ab-n93 | OVH SAS |
+| 142.132.253.112 | itrocket_seed | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 195.201.222.82 | empowerchain-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 161.97.82.203 | ams-rpc | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 138.197.189.243 | empowerchain-1-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
-| 95.216.164.165 | empowerchain-1-seed | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 138.201.220.51 | empowerchain-1-seed | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
