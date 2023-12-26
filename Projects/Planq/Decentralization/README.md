@@ -22,7 +22,7 @@
 | 184.174.35.79 | PlanqGoBrr | CAC-BLOCK8 IL-845 | Colocation America Corporation IPXO LLC |
 | 167.114.118.234 | CryptoNet | OVH-ARIN-8 | OVH Hosting, Inc. |
 | 185.190.140.93 | geonodes |  |  |
-| 65.109.153.140 | RoomIT | RIPE | RIPE Network Coordination Centre |
+| 46.38.232.86 | KonsorTech |  |  |
 | 141.95.165.245 | planq-foundation-1 |  |  |
 | 152.228.212.220 | planq-foundation-2 | RIPE | RIPE Network Coordination Centre |
 | 3.88.206.16 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
@@ -31,7 +31,7 @@
 | 5.161.215.42 | KingSuper |  |  |
 | 147.135.31.22 | hello-planq-main | OUL-16 | OVH US LLC |
 | 35.222.178.229 | Dora Factory | GOOGLE-CLOUD | Google LLC |
-| 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
+| 65.109.153.140 | RoomIT | RIPE | RIPE Network Coordination Centre |
 | 185.187.235.228 | velo |  |  |
 | 38.242.144.240 | bridge | COGENT-A | PSINet, Inc. |
 | 34.89.252.49 | sentry-0 | GOOGL-2 | Google LLC |
@@ -88,8 +88,6 @@
 | 65.108.201.167 | Synergy_Nodes | RIPE | RIPE Network Coordination Centre |
 | 51.195.63.229 | Frankfurt7 |  |  |
 | 192.99.160.197 | BACKUP_PLANQ | OVH-ARIN-7 | OVH Hosting, Inc. |
-| 46.38.232.86 | KonsorTech |  |  |
-| 47.245.101.121 | Crxa | AL-3 | Alibaba Cloud LLC |
-| 135.181.5.219 | planq_7070-2-seed | RIPE | RIPE Network Coordination Centre |
+| 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
