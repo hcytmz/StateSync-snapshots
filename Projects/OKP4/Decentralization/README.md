@@ -59,9 +59,10 @@
 | 194.34.232.225 | nemeton | TT-20220302 | Contabo GmbH |
 | 202.61.226.120 | nemeton | STUB-202-61-192SLASH18 |  |
 | 142.132.149.118 | dj3g-8bdl | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 176.9.82.221 | okp4-nemeton-1-seed | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
-| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
-| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 188.40.66.173 | hello-okp4-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
+| 141.95.34.193 | node | SD-LIM-LIM3-FAT-MAGGIE-SDAGG6-1 | OVH GmbH |
+| 161.97.79.109 | MELLIFERA-NODE | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 161.97.77.219 | Apollo | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 94.130.137.122 | Vagif | HETZNER-fsn1-dc4 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
