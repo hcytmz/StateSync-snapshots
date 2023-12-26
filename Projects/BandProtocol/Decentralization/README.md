@@ -103,7 +103,7 @@
 | 62.171.165.6 | anchorstaking |  |  |
 | 57.128.133.1 | Forbole | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 45.13.59.97 | Inter Blockchaine Services |  |  |
-| 88.99.208.54 | StakeTown-API |  |  |
+| 113.190.42.196 | BlockShark | VNPT-VN |  |
 | 91.246.64.247 | band4 |  |  |
 | 136.243.40.17 | senodesr | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
 | 5.79.98.1 | HSS-backup |  |  |
@@ -111,14 +111,14 @@
 | 34.126.163.60 | public4-1 | GOOGL-2 | Google LLC |
 | 173.212.240.62 | Wellstake | RIPE | RIPE Network Coordination Centre |
 | 95.214.55.227 | 2ksuoz4myt8c |  |  |
-| 98.157.122.100 | BandSentry1 | RRWE |  |
+| 98.157.122.100 | BandSentry1 | RRWE | Charter Communications Inc |
 | 34.64.245.112 | bf-s-kr | GOOGL-2 GOOGLE-CLOUD | Google LLC Google Asia Pacific Pte. Ltd. |
 | 167.235.180.97 | w3coins | RIPE | RIPE Network Coordination Centre |
 | 3.126.103.168 | dj3dja | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 45.129.147.242 | ams-atlas-staking |  |  |
 | 34.76.55.114 | bf-s-euw | GOOGL-2 | Google LLC |
 | 3.112.138.57 | bandprod | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
-| 23.88.62.189 | blockscape | RIPE | RIPE Network Coordination Centre |
+| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 65.109.24.82 | StakeTown | RIPE | RIPE Network Coordination Centre |
 | 107.135.15.67 | Architect Nodes | SIS-80-10-10-13 SBC-107-135-15-64-29-2209273549 | AT&T Corp. |
 | 89.149.218.44 | random111 |  |  |
@@ -126,8 +126,7 @@
 | 65.21.202.61 | band-api | RIPE | RIPE Network Coordination Centre |
 | 158.247.218.149 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 18.222.108.4 | infstones | AT-88-Z | Amazon Technologies Inc. |
-| 113.190.42.196 | BlockShark | VNPT-VN |  |
-| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 88.99.208.54 | StakeTown-API |  |  |
 | 176.9.147.146 | band-sentry |  |  |
 
 <!-- END_TABLE -->
