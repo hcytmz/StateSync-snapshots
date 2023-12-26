@@ -69,7 +69,7 @@
 | 80.254.8.54 | ITpro |  |  |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
 | 135.181.198.17 | chronon | RIPE | RIPE Network Coordination Centre |
-| 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.44.239 | dstake |  |  |
 | 185.16.39.158 | anun10vv7ign |  |  |
 | 65.109.112.170 | Nodejumper | RIPE | RIPE Network Coordination Centre |
 | 65.109.29.150 | range | RIPE | RIPE Network Coordination Centre |
@@ -82,13 +82,13 @@
 | 65.108.82.62 | ROSNODEMONITORING | RIPE | RIPE Network Coordination Centre |
 | 65.109.104.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
 | 88.198.18.88 | terlia |  |  |
-| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
 | 57.128.163.232 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 5.39.249.16 | Sr20de service node |  |  |
-| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
