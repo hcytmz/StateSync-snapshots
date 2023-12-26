@@ -55,7 +55,6 @@
 | 15.235.65.125 | Pupmos | HO-2 SD-BHS-BHS8-B810A-MAGGIE-INFRA-002 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.108.64.5 | oponkzs | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 128.140.75.225 | node-1 | RIPE-ERX-128-140-0-0 CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 212.227.160.56 | nRide.com Validator | IONOS-CUSTOMERS | IONOS SE |
 | 51.158.126.204 | Meria | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 3.217.47.126 | moniker | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 13.56.95.86 | Cosmostation | AT-88-Z | Amazon Technologies Inc. |
@@ -117,6 +116,7 @@
 | 167.235.110.87 | blockscape | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.9.97.174 | Wave | HETZNER-fsn1-dc7 |  |
 | 37.120.245.21 | Inotel | RO-M247RO-20120213 | M247 Europe SRL |
+| 95.216.46.125 | StakeTown-API | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 136.243.67.44 | 1cc4fca4-1d82-5350-a345-23a135a4b91d | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 37.59.21.96 | 30ff9919-50f7-5575-939a-d1c5b9a9cd8a | SD-GRA-GRA3-SDAGG33-FAT-MAGGIE-2-2 | OVH SAS |
 | 65.109.96.189 | Kalia Network | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -150,11 +150,10 @@
 | 136.243.21.50 | 14709 | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 65.109.115.226 | hello-juno-relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.32.148 | Architect Nodes Relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.214.52.139 | xhe3lbjhk7qw | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
+| 63.229.234.75 | juno-mainnet-fullnode-1 | CENTURYLINK-LEGACY-QWEST-INET-114 | CenturyLink Communications, LLC |
 | 178.128.220.188 | witval | DIGITALOCEAN |  |
-| 136.243.40.17 | xaxaaxxa | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 38.109.200.33 | juno-mainnet-fullnode-2 | COGENT-A | PSINet, Inc. |
+| 62.212.65.138 | CosmosPug | LEASEWEB |  |
+| 135.181.128.114 | hello-juno-backup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 37.27.55.115 | alaska-indexer-1 | DE-HETZNER-20111228 | Hetzner Online GmbH Hetzner Online GmbH |
-| 95.216.46.125 | StakeTown-API | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
