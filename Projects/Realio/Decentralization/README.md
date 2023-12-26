@@ -23,7 +23,7 @@
 | 95.214.55.138 | side-genznodes-1 |  |  |
 | 158.69.125.73 | Nodeist-realio-network-main | HO-2 | OVH Hosting, Inc. |
 | 84.46.246.30 | Moon-Nodes |  |  |
-| 142.132.253.112 | ITRocket | RIPE | RIPE Network Coordination Centre |
+| 95.168.173.33 | RIO-mainnet-prod |  |  |
 | 5.9.147.22 | StingRay |  |  |
 | 5.75.186.43 | ubuntu-8CPU-16gbRAM-240gbSSD |  |  |
 | 192.99.160.197 | BACKUP | OVH-ARIN-7 | OVH Hosting, Inc. |
@@ -41,6 +41,7 @@
 | 65.109.122.90 | Blockval | RIPE | RIPE Network Coordination Centre |
 | 176.37.119.156 | MultVR |  |  |
 | 65.109.104.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
+| 46.17.250.108 | Sr20de |  |  |
 | 148.251.66.248 | [NODERS]TEAM | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 135.181.114.86 | NodeName | RIPE | RIPE Network Coordination Centre |
 | 159.223.176.211 | Realio Network RPC | DO-13 | DigitalOcean, LLC |
@@ -59,7 +60,6 @@
 | 65.109.52.56 | StiggaRealio | RIPE | RIPE Network Coordination Centre |
 | 51.195.104.64 | genznodes_sentry_RST_2 |  |  |
 | 5.9.61.78 | RST |  |  |
-| 95.168.173.33 | RIO-mainnet-prod |  |  |
-| 46.17.250.108 | Sr20de |  |  |
+| 142.132.253.112 | ITRocket | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
