@@ -30,7 +30,7 @@
 | 65.21.14.11 | Vitek73 | RIPE | RIPE Network Coordination Centre |
 | 65.21.63.225 | kdaria | RIPE | RIPE Network Coordination Centre |
 | 212.23.222.109 | Jaha |  |  |
-| 154.12.228.189 | dstake |  |  |
+| 154.12.228.189 | dstake | COGENT-154-12-16 | PSINet, Inc. |
 | 65.21.108.180 | airSintez | RIPE | RIPE Network Coordination Centre |
 | 142.132.200.233 | uptick-sentry-1-799ffc7f4b-856zj | RIPE | RIPE Network Coordination Centre |
 | 142.132.134.181 | uptick-state-sync-75965748d4-fmhsg | RIPE | RIPE Network Coordination Centre |
@@ -110,7 +110,7 @@
 | 18.119.187.129 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 138.201.127.91 | TheNOP.io-API | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
 | 138.201.225.104 | uptick | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
-| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
+| 65.108.195.29 | Staketab-snap | RIPE | RIPE Network Coordination Centre |
 | 202.61.240.155 | namdokmai | STUB-202-61-192SLASH18 |  |
 | 185.144.99.33 | cryptech |  |  |
 | 5.9.73.62 | uptick_117-1-seed |  |  |
@@ -128,13 +128,14 @@
 | 101.44.33.174 | SNZPool | Huawei-Cloud-Turkey |  |
 | 107.155.88.146 | khunchan | NET-107-155-64-0-18 | HIVELOCITY, Inc. |
 | 95.216.102.121 | dteam |  |  |
-| 46.38.232.86 | KonsorTech |  |  |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 141.94.141.144 | Moonsoon |  |  |
 | 188.132.178.170 | 0xaB6a4 |  |  |
 | 107.155.125.186 | val37 | NET-107-155-64-0-18 ARN1-EDGE-COMPUTE | HIVELOCITY, Inc. |
 | 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 95.70.238.194 | Nodeskuge |  |  |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
-| 65.108.195.29 | Staketab-snap | RIPE | RIPE Network Coordination Centre |
+| 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
+| 185.221.152.32 | uptick_117-1-seed |  |  |
 
 <!-- END_TABLE -->
