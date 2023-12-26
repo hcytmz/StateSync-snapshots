@@ -60,6 +60,7 @@
 | 174.138.176.146 | AlxVoy | INTER-83 | Interserver, Inc |
 | 75.119.146.181 | geonodes | RIPE CONTABO | RIPE Network Coordination Centre |
 | 78.46.60.173 | Validatus | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
+| 91.233.183.117 | Vnode_casH | UA-UATELECOM-20210428 | UA TELECOM PP |
 | 182.42.93.241 | 1024dao | CHINANET-SD |  |
 | 142.132.253.112 | itrocket_seed | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 213.239.207.175 | StakeUp | HETZNER-RZ-NBG-NET2 |  |
@@ -78,7 +79,7 @@
 | 159.69.155.107 | Simurgh | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 218.78.60.164 | expandd | CHINANET-SH |  |
 | 146.19.24.53 | Jaha | RIPE-ERX-146-19-0-0 PL-DIGICRON-20211111 | RIPE Network Coordination Centre Adam Ochmanski trading as Digicron |
-| 91.233.183.117 | Vnode_casH | UA-UATELECOM-20210428 | UA TELECOM PP |
+| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.92.148 | Shoni | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.157.38 | F5Nodes | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.57.72 | WellNode | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -91,16 +92,14 @@
 | 182.42.88.202 | antennaa | CHINANET-SD |  |
 | 167.235.12.38 | Hexnodes | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 147.182.211.27 | BlockchainNodes.io | DIGITALOCEAN-147-182-128-0 | DigitalOcean, LLC |
-| 46.17.250.43 | Sr20de | RU-SBCLOUD-20200904 | SBCloud LLC |
+| 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 51.81.49.176 | hello-source-main | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 5.9.61.78 | Kynraze | HETZNER-fsn1-dc7 |  |
 | 188.165.194.110 | ChainTools | OVH |  |
 | 195.3.221.76 | stakr-space | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 85.10.200.11 | anodeofzen | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
-| 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.198.100 | nodexrelay | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.116.151 | itrocket_rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
+| 46.17.250.43 | Sr20de | RU-SBCLOUD-20200904 | SBCloud LLC |
 
 <!-- END_TABLE -->
