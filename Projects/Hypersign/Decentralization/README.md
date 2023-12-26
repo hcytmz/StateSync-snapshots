@@ -32,6 +32,6 @@
 | 188.40.66.173 | hello-hypersign-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 2a05:4140:3::925 | s-hypersign-test | C1V | Cinzia Tocci trading as C1V |
 | 167.235.178.134 | hello-hypersign-testrelay | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.68.190 | prajna-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 89.58.13.159 | prajna-1-seed | DE-NETCUP-20051123 | netcup GmbH |
 
 <!-- END_TABLE -->
