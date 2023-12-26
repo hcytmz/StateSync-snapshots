@@ -110,7 +110,7 @@
 | 62.171.165.6 | anchorstaking | CONTABO | Contabo GmbH |
 | 57.128.133.1 | Forbole | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
 | 45.13.59.97 | Inter Blockchaine Services | TT-2021111902 | Contabo GmbH |
-| 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
+| 95.217.117.99 | 0base.vc-laozi-mainnet-bandprotocol-0 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 91.246.64.247 | band4 | Skyware | Skyware Sp. z o.o. |
 | 136.243.40.17 | senodesr | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 5.79.98.1 | HSS-backup | NL-LEASEWEB-20120614 | LeaseWeb Netherlands B.V. |
@@ -133,9 +133,9 @@
 | 65.21.202.61 | band-api | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 158.247.218.149 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 18.222.108.4 | infstones | AT-88-Z | Amazon Technologies Inc. |
-| 57.128.133.20 | forbole-sentry | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
-| 95.217.117.99 | 0base.vc-laozi-mainnet-bandprotocol-0 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
+| 57.128.133.20 | forbole-sentry | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
 | 176.9.147.146 | band-sentry | HETZNER-fsn1-dc7 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
