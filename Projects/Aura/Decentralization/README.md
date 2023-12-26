@@ -98,7 +98,7 @@
 | 81.0.220.94 | Chill Validation |  |  |
 | 65.108.195.29 | Staketab-snap | RIPE | RIPE Network Coordination Centre |
 | 69.197.2.27 | web3validator | STACKPATH-69-197-0-0-1 SP-SOLANA-69-197-2-0-24 | StackPath, LLC. |
-| 65.109.112.170 | NJ | RIPE | RIPE Network Coordination Centre |
+| 73.40.151.121 | thechickencoop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 65.108.237.232 | MMS_RPC | RIPE | RIPE Network Coordination Centre |
 | 5.78.113.134 | F5Nodes |  |  |
 | 34.232.44.200 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
@@ -111,7 +111,6 @@
 | 13.250.159.219 | node | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 18.143.52.13 | node | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 95.216.100.99 | mainnet-backup-1 |  |  |
-| 73.40.151.121 | thechickencoop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
-| 65.108.212.224 | xstaxy-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 135.181.5.219 | xstaxy-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
