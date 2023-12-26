@@ -87,7 +87,7 @@
 | 185.242.113.34 | freak12techno | IPP-NET-44 |  |
 | 136.38.115.3 | The Silver Fox | GOOGLE-FIBER | Google Fiber Inc. |
 | 146.59.47.210 | USArmy | RIPE-ERX-146-59-0-0 SD-WAW-WAW1-FAT-MAGGIE-SDAGG25-1 | RIPE Network Coordination Centre OVH Sp. z o. o. |
-| 192.99.4.20 | Alien | OVH-ARIN-7 | OVH Hosting, Inc. |
+| 65.109.60.54 | testnetrun | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 89.38.96.114 | node | WORLDSTREAM |  |
 | 51.79.72.176 | hikari-research | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 95.217.0.158 | Scrib Code | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
@@ -100,5 +100,10 @@
 | 51.210.223.80 | 01b58725-6bf3-5893-8753-65a50eb9c20f | SD-GAME-GRA2 | OVH SAS |
 | 195.3.223.168 | g1sj3ru2mbhy | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 89.245.24.148 | windpowerstake23 | VT-DYNAMICPOOL | 1&1 Versatel Deutschland GmbH |
+| 192.99.4.20 | Alien | OVH-ARIN-7 | OVH Hosting, Inc. |
+| 148.113.16.109 | Stakewolle | HO-2 OVHCLOUD-MUMBAI-01 SD-BART-2-YNM-22 | OVH Hosting, Inc. OVHTECH R&D (INDIA) PRIVATE LIMITED OVHTECH R&D (INDIA) PRIVATE LIMITED |
+| 65.109.116.50 | Vagif | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 172.105.110.122 | Neta DAO | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 138.197.189.243 | jackal-1-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
