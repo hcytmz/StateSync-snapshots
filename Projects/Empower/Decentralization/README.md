@@ -67,7 +67,7 @@
 | 89.245.24.148 | windpowerstake02 |  |  |
 | 167.235.180.97 | w3coins | RIPE | RIPE Network Coordination Centre |
 | 51.159.190.53 | node |  |  |
-| 142.132.253.112 | itrocket_seed | RIPE | RIPE Network Coordination Centre |
+| 46.4.81.216 | 34f349erf |  |  |
 | 57.128.82.197 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 51.159.221.31 | bloclick |  |  |
 | 65.108.232.182 | Mrs_ml | RIPE | RIPE Network Coordination Centre |
@@ -77,15 +77,11 @@
 | 65.109.105.110 | Anatolian Team | RIPE | RIPE Network Coordination Centre |
 | 81.0.220.94 | e215fecfedd1a84f87836bc9 |  |  |
 | 95.214.52.139 | u8rgw8mxbsfm |  |  |
-| 65.109.97.249 | hello-empower-backup | RIPE | RIPE Network Coordination Centre |
+| 142.132.253.112 | itrocket_seed | RIPE | RIPE Network Coordination Centre |
 | 142.132.193.194 | ECO Stake | RIPE | RIPE Network Coordination Centre |
 | 141.95.157.139 | randomblahblahfkdsjaflkdsaj |  |  |
 | 65.108.78.101 | Moonbridge | RIPE | RIPE Network Coordination Centre |
 | 80.254.8.54 | ITpro |  |  |
-| 46.4.81.216 | 34f349erf |  |  |
-| 135.181.5.219 | empowerchain-1-seed | RIPE | RIPE Network Coordination Centre |
-| 195.201.222.82 | empowerchain-1-seed |  |  |
-| 173.249.24.244 | empowerchain-1-seed | RIPE | RIPE Network Coordination Centre |
-| 138.201.220.51 | empowerchain-1-seed | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
+| 65.109.97.249 | hello-empower-backup | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
