@@ -21,7 +21,7 @@
 | 65.108.206.74 | vinjan | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.114.86 | skynodejs | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 31.220.84.183 | Firstcome | TT-20230217 | Contabo GmbH |
-| 38.242.238.46 | molla202 | COGENT-A | PSINet, Inc. |
+| 38.242.238.46 | molla202 | COGENT-A |  |
 | 94.250.202.17 | kaygal | CONTABO-07 | Contabo GmbH |
 | 135.181.152.19 | OranG3cluB | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 23.88.5.169 | LiveRaveN | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
