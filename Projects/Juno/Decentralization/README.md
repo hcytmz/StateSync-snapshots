@@ -56,7 +56,7 @@
 | 128.140.75.225 | node-1 | RIPE-ERX-128-140-0-0 | RIPE Network Coordination Centre |
 | 62.212.65.138 | CosmosPug |  |  |
 | 51.158.126.204 | Meria |  |  |
-| 3.217.47.126 | moniker | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 65.108.40.61 | 29391 | RIPE | RIPE Network Coordination Centre |
 | 13.56.95.86 | Cosmostation | AT-88-Z | Amazon Technologies Inc. |
 | 164.152.162.128 | Tendermint | ALLNO | Allnodes Inc |
 | 94.130.68.212 | ugaenn |  |  |
@@ -77,7 +77,7 @@
 | 157.90.129.168 | KalpaTech | RIPE | RIPE Network Coordination Centre |
 | 142.132.193.194 | ECO Stake | RIPE | RIPE Network Coordination Centre |
 | 135.181.5.176 | ZenChainLabs-RPC | RIPE | RIPE Network Coordination Centre |
-| 193.34.212.203 | Yrfrf |  |  |
+| 144.126.217.120 | SpacePotato | DIGITALOCEAN-144-126-192-0 | DigitalOcean, LLC |
 | 107.135.15.67 | Architect Nodes | SIS-80-10-10-13 SBC-107-135-15-64-29-2209273549 | AT&T Corp. |
 | 213.239.213.142 | BRAND-juno-relayer |  |  |
 | 95.217.202.49 | rpc |  |  |
@@ -132,7 +132,6 @@
 | 66.172.36.140 | node | CYBERVERSE06 CYBERVERSE-66-172-36-0 | Evocative, Inc. |
 | 65.108.11.167 | Mercury | RIPE | RIPE Network Coordination Centre |
 | 65.21.74.247 | #SoloNation | RIPE | RIPE Network Coordination Centre |
-| 144.126.217.120 | SpacePotato | DIGITALOCEAN-144-126-192-0 | DigitalOcean, LLC |
 | 65.108.66.34 | Depool-hetz | RIPE | RIPE Network Coordination Centre |
 | 65.108.71.166 | Beastie | RIPE | RIPE Network Coordination Centre |
 | 66.165.240.138 | node | NET-66-165-224-0-19 66-165-240-0-24 | HIVELOCITY, Inc. |
@@ -145,13 +144,12 @@
 | 5.22.211.140 | sentry |  |  |
 | 141.94.97.24 | burby |  |  |
 | 65.109.32.148 | Architect Nodes Relayer | RIPE | RIPE Network Coordination Centre |
-| 178.128.220.188 | witval |  |  |
+| 185.119.118.115 | eYxqQk-PVQC |  |  |
 | 136.243.21.50 | 14709 | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
 | 65.109.115.226 | hello-juno-relayer | RIPE | RIPE Network Coordination Centre |
-| 65.108.40.61 | 29391 | RIPE | RIPE Network Coordination Centre |
-| 178.18.255.244 | KalpaTech |  |  |
-| 88.218.224.157 | SmartStakeBackup |  |  |
-| 95.217.192.124 | cyberG |  |  |
+| 178.128.220.188 | witval |  |  |
 | 204.93.241.110 | luckyfriday | SCN-6 | Server Central Network |
+| 88.218.224.157 | SmartStakeBackup |  |  |
+| 158.69.226.83 | Stake Frites | HO-2 | OVH Hosting, Inc. |
 
 <!-- END_TABLE -->
