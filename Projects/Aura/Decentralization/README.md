@@ -110,9 +110,6 @@
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.232.168 | KonsorTech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 107.155.65.7 | soteria | NET-107-155-64-0-18 | HIVELOCITY, Inc. |
-| 65.108.227.217 | xstaxy-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.217.207.236 | web34ever | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 38.242.150.63 | xstaxy-1-seed | COGENT-A | PSINet, Inc. |
-| 65.108.212.224 | xstaxy-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 73.40.151.121 | thechickencoop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
