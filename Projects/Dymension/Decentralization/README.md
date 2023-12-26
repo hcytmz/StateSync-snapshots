@@ -49,7 +49,7 @@
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 148.251.177.108 | hello-dymension-test | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 84.203.117.234 | Silk_Nodes.. | IE-DIGIWEB-BROADBAND-IPV4 |  |
-| 144.91.65.13 | AviaDoc_by_AviaOne | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 18.119.112.130 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 46.166.170.53 | dymension-validator-testnet | LT-CHERRYSERVERS-20101216 | UAB Cherry Servers |
 | 88.99.56.200 | Staketab | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 38.242.239.185 | BigBrainStaking3 | COGENT-A | PSINet, Inc. |
@@ -125,6 +125,6 @@
 | 142.132.134.112 | dymension_rpc | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 199.60.101.162 | mydymnode1 | USD-NET-199-60-101 | Dedicated.com |
 | 46.4.99.152 | node | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
-| 18.119.112.130 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 144.91.65.13 | AviaDoc_by_AviaOne | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 
 <!-- END_TABLE -->
