@@ -27,7 +27,7 @@
 | 51.195.7.27 | The_Cybernetics | fra1-lim1-sdagg27a-b-n93-1-1 | OVH GmbH |
 | 95.216.46.125 | StakeTown-API | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 136.243.79.95 | Validavia | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 5.9.49.11 | 2923knwefk | HETZNER-fsn1-dc7 |  |
+| 167.235.216.230 | blockscape | RIPE CLOUD-FSN1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 173.215.85.171 | NosNode-JunoRPC | AUREON-BLK2 NET-173-215-85-0-24 | Aureon Network Services MI FIBER URBANDALE |
 | 141.94.163.236 | Kiln | SD-onenetwork | OVH SAS |
 | 167.235.118.135 | master-backup-1-juno-main | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -54,7 +54,7 @@
 | 15.235.65.125 | Pupmos | HO-2 SD-BHS-BHS8-B810A-MAGGIE-INFRA-002 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.108.64.5 | oponkzs | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 128.140.75.225 | node-1 | RIPE-ERX-128-140-0-0 CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 71.13.17.144 | Antrix Validators | CC04 DLT-MN-71-13-16 | Charter Communications Charter Communications |
+| 212.227.160.56 | nRide.com Validator | IONOS-CUSTOMERS | IONOS SE |
 | 51.158.126.204 | Meria | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 3.217.47.126 | moniker | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 13.56.95.86 | Cosmostation | AT-88-Z | Amazon Technologies Inc. |
@@ -73,7 +73,7 @@
 | 46.101.148.46 | juno-fullnode-indexer | DIGITALOCEAN |  |
 | 37.59.18.132 | test | SD-RBX-rbx8-sdagg41a-b-n93 | OVH SAS |
 | 93.189.27.177 | blockpitnode | AT-IPAX-20080423 | IPAX GmbH |
-| 135.181.215.115 | Architect Nodes | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 51.159.80.121 | juno_antep | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 157.90.129.168 | KalpaTech | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.193.194 | ECO Stake | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 103.19.25.161 | MEME-Foundation | UDOMAIN-HK |  |
@@ -113,7 +113,7 @@
 | 185.185.80.225 | BRAND-juno-main | TT-2022010305 | Contabo GmbH |
 | 65.109.113.86 | bricks_juno | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 195.201.63.87 | Allnodes | HETZNER-fsn1-dc4 | Hetzner Online GmbH |
-| 139.180.185.11 | juno | APNIC SGP_VULTR_CUST | Asia Pacific Network Information Centre |
+| 167.235.110.87 | blockscape | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.9.97.174 | Wave | HETZNER-fsn1-dc7 |  |
 | 37.120.245.21 | Inotel | RO-M247RO-20120213 | M247 Europe SRL |
 | 62.212.65.138 | CosmosPug | LEASEWEB |  |
@@ -135,7 +135,7 @@
 | 65.21.74.247 | #SoloNation | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 54.217.156.221 | juno_node | AMAZON AMAZO-ZDUB3 | Amazon Technologies Inc. Amazon.com, Inc. |
 | 204.93.241.110 | luckyfriday | SCN-6 | Server Central Network |
-| 212.227.160.56 | nRide.com Validator | IONOS-CUSTOMERS | IONOS SE |
+| 65.108.71.166 | Beastie | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.248.138 | EZStaking.io | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.106.135 | StakeLab | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 116.202.192.156 | Chainflow Sentry 1 | STUB-116-202SLASH15 |  |
@@ -151,5 +151,8 @@
 | 65.109.115.226 | hello-juno-relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 178.128.220.188 | witval | DIGITALOCEAN |  |
 | 65.108.40.61 | 29391 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 178.18.255.244 | KalpaTech | CONTABO |  |
+| 37.59.21.96 | 30ff9919-50f7-5575-939a-d1c5b9a9cd8a | SD-GRA-GRA3-SDAGG33-FAT-MAGGIE-2-2 | OVH SAS |
+| 139.180.185.11 | juno | APNIC SGP_VULTR_CUST | Asia Pacific Network Information Centre |
 
 <!-- END_TABLE -->
