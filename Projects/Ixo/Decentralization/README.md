@@ -32,7 +32,7 @@
 | 162.55.133.237 | STAKECRAFT | RIPE | RIPE Network Coordination Centre |
 | 65.108.67.185 | Tuzem | RIPE | RIPE Network Coordination Centre |
 | 142.132.203.173 | BMV | RIPE | RIPE Network Coordination Centre |
-| 154.53.59.45 | os-node-usw-con |  |  |
+| 154.53.59.45 | os-node-usw-con | COGENT-154-53-16 | PSINet, Inc. |
 | 37.27.18.188 | KingSuper |  |  |
 | 65.21.195.98 | StakeLab | RIPE | RIPE Network Coordination Centre |
 | 156.59.230.130 | Impacts DAO | APNIC-ERX-156-59-0-0 ZEN-SG | Asia Pacific Network Information Centre Zenlayer (Singapore) PTE. LTD |
@@ -52,10 +52,9 @@
 | 95.179.158.151 | launchpad |  |  |
 | 43.133.34.14 | ImpactHub node |  |  |
 | 31.171.250.63 | Gateway FM |  |  |
-| 65.108.137.38 | test | RIPE | RIPE Network Coordination Centre |
+| 69.129.200.148 | BadgerBite | NETBLK-TDSNET-BLK | TDS TELECOM |
 | 65.108.38.240 | RPCIBC | RIPE | RIPE Network Coordination Centre |
 | 135.148.169.198 | 08ac7d2e-d7d7-528c-9ff3-46844e28ac15 | OUL-16 SD-VIN-V119-MAGGIE-INFRA-002 | OVH US LLC OVH US LLC |
-| 69.129.200.148 | BadgerBite | NETBLK-TDSNET-BLK | TDS TELECOM |
-| 65.108.227.217 | ixo-5-seed | RIPE | RIPE Network Coordination Centre |
+| 65.108.137.38 | test | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
