@@ -38,7 +38,7 @@
 | 209.126.116.182 | auranetwork | GO-DADDY-COM-LLC | GoDaddy.com, LLC |
 | 65.108.238.166 | hello-aura-relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.202.86 | ramuchi.tech | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.112.170 | NJ | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.214.52.139 | nse7xa14jfuh | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 51.79.72.77 | w3coins | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 144.76.40.53 | 85a1feb4-65b4-55a5-8d75-6594be4055ef | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 65.109.57.67 | Nodejumper | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -105,14 +105,12 @@
 | 103.107.183.89 | owlstake | PEGA-VN |  |
 | 138.128.247.108 | Taobaorich | KAMAT CLOUDWEBMANAGE-NY | Kamatera, Inc. Cloud Web Manage |
 | 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 107.155.65.7 | soteria | NET-107-155-64-0-18 | HIVELOCITY, Inc. |
+| 57.128.20.163 | 1079ae08-29da-5422-83ee-35dd2ffbd84b | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 65.109.97.249 | hello-aura-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.232.168 | KonsorTech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.212.224 | xstaxy-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 57.128.20.163 | 1079ae08-29da-5422-83ee-35dd2ffbd84b | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
-| 95.214.52.139 | nse7xa14jfuh | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
-| 46.38.232.86 | xstaxy-1-seed | DE-NETCUP-20101202 | netcup GmbH |
+| 38.242.150.63 | xstaxy-1-seed | COGENT-A | PSINet, Inc. |
 | 75.119.155.250 | xstaxy-1-seed | RIPE CONTABO | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
