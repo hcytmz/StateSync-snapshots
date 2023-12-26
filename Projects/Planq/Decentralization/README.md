@@ -28,9 +28,9 @@
 | 65.108.68.86 | emperor | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 212.227.171.238 | stakehouse | IONOS-CLOUD | IONOS SE |
 | 184.174.35.79 | PlanqGoBrr | CAC-BLOCK8 IL-845 | Colocation America Corporation IPXO LLC |
-| 167.114.118.234 | CryptoNet | OVH-ARIN-8 | OVH Hosting, Inc. |
+| 167.114.118.234 | CryptoNet | OVH-ARIN-8 |  |
 | 185.190.140.93 | geonodes | TT-2021111914 | Contabo GmbH |
-| 193.26.159.34 | side-genznodes-2 | NETCUP-NETWORK-193-26-156-0-22 | netcup GmbH |
+| 65.109.153.140 | RoomIT | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.95.165.245 | planq-foundation-1 | PCI-GRA11 | OVH SAS |
 | 152.228.212.220 | planq-foundation-2 | RIPE PCI-GRA11 | RIPE Network Coordination Centre OVH SAS |
 | 46.38.232.86 | KonsorTech | DE-NETCUP-20101202 | netcup GmbH |
@@ -86,7 +86,7 @@
 | 5.78.46.54 | F5Nodes | CLOUD-HIL | Hetzner Online GmbH Hetzner Online GmbH |
 | 95.214.55.138 | side-genznodes-01 | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 135.181.114.86 | NodeName | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 192.99.160.197 | BACKUP_PLANQ | OVH-ARIN-7 | OVH Hosting, Inc. |
+| 35.198.181.13 | sentry-1 | GOOGLE-CLOUD | Google LLC |
 | 167.235.102.45 | Indonode-Service | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 147.135.138.180 | CryptoNet | RIPE SD-OVH | RIPE Network Coordination Centre OVH SAS |
 | 188.122.72.254 | planq.knaken.eu | i3D-K114436 |  |
@@ -95,8 +95,7 @@
 | 51.159.103.88 | PLQ-mainnet-prod | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 65.108.201.167 | Synergy_Nodes | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.195.63.229 | Frankfurt7 | SD-LIM-LIM1-L107B-Maggie-infra-002 | OVH GmbH |
-| 35.198.181.13 | sentry-1 | GOOGLE-CLOUD | Google LLC |
-| 65.109.153.140 | RoomIT | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 192.99.160.197 | BACKUP_PLANQ | OVH-ARIN-7 | OVH Hosting, Inc. |
 | 47.245.101.121 | Crxa | AL-3 | Alibaba Cloud LLC |
 
 <!-- END_TABLE -->
