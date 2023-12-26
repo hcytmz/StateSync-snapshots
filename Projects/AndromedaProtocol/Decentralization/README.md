@@ -15,7 +15,7 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 65.108.233.103 | mainnet-rpc-2 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 136.243.67.47 | e8245fac-0b7e-55fe-bafe-eaeeb87fb58c | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 57.128.92.207 | oc-ovh-fr-peer | RIPE-ERX-57 SDAGG39-1-2 | RIPE Network Coordination Centre OVH SAS |
 | 141.95.66.199 | oc-ovh-de-peer | SD-LIM-fra1-lim3-sdagg10a-b-n93-2-2 | OVH GmbH |
 | 136.243.67.45 | 3d9b1b31-7158-5bfb-a001-04a0dbd033c0 | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -41,6 +41,6 @@
 | 51.91.215.27 | andromeda-1 | SD-GAME-GRA2 | OVH SAS |
 | 178.162.165.154 | andromeda-0 | NL-LEASEWEB-20100205 | LeaseWeb Netherlands B.V. |
 | 149.102.159.171 | Train_To_Crypto | COGENT-149-102-16 | PSINet, Inc. |
-| 136.243.67.47 | e8245fac-0b7e-55fe-bafe-eaeeb87fb58c | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 65.108.233.103 | mainnet-rpc-2 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
