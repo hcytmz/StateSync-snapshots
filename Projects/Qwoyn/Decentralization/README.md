@@ -45,5 +45,6 @@
 | 65.108.11.6 | Moonshine.cc Validation | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 45.77.126.244 | qwoyn-full-node | CONSTANT NET-45-77-126-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 5.9.106.214 | Archive node | MZONDER | HETZNER-fsn1-dc7 |  |
+| 138.201.220.51 | qwoyn-1-seed | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
