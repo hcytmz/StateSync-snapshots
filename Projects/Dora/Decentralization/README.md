@@ -36,8 +36,7 @@
 | 38.242.249.115 | kooltek68 | COGENT-A | PSINet, Inc. |
 | 161.97.77.219 | Apollo | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 65.109.92.148 | Shoni | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.231.124 | itrocket_seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.161.240.23 | RPC | CLOUD-ASH | Hetzner Online GmbH Hetzner Online GmbH |
-| 176.9.82.221 | vota-vk-seed | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
+| 65.108.231.124 | itrocket_seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
