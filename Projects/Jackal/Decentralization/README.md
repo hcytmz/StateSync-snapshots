@@ -21,7 +21,7 @@
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
 | 65.109.50.30 | Goatlabs | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 135.181.28.178 | F5Nodes | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 148.113.16.109 | Stakewolle | HO-2 OVHCLOUD-MUMBAI-01 SD-BART-2-YNM-22 | OVH Hosting, Inc. OVHTECH R&D (INDIA) PRIVATE LIMITED OVHTECH R&D (INDIA) PRIVATE LIMITED |
 | 23.88.103.35 | node-1 | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 46.4.81.204 | Kalia Network | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 5.9.147.22 | StingRay | HETZNER-fsn1-dc10 |  |
@@ -38,7 +38,6 @@
 | 135.125.189.91 | bhcreovh | RIPE GAME-LIM3-fra1-lim3-game-protego1 | RIPE Network Coordination Centre OVH GmbH |
 | 86.33.3.136 | europlots | HR-TELE2-20050415 | Telemach Hrvatska d.o.o. |
 | 142.132.132.173 | Brochain | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 81.0.220.94 | c7170e8e29ac1885 | TT-20221122 | Contabo GmbH |
 | 54.39.48.75 | Stake Frites | HO-2 SD-1G-BHS-T06G | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 15.235.114.33 | Pupmos | HO-2 SD-BHS-BHS8-B811B-2EME-IP-MAGGIE-INFRA-002 | OVH Hosting, Inc. OVH Hosting, Inc. |
@@ -75,8 +74,8 @@
 | 65.109.122.105 | Seasting | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 94.130.137.122 | Vagif | HETZNER-fsn1-dc4 | Hetzner Online GmbH |
 | 167.235.2.206 | Brightlystake | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 135.181.128.114 | hello-jackal-backup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 18.119.142.182 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 95.217.0.158 | Scrib Code | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 195.3.223.168 | g1sj3ru2mbhy | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 144.76.40.53 | 819ef192-2aab-5afc-a670-e0977a81560f | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 208.77.197.83 | vidulum.app | WOLFPAW | Wolfpaw Data Centres Inc |
 | 158.69.125.73 | Nodeist-jackal-main | HO-2 | OVH Hosting, Inc. |
@@ -90,7 +89,7 @@
 | 65.109.60.54 | testnetrun | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 89.38.96.114 | node | WORLDSTREAM |  |
 | 51.79.72.176 | hikari-research | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
-| 95.217.0.158 | Scrib Code | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 192.99.4.20 | Alien | OVH-ARIN-7 | OVH Hosting, Inc. |
 | 65.21.91.160 | 79anvi | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.226.26 | NODERSTEAMSERVICE | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 207.244.82.219 | secure scerets | LEASEWEB-USA-WDC-01 NET-SOURCE32 | Leaseweb USA, Inc. Source Code Corp. |
@@ -98,12 +97,10 @@
 | 192.171.215.94 | Da MidWest BoiZ | AUREON-BLK18 | Aureon Network Services |
 | 104.193.254.36 | Noderunners | KING-SERVERS KING-SERVERS-R007 | Hosting Solution Ltd. |
 | 51.210.223.80 | 01b58725-6bf3-5893-8753-65a50eb9c20f | SD-GAME-GRA2 | OVH SAS |
-| 195.3.223.168 | g1sj3ru2mbhy | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
-| 89.245.24.148 | windpowerstake23 | VT-DYNAMICPOOL | 1&1 Versatel Deutschland GmbH |
-| 192.99.4.20 | Alien | OVH-ARIN-7 | OVH Hosting, Inc. |
-| 148.113.16.109 | Stakewolle | HO-2 OVHCLOUD-MUMBAI-01 SD-BART-2-YNM-22 | OVH Hosting, Inc. OVHTECH R&D (INDIA) PRIVATE LIMITED OVHTECH R&D (INDIA) PRIVATE LIMITED |
 | 65.109.116.50 | Vagif | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 172.105.110.122 | Neta DAO | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 138.197.189.243 | jackal-1-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
+| 89.245.24.148 | windpowerstake23 | VT-DYNAMICPOOL | 1&1 Versatel Deutschland GmbH |
+| 135.181.28.178 | F5Nodes | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 18.119.142.182 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 135.181.128.114 | hello-jackal-backup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
