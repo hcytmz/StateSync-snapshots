@@ -91,10 +91,9 @@
 | 65.21.224.11 | StakeLab | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 207.180.199.115 | CryptorNode | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 57.128.162.152 | NodeStake | RIPE-ERX-57 PCI-UK1 | RIPE Network Coordination Centre OVH Ltd |
-| 95.217.8.158 | StolenKrown | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 34.238.156.45 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 57.128.20.238 | Craving_for_Knowledge | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 144.76.236.90 | Testnetrun | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 44.241.103.199 | node | AMAZO-4 AMAZO-ZPDX | Amazon.com, Inc. Amazon.com, Inc. |
 | 65.108.229.93 | Lefey | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 23.88.74.54 | Rysiman | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.215.62 | Enigma | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -107,12 +106,15 @@
 | 142.132.185.90 | node | RIPE CLOUD-FSN1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 148.251.8.22 | Pro-Nodes | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 SD-GRA-gra3-sdagg32ab-n93 | RIPE Network Coordination Centre OVH SAS |
-| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 RU-SBCLOUD-20210827 | RIPE Network Coordination Centre SBCloud LLC |
-| 35.161.244.76 | node | AT-88-Z AMAZO-ZPDX9 | Amazon Technologies Inc. Amazon.com, Inc. |
+| 44.241.103.199 | node | AMAZO-4 AMAZO-ZPDX | Amazon.com, Inc. Amazon.com, Inc. |
+| 18.196.127.224 | node | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 65.108.0.94 | hello-kyve-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.100.61 | kyveDG-1_DG | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 158.247.215.181 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 65.108.71.92 | rpc-1.kyve.nodes.guru | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 91.230.153.214 | RuValidator | ERTH-EKAT-IPOE-3-NET | JSC ER-Telecom Holding Yekaterinburg Branch JSC ER-Telecom Holding Yekaterinburg Branch |
+| 18.198.182.214 | node | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
+| 95.217.8.158 | StolenKrown | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 35.161.244.76 | node | AT-88-Z AMAZO-ZPDX9 | Amazon Technologies Inc. Amazon.com, Inc. |
 
 <!-- END_TABLE -->
