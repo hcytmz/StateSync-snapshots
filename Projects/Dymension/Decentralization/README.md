@@ -85,7 +85,7 @@
 | 146.19.24.101 | duality | RIPE-ERX-146-19-0-0 PL-DIGICRON-20211111 | RIPE Network Coordination Centre Adam Ochmanski trading as Digicron |
 | 135.181.117.144 | Panda_Team | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.106.214 | Conqueror | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 88.99.61.173 | deNodes | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
+| 144.91.65.13 | AviaDoc_by_AviaOne | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 136.38.55.33 | Silk Nodes | GOOGLE-FIBER | Google Fiber Inc. |
 | 65.109.104.171 | Inter Blockchain Services | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 88.99.143.105 | StakeRun | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
@@ -125,7 +125,6 @@
 | 142.132.134.112 | dymension_rpc | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 199.60.101.162 | mydymnode1 | USD-NET-199-60-101 | Dedicated.com |
 | 46.4.99.152 | node | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
-| 144.91.65.13 | AviaDoc_by_AviaOne | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 207.180.228.2 | ecox_1254293-1 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 88.99.61.173 | deNodes | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
