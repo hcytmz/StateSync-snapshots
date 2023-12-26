@@ -45,7 +45,7 @@
 | 136.243.148.154 | terlia | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 213.133.100.172 | 79anvi | HETZNER-RZ-NBG-NET |  |
 | 141.94.193.28 | rpc-1.althea.nodes.guru | rbx8-sdagg27a-b-n93-2-2 | OVH SAS |
-| 144.217.68.182 | Nodeist-althea-test | HO-2 | OVH Hosting, Inc. |
+| 128.140.71.61 | blockscape | RIPE-ERX-128-140-0-0 CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.75.252.0 | Oneplus | CLOUD-FSN1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.40.230 | Birkoff | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 173.249.59.70 | moodman | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -61,6 +61,6 @@
 | 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 207.180.249.127 | DiBugNodes | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 135.181.156.192 | MCB | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 128.140.71.61 | blockscape | RIPE-ERX-128-140-0-0 CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 144.217.68.182 | Nodeist-althea-test | HO-2 | OVH Hosting, Inc. |
 
 <!-- END_TABLE -->
