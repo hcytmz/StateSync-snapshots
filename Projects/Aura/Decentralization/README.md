@@ -49,7 +49,7 @@
 | 194.126.172.246 | SerGo | US-HIVELOCITY | Hivelocity Inc |
 | 209.126.106.27 | auranetwork | GO-DADDY-COM-LLC | GoDaddy.com, LLC |
 | 167.235.98.220 | Huginn | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.214.52.139 | nse7xa14jfuh | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
+| 73.40.151.121 | thechickencoop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 135.148.150.217 | Republic-Crypto | OUL-16 SD-VIN-V119-GAME-2ND | OVH US LLC OVH US LLC |
 | 95.214.52.174 | TC Network | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 95.214.53.215 | jy9u8czqylx1 | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
@@ -105,11 +105,14 @@
 | 103.107.183.89 | owlstake | PEGA-VN |  |
 | 138.128.247.108 | Taobaorich | KAMAT CLOUDWEBMANAGE-NY | Kamatera, Inc. Cloud Web Manage |
 | 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 57.128.20.163 | 1079ae08-29da-5422-83ee-35dd2ffbd84b | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
+| 107.155.65.7 | soteria | NET-107-155-64-0-18 | HIVELOCITY, Inc. |
 | 65.109.97.249 | hello-aura-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.232.168 | KonsorTech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 107.155.65.7 | soteria | NET-107-155-64-0-18 | HIVELOCITY, Inc. |
-| 73.40.151.121 | thechickencoop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 65.108.212.224 | xstaxy-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 57.128.20.163 | 1079ae08-29da-5422-83ee-35dd2ffbd84b | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
+| 95.214.52.139 | nse7xa14jfuh | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
+| 46.38.232.86 | xstaxy-1-seed | DE-NETCUP-20101202 | netcup GmbH |
+| 75.119.155.250 | xstaxy-1-seed | RIPE CONTABO | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
