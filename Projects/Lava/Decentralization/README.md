@@ -110,7 +110,7 @@
 | 89.117.51.129 | KelvinBorrel | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 141.95.124.105 | mynode | SD-LIM3-LIM-FAT-MAGGIE-SDAGG14-infra-002-2-2 | OVH GmbH |
 | 167.235.180.97 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.93.58 | nj-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 86.111.48.158 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
 | 91.107.148.113 | maliy222 | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 TT-20230331 | RIPE Network Coordination Centre Contabo GmbH |
@@ -135,10 +135,10 @@
 | 185.250.36.72 | volcano-master-239 | TT-20220809 | Contabo GmbH |
 | 65.108.124.121 | Lapatylin | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 HETZNER-RZ-BLK-ERX4 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 154.38.168.132 | Wildweststaking2 | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.168.132 | Wildweststaking2 |  |  |
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 62.171.170.79 | albina | CONTABO | Contabo GmbH |
-| 154.12.245.41 | ReLaX | COGENT-154-12-16 | PSINet, Inc. |
+| 154.12.245.41 | ReLaX |  |  |
 | 195.14.6.2 | 01node | O1NODE | 01NODE STAKING SERVICES S.R.L. |
 | 146.0.78.166 | erfrf | RIPE-ERX-146-0-0-0 HOSTKEY-NET | RIPE Network Coordination Centre |
 | 46.138.240.175 | EL646 | MGTS-PPPOE |  |
@@ -154,6 +154,5 @@
 | 217.160.220.223 | BabyScope | IONOS-CUSTOMERS | IONOS SE |
 | 15.204.216.192 | InfraSingularity | OUL-16 PCI-US-EAST-VA-1 | OVH US LLC OVH (NWK) |
 | 31.220.80.131 | Userr01 | TT-20230217 | Contabo GmbH |
-| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
