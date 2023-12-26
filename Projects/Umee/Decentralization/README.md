@@ -86,7 +86,7 @@
 | 34.105.74.168 | node | GOOGL-2 | Google LLC |
 | 95.217.202.49 | rpc |  |  |
 | 5.9.106.214 | node |  |  |
-| 95.217.117.99 | 0base.vc-umee-1-umee-0 |  |  |
+| 34.28.110.96 | node | GOOGL-2 | Google LLC |
 | 75.119.141.141 | Merak.run | reStake enabled | RIPE | RIPE Network Coordination Centre |
 | 65.109.90.96 | hetzner-node-1 | RIPE | RIPE Network Coordination Centre |
 | 136.243.174.45 | juliet | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
@@ -95,7 +95,7 @@
 | 5.9.141.82 | Mercury |  |  |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
 | 136.243.55.250 | CALISTA | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
-| 95.216.98.181 | test |  |  |
+| 135.125.4.73 | rpc-1.umee.nodes.guru | RIPE | RIPE Network Coordination Centre |
 | 195.201.174.109 | iptrade_ibc |  |  |
 | 94.130.14.54 | umee |  |  |
 | 38.242.205.73 | KalpaTech | COGENT-A | PSINet, Inc. |
@@ -106,10 +106,11 @@
 | 65.108.242.218 | node-hel2 | RIPE | RIPE Network Coordination Centre |
 | 65.21.139.155 | CoinMetrika | RIPE | RIPE Network Coordination Centre |
 | 185.16.39.172 | 002ttuoph7xp |  |  |
+| 65.108.212.224 | umee-1-multiseed | RIPE | RIPE Network Coordination Centre |
 | 212.23.222.122 | umee-triumph-11 |  |  |
 | 65.108.203.149 | wizard | RIPE | RIPE Network Coordination Centre |
 | 5.9.157.55 | cosmostake-hermes-umee |  |  |
-| 94.250.203.6 | AlexRPC |  |  |
+| 95.216.98.181 | test |  |  |
 | 65.108.98.235 | umee-rpc | RIPE | RIPE Network Coordination Centre |
 | 65.109.116.50 | Vagif | RIPE | RIPE Network Coordination Centre |
 | 85.10.197.58 | BRAND-umee-main |  |  |
@@ -136,7 +137,6 @@
 | 38.109.200.33 | umee-mainnet-fullnode-2 | COGENT-A | PSINet, Inc. |
 | 54.210.217.183 | TaxiStake-0 | AMAZON AMAZO-ZIAD5 | Amazon Technologies Inc. Amazon.com, Inc. |
 | 65.109.69.59 | hello-umee-backup | RIPE | RIPE Network Coordination Centre |
-| 135.125.4.73 | rpc-1.umee.nodes.guru | RIPE | RIPE Network Coordination Centre |
-| 65.108.212.224 | umee-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 135.181.5.219 | umee-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
