@@ -77,7 +77,7 @@
 | 51.159.80.121 | juno_antep | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 157.90.129.168 | KalpaTech | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.193.194 | ECO Stake | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 103.19.25.161 | MEME-Foundation | UDOMAIN-HK |  |
+| 135.181.5.176 | ZenChainLabs-RPC | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.192.124 | cyberG | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 107.135.15.67 | Architect Nodes | SIS-80-10-10-13 SBC-107-135-15-64-29-2209273549 | AT&T Corp. |
 | 213.239.213.142 | BRAND-juno-relayer | HETZNER-RZ-NBG-NET |  |
@@ -137,22 +137,23 @@
 | 54.217.156.221 | juno_node | AMAZON AMAZO-ZDUB3 | Amazon Technologies Inc. Amazon.com, Inc. |
 | 204.93.241.110 | luckyfriday | SCN-6 | Server Central Network |
 | 65.108.71.166 | Beastie | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 142.132.248.138 | EZStaking.io | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.106.135 | StakeLab | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 116.202.192.156 | Chainflow Sentry 1 | STUB-116-202SLASH15 |  |
 | 208.88.251.50 | juno-mainnet-sentry-0 | HANCOCKINT-1 | Hancock Internet |
 | 66.172.36.139 | node | CYBERVERSE06 CYBERVERSE-66-172-36-0 | Evocative, Inc. |
-| 47.128.236.222 | bprod-juno-2 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 178.18.255.244 | KalpaTech | CONTABO |  |
 | 176.9.139.74 | myrpc | HETZNER-fsn1-dc7 | Hetzner Online GmbH |
 | 5.22.211.140 | sentry | UPCLOUD-NL-AMS1-NET |  |
 | 141.94.97.24 | burby | SD-SBG3-GAME | OVH SAS |
 | 116.202.96.76 | blockscape | STUB-116-202SLASH15 |  |
-| 109.70.113.100 | Decloud Nodes Lab | AS8758-GieldanowskiConsulting |  |
+| 178.128.220.188 | witval | DIGITALOCEAN |  |
 | 136.243.21.50 | 14709 | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 65.109.115.226 | hello-juno-relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.32.148 | Architect Nodes Relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 63.229.234.75 | juno-mainnet-fullnode-1 | CENTURYLINK-LEGACY-QWEST-INET-114 | CenturyLink Communications, LLC |
-| 178.128.220.188 | witval | DIGITALOCEAN |  |
-| 135.181.5.176 | ZenChainLabs-RPC | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 66.165.240.138 | node | NET-66-165-224-0-19 66-165-240-0-24 | HIVELOCITY, Inc. |
+| 193.34.212.203 | Yrfrf | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
+| 65.108.66.34 | Depool-hetz | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 37.27.55.115 | alaska-indexer-1 | DE-HETZNER-20111228 | Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
