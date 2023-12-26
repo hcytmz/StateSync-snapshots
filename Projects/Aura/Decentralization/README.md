@@ -32,11 +32,12 @@
 | 176.9.158.219 | StakeAngle_RPC | HETZNER-fsn1-dc7 | Hetzner Online GmbH |
 | 208.77.197.83 | vidulum.app | WOLFPAW | Wolfpaw Data Centres Inc |
 | 188.40.85.150 | [NODERS]TEAM | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
-| 13.250.159.219 | node | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 202.61.207.137 | OriginStake | STUB-202-61-192SLASH18 |  |
 | 176.9.121.109 | StakeAngle | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 195.3.222.183 | goto5k | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 209.126.116.182 | auranetwork | GO-DADDY-COM-LLC | GoDaddy.com, LLC |
 | 65.108.238.166 | hello-aura-relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.214.52.139 | nse7xa14jfuh | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 142.132.202.86 | ramuchi.tech | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.79.72.77 | w3coins | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
@@ -88,7 +89,6 @@
 | 142.44.213.82 | aura_enigma | HO-2 | OVH Hosting, Inc. |
 | 65.109.225.86 | HSS | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 80.232.244.29 | SGTstake | LTC-HOME-STATIC |  |
-| 18.143.52.13 | node | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 65.108.75.107 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 81.30.157.94 | AURA-mainnet-test | DE-MYLOC-DUS-20100312 | myLoc managed IT AG |
 | 93.43.199.2 | Safe Block | FASTWEB-INTERNET-NGA |  |
@@ -106,10 +106,11 @@
 | 138.128.247.108 | Taobaorich | KAMAT CLOUDWEBMANAGE-NY | Kamatera, Inc. Cloud Web Manage |
 | 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 57.128.20.163 | 1079ae08-29da-5422-83ee-35dd2ffbd84b | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
-| 65.109.97.249 | hello-aura-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 95.214.52.139 | nse7xa14jfuh | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 103.107.183.89 | owlstake | PEGA-VN |  |
-| 38.242.150.63 | xstaxy-1-seed | COGENT-A | PSINet, Inc. |
-| 173.249.24.244 | xstaxy-1-seed | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 65.109.97.249 | hello-aura-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 13.250.159.219 | node | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 18.143.52.13 | node | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 65.108.212.224 | xstaxy-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 3.89.124.251 | aura | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 
 <!-- END_TABLE -->
