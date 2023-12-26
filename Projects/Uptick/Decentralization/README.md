@@ -30,7 +30,7 @@
 | 65.21.14.11 | Vitek73 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.63.225 | kdaria | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 212.23.222.109 | Jaha | PL-STOREIQ-20211105 | STORE IQ SP. Z O.O. |
-| 154.12.228.189 | dstake |  |  |
+| 154.12.228.189 | dstake | COGENT-154-12-16 | PSINet, Inc. |
 | 65.21.108.180 | airSintez | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.200.233 | uptick-sentry-1-799ffc7f4b-856zj | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.134.181 | uptick-state-sync-75965748d4-fmhsg | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -136,6 +136,5 @@
 | 95.70.238.194 | Nodeskuge | BursaPOP_XdslDynamic |  |
 | 101.44.33.174 | SNZPool | Huawei-Cloud-Turkey |  |
 | 65.108.66.174 | hello-BccNodesRPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 75.119.155.250 | uptick_117-1-seed | RIPE CONTABO | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
