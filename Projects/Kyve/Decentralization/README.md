@@ -39,7 +39,7 @@
 | 13.230.20.39 | y15 | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
 | 72.76.12.236 | Nymbus-Node | VIS-72-64 | Verizon Business |
 | 188.165.194.110 | ChainTools |  |  |
-| 35.161.244.76 | node | AT-88-Z AMAZO-ZPDX9 | Amazon Technologies Inc. Amazon.com, Inc. |
+| 18.198.182.214 | node | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 164.90.196.95 | 8912223a1191 | DIGITALOCEAN-164-90-128-0 | DigitalOcean, LLC |
 | 194.163.178.187 | kyve-mainnet |  |  |
 | 65.109.29.224 | Munris | RIPE | RIPE Network Coordination Centre |
@@ -86,9 +86,10 @@
 | 65.21.224.11 | StakeLab | RIPE | RIPE Network Coordination Centre |
 | 207.180.199.115 | CryptorNode | RIPE | RIPE Network Coordination Centre |
 | 57.128.162.152 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
-| 44.241.103.199 | node | AMAZO-4 AMAZO-ZPDX | Amazon.com, Inc. Amazon.com, Inc. |
+| 38.242.253.58 | Inter Blockchain Services | COGENT-A | PSINet, Inc. |
 | 57.128.20.238 | Craving_for_Knowledge | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 144.76.236.90 | Testnetrun | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
+| 104.196.101.86 | P2P.ORG Validator | GOOGLE-CLOUD | Google LLC |
 | 65.108.229.93 | Lefey | RIPE | RIPE Network Coordination Centre |
 | 23.88.74.54 | Rysiman | RIPE | RIPE Network Coordination Centre |
 | 3.72.28.238 | node | AT-88-Z AMAZON-FRA | Amazon Technologies Inc. A100 ROW GmbH |
@@ -108,10 +109,5 @@
 | 158.247.215.181 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 65.108.71.92 | rpc-1.kyve.nodes.guru | RIPE | RIPE Network Coordination Centre |
 | 91.230.153.214 | RuValidator |  |  |
-| 104.196.101.86 | P2P.ORG Validator | GOOGLE-CLOUD | Google LLC |
-| 95.217.8.158 | StolenKrown |  |  |
-| 18.198.182.214 | node | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
-| 34.238.156.45 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
