@@ -126,6 +126,5 @@
 | 199.60.101.162 | mydymnode1 | USD-NET-199-60-101 | Dedicated.com |
 | 46.4.99.152 | node | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 144.91.65.13 | AviaDoc_by_AviaOne | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 207.180.228.2 | ecox_1254293-1 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 
 <!-- END_TABLE -->
