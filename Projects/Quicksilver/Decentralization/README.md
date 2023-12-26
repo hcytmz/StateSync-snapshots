@@ -46,7 +46,7 @@
 | 51.222.254.98 | MMS | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 108.181.106.114 | Node2 | TELUS PROFUSE | TELUS Communications Inc. Psychz Networks |
 | 168.119.139.86 | TAKESHI | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 185.119.118.118 | vDQNYS-nxJO | AT-IPAX-20150930 | IPAX GmbH |
+| 65.108.195.29 | Staketab-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 172.201.107.208 | IONode Vietnam | RIPE UK-MICROSOFT-20020213 | RIPE Network Coordination Centre Microsoft Limited |
 | 202.61.224.231 | validator | STUB-202-61-192SLASH18 |  |
 | 136.243.131.26 | dstake | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -91,7 +91,7 @@
 | 65.109.92.241 | kurtisz | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.94.45 | SWU | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 173.67.177.120 | cosmosspaces | VIS-BLOCK | Verizon Business |
-| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 5.9.89.67 | fca811e989cc | HETZNER-fsn1-dc7 |  |
 | 51.79.177.229 | Stakely.io | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 51.79.77.103 | itrocket | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 51.178.76.62 | Moonlet | SD-GRA-gra2-sdagg42a-b-n93 | OVH SAS |
@@ -127,7 +127,7 @@
 | 54.39.28.226 | Kitkat-quicksilver-main | HO-2 GAME-BHS | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 95.217.202.49 | rpc | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 94.237.102.105 | val | UPCLOUD-DE-FRA1-NET |  |
-| 142.132.253.112 | itrocket | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 116.202.218.189 | Indonode-backup | STUB-116-202SLASH15 |  |
 | 164.152.162.233 | Tendermint | ALLNO | Allnodes Inc |
 | 51.195.88.136 | 8a5689fc0b5c | SD-LIM-fra1-lim1-sdagg29a-b-n93-1-2 | OVH GmbH |
 | 65.108.203.149 | wizar | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -155,7 +155,6 @@
 | 51.81.166.95 | Cosmostation | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 95.217.60.22 | DTEAM | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 78.47.214.204 | openbitlab | HOS-565748 | Hetzner Online GmbH |
-| 116.202.218.189 | Indonode-backup | STUB-116-202SLASH15 |  |
-| 5.9.89.67 | fca811e989cc | HETZNER-fsn1-dc7 |  |
+| 142.132.253.112 | itrocket | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
