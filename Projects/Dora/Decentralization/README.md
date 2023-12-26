@@ -38,6 +38,6 @@
 | 65.109.92.148 | Shoni | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.231.124 | itrocket_seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.161.240.23 | RPC | CLOUD-ASH | Hetzner Online GmbH Hetzner Online GmbH |
-| 3.144.94.199 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 176.9.82.221 | vota-vk-seed | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
