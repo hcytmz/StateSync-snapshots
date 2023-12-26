@@ -18,7 +18,7 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 193.26.159.34 | side-genznodes-2 | NETCUP-NETWORK-193-26-156-0-22 | netcup GmbH |
 | 95.216.241.246 | tRDM | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 141.95.157.139 | 07967ec934c77aea22f54b9fb29406f1 | SD-GRA-gra3-sdagg17ab-n93 | OVH SAS |
 | 135.181.208.166 | OranG3cluB | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -107,7 +107,6 @@
 | 2a01:4f9:3a:11e0::4 | gitopia | HOS-646951 | Hetzner Online GmbH |
 | 65.21.91.160 | 79anvi | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 194.163.144.185 | Oldcat-gitopia-main | CONTABO |  |
-| 135.181.222.33 | hello-gitopia-backup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.115.56 | CoreNode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.199.236 | LiveRaveN | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 157.90.128.250 | DanielX | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -124,12 +123,16 @@
 | 65.108.15.170 | ramuchi.tech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 159.148.146.132 | SGTstake | RIPE-ERX-159-147-0-0 BITELATVIJA | RIPE Network Coordination Centre SIA BITE Latvija |
 | 135.181.156.192 | MCB | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 57.128.96.155 | c5fd53c8-65d5-501e-9b65-931e30a2ea32 | RIPE-ERX-57 SDAGG40-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 209.159.148.90 | UTSA_guide | INTERSERVER | Interserver, Inc |
 | 65.21.198.100 | nodexrelay | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 57.128.96.155 | c5fd53c8-65d5-501e-9b65-931e30a2ea32 | RIPE-ERX-57 SDAGG40-2-2 | RIPE Network Coordination Centre OVH SAS |
-| 193.26.159.34 | side-genznodes-2 | NETCUP-NETWORK-193-26-156-0-22 | netcup GmbH |
-| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 38.146.3.100 | gitopia-seed | COGENT-A | PSINet, Inc. |
+| 89.58.13.159 | KonsorTech-Services | DE-NETCUP-20051123 | netcup GmbH |
+| 65.108.78.101 | Moonbridge | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.21.239.121 | node | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 35.198.184.247 | snapshot-28393095-xgsxq | GOOGLE-CLOUD | Google LLC |
+| 38.242.150.63 | gitopia-seed | COGENT-A | PSINet, Inc. |
+| 135.181.5.219 | gitopia-seed | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
