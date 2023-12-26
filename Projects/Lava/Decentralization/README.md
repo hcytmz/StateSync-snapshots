@@ -93,7 +93,7 @@
 | 89.117.53.37 | my-node |  |  |
 | 144.217.68.182 | Nodeist-lava-test | HO-2 | OVH Hosting, Inc. |
 | 143.110.185.169 | Kahuna | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
-| 154.53.55.21 | Hawkk |  |  |
+| 154.53.55.21 | Hawkk | COGENT-154-53-16 | PSINet, Inc. |
 | 144.126.157.206 | robbyn-hilary | CONTA-48 | Contabo Inc. |
 | 176.103.222.22 | test |  |  |
 | 31.220.80.131 | Userr01 |  |  |
