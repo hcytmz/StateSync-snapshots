@@ -19,7 +19,6 @@
 | 94.250.203.61 | furkan |  |  |
 | 62.171.171.91 | bloclick |  |  |
 | 62.171.166.106 | UniqLabs |  |  |
-| 57.128.96.155 | 0c3d1af0-70a1-599d-ab22-68551666b8b8 | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 185.144.99.48 | cryptech |  |  |
 | 148.113.142.195 | NodeStake | HO-2 PCI-BHS5 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.109.84.115 | azstake | RIPE | RIPE Network Coordination Centre |
@@ -50,5 +49,7 @@
 | 93.104.210.136 | Apollo |  |  |
 | 65.108.71.140 | StakeLab | RIPE | RIPE Network Coordination Centre |
 | 65.108.108.54 | test | RIPE | RIPE Network Coordination Centre |
+| 57.128.96.155 | 0c3d1af0-70a1-599d-ab22-68551666b8b8 | RIPE-ERX-57 | RIPE Network Coordination Centre |
+| 65.109.88.38 | qwoyn-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
