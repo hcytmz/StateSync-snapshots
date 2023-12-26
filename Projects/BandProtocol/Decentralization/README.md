@@ -72,7 +72,7 @@
 | 136.243.67.189 | hello-band-main | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 34.87.51.255 | gateway-2 | GOOGL-2 | Google LLC |
 | 193.34.213.144 | GateOmega | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
-| 185.16.39.172 | yvrota6ma2rw | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
+| 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 34.142.199.94 | public2-1 | GOOGL-2 | Google LLC |
 | 77.68.30.186 | band | UK-NGCS | Fasthosts Internet Limited |
 | 5.135.137.127 | StakeSabai | OVH |  |
@@ -98,7 +98,7 @@
 | 54.244.131.5 | Wanchain | AMAZON-2011L AMAZO-ZPDX2 | Amazon Technologies Inc. Amazon.com, Inc. |
 | 89.149.218.43 | random33 | NL-LEASEWEB-20060223 | LeaseWeb Netherlands B.V. |
 | 162.55.92.114 | 1d1de7c5-dbe068 | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 14.224.158.246 | Chainp2p | VNPT-VN |  |
+| 65.108.108.42 | 0base.vc-laozi-mainnet-bandprotocol-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 34.87.84.50 | public2-2 | GOOGL-2 | Google LLC |
 | 168.119.146.110 | PB | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 162.55.234.190 | StakeCraft | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -114,7 +114,7 @@
 | 34.150.156.78 | seed-2 | GOOGL-2 | Google LLC |
 | 91.246.64.247 | band4 | Skyware | Skyware Sp. z o.o. |
 | 136.243.40.17 | senodesr | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 103.107.183.177 | owlstake | PEGA-VN |  |
+| 54.199.153.43 | sintral-s1 | AMAZON AMAZO-ZNRT4 | Amazon Technologies Inc. Amazon.com, Inc. |
 | 15.235.53.219 | 9W6YPA6MhV | HO-2 | OVH Hosting, Inc. |
 | 34.126.163.60 | public4-1 | GOOGL-2 | Google LLC |
 | 173.212.240.62 | Wellstake | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -125,7 +125,7 @@
 | 3.126.103.168 | dj3dja | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 45.129.147.242 | ams-atlas-staking | qupra-access-2 |  |
 | 34.76.55.114 | bf-s-euw | GOOGL-2 | Google LLC |
-| 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
+| 193.34.212.203 | Ysewdd | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 23.88.62.189 | blockscape | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.24.82 | StakeTown | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 20.244.6.120 | BandNode01 | MSFT | Microsoft Corporation |
@@ -134,9 +134,6 @@
 | 65.21.202.61 | band-api | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 158.247.218.149 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 57.128.133.20 | forbole-sentry | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
-| 65.108.108.42 | 0base.vc-laozi-mainnet-bandprotocol-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 54.199.153.43 | sintral-s1 | AMAZON AMAZO-ZNRT4 | Amazon Technologies Inc. Amazon.com, Inc. |
-| 193.34.212.203 | Ysewdd | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 176.9.147.146 | band-sentry | HETZNER-fsn1-dc7 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
