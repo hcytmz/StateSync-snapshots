@@ -125,5 +125,6 @@
 | 142.132.134.112 | dymension_rpc | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 199.60.101.162 | mydymnode1 | USD-NET-199-60-101 | Dedicated.com |
 | 46.4.99.152 | node | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
+| 18.119.112.130 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 
 <!-- END_TABLE -->
