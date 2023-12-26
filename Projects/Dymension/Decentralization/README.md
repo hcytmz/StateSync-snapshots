@@ -55,7 +55,7 @@
 | 38.242.239.185 | BigBrainStaking3 | COGENT-A | PSINet, Inc. |
 | 213.239.207.175 | StakeUp | HETZNER-RZ-NBG-NET2 |  |
 | 65.108.192.123 | 35-C | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.56.215 | Ubuntu-2004-focal-64-minimal-hwe | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.217.119.56 | stakecat | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 190.2.146.152 | Kalia Network |  |  |
 | 173.231.40.194 | node | WEBNX-BLK-3 | WebNX, Inc. |
 | 142.132.132.164 | BwareLabs | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
