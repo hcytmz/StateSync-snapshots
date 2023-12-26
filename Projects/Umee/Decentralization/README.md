@@ -135,8 +135,7 @@
 | 94.130.13.186 | umee |  |  |
 | 23.111.165.186 | node | NET-23-111-128-0-18 | HIVELOCITY, Inc. |
 | 38.109.200.33 | umee-mainnet-fullnode-2 | COGENT-A | PSINet, Inc. |
-| 54.210.217.183 | TaxiStake-0 | AMAZON AMAZO-ZIAD5 | Amazon Technologies Inc. Amazon.com, Inc. |
+| 103.220.234.83 | ark | SAIDURGA |  |
 | 65.108.212.224 | umee-1-multiseed | RIPE | RIPE Network Coordination Centre |
-| 135.181.5.219 | umee-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
