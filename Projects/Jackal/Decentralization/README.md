@@ -49,7 +49,7 @@
 | 65.109.105.110 | Anatolian Team | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 85.17.52.219 | SecretSaturn | LEASEWEB |  |
 | 172.105.110.122 | Neta DAO | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 95.217.0.158 | Scrib Code | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 135.148.33.246 | VAOR | OUL-16 VPS-US-EAST-VA-2 | OVH US LLC OVH US LLC |
 | 65.21.95.15 | 1ce | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.28.178 | F5Nodes | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -64,7 +64,7 @@
 | 46.4.14.172 | PPNV | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 5.9.69.241 | [NODERS]TEAM | HETZNER-fsn1-dc7 |  |
 | 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 103.180.28.103 | jackal-m-horcrux6-ep2-hk | METROPOLIS-AP | Metropolis Networks Inc |
+| 65.109.116.50 | Vagif | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.208.207.12 | Oldcat-jackal-main | TT-202200809 | Contabo GmbH |
 | 85.239.241.71 | OS-node-usc | TT-20221122 | Contabo GmbH |
 | 206.125.34.196 | Artifact | SWSF | Scott Technology Center |
@@ -76,7 +76,6 @@
 | 94.130.137.122 | Vagif | HETZNER-fsn1-dc4 | Hetzner Online GmbH |
 | 167.235.2.206 | Brightlystake | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.128.114 | hello-jackal-backup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 136.38.55.33 | Silk_Nodes | GOOGLE-FIBER | Google Fiber Inc. |
 | 18.119.142.182 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 208.77.197.83 | vidulum.app | WOLFPAW | Wolfpaw Data Centres Inc |
 | 158.69.125.73 | Nodeist-jackal-main | HO-2 | OVH Hosting, Inc. |
@@ -97,9 +96,8 @@
 | 49.12.131.50 | Arcpool | STUB-49-12SLASH15 |  |
 | 192.171.215.94 | Da MidWest BoiZ | AUREON-BLK18 | Aureon Network Services |
 | 104.193.254.36 | Noderunners | KING-SERVERS KING-SERVERS-R007 | Hosting Solution Ltd. |
-| 192.99.4.20 | Alien | OVH-ARIN-7 | OVH Hosting, Inc. |
-| 51.210.223.80 | 01b58725-6bf3-5893-8753-65a50eb9c20f | SD-GAME-GRA2 | OVH SAS |
 | 195.3.223.168 | g1sj3ru2mbhy | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
-| 138.197.189.243 | jackal-1-seed | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
+| 51.210.223.80 | 01b58725-6bf3-5893-8753-65a50eb9c20f | SD-GAME-GRA2 | OVH SAS |
+| 103.180.28.103 | jackal-m-horcrux6-ep2-hk | METROPOLIS-AP | Metropolis Networks Inc |
 
 <!-- END_TABLE -->
