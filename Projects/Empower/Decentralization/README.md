@@ -30,7 +30,7 @@
 | 135.181.58.28 | Validatrium-rpc | RIPE | RIPE Network Coordination Centre |
 | 3.80.107.9 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 142.132.199.236 | LiveRaveN | RIPE | RIPE Network Coordination Centre |
-| 213.239.194.132 | stakevillage |  |  |
+| 65.109.112.170 | NJ-snap | RIPE | RIPE Network Coordination Centre |
 | 65.108.108.54 | test | RIPE | RIPE Network Coordination Centre |
 | 142.132.152.46 | ax61vs2004hwe | RIPE | RIPE Network Coordination Centre |
 | 168.119.64.20 | w3coins | RIPE | RIPE Network Coordination Centre |
@@ -50,7 +50,7 @@
 | 74.208.94.42 | 39937AF | 1AN1-NETWORK | IONOS Inc. |
 | 174.138.176.146 | AlxVoy | INTER-83 | Interserver, Inc |
 | 51.158.37.244 | node |  |  |
-| 65.109.112.170 | NJ-snap | RIPE | RIPE Network Coordination Centre |
+| 65.109.97.249 | hello-empower-backup | RIPE | RIPE Network Coordination Centre |
 | 188.40.85.150 | [NODERS]TEAM |  |  |
 | 37.252.184.253 | danku_zone_w_daic |  |  |
 | 5.9.106.214 | node |  |  |
@@ -82,6 +82,8 @@
 | 141.95.157.139 | randomblahblahfkdsjaflkdsaj |  |  |
 | 65.108.78.101 | Moonbridge | RIPE | RIPE Network Coordination Centre |
 | 80.254.8.54 | ITpro |  |  |
-| 65.109.97.249 | hello-empower-backup | RIPE | RIPE Network Coordination Centre |
+| 213.239.194.132 | stakevillage |  |  |
+| 195.201.222.82 | empowerchain-1-seed |  |  |
+| 138.201.220.51 | empowerchain-1-seed | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
