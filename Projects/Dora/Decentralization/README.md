@@ -19,7 +19,7 @@
 | 192.99.20.53 | node | OVH-ARIN-7 | OVH Hosting, Inc. |
 | 136.243.69.100 | Nodes.Guru | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 13.213.30.203 | dorafactory02 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
-| 144.217.68.182 | Nodeist-dora-test | HO-2 | OVH Hosting, Inc. |
+| 188.40.66.173 | hello-dora-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 5.161.240.23 | RPC | CLOUD-ASH | Hetzner Online GmbH Hetzner Online GmbH |
 | 88.99.148.44 | StakeUs | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 65.108.231.124 | itrocket_seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -42,7 +42,7 @@
 | 38.242.249.115 | kooltek68 | COGENT-A | PSINet, Inc. |
 | 69.197.26.12 | POSTHUMAN | STACKPATH-69-197-0-0-1 SP-SOLANA-69-197-26-0-24 | StackPath, LLC. |
 | 167.235.14.83 | NodeName | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 188.40.66.173 | hello-dora-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
-| 176.9.82.221 | vota-vk-seed | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
+| 144.217.68.182 | Nodeist-dora-test | HO-2 | OVH Hosting, Inc. |
+| 3.144.94.199 | vota-vk-seed | AT-88-Z | Amazon Technologies Inc. |
 
 <!-- END_TABLE -->
