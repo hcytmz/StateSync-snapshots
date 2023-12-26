@@ -46,23 +46,23 @@
 | 212.23.222.175 | node | PL-STOREIQ-20211105 | STORE IQ SP. Z O.O. |
 | 65.109.154.181 | Indonode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.252.235.83 | Alien | TT-2021101312 | Contabo GmbH |
-| 95.214.55.138 | side-genznodes-1 | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
-| 65.109.104.118 | lesnik_utsa | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 138.201.85.176 | Archive node | MZONDER | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 185.248.24.19 | nnysq1b6pnzh | PL-DIGI2-20220125 | Adam Ochmanski trading as Digicron |
-| 145.239.2.101 | c4e-dao1-mainnet | OVH-DEDICATED | OVH GmbH |
-| 85.239.233.58 | Validatus | TT-20221122 | Contabo GmbH |
+| 95.214.55.138 | side-genznodes-1 |  |  |
+| 65.109.104.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
+| 138.201.85.176 | Archive node | MZONDER | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
+| 185.248.24.19 | nnysq1b6pnzh |  |  |
+| 145.239.2.101 | c4e-dao1-mainnet |  |  |
+| 85.239.233.58 | Validatus |  |  |
 | 170.64.175.31 | f9bfe9948fce | DIGITALOCEAN-170-64-128-0 | DigitalOcean, LLC |
-| 65.109.106.211 | NakoTurk | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.21.172.60 | ushakov | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 51.195.104.64 | genznodes_sentry_2 | SD-LIM-fra1-lim1-sdagg30a-b-n93-1-1 | OVH GmbH |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 65.21.172.60 | ushakov | RIPE | RIPE Network Coordination Centre |
+| 51.195.104.64 | genznodes_sentry_2 |  |  |
 | 216.73.158.230 | freedomstake | ZHL-TAMP-22 MCS-LA | Zappie Host LLC Madcityservers LLC |
-| 164.68.125.243 | Smt Network | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 93.189.30.124 | dankuzone_w_daic | AT-IPAX-20080423 | IPAX GmbH |
-| 95.179.190.59 | commercio.network | NET-V4-95-179-128-0-17 | Vultr Holdings LLC Amsterdam |
+| 164.68.125.243 | Smt Network | RIPE | RIPE Network Coordination Centre |
+| 93.189.30.124 | dankuzone_w_daic |  |  |
+| 95.179.190.59 | commercio.network |  |  |
 | 143.110.248.56 | KingSuper | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
 | 198.211.107.250 | b64e8f40980b | DIGITALOCEAN-198-211-96-0 | DigitalOcean, LLC |
-| 65.108.75.107 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 149.210.44.220 | apeironnodes-server-2h | OTE |  |
+| 65.108.75.107 | node | RIPE | RIPE Network Coordination Centre |
+| 149.210.44.220 | apeironnodes-server-2h |  |  |
 
 <!-- END_TABLE -->
