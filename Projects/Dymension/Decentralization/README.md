@@ -48,7 +48,7 @@
 | 135.181.180.230 | Pathrocknetwork | RIPE | RIPE Network Coordination Centre |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
 | 148.251.177.108 | hello-dymension-test | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
-| 84.203.117.234 | Silk_Nodes.. |  |  |
+| 199.60.101.162 | mydymnode1 | USD-NET-199-60-101 | Dedicated.com |
 | 18.119.112.130 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 46.166.170.53 | dymension-validator-testnet |  |  |
 | 88.99.56.200 | Staketab |  |  |
@@ -62,7 +62,7 @@
 | 65.109.28.165 | Decentrio | RIPE | RIPE Network Coordination Centre |
 | 135.181.58.28 | Validatrium.com | RIPE | RIPE Network Coordination Centre |
 | 149.102.128.221 | StingRay | COGENT-149-102-16 | PSINet, Inc. |
-| 128.199.10.240 | leelucky | RIPE-ERX-128-199-0-0 | RIPE Network Coordination Centre |
+| 142.132.134.112 | dymension_rpc | RIPE | RIPE Network Coordination Centre |
 | 5.9.83.110 | 1ce |  |  |
 | 144.126.148.159 | HKNVAL | CONTA-48 | Contabo Inc. |
 | 207.180.199.130 | radym | RIPE | RIPE Network Coordination Centre |
@@ -98,7 +98,7 @@
 | 65.108.108.54 | test | RIPE | RIPE Network Coordination Centre |
 | 135.181.73.170 | Pro-Nodes75 | RIPE | RIPE Network Coordination Centre |
 | 15.235.160.84 | node | HO-2 OVHCLOUD-SGP SD-SGP | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
-| 167.235.12.38 | Hexnodes | RIPE | RIPE Network Coordination Centre |
+| 46.4.99.152 | node |  |  |
 | 173.249.7.30 | CryptoDropsID | RIPE | RIPE Network Coordination Centre |
 | 89.117.57.201 | rc-bh-rocks |  |  |
 | 135.181.113.225 | [NODERS]TEAM | RIPE | RIPE Network Coordination Centre |
@@ -122,8 +122,9 @@
 | 142.132.134.181 | dymension-validator-74b7c7f6cd-68b7h | RIPE | RIPE Network Coordination Centre |
 | 65.108.69.151 | ContributionDAO | RIPE | RIPE Network Coordination Centre |
 | 142.132.132.173 | Brochain | RIPE | RIPE Network Coordination Centre |
-| 142.132.134.112 | dymension_rpc | RIPE | RIPE Network Coordination Centre |
-| 199.60.101.162 | mydymnode1 | USD-NET-199-60-101 | Dedicated.com |
-| 46.4.99.152 | node |  |  |
+| 84.203.117.234 | Silk_Nodes.. |  |  |
+| 37.27.14.211 | F5Nodes |  |  |
+| 128.199.10.240 | leelucky | RIPE-ERX-128-199-0-0 | RIPE Network Coordination Centre |
+| 207.180.228.2 | ecox_1254293-1 | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
