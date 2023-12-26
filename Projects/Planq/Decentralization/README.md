@@ -63,7 +63,7 @@
 | 65.108.232.168 | KonsorTech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.146.243 | GNST | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.67.84 | SnollyGoster | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 116.202.218.189 | Indonode-Backup | STUB-116-202SLASH15 |  |
+| 51.159.213.195 | Paris7 | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 81.0.221.144 | Planq Node | TT-20221122 | Contabo GmbH |
 | 178.18.250.164 | StakeSQUID | CONTABO |  |
 | 95.214.52.174 | TC Network | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
@@ -97,8 +97,6 @@
 | 51.195.63.229 | Frankfurt7 | SD-LIM-LIM1-L107B-Maggie-infra-002 | OVH GmbH |
 | 35.198.181.13 | sentry-1 | GOOGLE-CLOUD | Google LLC |
 | 65.109.153.140 | RoomIT | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 51.159.213.195 | Paris7 | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 47.245.101.121 | Crxa | AL-3 | Alibaba Cloud LLC |
-| 135.181.5.219 | planq_7070-2-seed | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
