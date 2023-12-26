@@ -107,6 +107,7 @@
 | 2a01:4f9:3a:11e0::4 | gitopia |  |  |
 | 65.21.91.160 | 79anvi | RIPE | RIPE Network Coordination Centre |
 | 194.163.144.185 | Oldcat-gitopia-main |  |  |
+| 95.214.52.139 | cki8g4wv4pvc |  |  |
 | 65.109.115.56 | CoreNode | RIPE | RIPE Network Coordination Centre |
 | 142.132.199.236 | LiveRaveN | RIPE | RIPE Network Coordination Centre |
 | 157.90.128.250 | DanielX | RIPE | RIPE Network Coordination Centre |
@@ -124,7 +125,6 @@
 | 159.148.146.132 | SGTstake | RIPE-ERX-159-147-0-0 | RIPE Network Coordination Centre |
 | 135.181.156.192 | MCB | RIPE | RIPE Network Coordination Centre |
 | 65.108.226.26 | [NODERS]TEAM_SERVICE | RIPE | RIPE Network Coordination Centre |
-| 57.128.96.155 | c5fd53c8-65d5-501e-9b65-931e30a2ea32 | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 209.159.148.90 | UTSA_guide | INTERSERVER | Interserver, Inc |
 | 65.21.198.100 | nodexrelay | RIPE | RIPE Network Coordination Centre |
 | 51.159.16.49 | gitopia_tanger |  |  |
@@ -132,5 +132,10 @@
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
 | 65.109.112.170 | NJ-snap | RIPE | RIPE Network Coordination Centre |
 | 65.21.239.121 | node | RIPE | RIPE Network Coordination Centre |
+| 144.76.40.53 | f9e69acc-2641-58fc-861f-4e2ea627bcf0 | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
+| 57.128.96.155 | c5fd53c8-65d5-501e-9b65-931e30a2ea32 | RIPE-ERX-57 | RIPE Network Coordination Centre |
+| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
+| 89.58.13.159 | KonsorTech-Services |  |  |
+| 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 
 <!-- END_TABLE -->
