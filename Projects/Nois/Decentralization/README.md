@@ -67,7 +67,7 @@
 | 57.128.144.242 | Forbole | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 81.0.248.57 | nois-main |  |  |
 | 80.254.8.54 | ITpro |  |  |
-| 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
+| 65.108.79.237 | chaintools-relayer-node | RIPE | RIPE Network Coordination Centre |
 | 135.181.198.17 | chronon | RIPE | RIPE Network Coordination Centre |
 | 154.53.44.239 | dstake |  |  |
 | 185.16.39.158 | anun10vv7ign |  |  |
@@ -88,6 +88,9 @@
 | 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
 | 5.39.249.16 | Sr20de service node |  |  |
+| 136.243.40.17 | Merfdrefde | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
+| 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 135.181.5.219 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
