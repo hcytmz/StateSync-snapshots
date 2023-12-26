@@ -16,7 +16,7 @@
 | 2a01:4f9:6b:2e5b::17 | nois-1 |  |  |
 | 65.109.16.125 | node | RIPE | RIPE Network Coordination Centre |
 | 65.109.115.226 | hello-nois-relayer | RIPE | RIPE Network Coordination Centre |
-| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
+| 65.21.73.238 | test | RIPE | RIPE Network Coordination Centre |
 | 135.181.117.165 | alterkahn | RIPE | RIPE Network Coordination Centre |
 | 65.109.54.232 | myNode | RIPE | RIPE Network Coordination Centre |
 | 89.233.108.200 | SECARD |  |  |
@@ -77,18 +77,20 @@
 | 157.90.181.186 | tRDM | RIPE | RIPE Network Coordination Centre |
 | 32.221.99.231 | YOUR_MONIKER | SNET-AMERICA | Southern New England Telephone Company and SNET America, Inc. |
 | 65.108.46.100 | BccNodes | RIPE | RIPE Network Coordination Centre |
-| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
+| 135.181.215.62 | nois_mainnets | RIPE | RIPE Network Coordination Centre |
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 65.108.82.62 | ROSNODEMONITORING | RIPE | RIPE Network Coordination Centre |
 | 65.109.104.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
 | 88.198.18.88 | terlia |  |  |
-| 5.39.249.16 | Sr20de service node |  |  |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
 | 57.128.163.232 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
-| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
-| 65.108.79.237 | chaintools-relayer-node | RIPE | RIPE Network Coordination Centre |
+| 136.243.40.17 | Merfdrefde | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
+| 5.39.249.16 | Sr20de service node |  |  |
+| 135.181.5.219 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
+| 65.108.227.217 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 
 <!-- END_TABLE -->
