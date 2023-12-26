@@ -32,7 +32,7 @@
 | 162.55.133.237 | STAKECRAFT | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.67.185 | Tuzem | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.203.173 | BMV | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 144.76.63.67 | ezstaking-sentry-1 | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 154.53.59.45 | os-node-usw-con |  |  |
 | 37.27.18.188 | KingSuper | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.195.98 | StakeLab | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 156.59.230.130 | Impacts DAO | APNIC-ERX-156-59-0-0 ZEN-SG | Asia Pacific Network Information Centre Zenlayer (Singapore) PTE. LTD |
@@ -54,5 +54,6 @@
 | 31.171.250.63 | Gateway FM | CH-CLOUDSIGMA |  |
 | 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.38.240 | RPCIBC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 144.76.63.67 | ezstaking-sentry-1 | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
