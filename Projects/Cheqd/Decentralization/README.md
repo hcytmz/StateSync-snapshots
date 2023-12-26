@@ -48,7 +48,7 @@
 | 144.76.63.67 | sentry-vps-1 | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 34.83.46.249 | DoraFactory | GOOGL-2 | Google LLC |
 | 65.21.254.210 | o | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 159.69.146.121 | seed3-eu-mainnet-cheqd | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 185.16.39.158 | 0nh4mmx35f1t | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
 | 64.227.177.178 | c84a0a9c5cf4 | DO-13 | DigitalOcean, LLC |
 | 65.108.76.228 | jabbey | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.248.253 | Blackhox | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -62,8 +62,8 @@
 | 206.189.137.229 | Blockfend Genesis Labs | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
 | 54.38.38.149 | vNodes Validators | RIPE SD-RBX-rbx8-sdagg17a-b-n93-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 185.16.39.158 | 0nh4mmx35f1t | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
-| 157.90.242.105 | sentry1-eu-mainnet-cheqd | RIPE CLOUD-FSN1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 116.203.54.9 | seed1-eu-mainnet-cheqd | STUB-116-202SLASH15 |  |
+| 157.90.242.105 | sentry1-eu-mainnet-cheqd | RIPE CLOUD-FSN1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 159.69.146.121 | seed3-eu-mainnet-cheqd | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
