@@ -45,9 +45,9 @@
 | 65.109.82.87 | 11d0560e-0454-5674-a7f5-1d95ef56e600 | RIPE | RIPE Network Coordination Centre |
 | 65.108.11.6 | Moonshine.cc Validation | RIPE | RIPE Network Coordination Centre |
 | 45.77.126.244 | qwoyn-full-node | CONSTANT NET-45-77-126-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
-| 46.4.81.216 | o23ir2oeifdo |  |  |
+| 65.109.96.189 | Kalia Network | RIPE | RIPE Network Coordination Centre |
 | 3.80.123.118 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 213.239.207.175 | landeros | StakeUp |  |  |
-| 65.109.96.189 | Kalia Network | RIPE | RIPE Network Coordination Centre |
+| 46.4.81.216 | o23ir2oeifdo |  |  |
 
 <!-- END_TABLE -->
