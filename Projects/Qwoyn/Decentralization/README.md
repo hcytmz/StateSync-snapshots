@@ -25,6 +25,7 @@
 | 185.144.99.48 | cryptech | ULTRAPAK | Ultra-Pak LLC |
 | 148.113.142.195 | NodeStake | HO-2 PCI-BHS5 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.109.84.115 | azstake | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 5.9.106.214 | Archive node | MZONDER | HETZNER-fsn1-dc7 |  |
 | 62.33.73.29 | SNSMLN | SKYWORK-NET2 |  |
 | 95.217.192.222 | MakingCash | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 195.201.231.163 | ubuntu-8gb-nbg1-1 | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
@@ -45,7 +46,6 @@
 | 65.109.82.87 | 11d0560e-0454-5674-a7f5-1d95ef56e600 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.11.6 | Moonshine.cc Validation | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 45.77.126.244 | qwoyn-full-node | CONSTANT NET-45-77-126-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
-| 5.9.106.214 | Archive node | MZONDER | HETZNER-fsn1-dc7 |  |
 | 138.201.220.51 | qwoyn-1-seed | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
