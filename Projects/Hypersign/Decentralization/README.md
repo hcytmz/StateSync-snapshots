@@ -11,12 +11,12 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 95.217.209.233 | F5Nodes | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 89.58.13.159 | KonsorTech-Services | DE-NETCUP-20051123 | netcup GmbH |
 | 65.108.227.112 | [NODERS]TEAM | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.134.215 | moodman | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.207.236 | web34ever | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.237.80 | staking4all | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 167.235.178.134 | hello-hypersign-testrelay | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 95.217.209.233 | F5Nodes | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 23.88.55.152 | cryptobtcbuyer | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 173.212.198.50 | NodesKeeper | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 212.118.42.10 | Perfect_Team | VDSINA-NET | SERVERS TECH FZCO |
@@ -29,10 +29,8 @@
 | 162.55.103.44 | cwt | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 65.21.134.219 | hypersign-node-1 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 154.12.228.93 | D-Stake |  |  |
+| 154.12.228.93 | D-Stake | COGENT-154-12-16 | PSINet, Inc. |
 | 185.144.99.229 | cryptech | ULTRAPAK | Ultra-Pak LLC |
-| 188.40.66.173 | hello-hypersign-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
-| 89.58.13.159 | KonsorTech-Services | DE-NETCUP-20051123 | netcup GmbH |
-| 65.109.68.190 | prajna-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 77.83.92.178 | Sr20de | RU-SBCLOUD-20210408 | SBCloud LLC |
 
 <!-- END_TABLE -->
