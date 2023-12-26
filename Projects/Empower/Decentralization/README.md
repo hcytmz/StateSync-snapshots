@@ -40,7 +40,7 @@
 | 46.38.232.86 | KonsorTech | DE-NETCUP-20101202 | netcup GmbH |
 | 81.0.218.135 | sentry-1 | TT-20221122 | Contabo GmbH |
 | 65.108.232.168 | KonsorTech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.112.170 | NJ-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 62.210.173.13 | node | SCALEWAY-DEDIBOX | Scaleway |
 | 212.90.120.249 | Oldcat | TT-20220730 | Contabo GmbH |
 | 142.44.213.82 | node | HO-2 | OVH Hosting, Inc. |
 | 65.108.140.97 | xAlex | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -66,7 +66,7 @@
 | 84.208.112.111 | fasgreenlife | OSLO-CUSTOMERS-CABLE |  |
 | 167.235.180.97 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.58.28 | Validatrium-rpc | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 89.245.24.131 | windpowerstake02 | VT-DYNAMICPOOL | 1&1 Versatel Deutschland GmbH |
+| 142.132.253.112 | itrocket_seed | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.159.190.53 | node | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 185.119.118.114 | xSYtxn-fpqe | AT-IPAX-20150930 | IPAX GmbH |
 | 57.128.82.197 | NodeStake | RIPE-ERX-57 PCI-GRA11 | RIPE Network Coordination Centre OVH SAS |
@@ -81,11 +81,8 @@
 | 65.109.97.249 | hello-empower-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.193.194 | ECO Stake | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.95.157.139 | randomblahblahfkdsjaflkdsaj | SD-GRA-gra3-sdagg17ab-n93 | OVH SAS |
-| 62.210.173.13 | node | SCALEWAY-DEDIBOX | Scaleway |
-| 142.132.253.112 | itrocket_seed | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.112.170 | NJ-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.5.219 | empowerchain-1-seed | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 138.201.220.51 | empowerchain-1-seed | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 161.97.82.203 | ams-rpc | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 173.249.24.244 | empowerchain-1-seed | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 
 <!-- END_TABLE -->
