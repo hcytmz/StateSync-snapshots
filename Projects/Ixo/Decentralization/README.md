@@ -32,7 +32,7 @@
 | 162.55.133.237 | STAKECRAFT | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.67.185 | Tuzem | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.203.173 | BMV | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 154.53.59.45 | os-node-usw-con | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.59.45 | os-node-usw-con |  |  |
 | 37.27.18.188 | KingSuper | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.195.98 | StakeLab | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 156.59.230.130 | Impacts DAO | APNIC-ERX-156-59-0-0 ZEN-SG | Asia Pacific Network Information Centre Zenlayer (Singapore) PTE. LTD |
@@ -55,5 +55,7 @@
 | 65.108.137.38 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.38.240 | RPCIBC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.148.169.198 | 08ac7d2e-d7d7-528c-9ff3-46844e28ac15 | OUL-16 SD-VIN-V119-MAGGIE-INFRA-002 | OVH US LLC OVH US LLC |
+| 69.129.200.148 | BadgerBite | NETBLK-TDSNET-BLK | TDS TELECOM |
+| 65.108.227.217 | ixo-5-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
