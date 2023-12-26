@@ -43,5 +43,6 @@
 | 69.197.26.12 | POSTHUMAN | STACKPATH-69-197-0-0-1 SP-SOLANA-69-197-26-0-24 | StackPath, LLC. |
 | 167.235.14.83 | NodeName | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.217.68.182 | Nodeist-dora-test | HO-2 | OVH Hosting, Inc. |
+| 176.9.82.221 | vota-vk-seed | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
