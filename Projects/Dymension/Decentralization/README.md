@@ -19,7 +19,7 @@
 | 85.239.240.194 | zardozmonopoly |  |  |
 | 176.9.48.38 | MZONDER |  |  |
 | 57.128.22.76 | mzonder | RIPE-ERX-57 | RIPE Network Coordination Centre |
-| 37.27.14.211 | F5Nodes |  |  |
+| 5.161.57.83 | Provalidator |  |  |
 | 65.109.30.110 | mercurius | RIPE | RIPE Network Coordination Centre |
 | 65.108.206.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
 | 95.217.176.55 | Klever |  |  |
