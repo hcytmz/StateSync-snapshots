@@ -41,14 +41,14 @@
 | 136.243.55.237 | AnyValid | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
 | 5.10.19.55 | forbole-rds |  |  |
-| 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
+| 51.159.223.25 | Citizen Cosmos |  |  |
 | 34.143.212.21 | matters.news | GOOGL-2 | Google LLC |
 | 167.235.2.246 | node | RIPE | RIPE Network Coordination Centre |
 | 207.180.238.137 | moonbeam-RPC | RIPE | RIPE Network Coordination Centre |
 | 144.91.125.80 | BRAND-likecoin-main | RIPE | RIPE Network Coordination Centre |
 | 54.36.108.222 | Stakewolle | RIPE | RIPE Network Coordination Centre |
-| 51.159.223.25 | Citizen Cosmos |  |  |
-| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
+| 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
+| 154.53.63.22 | martianforest |  |  |
 | 143.244.178.171 | OurBoardRoom | DIGITALOCEAN-143-244-128-0 | DigitalOcean, LLC |
 | 64.226.112.184 | likecoin-public-statefulset-0 | DIGITALOCEAN-64-226-64-0 | DigitalOcean, LLC |
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
@@ -57,5 +57,6 @@
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 188.166.226.230 | PM |  |  |
 | 62.171.186.77 | moonbeam |  |  |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
