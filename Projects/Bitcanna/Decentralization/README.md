@@ -62,5 +62,6 @@
 | 158.220.92.97 | AVIAONE | RIPE-ERX-158-220-0-0 TT-20230331 | RIPE Network Coordination Centre Contabo GmbH |
 | 95.111.244.78 | Panthea EU | CONTABO |  |
 | 95.214.55.138 | side-genznodes-1 | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
+| 116.202.218.189 | Indonode-backup | STUB-116-202SLASH15 |  |
 
 <!-- END_TABLE -->
