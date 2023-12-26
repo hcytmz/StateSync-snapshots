@@ -54,7 +54,7 @@
 | 135.148.150.217 | Republic-Crypto | OUL-16 SD-VIN-V119-GAME-2ND | OVH US LLC OVH US LLC |
 | 95.214.52.174 | TC Network |  |  |
 | 95.214.53.215 | jy9u8czqylx1 |  |  |
-| 38.242.150.61 | aura | COGENT-A | PSINet, Inc. |
+| 38.242.150.61 | aura | COGENT-A |  |
 | 116.202.174.253 | Staketab | STUB-116-202SLASH15 |  |
 | 8.218.103.26 | nodehub-aura | APNIC ASEPL-SG | Asia Pacific Network Information Centre Alibaba Cloud (Singapore) Private Limited |
 | 217.144.98.50 | Noderunners |  |  |
@@ -111,6 +111,7 @@
 | 13.250.159.219 | node | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 18.143.52.13 | node | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 95.216.100.99 | mainnet-backup-1 |  |  |
-| 135.181.5.219 | xstaxy-1-seed | RIPE | RIPE Network Coordination Centre |
+| 144.76.45.59 | RPCHuginn | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
+| 65.108.212.224 | xstaxy-1-multiseed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
