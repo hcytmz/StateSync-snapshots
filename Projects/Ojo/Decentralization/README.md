@@ -22,7 +22,6 @@
 | 142.132.209.236 | node | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.159.220.202 | Blockscope.net | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 158.220.92.97 | AVIAONE | RIPE-ERX-158-220-0-0 TT-20230331 | RIPE Network Coordination Centre Contabo GmbH |
-| 34.141.29.140 | snapshot-28393020-5wnjs | GOOGL-2 | Google LLC |
 | 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
 | 65.109.61.113 | vbv | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.68.86 | emperor | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -68,7 +67,7 @@
 | 65.109.32.174 | MMS | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.70.100 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.93.58 | NJ-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 116.203.96.161 | vinnodesojo | STUB-116-202SLASH15 |  |
 | 135.181.227.157 | MapleSyrup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 3.239.191.168 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 138.201.225.104 | ojo | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -104,7 +103,8 @@
 | 167.86.119.194 | Artyr_guru | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 5.78.91.63 | KingSuper | CLOUD-HIL | Hetzner Online GmbH Hetzner Online GmbH |
 | 167.235.180.97 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 116.203.96.161 | vinnodesojo | STUB-116-202SLASH15 |  |
-| 138.201.220.51 | ojo-devnet-seed | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 34.141.29.140 | snapshot-28393080-882b5 | GOOGL-2 | Google LLC |
+| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 141.94.193.28 | rpc-1.ojo.nodes.guru | rbx8-sdagg27a-b-n93-2-2 | OVH SAS |
 
 <!-- END_TABLE -->
