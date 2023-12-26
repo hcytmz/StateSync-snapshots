@@ -35,7 +35,7 @@
 | 38.242.143.195 | likecoin-mainnet | COGENT-A | PSINet, Inc. |
 | 198.244.228.17 | web34ever | RIPE | RIPE Network Coordination Centre |
 | 58.176.243.147 | PikaSer - Sentry | HKBN | Hong Kong Broadband Network Ltd |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 43.224.50.29 | itchitech | HKBNES-HK |  |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 136.243.55.237 | AnyValid | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
@@ -48,7 +48,7 @@
 | 144.91.125.80 | BRAND-likecoin-main | RIPE | RIPE Network Coordination Centre |
 | 54.36.108.222 | Stakewolle | RIPE | RIPE Network Coordination Centre |
 | 51.159.223.25 | Citizen Cosmos |  |  |
-| 154.53.63.22 | martianforest |  |  |
+| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
 | 143.244.178.171 | OurBoardRoom | DIGITALOCEAN-143-244-128-0 | DigitalOcean, LLC |
 | 64.226.112.184 | likecoin-public-statefulset-0 | DIGITALOCEAN-64-226-64-0 | DigitalOcean, LLC |
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
@@ -57,6 +57,5 @@
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 188.166.226.230 | PM |  |  |
 | 62.171.186.77 | moonbeam |  |  |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
