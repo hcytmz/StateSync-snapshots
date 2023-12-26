@@ -39,7 +39,7 @@
 | 13.230.20.39 | y15 | AT-88-Z AMAZON-NRT | Amazon Technologies Inc. Amazon Data Services Japan |
 | 72.76.12.236 | Nymbus-Node | VIS-72-64 | Verizon Business |
 | 188.165.194.110 | ChainTools |  |  |
-| 38.242.253.58 | Inter Blockchain Services | COGENT-A | PSINet, Inc. |
+| 35.161.244.76 | node | AT-88-Z AMAZO-ZPDX9 | Amazon Technologies Inc. Amazon.com, Inc. |
 | 164.90.196.95 | 8912223a1191 | DIGITALOCEAN-164-90-128-0 | DigitalOcean, LLC |
 | 194.163.178.187 | kyve-mainnet |  |  |
 | 65.109.29.224 | Munris | RIPE | RIPE Network Coordination Centre |
@@ -91,7 +91,7 @@
 | 144.76.236.90 | Testnetrun | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 65.108.229.93 | Lefey | RIPE | RIPE Network Coordination Centre |
 | 23.88.74.54 | Rysiman | RIPE | RIPE Network Coordination Centre |
-| 135.181.215.62 | Enigma | RIPE | RIPE Network Coordination Centre |
+| 3.72.28.238 | node | AT-88-Z AMAZON-FRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 65.108.199.51 | DOUBELTOP_RPC | RIPE | RIPE Network Coordination Centre |
 | 65.108.70.119 | AlxVoy | RIPE | RIPE Network Coordination Centre |
 | 54.93.104.10 | node | AMAZON-2011L AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
@@ -102,7 +102,7 @@
 | 148.251.8.22 | Pro-Nodes | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 75.119.132.25 | moodman | RIPE | RIPE Network Coordination Centre |
-| 3.72.28.238 | node | AT-88-Z AMAZON-FRA | Amazon Technologies Inc. A100 ROW GmbH |
+| 3.78.11.203 | node | AT-88-Z AMAZON-FRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 65.108.0.94 | hello-kyve-backup | RIPE | RIPE Network Coordination Centre |
 | 65.109.100.61 | kyveDG-1_DG | RIPE | RIPE Network Coordination Centre |
 | 158.247.215.181 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
@@ -110,9 +110,8 @@
 | 91.230.153.214 | RuValidator |  |  |
 | 104.196.101.86 | P2P.ORG Validator | GOOGLE-CLOUD | Google LLC |
 | 95.217.8.158 | StolenKrown |  |  |
-| 35.161.244.76 | node | AT-88-Z AMAZO-ZPDX9 | Amazon Technologies Inc. Amazon.com, Inc. |
-| 18.196.127.224 | node | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
+| 18.198.182.214 | node | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 34.238.156.45 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 65.108.227.217 | kyve-1-seed | RIPE | RIPE Network Coordination Centre |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
