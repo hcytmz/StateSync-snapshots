@@ -66,6 +66,7 @@
 | 94.130.137.122 | Vagif | HETZNER-fsn1-dc4 | Hetzner Online GmbH |
 | 65.109.84.33 | Nodejumper | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 195.201.222.82 | okp4-nemeton-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.68.190 | okp4-nemeton-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
