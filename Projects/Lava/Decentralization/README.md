@@ -27,7 +27,7 @@
 | 35.189.212.113 | testnet-internal-rpc | GOOGLE-CLOUD | Google LLC |
 | 23.88.5.169 | LiveRaveN | RIPE | RIPE Network Coordination Centre |
 | 31.220.75.138 | Dominik |  |  |
-| 154.38.167.188 | wildweststaking |  |  |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 | 161.97.146.210 | Dominik | RIPE | RIPE Network Coordination Centre |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 65.109.70.45 | L0vd.com | RIPE | RIPE Network Coordination Centre |
@@ -105,7 +105,7 @@
 | 89.117.51.129 | KelvinBorrel |  |  |
 | 141.95.124.105 | mynode |  |  |
 | 167.235.180.97 | w3coins | RIPE | RIPE Network Coordination Centre |
-| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
+| 162.55.245.144 | e9c2c9b8-739e0e | RIPE | RIPE Network Coordination Centre |
 | 86.111.48.158 | test |  |  |
 | 91.107.148.113 | maliy222 |  |  |
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
@@ -150,6 +150,6 @@
 | 217.160.220.223 | BabyScope |  |  |
 | 15.204.216.192 | InfraSingularity | OUL-16 PCI-US-EAST-VA-1 | OVH US LLC OVH (NWK) |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 162.55.245.144 | e9c2c9b8-739e0e | RIPE | RIPE Network Coordination Centre |
+| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
