@@ -121,7 +121,7 @@
 | 95.214.55.227 | 2ksuoz4myt8c | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
 | 98.157.122.100 | BandSentry1 | RRWE | Charter Communications Inc |
 | 34.64.245.112 | bf-s-kr | GOOGL-2 GOOGLE-CLOUD | Google LLC Google Asia Pacific Pte. Ltd. |
-| 167.235.180.97 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 13.228.223.191 | band_ip-10-192-64-65 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 3.126.103.168 | dj3dja | AT-88-Z AMAZO-ZFRA | Amazon Technologies Inc. A100 ROW GmbH |
 | 45.129.147.242 | ams-atlas-staking | qupra-access-2 |  |
 | 34.76.55.114 | bf-s-euw | GOOGL-2 | Google LLC |
@@ -133,9 +133,9 @@
 | 18.138.54.118 | bandchain | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 65.21.202.61 | band-api | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 88.99.208.54 | StakeTown-API | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
-| 176.9.147.146 | band-sentry | HETZNER-fsn1-dc7 | Hetzner Online GmbH |
+| 193.34.212.203 | Ysewdd | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 65.108.108.42 | 0base.vc-laozi-mainnet-bandprotocol-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 54.199.153.43 | sintral-s1 | AMAZON AMAZO-ZNRT4 | Amazon Technologies Inc. Amazon.com, Inc. |
-| 193.34.212.203 | Ysewdd | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
+| 167.235.180.97 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
