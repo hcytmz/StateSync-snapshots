@@ -77,7 +77,7 @@
 | 162.55.1.176 | NacionCrypto - Parceros | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 162.19.237.150 | NodeStake | RIPE PCI-DE1 | RIPE Network Coordination Centre OVH GmbH |
 | 173.212.223.233 | test | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 18.119.112.130 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 65.21.73.18 | ST-Server | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 89.117.52.159 | BigBrainStaking | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 46.4.23.42 | NakoTurk | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 194.233.90.134 | geonodes | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
@@ -125,6 +125,5 @@
 | 142.132.134.112 | dymension_rpc | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 199.60.101.162 | mydymnode1 | USD-NET-199-60-101 | Dedicated.com |
 | 46.4.99.152 | node | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
-| 65.21.73.18 | ST-Server | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
