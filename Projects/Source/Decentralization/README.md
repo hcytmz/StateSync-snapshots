@@ -20,7 +20,6 @@
 | 158.69.125.73 | Nodeist-source-main | HO-2 | OVH Hosting, Inc. |
 | 149.102.132.207 | molla202 | COGENT-149-102-16 | PSINet, Inc. |
 | 95.214.53.20 | 7abboz6k2glv |  |  |
-| 46.17.250.43 | Sr20de |  |  |
 | 65.108.194.228 | Validatus | RIPE | RIPE Network Coordination Centre |
 | 65.21.139.3 | Validatus | RIPE | RIPE Network Coordination Centre |
 | 85.215.53.245 | itdatex |  |  |
@@ -60,9 +59,9 @@
 | 174.138.176.146 | AlxVoy | INTER-83 | Interserver, Inc |
 | 75.119.146.181 | geonodes | RIPE | RIPE Network Coordination Centre |
 | 78.46.60.173 | Validatus |  |  |
-| 65.109.116.151 | itrocket_rpc | RIPE | RIPE Network Coordination Centre |
+| 88.99.208.54 | StakeTown-API |  |  |
 | 182.42.93.241 | 1024dao | CHINANET-SD |  |
-| 91.233.183.117 | Vnode_casH |  |  |
+| 88.99.145.188 | Sr20de Service node |  |  |
 | 213.239.207.175 | StakeUp |  |  |
 | 174.129.134.208 | GuardianTwelve | AMAZON-EC2-5 AMAZON-IAD | Amazon.com, Inc. Amazon Data Services NoVa |
 | 167.235.102.45 | Testnet-Snapshot | RIPE | RIPE Network Coordination Centre |
@@ -86,7 +85,7 @@
 | 192.99.201.123 | Nodes-Hub | OVH-ARIN-7 | OVH Hosting, Inc. |
 | 218.102.97.67 | Oneiric Stake | NETVIGATOR |  |
 | 173.215.85.171 | celtic-lotus | AUREON-BLK2 NET-173-215-85-0-24 | Aureon Network Services MI FIBER URBANDALE |
-| 88.99.208.54 | StakeTown-API |  |  |
+| 78.27.236.55 | Korniei |  |  |
 | 51.222.44.116 | ITRocket |  |  |
 | 65.109.153.140 | RoomIT | RIPE | RIPE Network Coordination Centre |
 | 182.42.88.202 | antennaa | CHINANET-SD |  |
@@ -100,7 +99,7 @@
 | 85.10.200.11 | anodeofzen |  |  |
 | 162.19.124.59 | NodeStake | RIPE | RIPE Network Coordination Centre |
 | 65.21.198.100 | nodexrelay | RIPE | RIPE Network Coordination Centre |
-| 78.27.236.55 | Korniei |  |  |
-| 88.99.145.188 | Sr20de Service node |  |  |
+| 65.109.116.151 | itrocket_rpc | RIPE | RIPE Network Coordination Centre |
+| 46.17.250.43 | Sr20de |  |  |
 
 <!-- END_TABLE -->
