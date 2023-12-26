@@ -32,7 +32,7 @@
 | 35.189.212.113 | testnet-internal-rpc | GOOGLE-CLOUD | Google LLC |
 | 23.88.5.169 | LiveRaveN | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 31.220.75.138 | Dominik | TT-20230217 | Contabo GmbH |
-| 154.38.167.188 | wildweststaking |  |  |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 | 161.97.146.210 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 65.109.89.18 | itrocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.70.45 | L0vd.com | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -139,13 +139,13 @@
 | 154.38.168.132 | Wildweststaking2 |  |  |
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 62.171.170.79 | albina | CONTABO | Contabo GmbH |
-| 154.12.245.41 | ReLaX |  |  |
+| 154.12.245.41 | ReLaX | COGENT-154-12-16 | PSINet, Inc. |
 | 195.14.6.2 | 01node | O1NODE | 01NODE STAKING SERVICES S.R.L. |
 | 146.0.78.166 | erfrf | RIPE-ERX-146-0-0-0 HOSTKEY-NET | RIPE Network Coordination Centre |
 | 46.138.240.175 | EL646 | MGTS-PPPOE |  |
 | 178.18.252.105 | testnet | CONTABO |  |
 | 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
-| 154.53.51.114 | stone |  |  |
+| 154.53.51.114 | stone | COGENT-154-53-16 | PSINet, Inc. |
 | 23.88.7.159 | semalist | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 154.53.54.154 | paha | COGENT-154-53-16 | PSINet, Inc. |
 | 134.255.244.236 | Republic Crypto | Runtime | RIPE-ERX-134-255-0-0 IPP-NET-15 | RIPE Network Coordination Centre |
