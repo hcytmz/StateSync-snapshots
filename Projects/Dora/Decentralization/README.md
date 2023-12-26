@@ -31,11 +31,10 @@
 | 18.143.75.85 | dorafactory | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 65.20.77.19 | BlackNodes | CONSTANT VULTR | The Constant Company, LLC |
 | 34.118.242.103 | oibek | GOOGL-2 | Google LLC |
-| 65.108.231.124 | itrocket_seed | RIPE | RIPE Network Coordination Centre |
+| 38.242.249.115 | kooltek68 | COGENT-A | PSINet, Inc. |
 | 161.97.77.219 | Apollo | RIPE | RIPE Network Coordination Centre |
 | 65.109.92.148 | Shoni | RIPE | RIPE Network Coordination Centre |
 | 5.161.240.23 | RPC |  |  |
-| 38.242.249.115 | kooltek68 | COGENT-A | PSINet, Inc. |
-| 3.144.94.199 | vota-vk-seed | AT-88-Z | Amazon Technologies Inc. |
+| 65.108.231.124 | itrocket_seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
