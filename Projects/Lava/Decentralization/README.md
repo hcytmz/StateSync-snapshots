@@ -27,7 +27,7 @@
 | 35.189.212.113 | testnet-internal-rpc | GOOGLE-CLOUD | Google LLC |
 | 23.88.5.169 | LiveRaveN | RIPE | RIPE Network Coordination Centre |
 | 31.220.75.138 | Dominik |  |  |
-| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.167.188 | wildweststaking |  |  |
 | 161.97.146.210 | Dominik | RIPE | RIPE Network Coordination Centre |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 65.109.70.45 | L0vd.com | RIPE | RIPE Network Coordination Centre |
@@ -132,9 +132,9 @@
 | 65.108.124.121 | Lapatylin | RIPE | RIPE Network Coordination Centre |
 | 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
 | 154.38.168.132 | Wildweststaking2 |  |  |
-| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
+| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
 | 62.171.170.79 | albina |  |  |
-| 154.12.245.41 | ReLaX | COGENT-154-12-16 | PSINet, Inc. |
+| 154.12.245.41 | ReLaX |  |  |
 | 195.14.6.2 | 01node |  |  |
 | 146.0.78.166 | erfrf | RIPE-ERX-146-0-0-0 | RIPE Network Coordination Centre |
 | 46.138.240.175 | EL646 |  |  |
@@ -150,6 +150,6 @@
 | 217.160.220.223 | BabyScope |  |  |
 | 15.204.216.192 | InfraSingularity | OUL-16 PCI-US-EAST-VA-1 | OVH US LLC OVH (NWK) |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
+| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 
 <!-- END_TABLE -->
