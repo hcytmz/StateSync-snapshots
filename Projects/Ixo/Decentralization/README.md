@@ -53,6 +53,7 @@
 | 43.133.34.14 | ImpactHub node |  |  |
 | 31.171.250.63 | Gateway FM | CH-CLOUDSIGMA |  |
 | 79.19.137.58 | Kleomedes | TELECOM-ADSL-POOL |  |
-| 154.53.59.45 | os-node-usw-con |  |  |
+| 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
+| 154.53.59.45 | os-node-usw-con | COGENT-154-53-16 | PSINet, Inc. |
 
 <!-- END_TABLE -->
