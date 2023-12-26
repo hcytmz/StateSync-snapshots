@@ -23,7 +23,7 @@
 | 65.108.201.154 | Enigma | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 137.184.116.66 | daodao_indexer | DIGITALOCEAN-137-184-0-0 | DigitalOcean, LLC |
 | 195.14.6.110 | 01node | O1NODE | 01NODE STAKING SERVICES S.R.L. |
-| 154.12.241.136 | contabo-node-12 |  |  |
+| 89.117.52.158 | Node.Monster.Three | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 51.195.7.27 | The_Cybernetics | fra1-lim1-sdagg27a-b-n93-1-1 | OVH GmbH |
 | 54.255.125.88 | juno-node00 | AMAZON-2011L AMAZON-ASIA-SIN3 | Amazon Technologies Inc. Amazon Data Services Japan |
 | 136.243.79.95 | Validavia | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -46,7 +46,7 @@
 | 65.108.232.134 | ng | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 93.115.25.178 | Zenscape | Dedicated_servers |  |
-| 65.109.32.148 | Architect Nodes Relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 51.195.145.98 | cosmology-2 | OVH_210959297 | OVH Ltd |
 | 138.201.48.217 | archive | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 46.4.91.49 | osm | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 51.158.156.171 | levana | SCALEWAY-AMS | Scaleway |
@@ -56,7 +56,7 @@
 | 128.140.75.225 | node-1 | RIPE-ERX-128-140-0-0 CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 71.13.17.144 | Antrix Validators | CC04 DLT-MN-71-13-16 | Charter Communications Charter Communications |
 | 51.158.126.204 | Meria | ONLINENET_DEDICATED_SERVERS | Scaleway |
-| 95.216.46.125 | StakeTown-API | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.40.61 | 29391 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 13.56.95.86 | Cosmostation | AT-88-Z | Amazon Technologies Inc. |
 | 164.152.162.128 | Tendermint | ALLNO | Allnodes Inc |
 | 94.130.68.212 | ugaenn | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
@@ -108,7 +108,7 @@
 | 194.163.172.115 | Stake&Relax-juno-main | CONTABO |  |
 | 93.189.30.111 | dankuzone_w_daic | AT-IPAX-20080423 | IPAX GmbH |
 | 37.27.55.115 | alaska-indexer-1 | DE-HETZNER-20111228 | Hetzner Online GmbH Hetzner Online GmbH |
-| 51.195.145.98 | cosmology-2 | OVH_210959297 | OVH Ltd |
+| 44.214.37.79 | moniker | AMAZO-4 AMAZON-IAD | Amazon.com, Inc. Amazon Data Services NoVa |
 | 78.46.88.125 | cosmoshub-0-main | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 185.185.80.225 | BRAND-juno-main | TT-2022010305 | Contabo GmbH |
 | 65.109.113.86 | bricks_juno | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -121,7 +121,7 @@
 | 95.168.173.33 | JUNO-mainnet-prod | NL-LEASEWEB-20090106 | LeaseWeb Netherlands B.V. |
 | 65.109.96.189 | Kalia Network | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.214.52.139 | 5z8uk7yjve1p | PL-MEV-20181221 | MEVSPACE sp. z o.o. |
-| 80.64.211.107 | Simply Staking | Skoed-MT |  |
+| 95.216.46.125 | StakeTown-API | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.146.164 | stake.systems | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.10.24.97 | cosmology-1 | BBS-Commerce-GB |  |
 | 65.108.76.112 | 439028fd0a9s8fdsajkl432 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -131,7 +131,7 @@
 | 146.70.66.197 | 01node | RIPE-ERX-146-70-0-0 M247-Europe | RIPE Network Coordination Centre M247 Europe SRL |
 | 138.201.21.121 | Validatrium-rpc | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 158.247.219.236 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
-| 65.108.40.61 | 29391 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 178.18.255.244 | KalpaTech | CONTABO |  |
 | 65.21.74.247 | #SoloNation | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 54.217.156.221 | juno_node | AMAZON AMAZO-ZDUB3 | Amazon Technologies Inc. Amazon.com, Inc. |
 | 204.93.241.110 | luckyfriday | SCN-6 | Server Central Network |
@@ -141,11 +141,13 @@
 | 116.202.192.156 | Chainflow Sentry 1 | STUB-116-202SLASH15 |  |
 | 208.88.251.50 | juno-mainnet-sentry-0 | HANCOCKINT-1 | Hancock Internet |
 | 66.172.36.139 | node | CYBERVERSE06 CYBERVERSE-66-172-36-0 | Evocative, Inc. |
-| 65.108.98.235 | sentry-4 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 47.128.236.222 | bprod-juno-2 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 176.9.139.74 | myrpc | HETZNER-fsn1-dc7 | Hetzner Online GmbH |
 | 5.22.211.140 | sentry | UPCLOUD-NL-AMS1-NET |  |
-| 144.126.217.120 | SpacePotato | DIGITALOCEAN-144-126-192-0 | DigitalOcean, LLC |
+| 141.94.97.24 | burby | SD-SBG3-GAME | OVH SAS |
 | 178.128.220.188 | witval | DIGITALOCEAN |  |
-| 47.128.236.222 | bprod-juno-2 | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 65.109.32.148 | Architect Nodes Relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 109.70.113.100 | Decloud Nodes Lab | AS8758-GieldanowskiConsulting |  |
+| 144.126.217.120 | SpacePotato | DIGITALOCEAN-144-126-192-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
