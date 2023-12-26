@@ -51,7 +51,7 @@
 | 165.73.113.212 | buildkitsandbox | AFRINIC-ERX-165-73-0-0 AFRIHOST | African Network Information Center |
 | 15.235.160.196 | 0d0c1742-8540-5c48-ab33-7d3b2852aead | HO-2 OVHCLOUD-SGP SD-SGP | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 174.138.176.146 | AlxVoy | INTER-83 | Interserver, Inc |
-| 192.99.160.197 | KYN-SIDE | OVH-ARIN-7 | OVH Hosting, Inc. |
+| 213.32.24.201 | genznodes_sentry_1 |  |  |
 | 85.10.201.125 | jayjay |  |  |
 | 142.132.248.253 | Blackhox | RIPE | RIPE Network Coordination Centre |
 | 64.185.226.202 | sge | WEBNX-BLK-12 WEBNX-NYC-RANGE-2 | WebNX, Inc. WebNX, Inc. |
@@ -75,15 +75,13 @@
 | 65.109.154.181 | MyNode | RIPE | RIPE Network Coordination Centre |
 | 65.21.198.100 | nodexrelay | RIPE | RIPE Network Coordination Centre |
 | 150.230.137.157 | Alien | ERX-NETBLOCK |  |
+| 162.19.124.59 | NodeStake | RIPE | RIPE Network Coordination Centre |
 | 158.69.27.233 | KYN-PUBLIC | HO-2 | OVH Hosting, Inc. |
 | 15.235.160.127 | 90a159a7-e08d-53e3-8b6c-0e82c68bee52 | HO-2 OVHCLOUD-SGP SD-SGP | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 94.130.13.186 | sge |  |  |
 | 142.132.202.86 | ramuchi.tech | RIPE | RIPE Network Coordination Centre |
 | 141.164.61.145 | node | RIPE-ERX-141 | RIPE Network Coordination Centre |
 | 5.39.249.16 | Sr20de |  |  |
-| 162.19.124.59 | NodeStake | RIPE | RIPE Network Coordination Centre |
-| 213.32.24.201 | genznodes_sentry_1 |  |  |
-| 65.109.118.169 | jayjayservice | RIPE | RIPE Network Coordination Centre |
-| 38.146.3.100 | sgenet-1-seed | COGENT-A | PSINet, Inc. |
+| 192.99.160.197 | KYN-SIDE | OVH-ARIN-7 | OVH Hosting, Inc. |
 
 <!-- END_TABLE -->
