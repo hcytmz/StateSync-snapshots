@@ -29,7 +29,7 @@
 | 65.109.33.48 | L0vd.com | RPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.141.43 | Kolot | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.39.223 | Loona.Systems | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 74.208.94.42 | sentinelnois | 1AN1-NETWORK | IONOS Inc. |
+| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 46.4.91.49 | fln | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 148.251.8.186 | Nodejumper | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 84.46.250.136 | Stake&Relax | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
@@ -71,7 +71,7 @@
 | 57.128.144.242 | Forbole | RIPE-ERX-57 OVH_235343661 | RIPE Network Coordination Centre OVH Ltd |
 | 81.0.248.57 | nois-main | TT-20221122 | Contabo GmbH |
 | 80.254.8.54 | ITpro | EXPRESS |  |
-| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.66.174 | hello-BccNodesRPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.198.17 | chronon | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.76.63.67 | EZStaking.io | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 185.16.39.158 | anun10vv7ign | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
@@ -89,11 +89,10 @@
 | 49.12.120.113 | rnggnr | STUB-49-12SLASH15 |  |
 | 65.109.112.170 | Nodejumper | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 57.128.163.232 | NodeStake | RIPE-ERX-57 PCI-UK1 | RIPE Network Coordination Centre OVH Ltd |
-| 65.108.66.174 | hello-BccNodesRPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.106.169 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 154.53.44.239 | dstake |  |  |
 | 65.109.118.169 | jayjayservice | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.106.169 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
