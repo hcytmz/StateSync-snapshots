@@ -125,7 +125,7 @@
 | 148.251.88.145 | Palamar | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 167.86.104.221 | hlebhryliav | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 65.108.100.31 | MELLIFERA | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 |  |
+| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | ColoCrossing |
 | 109.123.241.222 | ibs | TT-20221020 | Contabo GmbH |
 | 65.21.123.172 | Kennethy | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.73.233 | monastic | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -135,10 +135,10 @@
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 65.108.124.121 | Lapatylin | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 HETZNER-RZ-BLK-ERX4 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 154.38.168.132 | Wildweststaking2 |  |  |
+| 154.38.168.132 | Wildweststaking2 | COGENT-154-38-16 | PSINet, Inc. |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 154.12.245.41 | ReLaX | COGENT-154-12-16 | PSINet, Inc. |
+| 154.12.245.41 | ReLaX |  |  |
 | 195.14.6.2 | 01node | O1NODE | 01NODE STAKING SERVICES S.R.L. |
 | 146.0.78.166 | erfrf | RIPE-ERX-146-0-0-0 HOSTKEY-NET | RIPE Network Coordination Centre |
 | 144.126.138.62 | LanceLoT | CONTA-48 | Contabo Inc. |
@@ -154,6 +154,6 @@
 | 217.160.220.223 | BabyScope | IONOS-CUSTOMERS | IONOS SE |
 | 15.204.216.192 | InfraSingularity | OUL-16 PCI-US-EAST-VA-1 | OVH US LLC OVH (NWK) |
 | 88.198.52.89 | StarkNode | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 65.109.93.58 | nj-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
