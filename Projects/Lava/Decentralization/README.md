@@ -31,7 +31,7 @@
 | 35.189.212.113 | testnet-internal-rpc | GOOGLE-CLOUD | Google LLC |
 | 23.88.5.169 | LiveRaveN | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 31.220.75.138 | Dominik | TT-20230217 | Contabo GmbH |
-| 154.38.167.188 | wildweststaking |  |  |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 | 161.97.146.210 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 65.109.89.18 | itrocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.70.45 | L0vd.com | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -83,7 +83,7 @@
 | 213.239.207.175 | landeros | HETZNER-RZ-NBG-NET2 |  |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
 | 65.108.75.174 | ST-Server | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 154.12.245.42 | DarkSteem | COGENT-154-12-16 | PSINet, Inc. |
+| 154.12.245.42 | DarkSteem |  |  |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 65.109.143.184 | srklt | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 35.205.44.215 | testnet2-validator-3 | GOOGLE-CLOUD | Google LLC |
@@ -136,15 +136,15 @@
 | 65.108.124.121 | Lapatylin | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 HETZNER-RZ-BLK-ERX4 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 154.38.168.132 | Wildweststaking2 |  |  |
-| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 167.235.180.242 | erfer | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 154.12.245.41 | ReLaX |  |  |
+| 154.12.245.41 | ReLaX | COGENT-154-12-16 | PSINet, Inc. |
 | 195.14.6.2 | 01node | O1NODE | 01NODE STAKING SERVICES S.R.L. |
 | 146.0.78.166 | erfrf | RIPE-ERX-146-0-0-0 HOSTKEY-NET | RIPE Network Coordination Centre |
 | 144.126.138.62 | LanceLoT | CONTA-48 | Contabo Inc. |
 | 178.18.252.105 | testnet | CONTABO |  |
 | 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
-| 154.53.51.114 | stone |  |  |
+| 154.53.51.114 | stone | COGENT-154-53-16 | PSINet, Inc. |
 | 23.88.7.159 | semalist | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 154.53.54.154 | paha |  |  |
 | 134.255.244.236 | Republic Crypto | Runtime | RIPE-ERX-134-255-0-0 IPP-NET-15 | RIPE Network Coordination Centre |
@@ -154,6 +154,6 @@
 | 217.160.220.223 | BabyScope | IONOS-CUSTOMERS | IONOS SE |
 | 15.204.216.192 | InfraSingularity | OUL-16 PCI-US-EAST-VA-1 | OVH US LLC OVH (NWK) |
 | 88.198.52.89 | StarkNode | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
