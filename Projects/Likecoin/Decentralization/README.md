@@ -28,7 +28,6 @@
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
 | 62.171.186.77 | moonbeam | CONTABO | Contabo GmbH |
@@ -45,7 +44,6 @@
 | 136.243.55.237 | AnyValid | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 5.10.19.55 | forbole-rds | CUSTOMERS-Subnet4 |  |
-| 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 34.143.212.21 | matters.news | GOOGL-2 | Google LLC |
 | 167.235.2.246 | node | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 207.180.238.137 | moonbeam-RPC | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -61,7 +59,8 @@
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
-| 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
