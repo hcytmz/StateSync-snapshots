@@ -24,7 +24,7 @@
 | 135.181.117.165 | alterkahn | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.54.232 | myNode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 89.233.108.200 | SECARD | FRA1-89-233-108-0-24 |  |
-| 38.146.3.180 | nois | COGENT-A |  |
+| 38.146.3.180 | nois | COGENT-A | PSINet, Inc. |
 | 65.21.122.47 | multi-net | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.33.48 | L0vd.com | RPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.141.43 | Kolot | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
@@ -44,7 +44,7 @@
 | 213.239.199.149 | mib | HETZNER-RZ-NBG-NET2 |  |
 | 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 RU-SBCLOUD-20210827 | RIPE Network Coordination Centre SBCloud LLC |
 | 144.76.97.251 | AlxVoy | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 142.132.253.112 | itrocket | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 154.53.44.239 | dstake |  |  |
 | 141.94.193.28 | rpc-1.nois.nodes.guru | rbx8-sdagg27a-b-n93-2-2 | OVH SAS |
 | 31.220.87.206 | NakoTurk | TT-20230217 | Contabo GmbH |
 | 5.181.190.114 | L0vd.com | PL-MEV-20190403 | MEVSPACE sp. z o.o. |
@@ -82,7 +82,6 @@
 | 32.221.99.231 | YOUR_MONIKER | SNET-AMERICA | Southern New England Telephone Company and SNET America, Inc. |
 | 65.108.46.100 | BccNodes | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.215.62 | nois_mainnets | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 65.108.82.62 | ROSNODEMONITORING | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.104.118 | lesnik_utsa | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 88.198.18.88 | terlia | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
@@ -93,8 +92,10 @@
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
 | 65.109.118.169 | jayjayservice | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
-| 65.108.79.237 | chaintools-relayer-node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
+| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
