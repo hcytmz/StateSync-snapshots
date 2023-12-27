@@ -28,6 +28,7 @@
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
 | 62.171.186.77 | moonbeam | CONTABO | Contabo GmbH |
@@ -61,7 +62,6 @@
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
 | 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
