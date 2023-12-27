@@ -54,7 +54,7 @@
 | 143.110.185.169 | Kahuna | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
 | 89.117.53.37 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 167.235.117.93 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 34.121.227.161 | mynode | GOOGL-2 | Google LLC |
+| 65.21.131.21 | node | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.248.253 | Blackhox | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 78.46.107.187 | cryptan | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 65.21.203.204 | RozaS | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -117,7 +117,7 @@
 | 62.171.145.122 | Lavanode8 | CONTABO | Contabo GmbH |
 | 217.160.220.223 | BabyScope | IONOS-CUSTOMERS | IONOS SE |
 | 162.55.245.144 | e9c2c9b8-739e0e | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 174.138.187.2 | mynode | INTER-83 SRV20124 | Interserver, Inc PingPipe Internet Corporation |
 | 95.217.114.120 | Jocker | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
 | 195.3.223.135 | Hamster | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
@@ -125,7 +125,7 @@
 | 65.21.255.102 | human_node | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 161.97.122.145 | Lavanode1 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 65.108.231.238 | nodeADDICT | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 161.97.134.68 | Lava(first) | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 194.180.176.125 | 123 | TT-20220721 | Contabo GmbH |
 | 104.207.130.172 | TeoViTeoVi | CONSTANT NET-104-207-130-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 31.220.90.176 | Lavanode5 | TT-20230217 | Contabo GmbH |
 | 62.171.159.226 | Lavanode6 | CONTABO | Contabo GmbH |
@@ -133,8 +133,12 @@
 | 65.109.85.52 | Pathrocknework | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 35.205.44.215 | testnet2-validator-3 | GOOGLE-CLOUD | Google LLC |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 138.201.204.5 | haciyatmaz | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 167.86.123.205 | Lavamijigo | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 91.107.148.113 | maliy222 | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.41.172 | cyberG | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.21.109.52 | bmwm5drift | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 141.95.124.105 | mynode | SD-LIM3-LIM-FAT-MAGGIE-SDAGG14-infra-002-2-2 | OVH GmbH |
+| 91.107.148.5 | bmwm6 | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 161.97.134.68 | Lava(first) | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 31.220.76.133 | mr.jo | TT-20230217 | Contabo GmbH |
 
 <!-- END_TABLE -->
