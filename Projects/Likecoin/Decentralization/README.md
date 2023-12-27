@@ -17,7 +17,6 @@
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
-| 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 174.62.237.158 | StakeLabz DAO | JUMPSTART-5 CHICAGO-CPE-15 | Comcast Cable Communications, LLC |
@@ -56,10 +55,10 @@
 | 173.212.231.154 | Family-Online | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 154.12.227.117 | 50%Banana |  |  |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
-| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 
 <!-- END_TABLE -->
