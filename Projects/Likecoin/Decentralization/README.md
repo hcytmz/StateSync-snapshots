@@ -17,7 +17,7 @@
 | 194.163.161.194 | Foxinodes | CONTABO |  |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
-| 70.70.200.225 | Quebec | SHAW-COMM |  |
+| 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
@@ -42,7 +42,7 @@
 | 94.250.203.238 | ericet | CONTABO-08 | Contabo GmbH |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 136.243.55.237 | AnyValid | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
+| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 5.10.19.55 | forbole-rds | CUSTOMERS-Subnet4 |  |
 | 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 34.143.212.21 | matters.news | GOOGL-2 | Google LLC |
@@ -59,6 +59,7 @@
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
-| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
+| 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
