@@ -37,7 +37,7 @@
 | 167.235.14.83 | Ubuntu-2204-jammy-amd64-base | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | ColoCrossing |
 | 109.123.251.165 | my-node | TT-20221020 | Contabo GmbH |
-| 154.38.167.188 | wildweststaking |  |  |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 TT-20230331 | RIPE Network Coordination Centre Contabo GmbH |
 | 14.226.244.42 | TeoViTeoVi | VNPT-VN |  |
 | 147.135.222.170 | nnm | RIPE FR-OVH-20170322 | RIPE Network Coordination Centre OVH SAS |
@@ -138,7 +138,10 @@
 | 65.21.109.52 | bmwm5drift | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.95.124.105 | mynode | SD-LIM3-LIM-FAT-MAGGIE-SDAGG14-infra-002-2-2 | OVH GmbH |
 | 91.107.148.5 | bmwm6 | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 161.97.134.68 | Lava(first) | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 31.220.76.133 | mr.jo | TT-20230217 | Contabo GmbH |
+| 75.119.146.252 | node101 | RIPE CONTABO | RIPE Network Coordination Centre |
+| 65.108.72.233 | Busta Rhymes | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 138.201.204.5 | haciyatmaz | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
+| 62.171.145.36 | vinLava | CONTABO | Contabo GmbH |
 
 <!-- END_TABLE -->
