@@ -44,7 +44,7 @@
 | 213.239.199.149 | mib | HETZNER-RZ-NBG-NET2 |  |
 | 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 RU-SBCLOUD-20210827 | RIPE Network Coordination Centre SBCloud LLC |
 | 144.76.97.251 | AlxVoy | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
 | 141.94.193.28 | rpc-1.nois.nodes.guru | rbx8-sdagg27a-b-n93-2-2 | OVH SAS |
 | 31.220.87.206 | NakoTurk | TT-20230217 | Contabo GmbH |
 | 5.181.190.114 | L0vd.com | PL-MEV-20190403 | MEVSPACE sp. z o.o. |
@@ -67,7 +67,6 @@
 | 54.38.128.34 | qwerty-nois-main | RIPE SD-HG-10G-WAW1-W03A | RIPE Network Coordination Centre OVH Sp. z o. o. |
 | 38.242.225.247 | narkosha | COGENT-A | PSINet, Inc. |
 | 65.109.116.151 | itrocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
 | 57.128.144.242 | Forbole | RIPE-ERX-57 OVH_235343661 | RIPE Network Coordination Centre OVH Ltd |
 | 81.0.248.57 | nois-main | TT-20221122 | Contabo GmbH |
 | 80.254.8.54 | ITpro | EXPRESS |  |
@@ -93,6 +92,7 @@
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 154.53.44.239 | dstake |  |  |
 | 65.109.118.169 | jayjayservice | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 74.208.94.42 | sentinelnois | 1AN1-NETWORK | IONOS Inc. |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 
 <!-- END_TABLE -->
