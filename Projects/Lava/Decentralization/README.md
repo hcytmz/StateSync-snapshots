@@ -135,7 +135,7 @@
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 65.108.124.121 | Lapatylin | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 HETZNER-RZ-BLK-ERX4 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 154.38.168.132 | Wildweststaking2 | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.168.132 | Wildweststaking2 |  |  |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 154.12.245.41 | ReLaX |  |  |
