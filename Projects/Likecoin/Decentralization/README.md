@@ -17,7 +17,7 @@
 | 194.163.161.194 | Foxinodes | CONTABO |  |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
-| 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
+| 70.70.200.225 | Quebec | SHAW-COMM |  |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
@@ -51,16 +51,14 @@
 | 144.91.125.80 | BRAND-likecoin-main | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 54.36.108.222 | Stakewolle | RIPE SD-LIM1 | RIPE Network Coordination Centre OVH GmbH |
 | 213.136.88.233 | Oldcat-likecoin-relayer | CONTABO | Contabo GmbH |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 |  |
+| 143.244.178.171 | OurBoardRoom | DIGITALOCEAN-143-244-128-0 | DigitalOcean, LLC |
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
 | 64.226.112.184 | likecoin-public-statefulset-0 | DIGITALOCEAN-64-226-64-0 | DigitalOcean, LLC |
 | 173.212.231.154 | Family-Online | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 154.12.227.117 | 50%Banana |  |  |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
-| 143.244.178.171 | OurBoardRoom | DIGITALOCEAN-143-244-128-0 | DigitalOcean, LLC |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
