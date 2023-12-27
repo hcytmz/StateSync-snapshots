@@ -59,7 +59,7 @@
 | 91.107.147.250 | igor777 | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 85.10.198.169 | rgeh | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 31.220.76.135 | Djo#9823 | TT-20230217 | Contabo GmbH |
-| 158.220.106.145 | bertyk | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
+| 65.109.93.58 | nj-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.134.202 | DiBugNodes | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 159.69.72.247 | Robin | RIPE DE-HETZNER-19920313 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.239.60 | Sergio | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -144,7 +144,7 @@
 | 144.126.138.62 | LanceLoT | CONTA-48 | Contabo Inc. |
 | 178.18.252.105 | testnet | CONTABO |  |
 | 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
-| 154.53.51.114 | stone |  |  |
+| 154.53.51.114 | stone | COGENT-154-53-16 | PSINet, Inc. |
 | 23.88.7.159 | semalist | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 154.53.54.154 | paha |  |  |
 | 134.255.244.236 | Republic Crypto | Runtime | RIPE-ERX-134-255-0-0 IPP-NET-15 | RIPE Network Coordination Centre |
@@ -154,6 +154,6 @@
 | 217.160.220.223 | BabyScope | IONOS-CUSTOMERS | IONOS SE |
 | 15.204.216.192 | InfraSingularity | OUL-16 PCI-US-EAST-VA-1 | OVH US LLC OVH (NWK) |
 | 88.198.52.89 | StarkNode | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
-| 65.109.93.58 | nj-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 167.235.180.242 | erfer | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
