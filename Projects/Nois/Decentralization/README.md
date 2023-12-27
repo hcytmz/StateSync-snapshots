@@ -94,5 +94,6 @@
 | 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
 | 65.109.118.169 | jayjayservice | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
