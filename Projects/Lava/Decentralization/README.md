@@ -117,7 +117,7 @@
 | 13.212.50.222 | mynode | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 173.212.205.21 | Lava1 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 62.171.145.122 | Lavanode8 | CONTABO | Contabo GmbH |
-| 217.160.220.223 | BabyScope | IONOS-CUSTOMERS | IONOS SE |
+| 34.31.254.151 | mynode | GOOGL-2 | Google LLC |
 | 162.55.245.144 | e9c2c9b8-739e0e | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 174.138.187.2 | mynode | INTER-83 SRV20124 | Interserver, Inc PingPipe Internet Corporation |
 | 95.217.114.120 | Jocker | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
@@ -137,6 +137,7 @@
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 91.107.148.113 | maliy222 | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.41.172 | cyberG | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 164.68.114.65 | cringoliver | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 65.21.109.52 | bmwm5drift | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.95.124.105 | mynode | SD-LIM3-LIM-FAT-MAGGIE-SDAGG14-infra-002-2-2 | OVH GmbH |
 | 91.107.148.5 | bmwm6 | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
