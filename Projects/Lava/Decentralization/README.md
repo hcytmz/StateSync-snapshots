@@ -46,7 +46,7 @@
 | 65.108.199.62 | Rysiman | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.103.222.21 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 31.220.75.138 | Dominik | TT-20230217 | Contabo GmbH |
-| 188.132.178.170 | 0xaB6a4 | TR-GEOIPA-DTT-20230324 | DT Teknoloji Anonim Sirketi |
+| 194.163.174.231 | AviaDoc_by_AviaOne | CONTABO |  |
 | 46.4.123.141 | DeCommas | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 95.217.57.232 | tarabukinivan | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
@@ -108,7 +108,7 @@
 | 65.109.24.78 | NodeCtrl | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 138.201.204.5 | haciyatmaz | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 31.220.80.131 | Userr01 | TT-20230217 | Contabo GmbH |
-| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
+| 94.190.90.38 | vovscorplava | INTERRA-NET-KCH |  |
 | 158.220.102.7 | sasha | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
 | 158.220.105.187 | Lavanode7 | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
@@ -149,6 +149,6 @@
 | 65.109.143.184 | srklt | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 184.174.32.120 | Alex190 | CAC-BLOCK8 IL-845 | Colocation America Corporation IPXO LLC |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 46.138.240.175 | EL646 | MGTS-PPPOE |  |
+| 34.121.227.161 | mynode | GOOGL-2 | Google LLC |
 
 <!-- END_TABLE -->
