@@ -26,9 +26,6 @@
 | 144.91.115.146 | OKP4 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 18.225.55.163 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 143.198.17.58 | eozdemirok | DIGITALOCEAN-143-198-0-0 | DigitalOcean, LLC |
-| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 195.201.222.82 | okp4-nemeton-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 95.217.202.49 | rpc | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 78.46.74.23 | Lex_Prime | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
+| 176.9.82.221 | okp4-nemeton-1-seed | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
