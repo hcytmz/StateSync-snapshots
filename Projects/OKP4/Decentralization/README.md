@@ -25,7 +25,10 @@
 | 157.90.181.186 | tRDM | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.32.216 | jayjay | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.91.115.146 | OKP4 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
-| 176.9.82.221 | okp4-nemeton-1-seed | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.68.190 | okp4-nemeton-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 144.91.126.238 | Anatolian Team | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 65.109.117.212 | w3coins | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
