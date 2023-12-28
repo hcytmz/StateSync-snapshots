@@ -27,8 +27,10 @@
 | 144.91.115.146 | OKP4 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 91.194.30.203 | riser | SC-TREND-IMPORT-EXPORT-SRL | Trend IMPORT - EXPORT SRL |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 176.9.82.221 | okp4-nemeton-1-seed | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 162.246.20.74 | Darvin | INTERSERVER | Interserver, Inc |
+| 141.95.34.193 | node | SD-LIM-LIM3-FAT-MAGGIE-SDAGG6-1 | OVH GmbH |
+| 65.109.94.221 | TestnetPride | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 103.234.71.245 | okp4 | REGEN_IN |  |
 
 <!-- END_TABLE -->
