@@ -103,7 +103,7 @@
 | 154.53.59.87 | BATON88 |  |  |
 | 176.103.222.21 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 65.109.97.36 | nodesUP | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.93.58 | nj-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 31.220.90.176 | Lavanode5 | TT-20230217 | Contabo GmbH |
 | 65.108.41.172 | cyberG | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.109.52 | bmwm5drift | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -121,7 +121,7 @@
 | 31.220.76.131 | trav | TT-20230217 | Contabo GmbH |
 | 83.167.103.219 | c4533m1node05 | AKADO-Stolitsa-HFC | JSC Comcor |
 | 38.242.133.203 | DiElektra | COGENT-A | PSINet, Inc. |
-| 154.38.168.132 | Wildweststaking2 |  |  |
+| 154.38.168.132 | Wildweststaking2 | COGENT-154-38-16 | PSINet, Inc. |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 173.249.9.164 | lavass | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 217.76.54.128 | careuhbulan | TT-20221122 | Contabo GmbH |
@@ -133,15 +133,20 @@
 | 185.119.116.230 | dankuzone_w_daic | AT-IPAX-20150930 | IPAX GmbH |
 | 167.86.123.205 | Lavamijigo | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 84.46.246.54 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 49.12.165.122 | Easy2Stake | STUB-49-12SLASH15 |  |
 | 65.109.92.79 | rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.57.232 | tarabukinivan | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 212.192.25.38 | LavaTm100 | CZ-RELCOM-19980115 | Reliable Communications s.r.o. |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 161.97.122.145 | Lavanode1 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 92.119.186.40 | xtrend | NEOTELECOM | Neo-Telecom Plus Ltd. |
+| 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
 | 149.50.96.28 | lavashark | COGENT-149-50-16 MEVERYWHERE-CGNT-NET-1 | PSINet, Inc. MEVSPACE |
 | 162.55.184.147 | FreshLava | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
+| 92.119.186.40 | xtrend | NEOTELECOM | Neo-Telecom Plus Ltd. |
+| 65.109.93.58 | nj-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 92.243.165.98 | C5445M1Node05-hdd | AKADO-B2C-HFC |  |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 91.207.54.33 | SkySkipper | OLIMP1-NET | OLIMP-KONSALT Ltd |
+| 81.5.73.66 | clone | MIPT-TELECOM-NET |  |
 
 <!-- END_TABLE -->
