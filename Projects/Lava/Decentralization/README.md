@@ -96,7 +96,7 @@
 | 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
 | 38.242.241.6 | olehliliya | COGENT-A | PSINet, Inc. |
 | 104.207.130.172 | TeoViTeoVi | CONSTANT NET-104-207-130-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
-| 84.46.246.137 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
+| 34.173.62.163 | mynode | GOOGL-2 | Google LLC |
 | 143.110.185.169 | Kahuna | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
 | 167.86.104.221 | hlebhryliav | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 84.46.246.59 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
@@ -124,7 +124,7 @@
 | 154.38.168.132 | Wildweststaking2 |  |  |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 173.249.9.164 | lavass | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 217.76.54.128 | careuhbulan | TT-20221122 | Contabo GmbH |
 | 161.97.118.43 | LavaNodes | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 213.21.24.13 | clone | ATHOME |  |
 | 167.235.180.242 | erfer | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -133,10 +133,15 @@
 | 185.119.116.230 | dankuzone_w_daic | AT-IPAX-20150930 | IPAX GmbH |
 | 167.86.123.205 | Lavamijigo | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 84.46.246.54 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
-| 92.119.186.40 | xtrend | NEOTELECOM | Neo-Telecom Plus Ltd. |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
 | 65.109.92.79 | rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.57.232 | tarabukinivan | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 84.46.246.193 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
+| 212.192.25.38 | LavaTm100 | CZ-RELCOM-19980115 | Reliable Communications s.r.o. |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 161.97.122.145 | Lavanode1 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 92.119.186.40 | xtrend | NEOTELECOM | Neo-Telecom Plus Ltd. |
+| 149.50.96.28 | lavashark | COGENT-149-50-16 MEVERYWHERE-CGNT-NET-1 | PSINet, Inc. MEVSPACE |
+| 162.55.184.147 | FreshLava | RIPE CLOUD-NBG1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
 
 <!-- END_TABLE -->
