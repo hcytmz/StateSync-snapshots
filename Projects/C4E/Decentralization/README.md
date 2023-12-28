@@ -63,5 +63,6 @@
 | 143.110.248.56 | KingSuper | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
 | 198.211.107.250 | b64e8f40980b | DIGITALOCEAN-198-211-96-0 | DigitalOcean, LLC |
 | 185.16.39.158 | arbwe34q5wnx | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
+| 95.70.184.178 | mahof | CanakkalePOP_XdslStatic |  |
 
 <!-- END_TABLE -->
