@@ -19,10 +19,10 @@
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
 | 43.224.50.29 | itchitech | HKBNES-HK |  |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
-| 154.53.63.22 | martianforest |  |  |
+| 154.12.227.117 | 50%Banana |  |  |
+| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
 | 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
-| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 5.9.121.55 | StakeAngle_RPC | HETZNER-fsn1-dc7 |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
@@ -61,7 +61,7 @@
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
 | 207.180.197.26 | SupportHK | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
