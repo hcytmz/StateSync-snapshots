@@ -68,7 +68,7 @@
 | 190.15.217.229 | mynode |  |  |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 31.220.80.131 | Userr01 | TT-20230217 | Contabo GmbH |
-| 65.109.85.221 | lava_dora | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 176.120.177.123 | Blackblackcat | HCN-NET2 | Home Computer Networks ltd. |
 | 173.212.197.148 | DmytriyGuru | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 65.108.72.233 | Busta Rhymes | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.52.156 | Yurbason | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -78,7 +78,7 @@
 | 65.109.33.48 | L0vd.com | RPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 164.68.114.65 | cringoliver | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 185.250.36.187 | AdriChu | TT-20220809 | Contabo GmbH |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 78.46.107.187 | cryptan | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 45.67.213.137 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
 | 38.242.241.4 | romfoll | COGENT-A | PSINet, Inc. |
 | 15.204.216.192 | InfraSingularity | OUL-16 PCI-US-EAST-VA-1 | OVH US LLC OVH (NWK) |
@@ -95,5 +95,19 @@
 | 95.217.198.178 | StakeVillage_guide | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
 | 38.242.241.6 | olehliliya | COGENT-A | PSINet, Inc. |
+| 104.207.130.172 | TeoViTeoVi | CONSTANT NET-104-207-130-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
+| 84.46.246.137 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
+| 143.110.185.169 | Kahuna | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
+| 167.86.104.221 | hlebhryliav | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 84.46.246.59 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
+| 154.53.59.87 | BATON88 |  |  |
+| 176.103.222.21 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
+| 65.109.97.36 | nodesUP | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.93.58 | nj-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.41.172 | cyberG | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 65.21.109.52 | bmwm5drift | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.21.131.215 | Dverivam | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.21.134.202 | DiBugNodes | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
