@@ -57,9 +57,9 @@
 | 173.212.231.154 | Family-Online | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
+| 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 
 <!-- END_TABLE -->
