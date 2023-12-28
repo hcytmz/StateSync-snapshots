@@ -20,7 +20,7 @@
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
 | 43.224.50.29 | itchitech | HKBNES-HK |  |
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
-| 154.53.63.22 | martianforest |  |  |
+| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
 | 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
@@ -55,13 +55,11 @@
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 64.226.112.184 | likecoin-public-statefulset-0 | DIGITALOCEAN-64-226-64-0 | DigitalOcean, LLC |
 | 173.212.231.154 | Family-Online | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
+| 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
 | 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
 | 207.180.197.26 | SupportHK | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
-| 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
