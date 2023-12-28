@@ -93,7 +93,7 @@
 | 173.249.20.145 | Belfort | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 86.111.48.155 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
 | 65.109.126.23 | s-lava-testrelay | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 190.15.217.229 | mynode |  |  |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
 | 65.108.226.183 | hello-lava-test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 193.122.137.30 | mynode | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 65.108.232.182 | Mrs_ml | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -148,5 +148,7 @@
 | 65.109.143.184 | srklt | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 184.174.32.120 | Alex190 | CAC-BLOCK8 IL-845 | Colocation America Corporation IPXO LLC |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 31.220.76.133 | mr.jo | TT-20230217 | Contabo GmbH |
+| 46.138.240.175 | EL646 | MGTS-PPPOE |  |
 
 <!-- END_TABLE -->
