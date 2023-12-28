@@ -44,7 +44,7 @@ sudo systemctl restart bandd && journalctl -u bandd -f -o cat
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/BandProtocol/Testnet)
 =
 
-# StateSync Band Testnet
+# StateSync Band Testnet  (Temporarily stopped)
 ```python
 RPC=http://band.rpc.t.stavr.tech:14057
 peers=7f03c7f4a41300348afce4b51774ab3fab8ae3c2@band-t.peer.stavr.tech:11016
@@ -65,7 +65,7 @@ curl -o - -L http://band-t.files.stavr.tech:1103/files-bandt.tar.lz4 | lz4 -c -d
 sudo systemctl restart bandd && journalctl -u bandd -f -o cat
 ```
 
-# SnapShot Testnet (~2GB) updated every 5 hours
+# SnapShot Testnet (~2GB) updated every 5 hours  (Temporarily stopped)
 ```python
 cd $HOME
 apt install lz4
