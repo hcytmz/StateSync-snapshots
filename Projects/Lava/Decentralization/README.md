@@ -94,7 +94,7 @@
 | 168.119.38.252 | gumat.top | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.198.178 | StakeVillage_guide | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
-| 38.242.241.6 | olehliliya | COGENT-A | PSINet, Inc. |
+| 38.242.241.6 | olehliliya | COGENT-A |  |
 | 104.207.130.172 | TeoViTeoVi | CONSTANT NET-104-207-130-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 84.46.246.137 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 143.110.185.169 | Kahuna | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
@@ -105,9 +105,23 @@
 | 65.109.97.36 | nodesUP | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.93.58 | nj-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.41.172 | cyberG | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.109.52 | bmwm5drift | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.131.215 | Dverivam | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.134.202 | DiBugNodes | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 188.247.44.113 | clone | Magistral_VolzhStorRu |  |
+| 166.1.71.233 | LavaTm4 | ACE-NETWORK-10 | Ace Data Centers, Inc. |
+| 46.56.82.121 | C1333M2Node06 | MTSBY |  |
+| 166.1.70.10 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 31.220.76.134 | serhii | TT-20230217 | Contabo GmbH |
+| 91.107.148.110 | rezha777 | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 161.97.134.68 | Lava(first) | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 89.250.150.241 | lavapl | ERTH-TMN-PPPOE-45-NET | JSC ER-Telecom Holding |
+| 31.220.76.131 | trav | TT-20230217 | Contabo GmbH |
+| 83.167.103.219 | c4533m1node05 | AKADO-Stolitsa-HFC | JSC Comcor |
+| 38.242.133.203 | DiElektra | COGENT-A | PSINet, Inc. |
+| 154.38.168.132 | Wildweststaking2 |  |  |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 
 <!-- END_TABLE -->
