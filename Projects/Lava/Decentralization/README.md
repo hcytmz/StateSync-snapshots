@@ -137,12 +137,15 @@
 | 37.27.48.156 | tothemars | DE-HETZNER-20111228 | Hetzner Online GmbH Hetzner Online GmbH |
 | 31.220.76.131 | trav | TT-20230217 | Contabo GmbH |
 | 89.117.51.129 | KelvinBorrel | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 HETZNER-RZ-BLK-ERX4 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.52.156 | Yurbason | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.94.65.136 | NodeStake | PCI-GRA11 | OVH SAS |
 | 65.108.226.183 | hello-lava-test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.229.93 | mynode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 HETZNER-RZ-BLK-ERX4 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
+| 65.109.65.248 | StakeTown-API | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 85.239.236.2 | lavarpc1 | TT-20221122 | Contabo GmbH |
 
 <!-- END_TABLE -->
