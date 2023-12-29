@@ -83,7 +83,7 @@
 | 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
 | 167.86.123.205 | Lavamijigo | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 84.46.246.59 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
-| 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | ColoCrossing |
 | 86.111.48.155 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
 | 65.108.66.34 | POSTHUMAN | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 86.111.48.158 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
@@ -118,6 +118,7 @@
 | 174.138.187.2 | mynode | INTER-83 SRV20124 | Interserver, Inc PingPipe Internet Corporation |
 | 142.132.214.131 | Moldova | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 148.251.88.145 | Palamar | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 161.97.122.145 | Lavanode1 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 84.54.192.204 | C2000M1Node07 | Macroregional_South |  |
 | 85.215.197.18 | BabyScope | IONOS-CLOUD-TXL | Strato AG |
@@ -133,16 +134,13 @@
 | 31.220.90.180 | Lavanode3 | TT-20230217 | Contabo GmbH |
 | 31.220.90.176 | Lavanode5 | TT-20230217 | Contabo GmbH |
 | 158.220.102.7 | sasha | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
-| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | ColoCrossing |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
 | 31.220.76.131 | trav | TT-20230217 | Contabo GmbH |
 | 54.208.17.123 | NodeStake | AMAZON AMAZO-ZIAD4 | Amazon Technologies Inc. Amazon.com, Inc. |
 | 95.217.207.236 | PostHuman | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.52.156 | Yurbason | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.94.65.136 | NodeStake | PCI-GRA11 | OVH SAS |
+| 65.108.229.93 | mynode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.217.68.182 | Nodeist-lava-test | HO-2 | OVH Hosting, Inc. |
-| 85.239.236.2 | lavarpc1 | TT-20221122 | Contabo GmbH |
-| 65.108.75.107 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 89.117.53.37 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
-| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 
 <!-- END_TABLE -->
