@@ -86,7 +86,6 @@
 | 84.46.246.59 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 46.4.14.172 | PPNV | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 86.111.48.155 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
-| 65.108.66.34 | POSTHUMAN | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 86.111.48.158 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
@@ -98,7 +97,7 @@
 | 37.120.171.159 | durnoy | NETCUP_NET-14 | netcup GmbH |
 | 176.103.222.17 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 161.97.120.177 | Oliver1564 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 154.53.59.87 | BATON88 |  |  |
+| 154.53.59.87 | BATON88 | COGENT-154-53-16 | PSINet, Inc. |
 | 207.180.215.4 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 158.220.97.137 | anketa | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
 | 164.68.122.32 | testnet | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -119,7 +118,7 @@
 | 174.138.187.2 | mynode | INTER-83 SRV20124 | Interserver, Inc PingPipe Internet Corporation |
 | 142.132.214.131 | Moldova | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 148.251.88.145 | Palamar | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 65.108.41.173 | ToTheMars | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 161.97.122.145 | Lavanode1 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 84.54.192.204 | C2000M1Node07 | Macroregional_South |  |
 | 85.215.197.18 | BabyScope | IONOS-CLOUD-TXL | Strato AG |
@@ -138,13 +137,13 @@
 | 37.27.48.156 | tothemars | DE-HETZNER-20111228 | Hetzner Online GmbH Hetzner Online GmbH |
 | 31.220.76.131 | trav | TT-20230217 | Contabo GmbH |
 | 54.208.17.123 | NodeStake | AMAZON AMAZO-ZIAD4 | Amazon Technologies Inc. Amazon.com, Inc. |
-| 95.217.207.236 | PostHuman | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
 | 65.109.52.156 | Yurbason | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.94.65.136 | NodeStake | PCI-GRA11 | OVH SAS |
+| 46.138.240.175 | EL646 | MGTS-PPPOE |  |
 | 65.108.229.93 | mynode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 46.138.240.175 | EL646 | MGTS-PPPOE |  |
-| 85.239.236.2 | lavarpc1 | TT-20221122 | Contabo GmbH |
+| 75.119.146.252 | node101 | RIPE CONTABO | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
