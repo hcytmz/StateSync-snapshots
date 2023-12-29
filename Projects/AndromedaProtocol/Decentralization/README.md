@@ -1,11 +1,10 @@
-![Diagramm](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/AndromedaProtocol/1/README.md)
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
-| HETZNER | 16 | 48.48% | 🔴 |
-| OVH | 6 | 18.18% | 🟢 |
-| LeaseWeb | 3 | 9.09% | 🟢 |
-| Scaleway | 2 | 6.06% | 🟢 |
-| AMAZON | 1 | 3.03% | 🟢 |
-| Fasthosts | 1 | 3.03% | 🟢 |
-| IPAX | 1 | 3.03% | 🟢 |
-| OTHER | 3 | 9.09% | 🟢 |
+| HETZNER | 11 | 42.31% | 🔴 |
+| OVH | 6 | 23.08% | 🟢 |
+| LeaseWeb | 2 | 7.69% | 🟢 |
+| Scaleway | 2 | 7.69% | 🟢 |
+| AMAZON | 1 | 3.85% | 🟢 |
+| Fasthosts | 1 | 3.85% | 🟢 |
+| IPAX | 1 | 3.85% | 🟢 |
+| OTHER | 2 | 7.69% | 🟢 |
