@@ -28,5 +28,7 @@
 | 18.225.55.163 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 143.198.17.58 | eozdemirok | DIGITALOCEAN-143-198-0-0 | DigitalOcean, LLC |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 162.246.20.74 | Darvin | INTERSERVER | Interserver, Inc |
+| 65.109.68.190 | okp4-nemeton-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
