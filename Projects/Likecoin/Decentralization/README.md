@@ -60,8 +60,8 @@
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 143.244.178.171 | OurBoardRoom | DIGITALOCEAN-143-244-128-0 | DigitalOcean, LLC |
-| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
-| 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
+| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 
 <!-- END_TABLE -->
