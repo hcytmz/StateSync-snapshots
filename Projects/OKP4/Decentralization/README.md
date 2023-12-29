@@ -25,8 +25,9 @@
 | 185.208.206.16 | Decloud Nodes Lab | TT-2021120403 | Contabo GmbH |
 | 91.194.30.203 | riser | SC-TREND-IMPORT-EXPORT-SRL | Trend IMPORT - EXPORT SRL |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
-| 176.9.82.221 | okp4-nemeton-1-seed | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
-| 195.201.222.82 | okp4-nemeton-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 95.217.110.39 | Validator.run | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 103.234.71.245 | okp4 | REGEN_IN |  |
+| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 38.242.251.204 | Lexar | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
