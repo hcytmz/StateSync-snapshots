@@ -21,7 +21,7 @@
 | 43.224.50.29 | itchitech | HKBNES-HK |  |
 | 154.12.227.117 | 50%Banana |  |  |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 174.62.237.158 | StakeLabz DAO | JUMPSTART-5 CHICAGO-CPE-15 | Comcast Cable Communications, LLC |
 | 5.9.121.55 | StakeAngle_RPC | HETZNER-fsn1-dc7 |  |
@@ -43,7 +43,7 @@
 | 94.250.203.238 | ericet | CONTABO-08 | Contabo GmbH |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 136.243.55.237 | AnyValid | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 5.10.19.55 | forbole-rds | CUSTOMERS-Subnet4 |  |
 | 34.143.212.21 | matters.news | GOOGL-2 | Google LLC |
 | 167.235.2.246 | node | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -62,6 +62,5 @@
 | 143.244.178.171 | OurBoardRoom | DIGITALOCEAN-143-244-128-0 | DigitalOcean, LLC |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
 
 <!-- END_TABLE -->
