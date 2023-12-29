@@ -19,16 +19,13 @@
 | 95.217.141.43 | Kolot | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 65.108.230.161 | Testnetrun-RPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 144.217.68.182 | Nodeist-okp4-test | HO-2 | OVH Hosting, Inc. |
+| 57.128.20.238 | rpc | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
+| 195.201.222.82 | okp4-nemeton-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 91.194.30.203 | riser | SC-TREND-IMPORT-EXPORT-SRL | Trend IMPORT - EXPORT SRL |
 | 185.208.206.16 | Decloud Nodes Lab | TT-2021120403 | Contabo GmbH |
 | 157.90.181.186 | tRDM | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.32.216 | jayjay | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.91.115.146 | OKP4 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 18.225.55.163 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 143.198.17.58 | eozdemirok | DIGITALOCEAN-143-198-0-0 | DigitalOcean, LLC |
-| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 162.246.20.74 | Darvin | INTERSERVER | Interserver, Inc |
-| 65.109.68.190 | okp4-nemeton-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
