@@ -40,7 +40,7 @@
 | 65.21.131.21 | node | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 45.67.213.137 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
 | 185.188.249.46 | bonynode | TT-202200809 | Contabo GmbH |
-| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 86.111.48.159 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
 | 31.220.76.133 | mr.jo | TT-20230217 | Contabo GmbH |
 | 162.19.217.52 | test | RIPE OVH_242284876 | RIPE Network Coordination Centre Andersen Christian |
 | 167.235.14.83 | Ubuntu-2204-jammy-amd64-base | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -142,6 +142,9 @@
 | 65.109.52.156 | Yurbason | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.94.65.136 | NodeStake | PCI-GRA11 | OVH SAS |
 | 65.108.229.93 | mynode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 144.217.68.182 | Nodeist-lava-test | HO-2 | OVH Hosting, Inc. |
+| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.41.172 | cyberG | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 2a01:4f9:3051:19c2::2 | s-lava-testrelay | HOS-272402 | Hetzner Online GmbH |
+| 85.239.236.2 | lavarpc1 | TT-20221122 | Contabo GmbH |
 
 <!-- END_TABLE -->
