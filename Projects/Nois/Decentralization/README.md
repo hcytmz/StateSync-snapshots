@@ -91,11 +91,14 @@
 | 57.128.163.232 | NodeStake | RIPE-ERX-57 PCI-UK1 | RIPE Network Coordination Centre OVH Ltd |
 | 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 RU-SBCLOUD-20210827 | RIPE Network Coordination Centre SBCloud LLC |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.128.114 | hello-nois-backup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.79.237 | chaintools-relayer-node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 142.132.253.112 | itrocket | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
+| 46.17.250.108 | Sr20de | RU-SBCLOUD-20200904 | SBCloud LLC |
 
 <!-- END_TABLE -->
