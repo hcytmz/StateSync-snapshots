@@ -19,7 +19,7 @@
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
 | 43.224.50.29 | itchitech | HKBNES-HK |  |
-| 154.12.227.117 | 50%Banana |  |  |
+| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
@@ -57,7 +57,6 @@
 | 173.212.231.154 | Family-Online | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
-| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
