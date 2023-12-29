@@ -69,7 +69,7 @@
 | 207.180.208.25 | adamwolf | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 62.171.145.36 | vinLava | CONTABO | Contabo GmbH |
 | 168.119.38.252 | gumat.top | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.206.118 | UTSA_guide | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 154.38.167.188 | wildweststaking |  |  |
 | 176.103.222.22 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 65.21.224.11 | mynode | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 92.97.158.173 | CryptoSJnet | ETISALATADSL-EMIRNET |  |
@@ -137,13 +137,14 @@
 | 37.27.48.156 | tothemars | DE-HETZNER-20111228 | Hetzner Online GmbH Hetzner Online GmbH |
 | 31.220.76.131 | trav | TT-20230217 | Contabo GmbH |
 | 54.208.17.123 | NodeStake | AMAZON AMAZO-ZIAD4 | Amazon Technologies Inc. Amazon.com, Inc. |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.52.156 | Yurbason | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.94.65.136 | NodeStake | PCI-GRA11 | OVH SAS |
 | 46.138.240.175 | EL646 | MGTS-PPPOE |  |
 | 65.108.229.93 | mynode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 75.119.146.252 | node101 | RIPE CONTABO | RIPE Network Coordination Centre |
+| 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 HETZNER-RZ-BLK-ERX4 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 184.174.32.120 | Alex190 | CAC-BLOCK8 IL-845 | Colocation America Corporation IPXO LLC |
+| 85.239.236.2 | lavarpc1 | TT-20221122 | Contabo GmbH |
 
 <!-- END_TABLE -->
