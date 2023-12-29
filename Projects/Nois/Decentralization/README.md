@@ -39,7 +39,7 @@
 | 185.16.39.158 | anun10vv7ign | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
 | 162.55.245.149 | d18ef169-01a5af | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.76.40.53 | 4249725a-814c-5f40-a94b-e80bd52bdc4c | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 154.53.44.239 | dstake |  |  |
+| 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
 | 65.21.14.11 | Vitek73 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 213.239.199.149 | mib | HETZNER-RZ-NBG-NET2 |  |
 | 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
@@ -53,10 +53,10 @@
 | 51.159.16.102 | nysa.network | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 138.197.127.119 | Gelotto | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
 | 51.81.49.59 | hello-nois-main | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
-| 54.39.128.229 | Cumulo | HO-2 SD-BHS-SD-1G-VOIE-A-B707A | OVH Hosting, Inc. OVH Hosting, Inc. |
+| 54.39.128.229 | Cumulo | HO-2 SD-BHS-SD-1G-VOIE-A-B707A |  |
 | 167.160.93.90 | nois | UDL-17 | Dedicated.com |
 | 142.132.209.97 | ECO Stake | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 65.108.79.237 | chaintools-relayer-node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 45.63.104.164 | nois-node | CONSTANT NET-45-63-104-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 195.3.223.9 | jpoop0n4q4rk | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 65.21.52.246 | nois-1 | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -95,7 +95,6 @@
 | 57.128.20.163 | 45d756ee-69c2-5344-9233-fa8ac733f323 | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 135.181.128.114 | hello-nois-backup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.76.63.67 | EZStaking.io | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 65.108.79.237 | chaintools-relayer-node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 159.203.118.94 | f1d09a180a1c | DIGITALOCEAN-159-203-0-0 | DigitalOcean, LLC |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 
 <!-- END_TABLE -->
