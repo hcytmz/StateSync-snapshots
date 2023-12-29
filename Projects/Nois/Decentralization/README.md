@@ -39,7 +39,7 @@
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 162.55.245.149 | d18ef169-01a5af | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.76.40.53 | 4249725a-814c-5f40-a94b-e80bd52bdc4c | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 154.53.44.239 | dstake |  |  |
+| 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
 | 65.21.14.11 | Vitek73 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 213.239.199.149 | mib | HETZNER-RZ-NBG-NET2 |  |
 | 185.16.39.158 | anun10vv7ign | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
@@ -97,5 +97,6 @@
 | 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 RU-SBCLOUD-20210827 | RIPE Network Coordination Centre SBCloud LLC |
 | 103.180.28.70 | forbole | METROPOLIS-AP | Metropolis Networks Inc |
+| 65.108.227.217 | nois-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
