@@ -26,7 +26,7 @@
 | 65.109.92.235 | OranG3cluB | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.216.199.9 | klever | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
 | 149.102.134.90 | AVIAONE | COGENT-149-102-16 | PSINet, Inc. |
-| 95.216.46.125 | StakeTown-SNAP | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 135.181.5.219 | xstaxy-1-seed | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 195.201.193.224 | auraval | DE-HETZNER-20120425 | Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.158.219 | StakeAngle_RPC | HETZNER-fsn1-dc7 | Hetzner Online GmbH |
 | 208.77.197.83 | vidulum.app | WOLFPAW | Wolfpaw Data Centres Inc |
@@ -78,7 +78,7 @@
 | 135.181.239.114 | Degen Power | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 57.128.85.172 | NodeStake | RIPE-ERX-57 PCI-GRA11 | RIPE Network Coordination Centre OVH SAS |
 | 13.212.73.184 | Aura Node | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
-| 107.155.65.7 | soteria | NET-107-155-64-0-18 | HIVELOCITY, Inc. |
+| 65.108.237.232 | MMS_RPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.165.241.20 | P-OPS Team | WORLDSTREAM |  |
 | 15.235.212.71 | ContributionDAO | HO-2 OVHCLOUD-SGP SD-SGP-SGP02-SGP0201A-MAGGIE-INFRA-002 | OVH Hosting, Inc. OVH Singapore PTE. LTD OVH Singapore PTE. LTD |
 | 13.212.184.74 | Atomstaking | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
@@ -87,7 +87,7 @@
 | 34.232.44.200 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 142.44.213.82 | aura_enigma | HO-2 | OVH Hosting, Inc. |
 | 65.109.225.86 | HSS | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 80.232.244.29 | SGTstake | LTC-HOME-STATIC |  |
+| 65.108.232.168 | KonsorTech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.75.107 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 81.30.157.94 | AURA-mainnet-test | DE-MYLOC-DUS-20100312 | myLoc managed IT AG |
 | 93.43.199.2 | Safe Block | FASTWEB-INTERNET-NGA |  |
@@ -101,14 +101,13 @@
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.78.113.134 | F5Nodes | CLOUD-HIL | Hetzner Online GmbH Hetzner Online GmbH |
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
-| 65.108.232.168 | KonsorTech | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 188.172.229.143 | YTWOFUND | ANX-NET-188172228023 |  |
 | 167.235.98.220 | Huginn | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.195.29 | Staketab-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.97.249 | hello-aura-backup | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 103.107.183.89 | owlstake | PEGA-VN |  |
-| 188.172.229.143 | YTWOFUND | ANX-NET-188172228023 |  |
 | 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.212.224 | xstaxy-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 75.119.155.250 | xstaxy-1-seed | RIPE CONTABO | RIPE Network Coordination Centre |
+| 46.38.232.86 | xstaxy-1-seed | DE-NETCUP-20101202 | netcup GmbH |
 
 <!-- END_TABLE -->
