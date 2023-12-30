@@ -60,8 +60,8 @@
 | 154.12.227.117 | 50%Banana |  |  |
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
