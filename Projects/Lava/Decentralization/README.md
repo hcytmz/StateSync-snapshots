@@ -75,12 +75,11 @@
 | 65.21.134.202 | DiBugNodes | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.232.182 | Mrs_ml | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 166.1.70.10 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
-| 94.190.90.38 | vovscorplava | INTERRA-NET-KCH |  |
 | 199.175.98.91 | imnoder | IC-1628 | ISP CLUSTER INC |
 | 161.97.134.68 | Lava(first) | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 34.22.231.207 | testnet-internal-rpc | GOOGL-2 | Google LLC |
 | 164.68.105.141 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
+| 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 167.86.123.205 | Lavamijigo | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 84.46.246.59 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 46.4.14.172 | PPNV | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
