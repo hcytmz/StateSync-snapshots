@@ -126,7 +126,7 @@
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
 | 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
 | 62.171.159.226 | Lavanode6 | CONTABO | Contabo GmbH |
-| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 173.212.197.148 | DmytriyGuru | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 14.226.244.42 | TeoViTeoVi | VNPT-VN |  |
 | 167.86.104.221 | hlebhryliav | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -147,9 +147,8 @@
 | 95.217.207.236 | PostHuman | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 45.67.212.233 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
+| 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
 | 154.38.167.188 | wildweststaking |  |  |
-| 65.109.33.48 | L0vd.com | RPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 2a01:4f9:3051:19c2::2 | s-lava-testrelay | HOS-272402 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
