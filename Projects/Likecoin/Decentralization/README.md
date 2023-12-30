@@ -18,8 +18,8 @@
 | 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
-| 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 154.12.227.117 | 50%Banana |  |  |
+| 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
 | 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
@@ -44,6 +44,7 @@
 | 136.243.55.237 | AnyValid | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 5.10.19.55 | forbole-rds | CUSTOMERS-Subnet4 |  |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 34.143.212.21 | matters.news | GOOGL-2 | Google LLC |
 | 167.235.2.246 | node | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 207.180.238.137 | moonbeam-RPC | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -54,9 +55,9 @@
 | 54.36.108.222 | Stakewolle | RIPE SD-LIM1 | RIPE Network Coordination Centre OVH GmbH |
 | 64.226.112.184 | likecoin-public-statefulset-0 | DIGITALOCEAN-64-226-64-0 | DigitalOcean, LLC |
 | 173.212.231.154 | Family-Online | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
-| 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 
 <!-- END_TABLE -->
