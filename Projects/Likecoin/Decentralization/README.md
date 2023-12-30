@@ -16,12 +16,11 @@
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
 | 194.163.161.194 | Foxinodes | CONTABO |  |
-| 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
 | 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 5.9.121.55 | StakeAngle_RPC | HETZNER-fsn1-dc7 |  |
@@ -52,13 +51,15 @@
 | 144.91.125.80 | BRAND-likecoin-main | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 213.136.88.233 | Oldcat-likecoin-relayer | CONTABO | Contabo GmbH |
-| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.63.22 | martianforest |  |  |
 | 54.36.108.222 | Stakewolle | RIPE SD-LIM1 | RIPE Network Coordination Centre OVH GmbH |
 | 64.226.112.184 | likecoin-public-statefulset-0 | DIGITALOCEAN-64-226-64-0 | DigitalOcean, LLC |
 | 173.212.231.154 | Family-Online | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
-| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
+| 154.12.227.117 | 50%Banana |  |  |
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
+| 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
