@@ -44,13 +44,13 @@
 | 31.220.76.133 | mr.jo | TT-20230217 | Contabo GmbH |
 | 162.19.217.52 | test | RIPE OVH_242284876 | RIPE Network Coordination Centre Andersen Christian |
 | 167.235.14.83 | Ubuntu-2204-jammy-amd64-base | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
+| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 164.68.114.65 | cringoliver | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 185.162.93.88 | clone | MIRAN-VS-Net |  |
-| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
+| 167.235.117.93 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 162.55.245.144 | e9c2c9b8-739e0e | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 143.110.185.169 | Kahuna | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
-| 213.21.24.13 | clone | ATHOME |  |
+| 31.220.80.131 | Userr01 | TT-20230217 | Contabo GmbH |
 | 142.132.248.253 | Blackhox | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 195.3.221.16 | Moonbridge | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 TT-20230331 | RIPE Network Coordination Centre Contabo GmbH |
@@ -146,7 +146,7 @@
 | 65.109.65.248 | StakeTown-API | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.207.236 | PostHuman | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
-| 167.235.117.93 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 2a01:4f9:3051:19c2::2 | s-lava-testrelay | HOS-272402 | Hetzner Online GmbH |
+| 178.18.253.82 | LavaNodes | CONTABO |  |
+| 154.38.167.188 | wildweststaking |  |  |
 
 <!-- END_TABLE -->
