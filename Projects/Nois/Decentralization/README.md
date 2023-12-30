@@ -94,6 +94,8 @@
 | 154.53.44.239 | dstake |  |  |
 | 65.109.112.170 | Nodejumper | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.128.114 | hello-nois-backup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
+| 142.132.253.112 | itrocket | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
