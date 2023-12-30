@@ -18,7 +18,7 @@
 | 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
-| 154.12.227.117 | 50%Banana |  |  |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
 | 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
@@ -28,6 +28,7 @@
 | 65.21.236.25 | OmniFlix Network | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
+| 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
 | 62.171.186.77 | moonbeam | CONTABO | Contabo GmbH |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
@@ -41,7 +42,7 @@
 | 94.250.203.238 | ericet | CONTABO-08 | Contabo GmbH |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 136.243.55.237 | AnyValid | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 5.10.19.55 | forbole-rds | CUSTOMERS-Subnet4 |  |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 34.143.212.21 | matters.news | GOOGL-2 | Google LLC |
@@ -50,15 +51,13 @@
 | 144.91.125.80 | BRAND-likecoin-main | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 213.136.88.233 | Oldcat-likecoin-relayer | CONTABO | Contabo GmbH |
-| 154.53.63.22 | martianforest |  |  |
+| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
 | 54.36.108.222 | Stakewolle | RIPE SD-LIM1 | RIPE Network Coordination Centre OVH GmbH |
 | 64.226.112.184 | likecoin-public-statefulset-0 | DIGITALOCEAN-64-226-64-0 | DigitalOcean, LLC |
 | 173.212.231.154 | Family-Online | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
-| 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
-| 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
+| 154.12.227.117 | 50%Banana |  |  |
+| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
-| 148.113.162.70 | Cosmostation | HO-2 SD-BHS-BHS8-B813A-1ST-MAGGIE-IP2-INFRA-002 | OVH Hosting, Inc. OVH Hosting, Inc. |
 
 <!-- END_TABLE -->
