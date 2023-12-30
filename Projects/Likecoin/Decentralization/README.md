@@ -59,6 +59,6 @@
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
 | 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
-| 148.113.162.70 | Cosmostation | HO-2 SD-BHS-BHS8-B813A-1ST-MAGGIE-IP2-INFRA-002 | OVH Hosting, Inc. OVH Hosting, Inc. |
+| 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
 
 <!-- END_TABLE -->
