@@ -33,7 +33,7 @@
 | 185.230.138.107 | Adora | TT-2021111014 | Contabo GmbH |
 | 15.204.216.192 | InfraSingularity | OUL-16 PCI-US-EAST-VA-1 | OVH US LLC OVH (NWK) |
 | 84.46.246.54 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
-| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
+| 92.97.153.27 | CryptoSJnet | ETISALATADSL-EMIRNET |  |
 | 157.90.128.99 | Bablovcoin | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 188.247.44.113 | clone | Magistral_VolzhStorRu |  |
 | 141.95.124.105 | mynode | SD-LIM3-LIM-FAT-MAGGIE-SDAGG14-infra-002-2-2 | OVH GmbH |
@@ -98,7 +98,7 @@
 | 37.120.171.159 | durnoy | NETCUP_NET-14 | netcup GmbH |
 | 176.103.222.17 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 161.97.120.177 | Oliver1564 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 154.53.59.87 | BATON88 |  |  |
+| 154.53.59.87 | BATON88 | COGENT-154-53-16 | PSINet, Inc. |
 | 207.180.215.4 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 158.220.97.137 | anketa | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
 | 164.68.122.32 | testnet | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -151,6 +151,8 @@
 | 65.21.141.117 | MarkCN | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.188.249.46 | bonynode | TT-202200809 | Contabo GmbH |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 92.97.153.27 | CryptoSJnet | ETISALATADSL-EMIRNET |  |
+| 147.135.222.170 | nnm | RIPE FR-OVH-20170322 | RIPE Network Coordination Centre OVH SAS |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
+| 2a01:4f9:3051:19c2::2 | s-lava-testrelay | HOS-272402 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
