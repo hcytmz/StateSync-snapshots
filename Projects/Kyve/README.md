@@ -66,4 +66,4 @@ We marked such validators with a red symbol
 
 
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>202.61.252.180:26657</td><td>kyve-1</td><td>dcm 🟢</td><td>4280602</td><td>1</td><td>False</td><td>off</td><td>0</td><td>2023-12-31T04:50:03.518392255UTC</td></tr><tr><td>65.109.29.224:27657</td><td>kyve-1</td><td>Munris 🔴</td><td>4280598</td><td>4180598</td><td>False</td><td>off</td><td>30873</td><td>2023-12-31T04:49:44.656731581UTC</td></tr></table>
