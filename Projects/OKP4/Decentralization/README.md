@@ -23,7 +23,10 @@
 | 65.21.32.216 | jayjay | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 188.40.66.173 | hello-okp4-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 185.208.206.16 | Decloud Nodes Lab | TT-2021120403 | Contabo GmbH |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 176.9.82.221 | okp4-nemeton-1-seed | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
+| 103.234.71.245 | okp4 | REGEN_IN |  |
+| 144.91.126.238 | Anatolian Team | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 
 <!-- END_TABLE -->
