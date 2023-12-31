@@ -95,8 +95,7 @@
 | 57.128.20.163 | 45d756ee-69c2-5344-9233-fa8ac733f323 | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
 | 142.132.253.112 | itrocket | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.79.237 | chaintools-relayer-node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
-| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.79.237 | chaintools-relayer-node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
