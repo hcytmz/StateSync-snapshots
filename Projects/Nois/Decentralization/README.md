@@ -90,11 +90,13 @@
 | 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 RU-SBCLOUD-20210827 | RIPE Network Coordination Centre SBCloud LLC |
 | 57.128.163.232 | NodeStake | RIPE-ERX-57 PCI-UK1 | RIPE Network Coordination Centre OVH Ltd |
 | 142.132.248.138 | EZStaking.io | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
 | 144.76.63.67 | EZStaking.io | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 216.128.134.36 | node | CONSTANT NET-216-128-134-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
+| 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
 | 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 142.132.253.112 | itrocket | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
