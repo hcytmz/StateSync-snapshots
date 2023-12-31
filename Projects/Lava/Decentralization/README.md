@@ -80,7 +80,7 @@
 | 161.97.134.68 | Lava(first) | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 34.22.231.207 | testnet-internal-rpc | GOOGL-2 | Google LLC |
 | 164.68.105.141 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 167.86.123.205 | Lavamijigo | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 84.46.246.59 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 46.4.14.172 | PPNV | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
@@ -150,6 +150,7 @@
 | 65.21.141.117 | MarkCN | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.188.249.46 | bonynode | TT-202200809 | Contabo GmbH |
 | 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
-| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
+| 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 159.69.72.247 | Robin | RIPE DE-HETZNER-19920313 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
