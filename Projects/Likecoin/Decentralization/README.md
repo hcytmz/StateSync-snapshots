@@ -21,9 +21,9 @@
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
-| 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
-| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
+| 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 5.9.121.55 | StakeAngle_RPC | HETZNER-fsn1-dc7 |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -60,7 +60,6 @@
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
 | 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
-| 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
