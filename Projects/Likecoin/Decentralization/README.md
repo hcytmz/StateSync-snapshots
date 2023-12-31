@@ -64,6 +64,5 @@
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
