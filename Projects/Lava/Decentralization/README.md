@@ -150,6 +150,6 @@
 | 65.21.141.117 | MarkCN | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.188.249.46 | bonynode | TT-202200809 | Contabo GmbH |
 | 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 
 <!-- END_TABLE -->
