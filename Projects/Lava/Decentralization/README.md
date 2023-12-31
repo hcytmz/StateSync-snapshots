@@ -33,7 +33,6 @@
 | 185.230.138.107 | Adora | TT-2021111014 | Contabo GmbH |
 | 15.204.216.192 | InfraSingularity | OUL-16 PCI-US-EAST-VA-1 | OVH US LLC OVH (NWK) |
 | 84.46.246.54 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
-| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 157.90.128.99 | Bablovcoin | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 188.247.44.113 | clone | Magistral_VolzhStorRu |  |
 | 141.95.124.105 | mynode | SD-LIM3-LIM-FAT-MAGGIE-SDAGG14-infra-002-2-2 | OVH GmbH |
@@ -151,5 +150,6 @@
 | 65.21.141.117 | MarkCN | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.188.249.46 | bonynode | TT-202200809 | Contabo GmbH |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 23.88.7.159 | semalist | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
