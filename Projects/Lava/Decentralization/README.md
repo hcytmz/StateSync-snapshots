@@ -31,7 +31,6 @@
 | 35.205.44.215 | testnet2-validator-3 | GOOGLE-CLOUD | Google LLC |
 | 65.108.41.172 | cyberG | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.230.138.107 | Adora | TT-2021111014 | Contabo GmbH |
-| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 84.46.246.54 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 92.97.153.27 | CryptoSJnet | ETISALATADSL-EMIRNET |  |
 | 157.90.128.99 | Bablovcoin | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -98,7 +97,7 @@
 | 37.120.171.159 | durnoy | NETCUP_NET-14 | netcup GmbH |
 | 176.103.222.17 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 161.97.120.177 | Oliver1564 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 154.53.59.87 | BATON88 | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.59.87 | BATON88 |  |  |
 | 207.180.215.4 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 158.220.97.137 | anketa | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
 | 164.68.122.32 | testnet | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -130,7 +129,7 @@
 | 62.171.159.226 | Lavanode6 | CONTABO | Contabo GmbH |
 | 45.67.212.233 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
 | 173.212.197.148 | DmytriyGuru | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 14.226.244.42 | TeoViTeoVi | VNPT-VN |  |
+| 154.38.167.188 | wildweststaking |  |  |
 | 167.86.104.221 | hlebhryliav | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 31.220.90.180 | Lavanode3 | TT-20230217 | Contabo GmbH |
 | 31.220.90.176 | Lavanode5 | TT-20230217 | Contabo GmbH |
@@ -154,5 +153,6 @@
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 147.135.222.170 | nnm | RIPE FR-OVH-20170322 | RIPE Network Coordination Centre OVH SAS |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 174.138.187.2 | mynode | INTER-83 SRV20124 | Interserver, Inc PingPipe Internet Corporation |
 
 <!-- END_TABLE -->
