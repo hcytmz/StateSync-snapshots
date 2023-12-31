@@ -55,8 +55,8 @@
 | 54.39.128.229 | Cumulo | HO-2 SD-BHS-SD-1G-VOIE-A-B707A | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 167.160.93.90 | nois | UDL-17 | Dedicated.com |
 | 142.132.209.97 | ECO Stake | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.79.237 | chaintools-relayer-node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 74.208.94.42 | sentinelnois | 1AN1-NETWORK | IONOS Inc. |
+| 154.53.44.239 | dstake |  |  |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 RU-SBCLOUD-20210827 | RIPE Network Coordination Centre SBCloud LLC |
 | 195.3.223.9 | jpoop0n4q4rk | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 65.108.66.174 | hello-BccNodesRPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.62.179 | roadz-main | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -89,12 +89,12 @@
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 57.128.163.232 | NodeStake | RIPE-ERX-57 PCI-UK1 | RIPE Network Coordination Centre OVH Ltd |
 | 142.132.248.138 | EZStaking.io | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 RU-SBCLOUD-20210827 | RIPE Network Coordination Centre SBCloud LLC |
+| 74.208.94.42 | sentinelnois | 1AN1-NETWORK | IONOS Inc. |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
 | 144.76.63.67 | EZStaking.io | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 216.128.134.36 | node | CONSTANT NET-216-128-134-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
-| 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
+| 65.108.79.237 | chaintools-relayer-node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
