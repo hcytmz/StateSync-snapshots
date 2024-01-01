@@ -25,11 +25,9 @@
 | 91.194.30.203 | riser |  |  |
 | 95.217.141.43 | Kolot |  |  |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
-| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
-| 103.234.71.245 | okp4 | REGEN_IN |  |
-| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed |  |  |
-| 141.95.34.193 | node |  |  |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
 | 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
-| 65.109.117.212 | w3coins | RIPE | RIPE Network Coordination Centre |
+| 162.246.20.74 | Darvin | INTERSERVER | Interserver, Inc |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
