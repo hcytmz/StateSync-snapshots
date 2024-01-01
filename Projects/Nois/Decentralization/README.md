@@ -40,7 +40,7 @@
 | 162.55.245.149 | d18ef169-01a5af | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 135.181.128.114 | hello-nois-backup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
+| 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 213.239.199.149 | mib | HETZNER-RZ-NBG-NET2 |  |
 | 65.109.112.170 | Nodejumper | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.76.97.251 | AlxVoy | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -93,9 +93,9 @@
 | 74.208.94.42 | sentinelnois | 1AN1-NETWORK | IONOS Inc. |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
 | 65.108.130.171 | nois-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
-| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
 | 65.108.79.237 | chaintools-relayer-node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 65.108.227.217 | nois-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
