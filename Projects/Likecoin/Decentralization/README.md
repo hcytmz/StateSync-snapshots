@@ -24,7 +24,7 @@
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
-| 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 5.9.121.55 | StakeAngle_RPC | HETZNER-fsn1-dc7 |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -60,6 +60,8 @@
 | 43.224.50.29 | itchitech | HKBNES-HK |  |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
+| 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 
 <!-- END_TABLE -->
