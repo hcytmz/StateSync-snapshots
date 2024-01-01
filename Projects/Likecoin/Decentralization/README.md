@@ -19,9 +19,8 @@
 | 194.163.161.194 | Foxinodes | CONTABO |  |
 | 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
-| 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
 | 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
@@ -39,7 +38,7 @@
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 38.242.143.195 | likecoin-mainnet | COGENT-A | PSINet, Inc. |
 | 198.244.228.17 | web34ever | RIPE SD-ERI-lon1-eri1-sdagg28a-b-n93-2-2 | RIPE Network Coordination Centre OVH Ltd |
-| 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 |  |
+| 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
 | 43.224.50.29 | itchitech | HKBNES-HK |  |
 | 94.250.203.238 | ericet | CONTABO-08 | Contabo GmbH |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -60,8 +59,7 @@
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
-| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
+| 154.12.227.117 | 50%Banana |  |  |
 | 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
