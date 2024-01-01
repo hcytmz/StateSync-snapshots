@@ -32,7 +32,7 @@
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
 | 62.171.186.77 | moonbeam | CONTABO | Contabo GmbH |
-| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.63.22 | martianforest |  |  |
 | 5.78.102.149 | BRAND-likecoin-relayer | CLOUD-HIL | Hetzner Online GmbH Hetzner Online GmbH |
 | 57.128.133.16 | likecoin-m-horcrux1-ovh-lon | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
@@ -59,7 +59,6 @@
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
-| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 154.12.227.117 | 50%Banana |  |  |
 
 <!-- END_TABLE -->
