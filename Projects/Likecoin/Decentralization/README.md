@@ -20,7 +20,7 @@
 | 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
 | 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
@@ -32,7 +32,7 @@
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
 | 62.171.186.77 | moonbeam | CONTABO | Contabo GmbH |
-| 154.53.63.22 | martianforest |  |  |
+| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
 | 5.78.102.149 | BRAND-likecoin-relayer | CLOUD-HIL | Hetzner Online GmbH Hetzner Online GmbH |
 | 57.128.133.16 | likecoin-m-horcrux1-ovh-lon | RIPE-ERX-57 OVH_226110557 | RIPE Network Coordination Centre OVH Ltd |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
@@ -43,7 +43,7 @@
 | 94.250.203.238 | ericet | CONTABO-08 | Contabo GmbH |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 136.243.55.237 | AnyValid | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 5.10.19.55 | forbole-rds | CUSTOMERS-Subnet4 |  |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 34.143.212.21 | matters.news | GOOGL-2 | Google LLC |
@@ -61,5 +61,6 @@
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 154.12.227.117 | 50%Banana |  |  |
 | 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
