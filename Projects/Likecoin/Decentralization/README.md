@@ -17,6 +17,7 @@
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
 | 194.163.161.194 | Foxinodes | CONTABO |  |
+| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 154.12.227.117 | 50%Banana |  |  |
@@ -39,7 +40,7 @@
 | 38.242.143.195 | likecoin-mainnet | COGENT-A | PSINet, Inc. |
 | 198.244.228.17 | web34ever | RIPE SD-ERI-lon1-eri1-sdagg28a-b-n93-2-2 | RIPE Network Coordination Centre OVH Ltd |
 | 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
-| 43.224.50.29 | itchitech | HKBNES-HK |  |
+| 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 94.250.203.238 | ericet | CONTABO-08 | Contabo GmbH |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 136.243.55.237 | AnyValid | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -56,12 +57,9 @@
 | 54.36.108.222 | Stakewolle | RIPE SD-LIM1 | RIPE Network Coordination Centre OVH GmbH |
 | 64.226.112.184 | likecoin-public-statefulset-0 | DIGITALOCEAN-64-226-64-0 | DigitalOcean, LLC |
 | 173.212.231.154 | Family-Online | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
-| 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
-| 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
+| 43.224.50.29 | itchitech | HKBNES-HK |  |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
-| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
