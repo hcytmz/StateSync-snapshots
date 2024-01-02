@@ -15,7 +15,7 @@
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
 | 194.163.161.194 | Foxinodes | CONTABO |  |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 154.12.227.117 | 50%Banana |  |  |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
@@ -59,6 +59,6 @@
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
