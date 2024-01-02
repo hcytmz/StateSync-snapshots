@@ -16,17 +16,17 @@
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
 | 194.163.161.194 | Foxinodes | CONTABO |  |
-| 154.12.227.117 | 50%Banana |  |  |
+| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
-| 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
+| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 5.9.121.55 | StakeAngle_RPC | HETZNER-fsn1-dc7 |  |
-| 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 |  |
+| 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 154.53.63.22 | martianforest |  |  |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
@@ -37,7 +37,7 @@
 | 65.109.100.252 | Citizen Cosmos | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 38.242.143.195 | likecoin-mainnet | COGENT-A | PSINet, Inc. |
 | 198.244.228.17 | web34ever | RIPE SD-ERI-lon1-eri1-sdagg28a-b-n93-2-2 | RIPE Network Coordination Centre OVH Ltd |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 94.250.203.238 | ericet | CONTABO-08 | Contabo GmbH |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -60,5 +60,7 @@
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
 | 43.224.50.29 | itchitech | HKBNES-HK |  |
 | 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
