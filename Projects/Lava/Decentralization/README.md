@@ -31,9 +31,8 @@
 | 213.135.142.131 | clone | MACROREGIONAL_CENTER |  |
 | 35.205.44.215 | testnet2-validator-3 | GOOGLE-CLOUD | Google LLC |
 | 65.108.41.172 | cyberG | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 185.230.138.107 | Adora | TT-2021111014 | Contabo GmbH |
 | 188.247.44.113 | clone | Magistral_VolzhStorRu |  |
-| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
+| 138.201.204.5 | haciyatmaz | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 92.97.153.27 | CryptoSJnet | ETISALATADSL-EMIRNET |  |
 | 157.90.128.99 | Bablovcoin | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.40.79.50 | clone | DataHarbour-net | Limited Liability Company DataHarbour |
@@ -61,7 +60,7 @@
 | 23.88.5.169 | LiveRaveN | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.89.18 | itrocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 38.242.205.58 | danila | COGENT-A | PSINet, Inc. |
-| 89.250.150.241 | lavapl | ERTH-TMN-PPPOE-45-NET | JSC ER-Telecom Holding |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 88.198.8.79 | lava_dora | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 65.21.131.215 | Dverivam | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.100.31 | MELLIFERA | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -98,7 +97,7 @@
 | 173.249.9.164 | lavass | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 37.120.171.159 | durnoy | NETCUP_NET-14 | netcup GmbH |
 | 176.103.222.17 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 154.53.59.87 | BATON88 | COGENT-154-53-16 | PSINet, Inc. |
 | 207.180.215.4 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 158.220.97.137 | anketa | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
@@ -131,7 +130,7 @@
 | 62.171.159.226 | Lavanode6 | CONTABO | Contabo GmbH |
 | 45.67.212.233 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
 | 173.212.197.148 | DmytriyGuru | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.167.188 | wildweststaking |  |  |
 | 167.86.104.221 | hlebhryliav | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 31.220.90.180 | Lavanode3 | TT-20230217 | Contabo GmbH |
 | 31.220.90.176 | Lavanode5 | TT-20230217 | Contabo GmbH |
@@ -153,7 +152,5 @@
 | 65.21.141.117 | MarkCN | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.188.249.46 | bonynode | TT-202200809 | Contabo GmbH |
 | 174.138.187.2 | mynode | INTER-83 SRV20124 | Interserver, Inc PingPipe Internet Corporation |
-| 138.201.204.5 | haciyatmaz | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
 
 <!-- END_TABLE -->
