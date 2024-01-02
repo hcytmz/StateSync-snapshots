@@ -45,12 +45,11 @@
 | 136.243.55.237 | AnyValid | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 5.10.19.55 | forbole-rds | CUSTOMERS-Subnet4 |  |
-| 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 34.143.212.21 | matters.news | GOOGL-2 | Google LLC |
 | 167.235.2.246 | node | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 207.180.238.137 | moonbeam-RPC | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 144.91.125.80 | BRAND-likecoin-main | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 213.136.88.233 | Oldcat-likecoin-relayer | CONTABO | Contabo GmbH |
 | 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
 | 54.36.108.222 | Stakewolle | RIPE SD-LIM1 | RIPE Network Coordination Centre OVH GmbH |
