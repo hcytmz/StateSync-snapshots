@@ -42,7 +42,6 @@
 | 45.67.213.137 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
 | 23.88.7.159 | semalist | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 86.111.48.159 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 162.19.217.52 | test | RIPE OVH_242284876 | RIPE Network Coordination Centre Andersen Christian |
 | 167.235.14.83 | Ubuntu-2204-jammy-amd64-base | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
@@ -124,7 +123,7 @@
 | 161.97.122.145 | Lavanode1 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 84.54.192.204 | C2000M1Node07 | Macroregional_South |  |
 | 85.215.197.18 | BabyScope | IONOS-CLOUD-TXL | Strato AG |
-| 31.220.75.138 | Asapov | CPI.TM | TT-20230217 | Contabo GmbH |
+| 194.163.174.231 | AviaDoc_by_AviaOne | CONTABO |  |
 | 84.46.246.139 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
 | 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
@@ -144,6 +143,7 @@
 | 144.217.68.182 | Nodeist-lava-test | HO-2 | OVH Hosting, Inc. |
 | 65.108.226.183 | hello-lava-test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.229.93 | mynode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 31.220.75.138 | Asapov | CPI.TM | TT-20230217 | Contabo GmbH |
 | 178.18.253.82 | LavaNodes | CONTABO |  |
 | 65.109.65.248 | StakeTown-API | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.207.236 | PostHuman | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
@@ -155,6 +155,6 @@
 | 138.201.204.5 | haciyatmaz | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 185.40.79.50 | clone | DataHarbour-net | Limited Liability Company DataHarbour |
 | 131.153.158.137 | Republic Runtime | SSL-65 | SECURED SERVERS LLC |
-| 194.163.174.231 | AviaDoc_by_AviaOne | CONTABO |  |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 
 <!-- END_TABLE -->
