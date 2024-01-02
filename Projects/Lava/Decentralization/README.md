@@ -58,7 +58,7 @@
 | 95.217.114.120 | Jocker |  |  |
 | 23.88.5.169 | LiveRaveN | RIPE | RIPE Network Coordination Centre |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
-| 38.242.205.58 | danila | COGENT-A |  |
+| 38.242.205.58 | danila | COGENT-A | PSINet, Inc. |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 88.198.8.79 | lava_dora |  |  |
 | 65.21.131.215 | Dverivam | RIPE | RIPE Network Coordination Centre |
@@ -89,7 +89,7 @@
 | 86.111.48.158 | test |  |  |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
-| 92.119.186.40 | xtrend |  |  |
+| 62.171.145.122 | Lavanode8 |  |  |
 | 31.220.76.134 | serhii |  |  |
 | 164.68.103.241 | TronMan | RIPE | RIPE Network Coordination Centre |
 | 89.117.54.156 | Dominik |  |  |
@@ -122,10 +122,10 @@
 | 161.97.122.145 | Lavanode1 | RIPE | RIPE Network Coordination Centre |
 | 84.54.192.204 | C2000M1Node07 |  |  |
 | 85.215.197.18 | BabyScope |  |  |
-| 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
 | 154.38.167.188 | wildweststaking |  |  |
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
-| 38.242.241.5 | viktorkalyna | COGENT-A |  |
+| 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
 | 62.171.159.226 | Lavanode6 |  |  |
 | 45.67.212.233 | clone |  |  |
 | 173.212.197.148 | DmytriyGuru | RIPE | RIPE Network Coordination Centre |
@@ -152,7 +152,6 @@
 | 185.188.249.46 | bonynode |  |  |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 65.108.81.145 | nodeYarNik | RIPE | RIPE Network Coordination Centre |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
-| 62.171.145.122 | Lavanode8 |  |  |
+| 159.69.72.220 | StayWithLava | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
