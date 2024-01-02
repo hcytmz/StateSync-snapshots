@@ -61,7 +61,6 @@
 | 23.88.5.169 | LiveRaveN | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.89.18 | itrocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 38.242.205.58 | danila | COGENT-A | PSINet, Inc. |
-| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 88.198.8.79 | lava_dora | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 65.21.131.215 | Dverivam | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.100.31 | MELLIFERA | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -99,7 +98,7 @@
 | 37.120.171.159 | durnoy | NETCUP_NET-14 | netcup GmbH |
 | 176.103.222.17 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 45.67.213.73 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
-| 154.53.59.87 | BATON88 |  |  |
+| 154.53.59.87 | BATON88 | COGENT-154-53-16 | PSINet, Inc. |
 | 207.180.215.4 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 158.220.97.137 | anketa | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
 | 164.68.122.32 | testnet | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -144,7 +143,7 @@
 | 144.217.68.182 | Nodeist-lava-test | HO-2 | OVH Hosting, Inc. |
 | 65.108.226.183 | hello-lava-test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.229.93 | mynode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 31.220.75.138 | Asapov | CPI.TM | TT-20230217 | Contabo GmbH |
+| 195.14.6.179 | 01node-nop | O1NODE | 01NODE STAKING SERVICES S.R.L. |
 | 178.18.253.82 | LavaNodes | CONTABO |  |
 | 65.109.65.248 | StakeTown-API | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.207.236 | PostHuman | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
@@ -155,7 +154,6 @@
 | 174.138.187.2 | mynode | INTER-83 SRV20124 | Interserver, Inc PingPipe Internet Corporation |
 | 65.108.81.145 | nodeYarNik | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 77.239.227.38 | clone | ATHOME |  |
-| 195.14.6.179 | 01node-nop | O1NODE | 01NODE STAKING SERVICES S.R.L. |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 92.119.186.40 | xtrend | NEOTELECOM | Neo-Telecom Plus Ltd. |
 
 <!-- END_TABLE -->
