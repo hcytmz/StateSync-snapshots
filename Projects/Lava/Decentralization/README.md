@@ -73,7 +73,6 @@
 | 176.103.222.22 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 65.21.224.11 | mynode | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.143.184 | srklt | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 167.235.180.242 | erfer | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.232.182 | Mrs_ml | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 166.1.70.10 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
 | 176.120.177.123 | Blackblackcat | HCN-NET2 | Home Computer Networks ltd. |
@@ -87,6 +86,7 @@
 | 46.4.14.172 | PPNV | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 86.111.48.155 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
 | 91.245.225.3 | TopOurNodes | CH-RUVDS | MT FINANCE LLC |
+| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 86.111.48.158 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
@@ -126,7 +126,7 @@
 | 194.163.174.231 | AviaDoc_by_AviaOne | CONTABO |  |
 | 84.46.246.139 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
-| 38.242.241.5 | viktorkalyna | COGENT-A |  |
+| 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
 | 62.171.159.226 | Lavanode6 | CONTABO | Contabo GmbH |
 | 45.67.212.233 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
 | 173.212.197.148 | DmytriyGuru | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -152,7 +152,6 @@
 | 65.21.141.117 | MarkCN | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.188.249.46 | bonynode | TT-202200809 | Contabo GmbH |
 | 174.138.187.2 | mynode | INTER-83 SRV20124 | Interserver, Inc PingPipe Internet Corporation |
-| 34.91.136.129 | mynode | GOOGL-2 | Google LLC |
-| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
+| 65.108.81.145 | nodeYarNik | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
