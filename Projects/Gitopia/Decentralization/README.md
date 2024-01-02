@@ -1,4 +1,3 @@
-![Diagramm](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/Gitopia/1/README.md)
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
 | HETZNER | 74 | 60.16% | 🔴 |
@@ -8,9 +7,11 @@
 | Contabo | 4 | 3.25% | 🟢 |
 | DIGITALOCEAN | 3 | 2.44% | 🟢 |
 | IKOULA | 3 | 2.44% | 🟢 |
-| Interserver | 3 | 2.44% | 🟢 |
+| Interserver | 2 | 1.63% | 🟢 |
 | AMAZON | 1 | 0.81% | 🟢 |
 | IPAX | 1 | 0.81% | 🟢 |
 | LeaseWeb | 1 | 0.81% | 🟢 |
+| Netcup | 1 | 0.81% | 🟢 |
+| PSINet | 1 | 0.81% | 🟢 |
 | StackPath | 1 | 0.81% | 🟢 |
-| OTHER | 8 | 6.50% | 🟢 |
+| OTHER | 7 | 5.69% | 🟢 |
