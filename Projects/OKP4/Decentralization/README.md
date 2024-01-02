@@ -26,6 +26,6 @@
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 57.128.20.238 | rpc | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 38.242.251.204 | Lexar | COGENT-A | PSINet, Inc. |
+| 51.158.73.82 | Meria | ONLINENET_DEDICATED_SERVERS | Scaleway |
 
 <!-- END_TABLE -->
