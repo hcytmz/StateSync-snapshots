@@ -34,7 +34,7 @@
 | 45.67.213.105 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
 | 188.247.44.113 | clone | Magistral_VolzhStorRu |  |
 | 138.201.204.5 | haciyatmaz | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 92.97.153.27 | CryptoSJnet | ETISALATADSL-EMIRNET |  |
+| 161.97.153.175 | nikabirsak22 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 157.90.128.99 | Bablovcoin | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.40.79.50 | clone | DataHarbour-net | Limited Liability Company DataHarbour |
 | 141.95.124.105 | mynode | SD-LIM3-LIM-FAT-MAGGIE-SDAGG14-infra-002-2-2 | OVH GmbH |
@@ -154,6 +154,7 @@
 | 174.138.187.2 | mynode | INTER-83 SRV20124 | Interserver, Inc PingPipe Internet Corporation |
 | 65.108.81.145 | nodeYarNik | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 77.239.227.38 | clone | ATHOME |  |
+| 62.171.145.122 | Lavanode8 | CONTABO | Contabo GmbH |
 | 92.119.186.40 | xtrend | NEOTELECOM | Neo-Telecom Plus Ltd. |
 
 <!-- END_TABLE -->
