@@ -20,12 +20,12 @@
 | 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 188.40.66.173 | hello-okp4-test | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 65.21.32.216 | jayjay | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 91.194.30.203 | riser | SC-TREND-IMPORT-EXPORT-SRL | Trend IMPORT - EXPORT SRL |
 | 95.217.141.43 | Kolot | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 57.128.20.238 | rpc | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
-| 91.194.30.203 | riser | SC-TREND-IMPORT-EXPORT-SRL | Trend IMPORT - EXPORT SRL |
-| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 195.201.222.82 | okp4-nemeton-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 38.242.251.204 | Lexar | COGENT-A | PSINet, Inc. |
+| 161.97.79.109 | MELLIFERA-NODE | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 185.144.99.16 | cryptech | ULTRAPAK | Ultra-Pak LLC |
 
 <!-- END_TABLE -->
