@@ -19,7 +19,7 @@
 | 65.108.124.121 | Lapatylin | RIPE | RIPE Network Coordination Centre |
 | 128.140.83.145 | dmnodes | RIPE-ERX-128-140-0-0 | RIPE Network Coordination Centre |
 | 159.89.111.21 | Tendermint | DIGITALOCEAN-159-89-0-0 | DigitalOcean, LLC |
-| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
+| 104.207.130.172 | TeoViTeoVi | CONSTANT NET-104-207-130-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 65.109.92.79 | rpc | RIPE | RIPE Network Coordination Centre |
 | 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
 | 207.180.240.225 | Lava | RIPE | RIPE Network Coordination Centre |
@@ -58,7 +58,7 @@
 | 95.217.114.120 | Jocker |  |  |
 | 23.88.5.169 | LiveRaveN | RIPE | RIPE Network Coordination Centre |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
-| 38.242.205.58 | danila | COGENT-A | PSINet, Inc. |
+| 38.242.205.58 | danila | COGENT-A |  |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 88.198.8.79 | lava_dora |  |  |
 | 65.21.131.215 | Dverivam | RIPE | RIPE Network Coordination Centre |
@@ -81,7 +81,7 @@
 | 164.68.105.141 | Dominik | RIPE | RIPE Network Coordination Centre |
 | 75.119.146.252 | node101 | RIPE | RIPE Network Coordination Centre |
 | 167.86.123.205 | Lavamijigo | RIPE | RIPE Network Coordination Centre |
-| 167.235.180.242 | erfer | RIPE | RIPE Network Coordination Centre |
+| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
 | 46.4.14.172 | PPNV |  |  |
 | 86.111.48.155 | test |  |  |
 | 91.245.225.3 | TopOurNodes |  |  |
@@ -89,7 +89,7 @@
 | 86.111.48.158 | test |  |  |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
-| 62.171.145.122 | Lavanode8 |  |  |
+| 92.119.186.40 | xtrend |  |  |
 | 31.220.76.134 | serhii |  |  |
 | 164.68.103.241 | TronMan | RIPE | RIPE Network Coordination Centre |
 | 89.117.54.156 | Dominik |  |  |
@@ -125,7 +125,7 @@
 | 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
 | 154.38.167.188 | wildweststaking |  |  |
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
-| 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
+| 38.242.241.5 | viktorkalyna | COGENT-A |  |
 | 62.171.159.226 | Lavanode6 |  |  |
 | 45.67.212.233 | clone |  |  |
 | 173.212.197.148 | DmytriyGuru | RIPE | RIPE Network Coordination Centre |
@@ -152,8 +152,7 @@
 | 185.188.249.46 | bonynode |  |  |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 65.108.81.145 | nodeYarNik | RIPE | RIPE Network Coordination Centre |
-| 92.119.186.40 | xtrend |  |  |
 | 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
-| 104.207.130.172 | TeoViTeoVi | CONSTANT NET-104-207-130-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
+| 62.171.145.122 | Lavanode8 |  |  |
 
 <!-- END_TABLE -->
