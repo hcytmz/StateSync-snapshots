@@ -42,11 +42,11 @@
 | 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
 | 65.109.106.169 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 213.239.199.149 | mib | HETZNER-RZ-NBG-NET2 |  |
-| 65.109.112.170 | Nodejumper | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 RU-SBCLOUD-20210827 | RIPE Network Coordination Centre SBCloud LLC |
 | 144.76.97.251 | AlxVoy | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 136.243.69.55 | e8521d73-db81-5a07-9c8c-a96516e31cdf | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 141.94.193.28 | rpc-1.nois.nodes.guru | rbx8-sdagg27a-b-n93-2-2 | OVH SAS |
-| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 RU-SBCLOUD-20210827 | RIPE Network Coordination Centre SBCloud LLC |
+| 65.109.112.170 | Nodejumper | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.181.190.114 | L0vd.com | PL-MEV-20190403 | MEVSPACE sp. z o.o. |
 | 2001:bc8:702:16d0::3 | nois-1 | SCALEWAY | Scaleway |
 | 146.59.52.137 | d8ab2567-6e7f-55a6-a7bd-ce15a61c08c5 | RIPE-ERX-146-59-0-0 SD-Game-WAW-W17A | RIPE Network Coordination Centre OVH Sp. z o. o. |
@@ -59,7 +59,7 @@
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 195.201.197.4 | itrocket | DE-HETZNER-20120425 | Hetzner Online GmbH Hetzner Online GmbH |
 | 195.3.223.9 | jpoop0n4q4rk | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
-| 57.128.20.163 | 45d756ee-69c2-5344-9233-fa8ac733f323 | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
+| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.62.179 | roadz-main | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 216.128.134.36 | node | CONSTANT NET-216-128-134-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 144.76.40.53 | 4249725a-814c-5f40-a94b-e80bd52bdc4c | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -82,7 +82,7 @@
 | 65.109.118.169 | jayjayservice | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.46.100 | BccNodes | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 81.0.248.57 | nois-main | TT-20221122 | Contabo GmbH |
-| 142.132.253.112 | itrocket | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 65.21.52.246 | nois-1 | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.104.118 | lesnik_utsa | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 88.198.18.88 | terlia | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
@@ -92,9 +92,9 @@
 | 65.21.14.11 | Vitek73 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 74.208.94.42 | sentinelnois | 1AN1-NETWORK | IONOS Inc. |
 | 135.181.128.114 | hello-nois-backup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 136.243.40.17 | Merfdrefde | RIPE-ERX-136-243-0-0 HETZNER-fsn1-dc12 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 65.108.79.237 | chaintools-relayer-node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 57.128.20.163 | 45d756ee-69c2-5344-9233-fa8ac733f323 | RIPE-ERX-57 SD-SBG-SBG5-S506AB-Maggie-infra-002-2-2 | RIPE Network Coordination Centre OVH SAS |
+| 65.108.130.171 | nois-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 31.220.87.206 | NakoTurk | TT-20230217 | Contabo GmbH |
+| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
