@@ -18,7 +18,7 @@
 | 194.163.161.194 | Foxinodes |  |  |
 | 154.12.227.117 | 50%Banana |  |  |
 | 194.195.212.69 | Stakeland by 9GAG |  |  |
-| 188.166.226.230 | PM |  |  |
+| 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
@@ -27,7 +27,7 @@
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE | RIPE Network Coordination Centre |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
-| 154.53.63.22 | martianforest |  |  |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
 | 62.171.186.77 | moonbeam |  |  |
@@ -51,7 +51,7 @@
 | 144.91.125.80 | BRAND-likecoin-main | RIPE | RIPE Network Coordination Centre |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 58.176.243.147 | PikaSer - Sentry | HKBN | Hong Kong Broadband Network Ltd |
 | 54.36.108.222 | Stakewolle | RIPE | RIPE Network Coordination Centre |
 | 64.226.112.184 | likecoin-public-statefulset-0 | DIGITALOCEAN-64-226-64-0 | DigitalOcean, LLC |
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
@@ -60,7 +60,7 @@
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
 | 43.224.50.29 | itchitech | HKBNES-HK |  |
 | 51.159.223.25 | Citizen Cosmos |  |  |
-| 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
+| 188.166.226.230 | PM |  |  |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
