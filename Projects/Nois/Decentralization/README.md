@@ -39,7 +39,6 @@
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
 | 162.55.245.149 | d18ef169-01a5af | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
-| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
 | 213.239.199.149 | mib |  |  |
 | 65.108.130.171 | nois-1 | RIPE | RIPE Network Coordination Centre |
@@ -59,7 +58,7 @@
 | 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
 | 195.201.197.4 | itrocket |  |  |
 | 195.3.223.9 | jpoop0n4q4rk |  |  |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 65.108.79.237 | chaintools-relayer-node | RIPE | RIPE Network Coordination Centre |
 | 65.109.62.179 | roadz-main | RIPE | RIPE Network Coordination Centre |
 | 216.128.134.36 | node | CONSTANT NET-216-128-134-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 144.76.40.53 | 4249725a-814c-5f40-a94b-e80bd52bdc4c | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
@@ -75,14 +74,14 @@
 | 135.181.198.17 | chronon | RIPE | RIPE Network Coordination Centre |
 | 144.76.63.67 | EZStaking.io | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 135.181.128.114 | hello-nois-backup | RIPE | RIPE Network Coordination Centre |
-| 154.53.44.239 | dstake |  |  |
+| 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
 | 65.109.29.150 | range | RIPE | RIPE Network Coordination Centre |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 157.90.181.186 | tRDM | RIPE | RIPE Network Coordination Centre |
 | 65.109.118.169 | jayjayservice | RIPE | RIPE Network Coordination Centre |
 | 65.108.46.100 | BccNodes | RIPE | RIPE Network Coordination Centre |
 | 81.0.248.57 | nois-main |  |  |
-| 31.220.87.206 | NakoTurk |  |  |
+| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 65.21.52.246 | nois-1 | RIPE | RIPE Network Coordination Centre |
 | 65.109.104.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
 | 88.198.18.88 | terlia |  |  |
@@ -94,6 +93,10 @@
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 185.16.39.158 | anun10vv7ign |  |  |
 | 57.128.144.242 | Forbole | RIPE-ERX-57 | RIPE Network Coordination Centre |
-| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
+| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
+| 31.220.87.206 | NakoTurk |  |  |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 135.181.5.219 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
