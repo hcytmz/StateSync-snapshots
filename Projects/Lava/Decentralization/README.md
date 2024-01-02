@@ -83,11 +83,11 @@
 | 164.68.105.141 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 75.119.146.252 | node101 | RIPE CONTABO | RIPE Network Coordination Centre |
 | 167.86.123.205 | Lavamijigo | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 84.46.246.59 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
+| 167.235.180.242 | erfer | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 46.4.14.172 | PPNV | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 86.111.48.155 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
 | 91.245.225.3 | TopOurNodes | CH-RUVDS | MT FINANCE LLC |
-| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
+| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | ColoCrossing |
 | 86.111.48.158 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
@@ -99,7 +99,7 @@
 | 37.120.171.159 | durnoy | NETCUP_NET-14 | netcup GmbH |
 | 176.103.222.17 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 45.67.213.73 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
-| 154.53.59.87 | BATON88 |  |  |
+| 154.53.59.87 | BATON88 | COGENT-154-53-16 | PSINet, Inc. |
 | 207.180.215.4 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 158.220.97.137 | anketa | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
 | 164.68.122.32 | testnet | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -115,7 +115,7 @@
 | 158.220.105.187 | Lavanode7 | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
 | 89.117.52.186 | HalfButy | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
-| 84.46.246.51 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
+| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 173.212.205.21 | Lava1 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 57.128.44.52 | NodeStake | RIPE-ERX-57 PCI-GRA11 | RIPE Network Coordination Centre OVH SAS |
 | 142.132.214.131 | Moldova | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -125,13 +125,13 @@
 | 84.54.192.204 | C2000M1Node07 | Macroregional_South |  |
 | 85.215.197.18 | BabyScope | IONOS-CLOUD-TXL | Strato AG |
 | 194.163.174.231 | AviaDoc_by_AviaOne | CONTABO |  |
-| 84.46.246.139 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
+| 154.38.167.188 | wildweststaking |  |  |
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
 | 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
 | 62.171.159.226 | Lavanode6 | CONTABO | Contabo GmbH |
 | 45.67.212.233 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
 | 173.212.197.148 | DmytriyGuru | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 154.38.167.188 | wildweststaking |  |  |
+| 94.130.35.35 | Monika | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
 | 167.86.104.221 | hlebhryliav | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 31.220.90.180 | Lavanode3 | TT-20230217 | Contabo GmbH |
 | 31.220.90.176 | Lavanode5 | TT-20230217 | Contabo GmbH |
@@ -156,6 +156,6 @@
 | 65.108.81.145 | nodeYarNik | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 77.239.227.38 | clone | ATHOME |  |
 | 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
-| 94.130.35.35 | Monika | HETZNER-fsn1-dc1 | Hetzner Online GmbH |
+| 65.108.206.118 | UTSA_guide | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
