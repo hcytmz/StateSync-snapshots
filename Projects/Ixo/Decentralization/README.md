@@ -26,7 +26,7 @@
 | 65.108.127.52 | DOUBLETOP | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 46.4.81.204 | Kalia Network | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 142.132.158.93 | 9a13212a-237a-5d38-8cdb-c99675659b39 | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 80.64.208.42 | ixo-mainnet-validator | skoed-subnet |  |
+| 135.148.169.198 | 08ac7d2e-d7d7-528c-9ff3-46844e28ac15 | OUL-16 SD-VIN-V119-MAGGIE-INFRA-002 | OVH US LLC OVH US LLC |
 | 45.77.61.128 | ixo-node02 | CONSTANT NET-45-77-60-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 162.55.133.237 | STAKECRAFT | RIPE DE-HETZNER-19920803 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.67.185 | Tuzem | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -42,7 +42,7 @@
 | 176.191.97.120 | RPCIBC | FR-BOUYGTEL-20110706 | Bouygues Telecom SA |
 | 54.36.108.222 | Stakewolle | RIPE SD-LIM1 | RIPE Network Coordination Centre OVH GmbH |
 | 31.171.241.167 | Gateway FM | CLOUDSIGMA |  |
-| 169.0.111.199 | buildkitsandbox | AFRINIC-ERX-169-0-0-0 AFRIHOST-DYNAMIC | African Network Information Center |
+| 102.182.201.193 | buildkitsandbox | AFRIHOST-FIBRE |  |
 | 167.235.12.38 | Hexnodes | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.83.131.162 | sentry2 | VPS-WAW2 | OVH Sp. z o. o. |
 | 45.33.65.206 | OS-IXO-Node-USE | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
@@ -52,9 +52,8 @@
 | 43.133.34.14 | ImpactHub node |  |  |
 | 31.171.250.63 | Gateway FM | CH-CLOUDSIGMA |  |
 | 37.27.18.188 | KingSuper | CLOUD-HEL1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 144.76.63.67 | ezstaking-sentry-1 | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 65.21.91.160 | 79anvi | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 158.247.219.236 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
-| 135.148.169.198 | 08ac7d2e-d7d7-528c-9ff3-46844e28ac15 | OUL-16 SD-VIN-V119-MAGGIE-INFRA-002 | OVH US LLC OVH US LLC |
+| 65.21.91.160 | 79anvi | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 144.76.63.67 | ezstaking-sentry-1 | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 
 <!-- END_TABLE -->
