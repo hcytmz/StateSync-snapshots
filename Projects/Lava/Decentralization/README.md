@@ -36,12 +36,13 @@
 | 84.46.246.54 | my-node | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 92.97.153.27 | CryptoSJnet | ETISALATADSL-EMIRNET |  |
 | 157.90.128.99 | Bablovcoin | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 185.40.79.50 | clone | DataHarbour-net | Limited Liability Company DataHarbour |
 | 141.95.124.105 | mynode | SD-LIM3-LIM-FAT-MAGGIE-SDAGG14-infra-002-2-2 | OVH GmbH |
 | 65.21.131.21 | node | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 45.67.213.137 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
 | 23.88.7.159 | semalist | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 86.111.48.159 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
+| 131.153.158.137 | Republic Runtime | SSL-65 | SECURED SERVERS LLC |
 | 162.19.217.52 | test | RIPE OVH_242284876 | RIPE Network Coordination Centre Andersen Christian |
 | 167.235.14.83 | Ubuntu-2204-jammy-amd64-base | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
@@ -153,7 +154,7 @@
 | 185.188.249.46 | bonynode | TT-202200809 | Contabo GmbH |
 | 174.138.187.2 | mynode | INTER-83 SRV20124 | Interserver, Inc PingPipe Internet Corporation |
 | 138.201.204.5 | haciyatmaz | RIPE-ERX-138-198-0-0 HETZNER-fsn1-dc8 | RIPE Network Coordination Centre Hetzner Online GmbH |
-| 185.40.79.50 | clone | DataHarbour-net | Limited Liability Company DataHarbour |
-| 131.153.158.137 | Republic Runtime | SSL-65 | SECURED SERVERS LLC |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 23.88.70.109 | Merna | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
