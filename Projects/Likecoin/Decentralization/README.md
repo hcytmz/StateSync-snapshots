@@ -50,7 +50,6 @@
 | 167.235.2.246 | node | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 207.180.238.137 | moonbeam-RPC | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 144.91.125.80 | BRAND-likecoin-main | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 213.136.88.233 | Oldcat-likecoin-relayer | CONTABO | Contabo GmbH |
 | 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
 | 54.36.108.222 | Stakewolle | RIPE SD-LIM1 | RIPE Network Coordination Centre OVH GmbH |
@@ -62,7 +61,7 @@
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
