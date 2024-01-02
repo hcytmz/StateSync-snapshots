@@ -75,14 +75,14 @@
 | 135.181.198.17 | chronon | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.76.63.67 | EZStaking.io | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 95.216.100.99 | mainnet-backup-1 | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
-| 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
+| 154.53.44.239 | dstake |  |  |
 | 65.109.29.150 | range | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 SD-GRA-gra3-sdagg32ab-n93 | RIPE Network Coordination Centre OVH SAS |
 | 157.90.181.186 | tRDM | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.118.169 | jayjayservice | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.46.100 | BccNodes | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 81.0.248.57 | nois-main | TT-20221122 | Contabo GmbH |
-| 154.53.44.239 | dstake |  |  |
+| 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
 | 65.21.52.246 | nois-1 | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.104.118 | lesnik_utsa | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 88.198.18.88 | terlia | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
@@ -96,7 +96,6 @@
 | 57.128.144.242 | Forbole | RIPE-ERX-57 OVH_235343661 | RIPE Network Coordination Centre OVH Ltd |
 | 135.181.128.114 | hello-nois-backup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.66.174 | hello-BccNodesRPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 31.220.87.206 | NakoTurk | TT-20230217 | Contabo GmbH |
-| 65.108.79.237 | chaintools-relayer-node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.227.217 | nois-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
