@@ -29,7 +29,7 @@
 | 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 91.194.30.203 | riser |  |  |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
-| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed |  |  |
-| 38.242.251.204 | Lexar | COGENT-A | PSINet, Inc. |
+| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
