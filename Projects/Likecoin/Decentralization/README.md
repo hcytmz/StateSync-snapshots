@@ -61,6 +61,5 @@
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
