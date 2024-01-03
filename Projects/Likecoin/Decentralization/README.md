@@ -18,7 +18,7 @@
 | 194.163.161.194 | Foxinodes |  |  |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 194.195.212.69 | Stakeland by 9GAG |  |  |
-| 154.53.63.22 | martianforest |  |  |
+| 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
@@ -59,7 +59,8 @@
 | 188.166.226.230 | PM |  |  |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
-| 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 14.224.145.244 | csc04 | VNPT-VN |  |
 | 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
