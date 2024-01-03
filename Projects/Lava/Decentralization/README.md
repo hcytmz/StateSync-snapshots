@@ -38,7 +38,6 @@
 | 65.108.81.145 | nodeYarNik | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.131.21 | node | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 45.67.213.137 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
-| 23.88.7.159 | semalist | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 86.111.48.159 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
 | 131.153.158.137 | Republic Runtime | SSL-65 | SECURED SERVERS LLC |
 | 162.19.217.52 | test | RIPE OVH_242284876 | RIPE Network Coordination Centre Andersen Christian |
@@ -97,7 +96,7 @@
 | 37.120.171.159 | durnoy | NETCUP_NET-14 | netcup GmbH |
 | 176.103.222.17 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 45.67.213.73 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
-| 154.53.59.87 | BATON88 |  |  |
+| 154.53.59.87 | BATON88 | COGENT-154-53-16 | PSINet, Inc. |
 | 207.180.215.4 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
 | 164.68.122.32 | testnet | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -125,7 +124,7 @@
 | 195.128.158.108 | C2857M1Node05-hdd | ITH-NET | ITH Ltd. |
 | 173.249.0.170 | forestgamp | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
-| 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
+| 38.242.241.5 | viktorkalyna | COGENT-A |  |
 | 62.171.159.226 | Lavanode6 | CONTABO | Contabo GmbH |
 | 45.67.212.233 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
 | 173.212.197.148 | DmytriyGuru | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -152,6 +151,7 @@
 | 185.188.249.46 | bonynode | TT-202200809 | Contabo GmbH |
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 65.108.99.250 | xAlex | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 154.38.167.188 | wildweststaking |  |  |
+| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 190.15.217.229 | mynode |  |  |
 
 <!-- END_TABLE -->
