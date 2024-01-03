@@ -37,7 +37,7 @@
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 38.242.143.195 | likecoin-mainnet | COGENT-A | PSINet, Inc. |
 | 198.244.228.17 | web34ever | RIPE SD-ERI-lon1-eri1-sdagg28a-b-n93-2-2 | RIPE Network Coordination Centre OVH Ltd |
-| 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
+| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 5.10.19.55 | forbole-rds | CUSTOMERS-Subnet4 |  |
 | 94.250.203.238 | ericet | CONTABO-08 | Contabo GmbH |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -59,6 +59,8 @@
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
-| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
