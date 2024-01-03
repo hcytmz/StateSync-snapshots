@@ -62,6 +62,6 @@
 | 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 |  |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
