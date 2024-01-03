@@ -88,7 +88,7 @@
 | 86.111.48.158 | test |  |  |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
-| 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
+| 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
 | 31.220.76.134 | serhii |  |  |
 | 164.68.103.241 | TronMan | RIPE | RIPE Network Coordination Centre |
 | 89.117.54.156 | Dominik |  |  |
@@ -152,6 +152,7 @@
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 65.108.99.250 | xAlex | RIPE | RIPE Network Coordination Centre |
 | 65.21.131.215 | Dverivam | RIPE | RIPE Network Coordination Centre |
+| 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
