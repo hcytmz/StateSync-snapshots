@@ -98,7 +98,7 @@
 | 37.120.171.159 | durnoy | NETCUP_NET-14 | netcup GmbH |
 | 176.103.222.17 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 45.67.213.73 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
-| 154.53.59.87 | BATON88 | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.59.87 | BATON88 |  |  |
 | 207.180.215.4 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
 | 164.68.122.32 | testnet | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -155,5 +155,6 @@
 | 65.108.81.145 | nodeYarNik | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 92.119.186.40 | xtrend | NEOTELECOM | Neo-Telecom Plus Ltd. |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 212.192.25.202 | clone | CZ-RELCOM-19980115 | Reliable Communications s.r.o. |
 
 <!-- END_TABLE -->
