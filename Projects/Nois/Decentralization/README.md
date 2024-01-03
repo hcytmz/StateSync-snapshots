@@ -36,13 +36,13 @@
 | 162.55.245.149 | d18ef169-01a5af | RIPE | RIPE Network Coordination Centre |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
 | 135.181.128.114 | hello-nois-backup | RIPE | RIPE Network Coordination Centre |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 185.16.39.158 | anun10vv7ign |  |  |
 | 213.239.199.149 | mib |  |  |
 | 65.108.130.171 | nois-1 | RIPE | RIPE Network Coordination Centre |
 | 144.76.97.251 | AlxVoy | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 136.243.69.55 | e8521d73-db81-5a07-9c8c-a96516e31cdf | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
 | 141.94.193.28 | rpc-1.nois.nodes.guru |  |  |
-| 185.16.39.158 | anun10vv7ign |  |  |
+| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE | RIPE Network Coordination Centre |
 | 5.181.190.114 | L0vd.com |  |  |
 | 2001:bc8:702:16d0::3 | nois-1 |  |  |
 | 146.59.52.137 | d8ab2567-6e7f-55a6-a7bd-ce15a61c08c5 | RIPE-ERX-146-59-0-0 | RIPE Network Coordination Centre |
@@ -67,6 +67,7 @@
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
 | 81.0.246.225 | 7aaa9c11c4fb1bdf8245625ad499fc96 |  |  |
 | 80.254.8.54 | ITpro |  |  |
+| 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
 | 135.181.198.17 | chronon | RIPE | RIPE Network Coordination Centre |
 | 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 81.0.248.57 | nois-main |  |  |
@@ -88,9 +89,8 @@
 | 74.208.94.42 | sentinelnois | 1AN1-NETWORK | IONOS Inc. |
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
 | 5.39.249.16 | Sr20de service node |  |  |
-| 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
-| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
-| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE | RIPE Network Coordination Centre |
+| 32.221.99.231 | YOUR_MONIKER | SNET-AMERICA | Southern New England Telephone Company and SNET America, Inc. |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 65.108.79.237 | chaintools-relayer-node | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
