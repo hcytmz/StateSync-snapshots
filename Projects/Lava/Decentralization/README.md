@@ -38,6 +38,7 @@
 | 65.108.81.145 | nodeYarNik | RIPE | RIPE Network Coordination Centre |
 | 65.21.131.21 | node | RIPE | RIPE Network Coordination Centre |
 | 45.67.213.137 | clone |  |  |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 86.111.48.159 | test |  |  |
 | 131.153.158.137 | Republic Runtime | SSL-65 | SECURED SERVERS LLC |
 | 162.19.217.52 | test | RIPE | RIPE Network Coordination Centre |
@@ -60,7 +61,6 @@
 | 212.192.25.202 | clone |  |  |
 | 65.108.206.118 | UTSA_guide | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 65.21.131.215 | Dverivam | RIPE | RIPE Network Coordination Centre |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -96,9 +96,9 @@
 | 37.120.171.159 | durnoy |  |  |
 | 176.103.222.17 | test |  |  |
 | 45.67.213.73 | clone |  |  |
-| 154.53.59.87 | BATON88 | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.59.87 | BATON88 |  |  |
 | 207.180.215.4 | Dominik | RIPE | RIPE Network Coordination Centre |
-| 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
+| 149.50.96.28 | lavashark | COGENT-149-50-16 MEVERYWHERE-CGNT-NET-1 | PSINet, Inc. MEVSPACE |
 | 164.68.122.32 | testnet | RIPE | RIPE Network Coordination Centre |
 | 57.128.54.106 | my-node | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 75.119.148.206 | Dominik | RIPE | RIPE Network Coordination Centre |
@@ -151,8 +151,7 @@
 | 185.188.249.46 | bonynode |  |  |
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 65.108.99.250 | xAlex | RIPE | RIPE Network Coordination Centre |
-| 149.50.96.28 | lavashark | COGENT-149-50-16 MEVERYWHERE-CGNT-NET-1 | PSINet, Inc. MEVSPACE |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 65.21.131.215 | Dverivam | RIPE | RIPE Network Coordination Centre |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
