@@ -151,6 +151,6 @@
 | 65.21.141.117 | MarkCN | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.188.249.46 | bonynode | TT-202200809 | Contabo GmbH |
 | 65.108.194.40 | Brightlystake | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 88.198.52.89 | StarkNode | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 
 <!-- END_TABLE -->
