@@ -30,7 +30,9 @@
 | 65.21.90.141 | SerGo | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.117.212 | w3coins | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
-| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.68.190 | okp4-nemeton-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 176.9.82.221 | okp4-nemeton-1-seed | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
+| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 144.91.126.238 | Anatolian Team | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 
 <!-- END_TABLE -->
