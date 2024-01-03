@@ -59,7 +59,6 @@
 | 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
 | 195.201.197.4 | itrocket | DE-HETZNER-20120425 | Hetzner Online GmbH Hetzner Online GmbH |
 | 195.3.223.9 | jpoop0n4q4rk | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
-| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.62.179 | roadz-main | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 216.128.134.36 | node | CONSTANT NET-216-128-134-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 144.76.40.53 | 4249725a-814c-5f40-a94b-e80bd52bdc4c | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -94,10 +93,7 @@
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 185.16.39.158 | anun10vv7ign | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
 | 65.108.66.174 | hello-BccNodesRPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 31.220.87.206 | NakoTurk | TT-20230217 | Contabo GmbH |
-| 65.108.79.237 | chaintools-relayer-node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
-| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
-| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 65.108.141.109 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
