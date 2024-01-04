@@ -71,6 +71,7 @@
 | 65.21.224.11 | mynode | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.103.222.21 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 65.108.232.182 | Mrs_ml | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 212.192.25.38 | LavaTm100 | CZ-RELCOM-19980115 | Reliable Communications s.r.o. |
 | 176.120.177.123 | Blackblackcat | HCN-NET2 | Home Computer Networks ltd. |
 | 65.108.86.122 | F5Nodes | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -94,7 +95,7 @@
 | 37.120.171.159 | durnoy | NETCUP_NET-14 | netcup GmbH |
 | 176.103.222.17 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 45.67.213.73 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
-| 154.53.59.87 | BATON88 |  |  |
+| 154.53.59.87 | BATON88 | COGENT-154-53-16 | PSINet, Inc. |
 | 207.180.215.4 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 149.50.96.28 | lavashark | COGENT-149-50-16 MEVERYWHERE-CGNT-NET-1 | PSINet, Inc. MEVSPACE |
 | 164.68.122.32 | testnet | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -150,7 +151,6 @@
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 167.235.180.242 | erfer | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 147.135.222.170 | nnm | RIPE FR-OVH-20170322 | RIPE Network Coordination Centre OVH SAS |
-| 212.192.25.38 | LavaTm100 | CZ-RELCOM-19980115 | Reliable Communications s.r.o. |
 | 5.9.122.49 | NodexPlus | HETZNER-fsn1-dc7 |  |
 
 <!-- END_TABLE -->
