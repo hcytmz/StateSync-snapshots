@@ -20,16 +20,16 @@
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
 | 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
-| 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
+| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 5.9.121.55 | StakeAngle_RPC | HETZNER-fsn1-dc7 |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
 | 47.56.186.154 | s411 | AL-3 ALICLOUD-HK | Alibaba Cloud LLC |
-| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
+| 154.12.227.117 | 50%Banana |  |  |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
 | 62.171.186.77 | moonbeam | CONTABO | Contabo GmbH |
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
@@ -62,7 +62,6 @@
 | 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 89.241.118.152 | kamkcir | OPAL-DSL |  |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
-| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
 
 <!-- END_TABLE -->
