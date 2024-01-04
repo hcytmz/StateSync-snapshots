@@ -27,6 +27,7 @@
 | 5.9.121.55 | StakeAngle_RPC | HETZNER-fsn1-dc7 |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 47.56.186.154 | s411 | AL-3 ALICLOUD-HK | Alibaba Cloud LLC |
 | 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
@@ -37,7 +38,7 @@
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 38.242.143.195 | likecoin-mainnet | COGENT-A | PSINet, Inc. |
 | 198.244.228.17 | web34ever | RIPE SD-ERI-lon1-eri1-sdagg28a-b-n93-2-2 | RIPE Network Coordination Centre OVH Ltd |
-| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
+| 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
 | 5.10.19.55 | forbole-rds | CUSTOMERS-Subnet4 |  |
 | 94.250.203.238 | ericet | CONTABO-08 | Contabo GmbH |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
@@ -58,9 +59,10 @@
 | 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 89.241.118.152 | kamkcir | OPAL-DSL |  |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
-| 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
+| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
+| 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
 
 <!-- END_TABLE -->
