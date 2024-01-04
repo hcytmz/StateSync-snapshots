@@ -83,19 +83,19 @@
 | 46.4.14.172 | PPNV | HETZNER-fsn1-dc13 | Hetzner Online GmbH |
 | 86.111.48.155 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
 | 91.245.225.3 | TopOurNodes | CH-RUVDS | MT FINANCE LLC |
-| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | ColoCrossing |
+| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | HostPapa |
 | 86.111.48.158 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
 | 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
-| 31.220.76.134 | serhii | TT-20230217 | Contabo GmbH |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 164.68.103.241 | TronMan | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 89.117.54.156 | Dominik | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 173.249.9.164 | lavass | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 37.120.171.159 | durnoy | NETCUP_NET-14 | netcup GmbH |
 | 176.103.222.17 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 45.67.213.73 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
-| 154.53.59.87 | BATON88 |  |  |
+| 154.53.59.87 | BATON88 | COGENT-154-53-16 | PSINet, Inc. |
 | 207.180.215.4 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 149.50.96.28 | lavashark | COGENT-149-50-16 MEVERYWHERE-CGNT-NET-1 | PSINet, Inc. MEVSPACE |
 | 164.68.122.32 | testnet | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -149,9 +149,8 @@
 | 65.21.141.117 | MarkCN | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.188.249.46 | bonynode | TT-202200809 | Contabo GmbH |
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
-| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
+| 167.235.180.242 | erfer | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 147.135.222.170 | nnm | RIPE FR-OVH-20170322 | RIPE Network Coordination Centre OVH SAS |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 5.9.122.49 | NodexPlus | HETZNER-fsn1-dc7 |  |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
 
 <!-- END_TABLE -->
