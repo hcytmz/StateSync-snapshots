@@ -7,7 +7,7 @@
 
 # StateSync
 ```python
-SNAP_RPC=http://quick.rpc.m.stavr.tech:21027
+SNAP_RPC=https://quick.rpc.m.stavr.tech:443
 peers="f2846ba84070d3fdc21c09ef44bac4eeed2f8722@quick.peers.stavr.tech:21026"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.quicksilverd/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -44,7 +44,7 @@ sudo systemctl restart quicksilverd && journalctl -u quicksilverd -f -o cat
 
 # StateSync Testnet
 ```python
-SNAP_RPC=http://quick.rpc.t.stavr.tech:20027
+SNAP_RPC=https://quick.rpc.t.stavr.tech:443
 peers="b3b0b1dfa5feb35b6ed88f409c2e9182784e122c@quickt.peers.stavr.tech:20026"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.quicksilverd/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -82,8 +82,8 @@ sudo systemctl restart quicksilverd && journalctl -u quicksilverd -f -o cat
 🔥EXPLORER Testnet🔥:        https://explorer.stavr.tech/Quicksilver/staking	        `Indexer "ON"` \
 🔥API Mainnet🔥: 			 https://quick.api.m.stavr.tech \
 🔥API Testnet🔥: 			 https://quick.api.t.stavr.tech \
-🔥RPC Mainnet🔥:             http://quick.rpc.m.stavr.tech:21027              `Snapshot-interval = 300` \
-🔥RPC Testnet🔥:             http://quick.rpc.t.stavr.tech:20027              `Snapshot-interval = 100` \
+🔥RPC Mainnet🔥:             https://quick.rpc.m.stavr.tech:443              `Snapshot-interval = 300` \
+🔥RPC Testnet🔥:             https://quick.rpc.t.stavr.tech:443              `Snapshot-interval = 100` \
 🔥gRPC Mainnet🔥:                    http://quick.grpc.m.stavr.tech:9113 \
 🔥gRPC Testnet🔥:                    http://quick.grpc.t.stavr.tech:9112 \
 🔥Genesis Mainnet🔥: `wget -O $HOME/.quicksilverd/config/genesis.json https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Quicksilver/genesis.json` \
