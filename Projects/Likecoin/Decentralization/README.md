@@ -33,7 +33,7 @@
 | 62.171.186.77 | moonbeam | CONTABO | Contabo GmbH |
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
 | 5.78.102.149 | BRAND-likecoin-relayer | CLOUD-HIL | Hetzner Online GmbH Hetzner Online GmbH |
-| 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 38.242.143.195 | likecoin-mainnet | COGENT-A | PSINet, Inc. |
 | 198.244.228.17 | web34ever | RIPE SD-ERI-lon1-eri1-sdagg28a-b-n93-2-2 | RIPE Network Coordination Centre OVH Ltd |
@@ -61,7 +61,6 @@
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
 | 89.241.118.152 | kamkcir | OPAL-DSL |  |
 | 14.224.145.244 | csc04 | VNPT-VN |  |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 
 <!-- END_TABLE -->
