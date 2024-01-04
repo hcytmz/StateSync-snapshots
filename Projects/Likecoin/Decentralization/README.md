@@ -20,7 +20,7 @@
 | 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
-| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
+| 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 154.53.63.22 | martianforest |  |  |
 | 5.9.121.55 | StakeAngle_RPC | HETZNER-fsn1-dc7 |  |
@@ -58,6 +58,9 @@
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 
 <!-- END_TABLE -->
