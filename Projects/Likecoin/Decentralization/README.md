@@ -16,7 +16,6 @@
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
 | 194.163.161.194 | Foxinodes | CONTABO |  |
-| 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
 | 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
@@ -59,9 +58,10 @@
 | 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 89.241.118.152 | kamkcir | OPAL-DSL |  |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
 | 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
