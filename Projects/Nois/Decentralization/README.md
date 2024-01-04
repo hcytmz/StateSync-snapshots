@@ -35,7 +35,7 @@
 | 51.81.49.59 | hello-nois-main |  |  |
 | 162.55.245.149 | d18ef169-01a5af | RIPE | RIPE Network Coordination Centre |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
-| 65.109.112.170 | Nodejumper | RIPE | RIPE Network Coordination Centre |
+| 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
 | 213.239.199.149 | mib |  |  |
 | 65.108.130.171 | nois-1 | RIPE | RIPE Network Coordination Centre |
@@ -62,7 +62,7 @@
 | 51.89.98.102 | noname-21671 |  |  |
 | 54.38.128.34 | qwerty-nois-main | RIPE | RIPE Network Coordination Centre |
 | 38.242.225.247 | narkosha | COGENT-A | PSINet, Inc. |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 57.128.144.242 | Forbole | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 135.181.128.114 | hello-nois-backup | RIPE | RIPE Network Coordination Centre |
 | 81.0.246.225 | 7aaa9c11c4fb1bdf8245625ad499fc96 |  |  |
@@ -71,7 +71,7 @@
 | 135.181.198.17 | chronon | RIPE | RIPE Network Coordination Centre |
 | 185.16.39.158 | anun10vv7ign |  |  |
 | 65.109.116.151 | itrocket | RIPE | RIPE Network Coordination Centre |
-| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
+| 65.109.112.170 | Nodejumper | RIPE | RIPE Network Coordination Centre |
 | 65.109.29.150 | range | RIPE | RIPE Network Coordination Centre |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 157.90.181.186 | tRDM | RIPE | RIPE Network Coordination Centre |
@@ -90,10 +90,11 @@
 | 51.91.105.152 | CryptoCats.Pro |  |  |
 | 103.180.28.70 | forbole | METROPOLIS-AP | Metropolis Networks Inc |
 | 32.221.99.231 | YOUR_MONIKER | SNET-AMERICA | Southern New England Telephone Company and SNET America, Inc. |
-| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
 | 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
-| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
 | 135.181.209.51 | ChainTools_Snapshot_Node | RIPE | RIPE Network Coordination Centre |
+| 65.108.227.217 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
