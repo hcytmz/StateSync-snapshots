@@ -27,8 +27,9 @@
 | 65.108.230.161 | Testnetrun-RPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.90.141 | SerGo | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 91.194.30.203 | riser | SC-TREND-IMPORT-EXPORT-SRL | Trend IMPORT - EXPORT SRL |
-| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
-| 65.109.68.190 | okp4-nemeton-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.68.86 | emperor | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
