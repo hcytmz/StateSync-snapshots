@@ -57,7 +57,7 @@
 | 23.88.5.169 | LiveRaveN | RIPE | RIPE Network Coordination Centre |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 212.192.25.202 | clone |  |  |
-| 185.185.56.229 | C5671M1Node02 |  |  |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
 | 154.38.167.188 | wildweststaking |  |  |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
@@ -137,7 +137,7 @@
 | 89.117.51.129 | KelvinBorrel |  |  |
 | 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
 | 65.109.52.156 | Yurbason | RIPE | RIPE Network Coordination Centre |
-| 144.217.68.182 | Nodeist-lava-test | HO-2 | OVH Hosting, Inc. |
+| 144.217.68.182 | Nodeist-lava-test | HO-2 |  |
 | 65.108.226.183 | hello-lava-test | RIPE | RIPE Network Coordination Centre |
 | 65.108.229.93 | mynode | RIPE | RIPE Network Coordination Centre |
 | 195.14.6.179 | 01node-nop |  |  |
@@ -151,6 +151,6 @@
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 147.135.222.170 | nnm | RIPE | RIPE Network Coordination Centre |
 | 185.248.24.33 | web34ever |  |  |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
