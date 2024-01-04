@@ -36,7 +36,7 @@
 | 65.108.81.145 | nodeYarNik | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.131.21 | node | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 45.67.213.137 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
-| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 86.111.48.159 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
 | 131.153.158.137 | Republic Runtime | SSL-65 | SECURED SERVERS LLC |
 | 162.19.217.52 | test | RIPE OVH_242284876 | RIPE Network Coordination Centre Andersen Christian |
@@ -88,14 +88,14 @@
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
 | 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 91.245.225.5 | farmpointer | CH-RUVDS | MT FINANCE LLC |
 | 164.68.103.241 | TronMan | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 89.117.54.156 | Dominik | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 173.249.9.164 | lavass | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 37.120.171.159 | durnoy | NETCUP_NET-14 | netcup GmbH |
 | 176.103.222.17 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 45.67.213.73 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
-| 154.53.59.87 | BATON88 | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.59.87 | BATON88 |  |  |
 | 207.180.215.4 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 149.50.96.28 | lavashark | COGENT-149-50-16 MEVERYWHERE-CGNT-NET-1 | PSINet, Inc. MEVSPACE |
 | 164.68.122.32 | testnet | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -151,6 +151,6 @@
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 167.235.180.242 | erfer | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 147.135.222.170 | nnm | RIPE FR-OVH-20170322 | RIPE Network Coordination Centre OVH SAS |
-| 5.9.122.49 | NodexPlus | HETZNER-fsn1-dc7 |  |
+| 2a01:4f9:3051:19c2::2 | s-lava-testrelay | HOS-272402 | Hetzner Online GmbH |
 
 <!-- END_TABLE -->
