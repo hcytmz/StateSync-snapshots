@@ -74,7 +74,7 @@
 | 65.108.232.182 | Mrs_ml | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 166.1.70.10 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
 | 176.120.177.123 | Blackblackcat | HCN-NET2 | Home Computer Networks ltd. |
-| 199.175.98.91 | imnoder | IC-1628 | ISP CLUSTER INC |
+| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 161.97.134.68 | Lava(first) | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 34.22.231.207 | testnet-internal-rpc | GOOGL-2 | Google LLC |
 | 164.68.105.141 | Dominik | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -152,7 +152,7 @@
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 176.103.222.21 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 65.109.93.58 | nj-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 5.9.122.49 | NodexPlus | HETZNER-fsn1-dc7 |  |
+| 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 174.138.187.2 | mynode | INTER-83 SRV20124 | Interserver, Inc PingPipe Internet Corporation |
 
 <!-- END_TABLE -->
