@@ -16,7 +16,7 @@
 | 194.163.161.194 | Foxinodes | CONTABO |  |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 154.53.63.22 | martianforest |  |  |
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
@@ -59,8 +59,7 @@
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
-| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
