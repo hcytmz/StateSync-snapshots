@@ -42,7 +42,7 @@
 | 162.19.217.52 | test | RIPE OVH_242284876 | RIPE Network Coordination Centre Andersen Christian |
 | 167.235.14.83 | Ubuntu-2204-jammy-amd64-base | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 142.132.248.253 | Blackhox | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
+| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 164.68.114.65 | cringoliver | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 185.162.93.88 | clone | MIRAN-VS-Net |  |
 | 167.235.117.93 | w3coins | RIPE DE-HETZNER-19940405 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -122,7 +122,7 @@
 | 176.121.188.9 | LavaTm102 | SHUPASHKARTRANS-NET | Shupashkartrans-K Ltd. |
 | 195.128.158.108 | C2857M1Node05-hdd | ITH-NET | ITH Ltd. |
 | 173.249.0.170 | forestgamp | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 109.234.39.25 | my-node | VDSINA-NET | SERVERS TECH FZCO |
+| 65.108.206.118 | UTSA_guide | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
 | 62.171.159.226 | Lavanode6 | CONTABO | Contabo GmbH |
 | 45.67.212.233 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
@@ -150,7 +150,8 @@
 | 185.188.249.46 | bonynode | TT-202200809 | Contabo GmbH |
 | 65.109.143.184 | srklt | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 207.180.240.225 | Lava | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 65.108.206.118 | UTSA_guide | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 TT-20230316 | RIPE Network Coordination Centre Contabo GmbH |
+| 46.4.55.46 | LiveRaveN | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 5.9.122.49 | NodexPlus | HETZNER-fsn1-dc7 |  |
 
 <!-- END_TABLE -->
