@@ -55,7 +55,7 @@
 | 212.192.25.202 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.167.188 | wildweststaking |  |  |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -79,7 +79,7 @@
 | 46.4.14.172 | PPNV |  |  |
 | 86.111.48.155 | test |  |  |
 | 91.245.225.3 | TopOurNodes |  |  |
-| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 |  |
+| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | HostPapa |
 | 86.111.48.158 | test |  |  |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
@@ -87,11 +87,11 @@
 | 91.245.225.5 | farmpointer |  |  |
 | 164.68.103.241 | TronMan | RIPE | RIPE Network Coordination Centre |
 | 89.117.54.156 | Dominik |  |  |
-| 14.226.244.42 | TeoViTeoVi | VNPT-VN |  |
+| 95.217.207.236 | PostHuman |  |  |
 | 37.120.171.159 | durnoy |  |  |
 | 176.103.222.17 | test |  |  |
 | 45.67.213.73 | clone |  |  |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 161.97.153.110 | pilsy lava | RIPE | RIPE Network Coordination Centre |
 | 207.180.215.4 | Dominik | RIPE | RIPE Network Coordination Centre |
 | 149.50.96.28 | lavashark | COGENT-149-50-16 MEVERYWHERE-CGNT-NET-1 | PSINet, Inc. MEVSPACE |
 | 164.68.122.32 | testnet | RIPE | RIPE Network Coordination Centre |
@@ -146,7 +146,8 @@
 | 185.188.249.46 | bonynode |  |  |
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 207.180.240.225 | Lava | RIPE | RIPE Network Coordination Centre |
-| 95.217.207.236 | PostHuman |  |  |
+| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
+| 46.4.55.46 | LiveRaveN |  |  |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
