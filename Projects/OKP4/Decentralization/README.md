@@ -33,6 +33,7 @@
 | 89.117.53.92 | Picolo88 | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
 | 185.208.206.16 | Decloud Nodes Lab | TT-2021120403 | Contabo GmbH |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 195.201.222.82 | okp4-nemeton-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
+| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
