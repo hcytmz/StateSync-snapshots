@@ -21,12 +21,18 @@
 | 65.109.117.212 | w3coins | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.230.161 | Testnetrun-RPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 144.91.115.146 | OKP4 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 65.108.200.248 | nnm | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 144.217.68.182 | Nodeist-okp4-test | HO-2 | OVH Hosting, Inc. |
 | 65.109.85.221 | okp4_bertha | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.94.221 | TestnetPride | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed | CLOUD-NBG1 | Hetzner Online GmbH Hetzner Online GmbH |
-| 38.242.251.204 | Lexar | COGENT-A | PSINet, Inc. |
+| 95.217.141.43 | Kolot | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
+| 94.130.137.122 | Vagif | HETZNER-fsn1-dc4 | Hetzner Online GmbH |
+| 34.29.247.51 | cyril-test | GOOGL-2 | Google LLC |
+| 65.21.90.141 | SerGo | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 89.117.53.92 | Picolo88 | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
+| 157.90.181.186 | tRDM | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.68.190 | okp4-nemeton-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.104.96 | ericet | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
