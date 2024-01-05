@@ -7,7 +7,7 @@
 
 # StateSync Sge Mainnet
 ```python
-SNAP_RPC=sge.rpc.m.stavr.tech:1157
+SNAP_RPC=https://sge.rpc.m.stavr.tech:443
 peers="58a458a7136da7e8cc55357999aa89f5fd262588@sge.peers.stavr.tech:1156"
 sed -i 's|^persistent_peers *=.*|persistent_peers = "'$peers'"|' $HOME/.sge/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -45,7 +45,7 @@ sudo systemctl restart sged && journalctl -u sged -f -o cat
 
 # StateSync Sge Testnet
 ```python
-SNAP_RPC=http://sge.rpc.t.stavr.tech:1147
+SNAP_RPC=https://sge.rpc.t.stavr.tech:443
 peers="e2c5f2a902b7e6b8c006008e962ab4ddd70cdd78@sge.peers-t.stavr.tech:1146"
 sed -i 's|^persistent_peers *=.*|persistent_peers = "'$peers'"|' $HOME/.sge/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -83,8 +83,8 @@ sudo systemctl restart sged && journalctl -u sged -f -o cat
 🔥EXPLORER Testnet🔥:      https://explorer.stavr.tech/Sge-Testnet       `Indexer "ON"` \
 🔥API Mainnet🔥: 			 		 https://sge.api.m.stavr.tech \
 🔥API Testnet🔥: 			 		 https://sge.api.t.stavr.tech \
-🔥RPC Mainnet🔥:           http://sge.rpc.m.stavr.tech:1157              `Snapshot-interval = 1000` \
-🔥RPC Testnet🔥:           http://sge.rpc.t.stavr.tech:1147              `Snapshot-interval = 1000` \
+🔥RPC Mainnet🔥:           https://sge.rpc.m.stavr.tech:443              `Snapshot-interval = 1000` \
+🔥RPC Testnet🔥:           https://sge.rpc.t.stavr.tech:443              `Snapshot-interval = 1000` \
 🔥gRPC Mainnet🔥:          http://sge.grpc.m.stavr.tech:543 \
 🔥gRPC Testnet🔥:          http://sge.grpc.t.stavr.tech:242 \
 🔥peer Mainnet🔥:					 `58a458a7136da7e8cc55357999aa89f5fd262588@sge.peers.stavr.tech:1156` \
