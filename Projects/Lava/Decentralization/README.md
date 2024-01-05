@@ -59,7 +59,7 @@
 | 212.192.25.202 | clone | CZ-RELCOM-19980115 | Reliable Communications s.r.o. |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 88.198.8.79 | lava_dora | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
-| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.167.188 | wildweststaking |  |  |
 | 65.108.100.31 | MELLIFERA | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.88.254 | ksalab | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.40.79.18 | clone | DataHarbour-net | Limited Liability Company DataHarbour |
@@ -69,7 +69,7 @@
 | 65.109.25.104 | 5ElementsNodes | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.103.222.22 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 65.21.224.11 | mynode | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 176.103.222.21 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 65.108.232.182 | Mrs_ml | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 212.192.25.38 | LavaTm100 | CZ-RELCOM-19980115 | Reliable Communications s.r.o. |
 | 176.120.177.123 | Blackblackcat | HCN-NET2 | Home Computer Networks ltd. |
@@ -143,7 +143,7 @@
 | 195.14.6.179 | 01node-nop | O1NODE | 01NODE STAKING SERVICES S.R.L. |
 | 185.40.79.114 | clone | DataHarbour-net | Limited Liability Company DataHarbour |
 | 65.109.65.248 | StakeTown-API | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 176.103.222.21 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 176.9.110.12 | Sirius.nodes | HETZNER-fsn1-dc6 | Hetzner Online GmbH |
 | 77.239.227.38 | clone | ATHOME |  |
 | 65.21.141.117 | MarkCN | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
