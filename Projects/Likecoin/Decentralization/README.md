@@ -17,10 +17,10 @@
 | 194.163.161.194 | Foxinodes | CONTABO |  |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
-| 154.53.63.22 | martianforest |  |  |
+| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
-| 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
 | 5.9.121.55 | StakeAngle_RPC | HETZNER-fsn1-dc7 |  |
@@ -50,17 +50,15 @@
 | 207.180.238.137 | moonbeam-RPC | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 144.91.125.80 | BRAND-likecoin-main | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
-| 154.12.227.117 | 50%Banana |  |  |
+| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
 | 14.224.145.244 | csc04 | VNPT-VN |  |
 | 54.36.108.222 | Stakewolle | RIPE SD-LIM1 | RIPE Network Coordination Centre OVH GmbH |
 | 64.226.112.184 | likecoin-public-statefulset-0 | DIGITALOCEAN-64-226-64-0 | DigitalOcean, LLC |
 | 173.212.231.154 | Family-Online | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
-| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
