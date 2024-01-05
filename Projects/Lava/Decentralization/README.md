@@ -24,7 +24,7 @@
 | 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
 | 65.21.73.233 | monastic | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.111.225.213 | mynode | CONTABO |  |
-| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.93.58 | nj-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 213.135.142.131 | clone | MACROREGIONAL_CENTER |  |
 | 35.205.44.215 | testnet2-validator-3 | GOOGLE-CLOUD | Google LLC |
 | 65.108.41.172 | cyberG | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -58,7 +58,6 @@
 | 23.88.5.169 | LiveRaveN | RIPE DE-HETZNER-20130607 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.89.18 | itrocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 212.192.25.202 | clone | CZ-RELCOM-19980115 | Reliable Communications s.r.o. |
-| 65.109.68.190 | kjnodes-testnet-rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 88.198.8.79 | lava_dora | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 154.38.167.188 | wildweststaking |  |  |
 | 65.108.100.31 | MELLIFERA | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -88,7 +87,7 @@
 | 86.111.48.158 | test | NO-CLOUD-20050801 | CLOUD CATALYST NORWAY AS |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 194.163.174.231 | AviaDoc_by_AviaOne | CONTABO |  |
 | 91.245.225.5 | farmpointer | CH-RUVDS | MT FINANCE LLC |
 | 164.68.103.241 | TronMan | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 89.117.54.156 | Dominik | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
@@ -123,8 +122,8 @@
 | 176.121.188.9 | LavaTm102 | SHUPASHKARTRANS-NET | Shupashkartrans-K Ltd. |
 | 195.128.158.108 | C2857M1Node05-hdd | ITH-NET | ITH Ltd. |
 | 173.249.0.170 | forestgamp | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 147.135.222.170 | nnm | RIPE FR-OVH-20170322 | RIPE Network Coordination Centre OVH SAS |
-| 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
+| 109.234.39.25 | my-node | VDSINA-NET | SERVERS TECH FZCO |
+| 38.242.241.5 | viktorkalyna | COGENT-A |  |
 | 62.171.159.226 | Lavanode6 | CONTABO | Contabo GmbH |
 | 45.67.212.233 | clone | RU-ITSOFT-20190219 | ITSOFT LLC |
 | 173.212.197.148 | DmytriyGuru | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -150,8 +149,8 @@
 | 65.21.141.117 | MarkCN | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.188.249.46 | bonynode | TT-202200809 | Contabo GmbH |
 | 65.109.143.184 | srklt | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 194.163.174.231 | AviaDoc_by_AviaOne | CONTABO |  |
-| 65.109.93.58 | nj-snap | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 207.180.240.225 | Lava | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
 | 5.9.122.49 | NodexPlus | HETZNER-fsn1-dc7 |  |
 
 <!-- END_TABLE -->
