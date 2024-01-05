@@ -68,7 +68,7 @@
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
 | 65.108.232.182 | Mrs_ml | RIPE | RIPE Network Coordination Centre |
 | 212.192.25.38 | LavaTm100 |  |  |
-| 176.120.177.123 | Blackblackcat |  |  |
+| 46.4.55.46 | LiveRaveN |  |  |
 | 65.108.86.122 | F5Nodes | RIPE | RIPE Network Coordination Centre |
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 34.22.231.207 | testnet-internal-rpc | GOOGL-2 | Google LLC |
@@ -83,7 +83,7 @@
 | 86.111.48.158 | test |  |  |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
-| 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
+| 185.218.124.133 | GagaWait |  |  |
 | 91.245.225.5 | farmpointer |  |  |
 | 164.68.103.241 | TronMan | RIPE | RIPE Network Coordination Centre |
 | 89.117.54.156 | Dominik |  |  |
@@ -147,7 +147,6 @@
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 207.180.240.225 | Lava | RIPE | RIPE Network Coordination Centre |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
-| 46.4.55.46 | LiveRaveN |  |  |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
