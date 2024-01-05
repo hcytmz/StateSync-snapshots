@@ -18,7 +18,7 @@
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
 | 154.53.63.22 | martianforest |  |  |
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
@@ -60,6 +60,6 @@
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 
 <!-- END_TABLE -->
