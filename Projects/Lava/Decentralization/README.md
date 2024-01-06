@@ -72,6 +72,7 @@
 | 77.239.227.38 | clone | ATHOME |  |
 | 65.108.232.182 | Mrs_ml | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 212.192.25.38 | LavaTm100 | CZ-RELCOM-19980115 | Reliable Communications s.r.o. |
+| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.86.122 | F5Nodes | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 34.22.231.207 | testnet-internal-rpc | GOOGL-2 | Google LLC |
@@ -139,7 +140,7 @@
 | 144.217.68.182 | Nodeist-lava-test | HO-2 | OVH Hosting, Inc. |
 | 65.108.226.183 | hello-lava-test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.229.93 | mynode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 195.3.220.21 | 0ovpmkhjxkvt | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 185.40.79.114 | clone | DataHarbour-net | Limited Liability Company DataHarbour |
 | 65.109.65.248 | StakeTown-API | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.114.120 | Jocker | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
@@ -150,6 +151,7 @@
 | 65.109.143.184 | srklt | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.103.222.21 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 5.9.122.49 | NodexPlus | HETZNER-fsn1-dc7 |  |
+| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
 
 <!-- END_TABLE -->
