@@ -48,7 +48,7 @@
 | 141.94.193.28 | rpc-1.nois.nodes.guru | rbx8-sdagg27a-b-n93-2-2 | OVH SAS |
 | 65.109.106.169 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 5.181.190.114 | L0vd.com | PL-MEV-20190403 | MEVSPACE sp. z o.o. |
-| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
 | 146.59.52.137 | d8ab2567-6e7f-55a6-a7bd-ce15a61c08c5 | RIPE-ERX-146-59-0-0 SD-Game-WAW-W17A | RIPE Network Coordination Centre OVH Sp. z o. o. |
 | 51.159.16.102 | nysa.network | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 138.197.127.119 | Gelotto | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
@@ -92,10 +92,8 @@
 | 65.21.14.11 | Vitek73 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 51.91.105.152 | CryptoCats.Pro | rbx7-sdagg26a-b-n93-1-2 | OVH SAS |
-| 154.53.44.239 | dstake |  |  |
+| 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
-| 142.132.253.112 | itrocket | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
 | 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 RU-SBCLOUD-20210827 | RIPE Network Coordination Centre SBCloud LLC |
 
 <!-- END_TABLE -->
