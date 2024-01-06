@@ -56,12 +56,12 @@
 | 54.36.108.222 | Stakewolle | RIPE SD-LIM1 | RIPE Network Coordination Centre OVH GmbH |
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 173.212.231.154 | Family-Online | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
-| 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
