@@ -16,13 +16,13 @@
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
 | 194.163.161.194 | Foxinodes | CONTABO |  |
-| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.63.22 | martianforest |  |  |
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
-| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
 | 5.9.121.55 | StakeAngle_RPC | HETZNER-fsn1-dc7 |  |
@@ -59,8 +59,9 @@
 | 173.212.231.154 | Family-Online | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 154.12.227.117 | 50%Banana |  |  |
-| 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
+| 89.163.154.108 | Foxinodes | DE-MYLOC-DUS-20060217 | myLoc managed IT AG |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
-| 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
+| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
+| 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
