@@ -61,6 +61,7 @@
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
+| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
