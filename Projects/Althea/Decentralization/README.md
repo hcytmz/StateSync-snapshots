@@ -1,3 +1,4 @@
+![Diagramm](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/Althea/1/README.md)
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
 | HETZNER | 32 | 64.00% | 🔴 |
