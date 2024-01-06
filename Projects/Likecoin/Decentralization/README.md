@@ -51,7 +51,7 @@
 | 143.244.178.171 | OurBoardRoom | DIGITALOCEAN-143-244-128-0 | DigitalOcean, LLC |
 | 144.91.125.80 | BRAND-likecoin-main | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
-| 154.12.227.117 | 50%Banana |  |  |
+| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 14.224.145.244 | csc04 | VNPT-VN |  |
 | 54.36.108.222 | Stakewolle | RIPE SD-LIM1 | RIPE Network Coordination Centre OVH GmbH |
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
@@ -61,7 +61,7 @@
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
-| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 154.12.227.117 | 50%Banana |  |  |
 
 <!-- END_TABLE -->
