@@ -33,7 +33,7 @@
 | 46.4.91.49 | fln | HETZNER-fsn1-dc5 | Hetzner Online GmbH |
 | 148.251.8.186 | Nodejumper | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 84.46.250.136 | Stake&Relax | LRTC_INETNUM_RENT | SC Lithuanian Radio and TV Center |
-| 154.53.44.239 | dstake |  |  |
+| 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
 | 85.10.201.125 | jayjay | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
 | 142.132.152.46 | stakr-space | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.81.49.59 | hello-nois-main | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
@@ -48,7 +48,7 @@
 | 141.94.193.28 | rpc-1.nois.nodes.guru | rbx8-sdagg27a-b-n93-2-2 | OVH SAS |
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 5.181.190.114 | L0vd.com | PL-MEV-20190403 | MEVSPACE sp. z o.o. |
-| 185.16.39.158 | anun10vv7ign | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
+| 65.108.66.174 | hello-BccNodesRPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 146.59.52.137 | d8ab2567-6e7f-55a6-a7bd-ce15a61c08c5 | RIPE-ERX-146-59-0-0 SD-Game-WAW-W17A | RIPE Network Coordination Centre OVH Sp. z o. o. |
 | 51.159.16.102 | nysa.network | ONLINENET_DEDICATED_SERVERS | Scaleway |
 | 138.197.127.119 | Gelotto | DIGITALOCEAN-138-197-0-0 | DigitalOcean, LLC |
@@ -66,16 +66,15 @@
 | 51.89.98.102 | noname-21671 | SD-LIM | OVH GmbH |
 | 54.38.128.34 | qwerty-nois-main | RIPE SD-HG-10G-WAW1-W03A | RIPE Network Coordination Centre OVH Sp. z o. o. |
 | 38.242.225.247 | narkosha | COGENT-A | PSINet, Inc. |
-| 142.132.248.138 | EZStaking.io | RIPE DE-HETZNER-19900326 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 57.128.144.242 | Forbole | RIPE-ERX-57 OVH_235343661 | RIPE Network Coordination Centre OVH Ltd |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 81.0.246.225 | 7aaa9c11c4fb1bdf8245625ad499fc96 | TT-20221122 | Contabo GmbH |
 | 135.181.128.114 | hello-nois-backup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
 | 135.181.198.17 | chronon | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 62.210.145.19 | nois-1 | SCALEWAY-DEDIBOX | Scaleway |
 | 65.109.116.151 | itrocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 65.109.106.211 | NakoTurk | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 65.109.29.150 | range | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 SD-GRA-gra3-sdagg32ab-n93 | RIPE Network Coordination Centre OVH SAS |
 | 157.90.181.186 | tRDM | RIPE DE-HETZNER-19911216 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -92,8 +91,7 @@
 | 65.21.14.11 | Vitek73 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.106.169 | test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.91.105.152 | CryptoCats.Pro | rbx7-sdagg26a-b-n93-1-2 | OVH SAS |
-| 65.108.66.174 | hello-BccNodesRPC | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 5.39.249.16 | Sr20de service node | Ilia-Baikov |  |
-| 65.108.227.217 | nois-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.106.211 | NakoTurk | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
