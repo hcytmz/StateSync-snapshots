@@ -72,7 +72,6 @@
 | 77.239.227.38 | clone | ATHOME |  |
 | 65.108.232.182 | Mrs_ml | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 212.192.25.38 | LavaTm100 | CZ-RELCOM-19980115 | Reliable Communications s.r.o. |
-| 65.109.97.36 | nodesUP | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.86.122 | F5Nodes | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 34.22.231.207 | testnet-internal-rpc | GOOGL-2 | Google LLC |
@@ -140,7 +139,7 @@
 | 144.217.68.182 | Nodeist-lava-test | HO-2 | OVH Hosting, Inc. |
 | 65.108.226.183 | hello-lava-test | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.108.229.93 | mynode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 195.14.6.179 | 01node-nop | O1NODE | 01NODE STAKING SERVICES S.R.L. |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
 | 185.40.79.114 | clone | DataHarbour-net | Limited Liability Company DataHarbour |
 | 65.109.65.248 | StakeTown-API | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.217.114.120 | Jocker | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
