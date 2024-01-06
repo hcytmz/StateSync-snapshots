@@ -13,7 +13,7 @@
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
 | 194.163.161.194 | Foxinodes |  |  |
-| 154.53.63.22 | martianforest |  |  |
+| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
 | 194.195.212.69 | Stakeland by 9GAG |  |  |
 | 51.159.223.25 | Citizen Cosmos |  |  |
 | 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
@@ -32,7 +32,7 @@
 | 62.171.186.77 | moonbeam |  |  |
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
 | 5.78.102.149 | BRAND-likecoin-relayer |  |  |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 207.180.238.137 | moonbeam-RPC | RIPE | RIPE Network Coordination Centre |
 | 38.242.143.195 | likecoin-mainnet | COGENT-A | PSINet, Inc. |
 | 198.244.228.17 | web34ever | RIPE | RIPE Network Coordination Centre |
@@ -55,10 +55,10 @@
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 154.12.227.117 | 50%Banana |  |  |
+| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
 | 89.163.154.108 | Foxinodes |  |  |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
-| 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
