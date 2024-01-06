@@ -32,7 +32,7 @@
 | 195.201.197.4 | itrocket | DE-HETZNER-20120425 | Hetzner Online GmbH Hetzner Online GmbH |
 | 185.16.39.158 | anun10vv7ign | PL-MEV-20130118 | MEVSPACE sp. z o.o. |
 | 45.63.104.164 | nois-node | CONSTANT NET-45-63-104-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
-| 65.109.106.211 | NakoTurk | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 81.0.248.57 | nois-main | TT-20221122 | Contabo GmbH |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 144.76.97.251 | AlxVoy | RIPE-ERX-144-76-0-0 HETZNER-fsn1-dc10 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 65.109.112.170 | Nodejumper | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -52,7 +52,7 @@
 | 51.91.105.152 | CryptoCats.Pro | rbx7-sdagg26a-b-n93-1-2 | OVH SAS |
 | 57.128.144.242 | Forbole | RIPE-ERX-57 OVH_235343661 | RIPE Network Coordination Centre OVH Ltd |
 | 65.21.122.47 | multi-net | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 103.180.28.70 | forbole | METROPOLIS-AP | Metropolis Networks Inc |
+| 38.146.3.180 | nois | COGENT-A | PSINet, Inc. |
 | 65.109.16.125 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.115.226 | hello-nois-relayer | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 141.94.193.28 | rpc-1.nois.nodes.guru | rbx8-sdagg27a-b-n93-2-2 | OVH SAS |
@@ -74,7 +74,7 @@
 | 54.39.128.229 | Cumulo | HO-2 SD-BHS-SD-1G-VOIE-A-B707A | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 135.181.128.114 | hello-nois-backup | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 2001:bc8:702:16d0::3 | nois-1 | SCALEWAY | Scaleway |
-| 81.0.248.57 | nois-main | TT-20221122 | Contabo GmbH |
+| 65.21.73.238 | test | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.29.150 | range | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 51.81.49.59 | hello-nois-main | NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK |  |
 | 5.181.190.114 | L0vd.com | PL-MEV-20190403 | MEVSPACE sp. z o.o. |
@@ -84,7 +84,13 @@
 | 74.208.94.42 | sentinelnois | 1AN1-NETWORK | IONOS Inc. |
 | 148.251.8.186 | Nodejumper | RIPE-ERX-148-251-0-0 HETZNER-fsn1-dc11 | RIPE Network Coordination Centre Hetzner Online GmbH |
 | 167.160.93.90 | nois | UDL-17 | Dedicated.com |
+| 135.181.215.62 | nois_mainnets | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 103.180.28.70 | forbole | METROPOLIS-AP | Metropolis Networks Inc |
+| 65.109.54.232 | myNode | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.21.14.11 | Vitek73 | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.109.106.211 | NakoTurk | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 RU-SBCLOUD-20210827 | RIPE Network Coordination Centre SBCloud LLC |
 | 135.181.209.51 | ChainTools_Snapshot_Node | RIPE DE-HETZNER-19931109 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
+| 65.108.227.217 | nois-1-seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
