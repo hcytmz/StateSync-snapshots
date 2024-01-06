@@ -17,7 +17,7 @@
 | 92.119.186.40 | xtrend |  |  |
 | 65.109.92.79 | rpc | RIPE | RIPE Network Coordination Centre |
 | 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 161.97.118.43 | LavaNodes | RIPE | RIPE Network Coordination Centre |
 | 65.21.73.233 | monastic | RIPE | RIPE Network Coordination Centre |
 | 95.111.225.213 | mynode |  |  |
 | 207.180.240.225 | Lava | RIPE | RIPE Network Coordination Centre |
@@ -84,7 +84,7 @@
 | 86.111.48.158 | test |  |  |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
-| 185.218.124.133 | GagaWait |  |  |
+| 65.108.206.118 | UTSA_guide | RIPE | RIPE Network Coordination Centre |
 | 91.245.225.5 | farmpointer |  |  |
 | 164.68.103.241 | TronMan | RIPE | RIPE Network Coordination Centre |
 | 89.117.54.156 | Dominik |  |  |
@@ -120,7 +120,7 @@
 | 195.128.158.108 | C2857M1Node05-hdd |  |  |
 | 173.249.0.170 | forestgamp | RIPE | RIPE Network Coordination Centre |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
+| 38.242.241.5 | viktorkalyna | COGENT-A |  |
 | 62.171.159.226 | Lavanode6 |  |  |
 | 45.67.212.233 | clone |  |  |
 | 173.212.197.148 | DmytriyGuru | RIPE | RIPE Network Coordination Centre |
@@ -147,7 +147,8 @@
 | 185.188.249.46 | bonynode |  |  |
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 176.103.222.21 | test |  |  |
-| 65.108.206.118 | UTSA_guide | RIPE | RIPE Network Coordination Centre |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 5.9.122.49 | NodexPlus |  |  |
+| 138.201.204.5 | haciyatmaz | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
