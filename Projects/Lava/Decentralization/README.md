@@ -21,7 +21,7 @@
 | 92.119.186.40 | xtrend | NEOTELECOM | Neo-Telecom Plus Ltd. |
 | 65.109.92.79 | rpc | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
-| 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
+| 65.108.231.124 | seed | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.21.73.233 | monastic | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.111.225.213 | mynode | CONTABO |  |
 | 207.180.240.225 | Lava | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
@@ -60,7 +60,7 @@
 | 212.192.25.202 | clone | CZ-RELCOM-19980115 | Reliable Communications s.r.o. |
 | 161.97.153.175 | nikabirsak22 | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 88.198.8.79 | lava_dora | HETZNER-RZ-NBG-NET | Hetzner Online GmbH |
-| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.167.188 | wildweststaking |  |  |
 | 65.108.100.31 | MELLIFERA | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 65.109.88.254 | ksalab | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.40.79.18 | clone | DataHarbour-net | Limited Liability Company DataHarbour |
@@ -152,6 +152,6 @@
 | 65.109.143.184 | srklt | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 176.103.222.21 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 65.108.206.118 | UTSA_guide | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 5.9.122.49 | NodexPlus | HETZNER-fsn1-dc7 |  |
+| 65.108.75.107 | node | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 
 <!-- END_TABLE -->
