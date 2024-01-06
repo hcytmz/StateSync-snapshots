@@ -51,12 +51,12 @@
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 5.161.132.110 | LavaRelayUS |  |  |
 | 195.3.220.21 | 0ovpmkhjxkvt |  |  |
-| 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 212.192.25.202 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking |  |  |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -120,7 +120,7 @@
 | 195.128.158.108 | C2857M1Node05-hdd |  |  |
 | 173.249.0.170 | forestgamp | RIPE | RIPE Network Coordination Centre |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 38.242.241.5 | viktorkalyna | COGENT-A |  |
+| 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
 | 62.171.159.226 | Lavanode6 |  |  |
 | 45.67.212.233 | clone |  |  |
 | 173.212.197.148 | DmytriyGuru | RIPE | RIPE Network Coordination Centre |
@@ -147,8 +147,7 @@
 | 185.188.249.46 | bonynode |  |  |
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 176.103.222.21 | test |  |  |
-| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 46.4.55.46 | LiveRaveN |  |  |
 | 5.9.122.49 | NodexPlus |  |  |
-| 138.201.204.5 | haciyatmaz | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
