@@ -31,9 +31,7 @@
 | 188.40.66.173 | hello-okp4-test |  |  |
 | 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
 | 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed |  |  |
-| 95.217.203.43 | swiftstaking |  |  |
-| 135.181.116.246 | waynewayner | RIPE | RIPE Network Coordination Centre |
-| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
