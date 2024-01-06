@@ -19,7 +19,7 @@
 | 95.165.89.222 | maxfoton | MGTS-PPPOE |  |
 | 65.21.73.233 | monastic | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 95.111.225.213 | mynode | CONTABO |  |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 207.180.240.225 | Lava | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 213.135.142.131 | clone | MACROREGIONAL_CENTER |  |
 | 35.205.44.215 | testnet2-validator-3 | GOOGLE-CLOUD | Google LLC |
 | 65.108.41.172 | cyberG | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
@@ -145,8 +145,9 @@
 | 65.21.141.117 | MarkCN | RIPE DE-HETZNER-20010926 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 185.188.249.46 | bonynode | TT-202200809 | Contabo GmbH |
 | 65.109.143.184 | srklt | RIPE CLOUD-HEL1 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 207.180.240.225 | Lava | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 95.217.114.120 | Jocker | DE-HETZNER-20090224 | Hetzner Online GmbH Hetzner Online GmbH |
 | 5.9.122.49 | NodexPlus | HETZNER-fsn1-dc7 |  |
 
 <!-- END_TABLE -->
