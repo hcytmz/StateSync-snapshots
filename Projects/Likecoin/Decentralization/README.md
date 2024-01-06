@@ -20,7 +20,7 @@
 | 194.195.212.69 | Stakeland by 9GAG | US-LINODE-19950914 | Linode, LLC |
 | 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
-| 51.159.223.25 | Citizen Cosmos | ONLINENET_DEDICATED_SERVERS | Scaleway |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 188.166.226.230 | PM | DIGITALOCEAN |  |
@@ -57,11 +57,10 @@
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 173.212.231.154 | Family-Online | RIPE CONTABO | RIPE Network Coordination Centre Contabo GmbH |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
+| 154.12.227.117 | 50%Banana |  |  |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
-| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 |  |
 
 <!-- END_TABLE -->
