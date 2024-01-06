@@ -53,7 +53,7 @@
 | 65.108.227.112 | [NODERS]TEAM | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 TT-20230331 | RIPE Network Coordination Centre Contabo GmbH |
 | 5.161.132.110 | LavaRelayUS | CLOUD-ASH | Hetzner Online GmbH Hetzner Online GmbH |
-| 31.47.182.41 | clone | RU-TTK-RETAIL | Closed Joint Stock Company SibTransTelecom |
+| 195.3.220.21 | 0ovpmkhjxkvt | MEVSPACE | Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o. |
 | 194.163.174.231 | AviaDoc_by_AviaOne | CONTABO |  |
 | 65.109.89.18 | itrocket | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
 | 212.192.25.202 | clone | CZ-RELCOM-19980115 | Reliable Communications s.r.o. |
@@ -152,6 +152,5 @@
 | 176.103.222.21 | test | NO-CLOUD | CLOUD CATALYST NORWAY AS |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 65.108.206.118 | UTSA_guide | RIPE DE-HETZNER-20010209 | RIPE Network Coordination Centre Hetzner Online GmbH Hetzner Online GmbH |
-| 5.9.122.49 | NodexPlus | HETZNER-fsn1-dc7 |  |
 
 <!-- END_TABLE -->
