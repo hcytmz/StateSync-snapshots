@@ -34,7 +34,7 @@
 | 62.171.186.77 | moonbeam |  |  |
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
 | 5.78.102.149 | BRAND-likecoin-relayer |  |  |
-| 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 89.163.154.108 | Foxinodes |  |  |
 | 207.180.238.137 | moonbeam-RPC | RIPE | RIPE Network Coordination Centre |
 | 38.242.143.195 | likecoin-mainnet | COGENT-A | PSINet, Inc. |
 | 198.244.228.17 | web34ever | RIPE | RIPE Network Coordination Centre |
@@ -57,7 +57,6 @@
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
-| 89.163.154.108 | Foxinodes |  |  |
-| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
