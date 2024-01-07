@@ -17,7 +17,6 @@
 | 92.119.186.40 | xtrend |  |  |
 | 65.109.92.79 | rpc | RIPE | RIPE Network Coordination Centre |
 | 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
-| 161.97.118.43 | LavaNodes | RIPE | RIPE Network Coordination Centre |
 | 65.21.73.233 | monastic | RIPE | RIPE Network Coordination Centre |
 | 95.111.225.213 | mynode |  |  |
 | 207.180.240.225 | Lava | RIPE | RIPE Network Coordination Centre |
@@ -119,7 +118,7 @@
 | 176.121.188.9 | LavaTm102 |  |  |
 | 195.128.158.108 | C2857M1Node05-hdd |  |  |
 | 173.249.0.170 | forestgamp | RIPE | RIPE Network Coordination Centre |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 185.248.24.33 | web34ever |  |  |
 | 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
 | 62.171.159.226 | Lavanode6 |  |  |
 | 45.67.212.233 | clone |  |  |
@@ -148,6 +147,7 @@
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 176.103.222.21 | test |  |  |
 | 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
