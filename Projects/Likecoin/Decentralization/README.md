@@ -13,12 +13,12 @@
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
 | 194.163.161.194 | Foxinodes |  |  |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 194.195.212.69 | Stakeland by 9GAG |  |  |
 | 51.159.223.25 | Citizen Cosmos |  |  |
 | 154.53.63.22 | martianforest |  |  |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
-| 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
+| 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
@@ -46,7 +46,7 @@
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
 | 34.143.212.21 | matters.news | GOOGL-2 | Google LLC |
 | 167.235.2.246 | node | RIPE | RIPE Network Coordination Centre |
-| 143.244.178.171 | OurBoardRoom | DIGITALOCEAN-143-244-128-0 | DigitalOcean, LLC |
+| 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
 | 144.91.125.80 | BRAND-likecoin-main | RIPE | RIPE Network Coordination Centre |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
@@ -58,6 +58,6 @@
 | 154.12.227.117 | 50%Banana |  |  |
 | 89.163.154.108 | Foxinodes |  |  |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
-| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
