@@ -18,7 +18,7 @@
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 194.195.212.69 | Stakeland by 9GAG |  |  |
 | 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
-| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.63.22 | martianforest |  |  |
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 | 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
@@ -38,7 +38,7 @@
 | 207.180.238.137 | moonbeam-RPC | RIPE | RIPE Network Coordination Centre |
 | 38.242.143.195 | likecoin-mainnet | COGENT-A | PSINet, Inc. |
 | 198.244.228.17 | web34ever | RIPE | RIPE Network Coordination Centre |
-| 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
+| 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 |  |
 | 5.10.19.55 | forbole-rds |  |  |
 | 94.250.203.238 | ericet |  |  |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
@@ -51,7 +51,7 @@
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
 | 144.91.125.80 | BRAND-likecoin-main | RIPE | RIPE Network Coordination Centre |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 14.224.145.244 | csc04 | VNPT-VN |  |
 | 54.36.108.222 | Stakewolle | RIPE | RIPE Network Coordination Centre |
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
@@ -59,7 +59,6 @@
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 188.166.226.230 | PM |  |  |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
-| 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
