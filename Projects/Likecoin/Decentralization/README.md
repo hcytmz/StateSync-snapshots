@@ -56,7 +56,7 @@
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 154.12.227.117 | 50%Banana |  |  |
+| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
 | 89.163.154.108 | Foxinodes |  |  |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
