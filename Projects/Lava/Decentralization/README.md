@@ -56,7 +56,7 @@
 | 212.192.25.202 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking |  |  |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -120,7 +120,7 @@
 | 195.128.158.108 | C2857M1Node05-hdd |  |  |
 | 173.249.0.170 | forestgamp | RIPE | RIPE Network Coordination Centre |
 | 185.248.24.33 | web34ever |  |  |
-| 38.242.241.5 | viktorkalyna | COGENT-A |  |
+| 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
 | 62.171.159.226 | Lavanode6 |  |  |
 | 45.67.212.233 | clone |  |  |
 | 173.212.197.148 | DmytriyGuru | RIPE | RIPE Network Coordination Centre |
