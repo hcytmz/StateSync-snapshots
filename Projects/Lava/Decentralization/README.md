@@ -74,7 +74,7 @@
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 34.22.231.207 | testnet-internal-rpc | GOOGL-2 | Google LLC |
 | 164.68.105.141 | Dominik | RIPE | RIPE Network Coordination Centre |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 176.103.222.21 | test |  |  |
 | 65.108.75.107 | node | RIPE | RIPE Network Coordination Centre |
 | 65.108.99.250 | xAlex | RIPE | RIPE Network Coordination Centre |
 | 46.4.14.172 | PPNV |  |  |
@@ -84,7 +84,7 @@
 | 86.111.48.158 | test |  |  |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
-| 34.91.136.129 | mynode | GOOGL-2 | Google LLC |
+| 147.135.222.170 | nnm | RIPE | RIPE Network Coordination Centre |
 | 91.245.225.5 | farmpointer |  |  |
 | 164.68.103.241 | TronMan | RIPE | RIPE Network Coordination Centre |
 | 89.117.54.156 | Dominik |  |  |
@@ -134,7 +134,7 @@
 | 89.117.51.129 | KelvinBorrel |  |  |
 | 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
 | 65.109.52.156 | Yurbason | RIPE | RIPE Network Coordination Centre |
-| 144.217.68.182 | Nodeist-lava-test | HO-2 | OVH Hosting, Inc. |
+| 144.217.68.182 | Nodeist-lava-test | HO-2 |  |
 | 65.108.226.183 | hello-lava-test | RIPE | RIPE Network Coordination Centre |
 | 65.108.229.93 | mynode | RIPE | RIPE Network Coordination Centre |
 | 195.128.158.230 | clone |  |  |
@@ -149,6 +149,6 @@
 | 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 46.4.55.46 | LiveRaveN |  |  |
 | 195.3.220.21 | 0ovpmkhjxkvt |  |  |
-| 147.135.222.170 | nnm | RIPE | RIPE Network Coordination Centre |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 
 <!-- END_TABLE -->
