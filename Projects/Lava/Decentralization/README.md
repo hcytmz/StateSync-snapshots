@@ -51,7 +51,7 @@
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 5.161.132.110 | LavaRelayUS |  |  |
 | 195.3.220.21 | 0ovpmkhjxkvt |  |  |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 212.192.25.202 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
@@ -147,7 +147,7 @@
 | 185.188.249.46 | bonynode |  |  |
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 176.103.222.21 | test |  |  |
-| 46.4.55.46 | LiveRaveN |  |  |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
