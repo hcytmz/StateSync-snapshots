@@ -17,6 +17,7 @@
 | 92.119.186.40 | xtrend |  |  |
 | 65.109.92.79 | rpc | RIPE | RIPE Network Coordination Centre |
 | 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 65.21.73.233 | monastic | RIPE | RIPE Network Coordination Centre |
 | 95.111.225.213 | mynode |  |  |
 | 207.180.240.225 | Lava | RIPE | RIPE Network Coordination Centre |
@@ -145,8 +146,6 @@
 | 65.21.141.117 | MarkCN | RIPE | RIPE Network Coordination Centre |
 | 185.188.249.46 | bonynode |  |  |
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
-| 176.103.222.21 | test |  |  |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 5.9.122.49 | NodexPlus |  |  |
 
