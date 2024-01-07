@@ -82,7 +82,6 @@
 | 91.245.225.3 | TopOurNodes |  |  |
 | 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | HostPapa |
 | 86.111.48.158 | test |  |  |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
 | 147.135.222.170 | nnm | RIPE | RIPE Network Coordination Centre |
 | 91.245.225.5 | farmpointer |  |  |
@@ -148,6 +147,7 @@
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 195.3.220.21 | 0ovpmkhjxkvt |  |  |
 | 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
