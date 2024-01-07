@@ -18,12 +18,12 @@
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 194.195.212.69 | Stakeland by 9GAG |  |  |
 | 51.159.223.25 | Citizen Cosmos |  |  |
-| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.63.22 | martianforest |  |  |
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 | 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
-| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 5.9.121.55 | StakeAngle_RPC |  |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE | RIPE Network Coordination Centre |
@@ -36,7 +36,7 @@
 | 5.78.102.149 | BRAND-likecoin-relayer |  |  |
 | 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 207.180.238.137 | moonbeam-RPC | RIPE | RIPE Network Coordination Centre |
-| 38.242.143.195 | likecoin-mainnet | COGENT-A |  |
+| 38.242.143.195 | likecoin-mainnet | COGENT-A | PSINet, Inc. |
 | 198.244.228.17 | web34ever | RIPE | RIPE Network Coordination Centre |
 | 43.224.50.29 | itchitech | HKBNES-HK |  |
 | 5.10.19.55 | forbole-rds |  |  |
@@ -56,10 +56,8 @@
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
-| 154.12.227.117 | 50%Banana |  |  |
-| 89.163.154.108 | Foxinodes |  |  |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
-| 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 148.113.162.70 | Cosmostation | HO-2 SD-BHS-BHS8-B813A-1ST-MAGGIE-IP2-INFRA-002 | OVH Hosting, Inc. OVH Hosting, Inc. |
+| 89.163.154.108 | Foxinodes |  |  |
+| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 
 <!-- END_TABLE -->
