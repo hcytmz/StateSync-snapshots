@@ -28,10 +28,7 @@
 | 185.208.206.16 | Decloud Nodes Lab |  |  |
 | 157.90.181.186 | tRDM | RIPE | RIPE Network Coordination Centre |
 | 188.40.66.173 | hello-okp4-test |  |  |
-| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
-| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed |  |  |
-| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
-| 103.234.71.245 | okp4 | REGEN_IN |  |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
