@@ -59,7 +59,6 @@
 | 162.55.245.149 | d18ef169-01a5af | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
 | 84.46.250.136 | Stake&Relax |  |  |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 95.217.141.43 | Kolot |  |  |
 | 135.181.117.165 | alterkahn | RIPE | RIPE Network Coordination Centre |
@@ -86,8 +85,9 @@
 | 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 65.109.112.170 | Nodejumper | RIPE | RIPE Network Coordination Centre |
 | 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
-| 32.221.99.231 | dave-chia-plotter | SNET-AMERICA | Southern New England Telephone Company and SNET America, Inc. |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
-| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 65.108.227.217 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
+| 135.181.5.219 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
