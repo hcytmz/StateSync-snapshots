@@ -21,7 +21,7 @@
 | 162.246.20.74 | Darvin | INTERSERVER | Interserver, Inc |
 | 34.29.247.51 | cyril-test | GOOGL-2 | Google LLC |
 | 65.108.230.161 | Testnetrun-RPC | RIPE | RIPE Network Coordination Centre |
-| 144.217.68.182 | Nodeist-okp4-test | HO-2 | OVH Hosting, Inc. |
+| 95.217.141.43 | Kolot |  |  |
 | 65.109.117.212 | w3coins | RIPE | RIPE Network Coordination Centre |
 | 144.91.115.146 | OKP4 | RIPE | RIPE Network Coordination Centre |
 | 94.130.137.122 | Vagif |  |  |
@@ -29,10 +29,9 @@
 | 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 188.40.66.173 | hello-okp4-test |  |  |
 | 185.208.206.16 | Decloud Nodes Lab |  |  |
-| 95.217.141.43 | Kolot |  |  |
+| 144.217.68.182 | Nodeist-okp4-test | HO-2 | OVH Hosting, Inc. |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
 | 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
-| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed |  |  |
-| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
