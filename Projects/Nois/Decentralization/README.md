@@ -59,7 +59,7 @@
 | 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
 | 95.216.100.99 | mainnet-backup-1 |  |  |
 | 84.46.250.136 | Stake&Relax |  |  |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 154.53.44.239 | dstake |  |  |
 | 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 95.217.141.43 | Kolot |  |  |
 | 135.181.117.165 | alterkahn | RIPE | RIPE Network Coordination Centre |
@@ -67,7 +67,6 @@
 | 65.109.39.223 | Loona.Systems | RIPE | RIPE Network Coordination Centre |
 | 216.128.134.36 | node | CONSTANT NET-216-128-134-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 54.39.128.229 | Cumulo | HO-2 SD-BHS-SD-1G-VOIE-A-B707A | OVH Hosting, Inc. OVH Hosting, Inc. |
-| 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
 | 2001:bc8:702:16d0::3 | nois-1 |  |  |
 | 65.108.130.171 | nois-1 | RIPE | RIPE Network Coordination Centre |
 | 65.109.29.150 | range | RIPE | RIPE Network Coordination Centre |
@@ -89,7 +88,9 @@
 | 5.39.249.16 | Sr20de service node |  |  |
 | 103.180.28.70 | forbole | METROPOLIS-AP | Metropolis Networks Inc |
 | 162.55.245.149 | d18ef169-01a5af | RIPE | RIPE Network Coordination Centre |
-| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 
 <!-- END_TABLE -->
