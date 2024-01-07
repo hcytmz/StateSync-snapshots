@@ -56,7 +56,7 @@
 | 212.192.25.202 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking |  |  |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -107,7 +107,7 @@
 | 158.220.105.187 | Lavanode7 | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 89.117.52.186 | HalfButy |  |  |
 | 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
-| 46.4.55.46 | LiveRaveN |  |  |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 173.212.205.21 | Lava1 | RIPE | RIPE Network Coordination Centre |
 | 57.128.44.52 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 142.132.214.131 | Moldova | RIPE | RIPE Network Coordination Centre |
@@ -143,11 +143,11 @@
 | 176.9.110.12 | Sirius.nodes |  |  |
 | 167.86.126.169 | pylypevan | RIPE | RIPE Network Coordination Centre |
 | 65.21.141.117 | MarkCN | RIPE | RIPE Network Coordination Centre |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 195.3.220.21 | 0ovpmkhjxkvt |  |  |
 | 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 46.4.55.46 | LiveRaveN |  |  |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
