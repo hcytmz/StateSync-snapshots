@@ -28,8 +28,8 @@
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE | RIPE Network Coordination Centre |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
-| 47.56.186.154 | s411 | AL-3 ALICLOUD-HK |  |
-| 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
+| 47.56.186.154 | s411 | AL-3 ALICLOUD-HK | Alibaba Cloud LLC |
+| 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
 | 62.171.186.77 | moonbeam |  |  |
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
@@ -43,7 +43,7 @@
 | 94.250.203.238 | ericet |  |  |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 136.243.55.237 | AnyValid | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
-| 174.62.237.158 | StakeLabz DAO | JUMPSTART-5 CHICAGO-CPE-15 |  |
+| 174.62.237.158 | StakeLabz DAO | JUMPSTART-5 CHICAGO-CPE-15 | Comcast Cable Communications, LLC |
 | 57.128.133.16 | likecoin-m-horcrux1-ovh-lon | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
 | 34.143.212.21 | matters.news | GOOGL-2 | Google LLC |
@@ -59,8 +59,6 @@
 | 154.12.227.117 | 50%Banana |  |  |
 | 89.163.154.108 | Foxinodes |  |  |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
-| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
-| 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 
 <!-- END_TABLE -->
