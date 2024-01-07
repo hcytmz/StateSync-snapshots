@@ -56,7 +56,7 @@
 | 212.192.25.202 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.167.188 | wildweststaking |  |  |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -74,7 +74,7 @@
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 34.22.231.207 | testnet-internal-rpc | GOOGL-2 | Google LLC |
 | 164.68.105.141 | Dominik | RIPE | RIPE Network Coordination Centre |
-| 75.119.146.252 | node101 | RIPE | RIPE Network Coordination Centre |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 65.108.75.107 | node | RIPE | RIPE Network Coordination Centre |
 | 65.108.99.250 | xAlex | RIPE | RIPE Network Coordination Centre |
 | 46.4.14.172 | PPNV |  |  |
@@ -142,13 +142,12 @@
 | 65.109.65.248 | StakeTown-API | RIPE | RIPE Network Coordination Centre |
 | 95.217.114.120 | Jocker |  |  |
 | 176.9.110.12 | Sirius.nodes |  |  |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 167.86.126.169 | pylypevan | RIPE | RIPE Network Coordination Centre |
 | 65.21.141.117 | MarkCN | RIPE | RIPE Network Coordination Centre |
 | 185.188.249.46 | bonynode |  |  |
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
-| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 65.108.231.238 | nodeADDICT | RIPE | RIPE Network Coordination Centre |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
-| 167.86.126.169 | pylypevan | RIPE | RIPE Network Coordination Centre |
+| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
