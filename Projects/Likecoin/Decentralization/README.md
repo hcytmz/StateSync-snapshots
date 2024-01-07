@@ -18,11 +18,11 @@
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 194.195.212.69 | Stakeland by 9GAG |  |  |
 | 51.159.223.25 | Citizen Cosmos |  |  |
-| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.63.22 | martianforest |  |  |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
-| 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
+| 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 5.9.121.55 | StakeAngle_RPC |  |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
@@ -51,7 +51,6 @@
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
 | 144.91.125.80 | BRAND-likecoin-main | RIPE | RIPE Network Coordination Centre |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
-| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 14.224.145.244 | csc04 | VNPT-VN |  |
 | 54.36.108.222 | Stakewolle | RIPE | RIPE Network Coordination Centre |
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
@@ -60,6 +59,7 @@
 | 154.12.227.117 | 50%Banana |  |  |
 | 89.163.154.108 | Foxinodes |  |  |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
-| 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
+| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
+| 43.224.50.29 | itchitech | HKBNES-HK |  |
 
 <!-- END_TABLE -->
