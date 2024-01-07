@@ -30,6 +30,10 @@
 | 185.208.206.16 | Decloud Nodes Lab |  |  |
 | 188.40.66.173 | hello-okp4-test |  |  |
 | 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
 | 195.201.222.82 | okp4-nemeton-1-seed |  |  |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
+| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 195.3.220.54 | mv7bfopywjxf |  |  |
 
 <!-- END_TABLE -->
