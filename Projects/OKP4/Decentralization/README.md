@@ -29,8 +29,7 @@
 | 157.90.181.186 | tRDM | RIPE | RIPE Network Coordination Centre |
 | 89.117.53.92 | Picolo88 |  |  |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
-| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
-| 195.201.222.82 | okp4-nemeton-1-seed |  |  |
-| 103.234.71.245 | okp4 | REGEN_IN |  |
+| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
+| 95.217.110.39 | Validator.run |  |  |
 
 <!-- END_TABLE -->
