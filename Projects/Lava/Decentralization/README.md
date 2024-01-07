@@ -40,6 +40,7 @@
 | 167.235.14.83 | Ubuntu-2204-jammy-amd64-base | RIPE | RIPE Network Coordination Centre |
 | 142.132.248.253 | Blackhox | RIPE | RIPE Network Coordination Centre |
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
+| 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 185.162.93.88 | clone |  |  |
 | 167.235.117.93 | w3coins | RIPE | RIPE Network Coordination Centre |
 | 162.55.245.144 | e9c2c9b8-739e0e | RIPE | RIPE Network Coordination Centre |
@@ -55,7 +56,7 @@
 | 212.192.25.202 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.167.188 | wildweststaking |  |  |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -81,7 +82,7 @@
 | 91.245.225.3 | TopOurNodes |  |  |
 | 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | HostPapa |
 | 86.111.48.158 | test |  |  |
-| 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
 | 147.135.222.170 | nnm | RIPE | RIPE Network Coordination Centre |
 | 91.245.225.5 | farmpointer |  |  |
@@ -147,7 +148,6 @@
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 195.3.220.21 | 0ovpmkhjxkvt |  |  |
 | 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
