@@ -17,7 +17,7 @@
 | 194.163.161.194 | Foxinodes |  |  |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 194.195.212.69 | Stakeland by 9GAG |  |  |
-| 51.159.223.25 | Citizen Cosmos |  |  |
+| 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
 | 154.53.63.22 | martianforest |  |  |
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 | 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
@@ -45,7 +45,7 @@
 | 136.243.55.237 | AnyValid | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
 | 174.62.237.158 | StakeLabz DAO | JUMPSTART-5 CHICAGO-CPE-15 | Comcast Cable Communications, LLC |
 | 57.128.133.16 | likecoin-m-horcrux1-ovh-lon | RIPE-ERX-57 | RIPE Network Coordination Centre |
-| 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
+| 58.176.233.149 | chung-cosmovisor | HKBN | Hong Kong Broadband Network Ltd |
 | 34.143.212.21 | matters.news | GOOGL-2 | Google LLC |
 | 167.235.2.246 | node | RIPE | RIPE Network Coordination Centre |
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
@@ -57,6 +57,8 @@
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
-| 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
+| 51.159.223.25 | Citizen Cosmos |  |  |
+| 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
