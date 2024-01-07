@@ -16,7 +16,7 @@
 | 159.89.111.21 | Tendermint | DIGITALOCEAN-159-89-0-0 | DigitalOcean, LLC |
 | 92.119.186.40 | xtrend |  |  |
 | 65.109.92.79 | rpc | RIPE | RIPE Network Coordination Centre |
-| 34.74.59.43 | testnet2-validator-4 | GOOGL-2 |  |
+| 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
 | 65.21.73.233 | monastic | RIPE | RIPE Network Coordination Centre |
 | 95.111.225.213 | mynode |  |  |
@@ -100,7 +100,7 @@
 | 75.119.148.206 | Dominik | RIPE | RIPE Network Coordination Centre |
 | 45.15.253.75 | clone |  |  |
 | 65.21.32.13 | STAKKY | RIPE | RIPE Network Coordination Centre |
-| 190.15.217.229 | mynode |  |  |
+| 184.174.32.120 | Alex190 | CAC-BLOCK8 IL-845 | Colocation America Corporation IPXO LLC |
 | 178.18.252.105 | testnet |  |  |
 | 95.217.87.110 | services |  |  |
 | 158.220.97.152 | Dominik | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
@@ -130,11 +130,11 @@
 | 31.220.90.176 | Lavanode5 |  |  |
 | 158.220.102.7 | sasha | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 37.27.48.156 | tothemars |  |  |
-| 34.65.48.90 | my-node | GOOGL-2 |  |
+| 34.65.48.90 | my-node | GOOGL-2 | Google LLC |
 | 89.117.51.129 | KelvinBorrel |  |  |
 | 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
 | 65.109.52.156 | Yurbason | RIPE | RIPE Network Coordination Centre |
-| 144.217.68.182 | Nodeist-lava-test | HO-2 |  |
+| 144.217.68.182 | Nodeist-lava-test | HO-2 | OVH Hosting, Inc. |
 | 65.108.226.183 | hello-lava-test | RIPE | RIPE Network Coordination Centre |
 | 65.108.229.93 | mynode | RIPE | RIPE Network Coordination Centre |
 | 195.128.158.230 | clone |  |  |
@@ -147,6 +147,7 @@
 | 185.188.249.46 | bonynode |  |  |
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
