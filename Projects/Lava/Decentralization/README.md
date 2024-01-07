@@ -71,7 +71,6 @@
 | 212.192.25.38 | LavaTm100 |  |  |
 | 178.250.154.42 | clone |  |  |
 | 65.108.86.122 | F5Nodes | RIPE | RIPE Network Coordination Centre |
-| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 34.22.231.207 | testnet-internal-rpc | GOOGL-2 | Google LLC |
 | 164.68.105.141 | Dominik | RIPE | RIPE Network Coordination Centre |
 | 75.119.146.252 | node101 | RIPE | RIPE Network Coordination Centre |
@@ -148,6 +147,7 @@
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
