@@ -9,7 +9,7 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 144.217.68.182 | Nodeist-okp4-test | HO-2 | OVH Hosting, Inc. |
+| 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 94.130.137.122 | Vagif |  |  |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 167.235.180.97 | w3coins | RIPE | RIPE Network Coordination Centre |
@@ -27,14 +27,9 @@
 | 185.208.206.16 | Decloud Nodes Lab |  |  |
 | 157.90.181.186 | tRDM | RIPE | RIPE Network Coordination Centre |
 | 34.29.247.51 | cyril-test | GOOGL-2 | Google LLC |
-| 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
+| 144.217.68.182 | Nodeist-okp4-test | HO-2 | OVH Hosting, Inc. |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
-| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
-| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
-| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed |  |  |
-| 176.103.222.44 | test |  |  |
 | 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
-| 34.68.242.3 | Dora Factory PGS | GOOGL-2 | Google LLC |
-| 172.96.160.233 | ArcLing | RL-323 | ReliableSite.Net LLC |
+| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
