@@ -145,8 +145,7 @@
 | 65.21.141.117 | MarkCN | RIPE | RIPE Network Coordination Centre |
 | 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
-| 46.4.55.46 | LiveRaveN |  |  |
 | 195.3.220.21 | 0ovpmkhjxkvt |  |  |
+| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
