@@ -14,7 +14,7 @@
 | 65.108.124.121 | Lapatylin | RIPE | RIPE Network Coordination Centre |
 | 128.140.83.145 | dmnodes | RIPE-ERX-128-140-0-0 | RIPE Network Coordination Centre |
 | 159.89.111.21 | Tendermint | DIGITALOCEAN-159-89-0-0 | DigitalOcean, LLC |
-| 92.119.186.40 | xtrend |  |  |
+| 46.4.55.46 | LiveRaveN |  |  |
 | 65.109.92.79 | rpc | RIPE | RIPE Network Coordination Centre |
 | 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
 | 65.108.231.238 | nodeADDICT | RIPE | RIPE Network Coordination Centre |
@@ -38,7 +38,7 @@
 | 131.153.158.137 | Republic Runtime | SSL-65 | SECURED SERVERS LLC |
 | 162.19.217.52 | test | RIPE | RIPE Network Coordination Centre |
 | 167.235.14.83 | Ubuntu-2204-jammy-amd64-base | RIPE | RIPE Network Coordination Centre |
-| 142.132.248.253 | Blackhox | RIPE | RIPE Network Coordination Centre |
+| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 185.162.93.88 | clone |  |  |
@@ -47,7 +47,7 @@
 | 143.110.185.169 | Kahuna | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
 | 31.220.80.131 | Userr01 |  |  |
 | 178.250.154.26 | clone |  |  |
-| 65.108.227.112 | [NODERS]TEAM | RIPE | RIPE Network Coordination Centre |
+| 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 5.161.132.110 | LavaRelayUS |  |  |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
@@ -56,7 +56,7 @@
 | 212.192.25.202 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking |  |  |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -75,13 +75,14 @@
 | 34.22.231.207 | testnet-internal-rpc | GOOGL-2 | Google LLC |
 | 164.68.105.141 | Dominik | RIPE | RIPE Network Coordination Centre |
 | 176.103.222.21 | test |  |  |
-| 65.108.75.107 | node | RIPE | RIPE Network Coordination Centre |
+| 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 65.108.99.250 | xAlex | RIPE | RIPE Network Coordination Centre |
 | 46.4.14.172 | PPNV |  |  |
 | 86.111.48.155 | test |  |  |
 | 91.245.225.3 | TopOurNodes |  |  |
 | 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | HostPapa |
 | 86.111.48.158 | test |  |  |
+| 92.119.186.40 | xtrend |  |  |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
 | 147.135.222.170 | nnm | RIPE | RIPE Network Coordination Centre |
 | 91.245.225.5 | farmpointer |  |  |
@@ -144,10 +145,7 @@
 | 167.86.126.169 | pylypevan | RIPE | RIPE Network Coordination Centre |
 | 65.21.141.117 | MarkCN | RIPE | RIPE Network Coordination Centre |
 | 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
-| 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
-| 195.3.220.21 | 0ovpmkhjxkvt |  |  |
-| 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
-| 46.4.55.46 | LiveRaveN |  |  |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 31.220.76.131 | trav |  |  |
+| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
