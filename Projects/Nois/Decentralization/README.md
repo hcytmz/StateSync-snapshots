@@ -12,13 +12,13 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 38.242.225.247 | narkosha | COGENT-A |  |
+| 38.242.225.247 | narkosha | COGENT-A | PSINet, Inc. |
 | 65.108.82.62 | ROSNODEMONITORING | RIPE | RIPE Network Coordination Centre |
 | 54.38.128.34 | qwerty-nois-main | RIPE | RIPE Network Coordination Centre |
 | 142.132.209.97 | ECO Stake | RIPE | RIPE Network Coordination Centre |
 | 103.180.28.70 | forbole | METROPOLIS-AP | Metropolis Networks Inc |
 | 57.128.60.165 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
-| 38.146.3.181 | nois | COGENT-A |  |
+| 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
 | 65.109.104.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
 | 46.4.91.49 | fln |  |  |
 | 51.89.98.102 | noname-21671 |  |  |
@@ -30,11 +30,10 @@
 | 81.0.248.57 | nois-main |  |  |
 | 88.198.18.88 | terlia |  |  |
 | 144.76.97.251 | AlxVoy | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
-| 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
+| 32.221.99.231 | YOUR_MONIKER | SNET-AMERICA | Southern New England Telephone Company and SNET America, Inc. |
 | 65.109.62.179 | roadz-main | RIPE | RIPE Network Coordination Centre |
 | 146.59.52.137 | d8ab2567-6e7f-55a6-a7bd-ce15a61c08c5 | RIPE-ERX-146-59-0-0 | RIPE Network Coordination Centre |
 | 135.181.198.17 | chronon | RIPE | RIPE Network Coordination Centre |
-| 154.53.44.239 | dstake |  |  |
 | 81.0.246.225 | 7aaa9c11c4fb1bdf8245625ad499fc96 |  |  |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 195.3.223.9 | jpoop0n4q4rk |  |  |
@@ -47,7 +46,7 @@
 | 51.91.105.152 | CryptoCats.Pro |  |  |
 | 57.128.144.242 | Forbole | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 65.21.122.47 | multi-net | RIPE | RIPE Network Coordination Centre |
-| 38.146.3.180 | nois | COGENT-A | PSINet, Inc. |
+| 38.146.3.180 | nois | COGENT-A |  |
 | 65.109.16.125 | node | RIPE | RIPE Network Coordination Centre |
 | 65.109.115.226 | hello-nois-relayer | RIPE | RIPE Network Coordination Centre |
 | 141.94.193.28 | rpc-1.nois.nodes.guru |  |  |
@@ -57,10 +56,10 @@
 | 142.132.152.46 | stakr-space | RIPE | RIPE Network Coordination Centre |
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 162.55.245.149 | d18ef169-01a5af | RIPE | RIPE Network Coordination Centre |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 95.216.100.99 | mainnet-backup-1 |  |  |
 | 84.46.250.136 | Stake&Relax |  |  |
 | 65.109.112.170 | Nodejumper | RIPE | RIPE Network Coordination Centre |
-| 5.39.249.16 | Sr20de service node |  |  |
+| 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
 | 95.217.141.43 | Kolot |  |  |
 | 135.181.117.165 | alterkahn | RIPE | RIPE Network Coordination Centre |
 | 144.76.63.67 | EZStaking.io | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
@@ -86,9 +85,9 @@
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
 | 135.181.128.114 | hello-nois-backup | RIPE | RIPE Network Coordination Centre |
 | 185.16.39.158 | anun10vv7ign |  |  |
+| 5.39.249.16 | Sr20de service node |  |  |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
-| 65.108.79.237 | chaintools-relayer-node | RIPE | RIPE Network Coordination Centre |
-| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE | RIPE Network Coordination Centre |
-| 135.181.5.219 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
+| 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
