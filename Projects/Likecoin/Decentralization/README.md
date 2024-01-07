@@ -25,7 +25,7 @@
 | 5.9.121.55 | StakeAngle_RPC |  |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE | RIPE Network Coordination Centre |
-| 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
+| 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 47.56.186.154 | s411 | AL-3 ALICLOUD-HK | Alibaba Cloud LLC |
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
@@ -55,9 +55,9 @@
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 154.12.227.117 | 50%Banana |  |  |
+| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
 | 89.163.154.108 | Foxinodes |  |  |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 
 <!-- END_TABLE -->
