@@ -18,7 +18,7 @@
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 194.195.212.69 | Stakeland by 9GAG |  |  |
 | 51.159.223.25 | Citizen Cosmos |  |  |
-| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.63.22 | martianforest |  |  |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
@@ -36,9 +36,9 @@
 | 5.78.102.149 | BRAND-likecoin-relayer |  |  |
 | 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 207.180.238.137 | moonbeam-RPC | RIPE | RIPE Network Coordination Centre |
-| 38.242.143.195 | likecoin-mainnet | COGENT-A | PSINet, Inc. |
+| 38.242.143.195 | likecoin-mainnet | COGENT-A |  |
 | 198.244.228.17 | web34ever | RIPE | RIPE Network Coordination Centre |
-| 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
+| 43.224.50.29 | itchitech | HKBNES-HK |  |
 | 5.10.19.55 | forbole-rds |  |  |
 | 94.250.203.238 | ericet |  |  |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
@@ -60,6 +60,7 @@
 | 89.163.154.108 | Foxinodes |  |  |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
-| 43.224.50.29 | itchitech | HKBNES-HK |  |
+| 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
+| 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 
 <!-- END_TABLE -->
