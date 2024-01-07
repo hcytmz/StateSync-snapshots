@@ -17,7 +17,7 @@
 | 92.119.186.40 | xtrend |  |  |
 | 65.109.92.79 | rpc | RIPE | RIPE Network Coordination Centre |
 | 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
-| 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
+| 65.108.231.238 | nodeADDICT | RIPE | RIPE Network Coordination Centre |
 | 65.21.73.233 | monastic | RIPE | RIPE Network Coordination Centre |
 | 95.111.225.213 | mynode |  |  |
 | 207.180.240.225 | Lava | RIPE | RIPE Network Coordination Centre |
@@ -50,7 +50,7 @@
 | 65.108.227.112 | [NODERS]TEAM | RIPE | RIPE Network Coordination Centre |
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 5.161.132.110 | LavaRelayUS |  |  |
-| 195.3.220.21 | 0ovpmkhjxkvt |  |  |
+| 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
 | 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 212.192.25.202 | clone |  |  |
@@ -84,7 +84,7 @@
 | 86.111.48.158 | test |  |  |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
-| 65.108.206.118 | UTSA_guide | RIPE | RIPE Network Coordination Centre |
+| 34.91.136.129 | mynode | GOOGL-2 | Google LLC |
 | 91.245.225.5 | farmpointer |  |  |
 | 164.68.103.241 | TronMan | RIPE | RIPE Network Coordination Centre |
 | 89.117.54.156 | Dominik |  |  |
@@ -147,7 +147,8 @@
 | 185.188.249.46 | bonynode |  |  |
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
-| 65.108.231.238 | nodeADDICT | RIPE | RIPE Network Coordination Centre |
-| 5.9.122.49 | NodexPlus |  |  |
+| 46.4.55.46 | LiveRaveN |  |  |
+| 195.3.220.21 | 0ovpmkhjxkvt |  |  |
+| 147.135.222.170 | nnm | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
