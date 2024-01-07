@@ -148,6 +148,6 @@
 | 195.3.220.21 | 0ovpmkhjxkvt |  |  |
 | 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
 | 46.4.55.46 | LiveRaveN |  |  |
-| 5.9.122.49 | NodexPlus |  |  |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
 
 <!-- END_TABLE -->
