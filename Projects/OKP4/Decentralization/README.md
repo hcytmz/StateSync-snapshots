@@ -27,7 +27,9 @@
 | 65.21.90.141 | SerGo | RIPE | RIPE Network Coordination Centre |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 91.194.30.203 | riser |  |  |
-| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
+| 103.234.71.245 | okp4 | REGEN_IN |  |
+| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
