@@ -50,13 +50,13 @@
 | 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 5.161.132.110 | LavaRelayUS |  |  |
-| 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
+| 31.220.76.131 | trav |  |  |
 | 190.15.217.229 | mynode |  |  |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 212.192.25.202 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.167.188 | wildweststaking |  |  |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -145,8 +145,8 @@
 | 167.86.126.169 | pylypevan | RIPE | RIPE Network Coordination Centre |
 | 65.21.141.117 | MarkCN | RIPE | RIPE Network Coordination Centre |
 | 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
-| 31.220.76.131 | trav |  |  |
+| 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
+| 46.4.55.46 | LiveRaveN |  |  |
 | 5.9.122.49 | NodexPlus |  |  |
-| 46.4.50.247 | Rumbanoid |  |  |
 
 <!-- END_TABLE -->
