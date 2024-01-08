@@ -10,7 +10,7 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 94.130.137.122 | Vagif |  |  |
 | 144.217.68.182 | Nodeist-okp4-test | HO-2 | OVH Hosting, Inc. |
 | 65.109.85.221 | okp4_bertha | RIPE | RIPE Network Coordination Centre |
@@ -29,9 +29,10 @@
 | 157.90.181.186 | tRDM | RIPE | RIPE Network Coordination Centre |
 | 34.29.247.51 | cyril-test | GOOGL-2 | Google LLC |
 | 65.21.90.141 | SerGo | RIPE | RIPE Network Coordination Centre |
-| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
+| 81.30.157.35 | CryptoSailors |  |  |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
-| 195.201.222.82 | okp4-nemeton-1-seed |  |  |
-| 144.91.126.238 | Anatolian Team | RIPE | RIPE Network Coordination Centre |
+| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 95.217.110.39 | Validator.run |  |  |
 
 <!-- END_TABLE -->
