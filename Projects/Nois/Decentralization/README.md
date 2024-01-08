@@ -63,7 +63,7 @@
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
 | 95.217.141.43 | Kolot |  |  |
 | 135.181.117.165 | alterkahn | RIPE | RIPE Network Coordination Centre |
-| 5.39.249.16 | Sr20de service node |  |  |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 65.109.39.223 | Loona.Systems | RIPE | RIPE Network Coordination Centre |
 | 216.128.134.36 | node | CONSTANT NET-216-128-134-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 54.39.128.229 | Cumulo | HO-2 SD-BHS-SD-1G-VOIE-A-B707A | OVH Hosting, Inc. OVH Hosting, Inc. |
@@ -86,9 +86,9 @@
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
 | 154.53.44.239 | dstake |  |  |
-| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
+| 5.39.249.16 | Sr20de service node |  |  |
 | 135.181.128.114 | hello-nois-backup | RIPE | RIPE Network Coordination Centre |
 | 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 65.108.79.237 | chaintools-relayer-node | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
