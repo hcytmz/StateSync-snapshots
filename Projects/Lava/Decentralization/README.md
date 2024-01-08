@@ -51,6 +51,7 @@
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 5.161.132.110 | LavaRelayUS |  |  |
 | 31.220.76.131 | trav |  |  |
+| 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
@@ -147,7 +148,6 @@
 | 185.192.97.25 | DuNock Lava |  |  |
 | 212.192.25.202 | clone |  |  |
 | 45.67.213.105 | clone |  |  |
-| 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
-| 5.9.122.49 | NodexPlus |  |  |
+| 195.3.221.118 | erfer4 |  |  |
 
 <!-- END_TABLE -->
