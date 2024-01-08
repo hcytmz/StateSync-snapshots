@@ -30,7 +30,7 @@
 | 45.94.58.240 | mynode |  |  |
 | 157.90.128.99 | Bablovcoin | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.50 | clone |  |  |
-| 65.109.93.58 | nj-snap | RIPE | RIPE Network Coordination Centre |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 65.21.131.21 | node | RIPE | RIPE Network Coordination Centre |
 | 45.67.213.137 | clone |  |  |
 | 66.129.101.70 | data-nexus-validator | PEAK10-NETBLK-02 P10-4281-6540-28 | Flexential Corp. |
@@ -56,7 +56,7 @@
 | 212.192.25.202 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking |  |  |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -147,6 +147,7 @@
 | 176.103.222.21 | test |  |  |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
-| 5.9.122.49 | NodexPlus |  |  |
+| 64.23.158.230 | nodebarron | DIGITALOCEAN-64-23-128-0 | DigitalOcean, LLC |
+| 65.108.81.145 | nodeYarNik | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
