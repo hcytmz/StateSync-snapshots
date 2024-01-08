@@ -30,7 +30,7 @@
 | 45.94.58.240 | mynode |  |  |
 | 157.90.128.99 | Bablovcoin | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.50 | clone |  |  |
-| 65.108.81.145 | nodeYarNik | RIPE | RIPE Network Coordination Centre |
+| 65.109.93.58 | nj-snap | RIPE | RIPE Network Coordination Centre |
 | 65.21.131.21 | node | RIPE | RIPE Network Coordination Centre |
 | 45.67.213.137 | clone |  |  |
 | 66.129.101.70 | data-nexus-validator | PEAK10-NETBLK-02 P10-4281-6540-28 | Flexential Corp. |
@@ -148,6 +148,5 @@
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
 | 14.226.244.42 | TeoViTeoVi | VNPT-VN |  |
 | 46.4.55.46 | LiveRaveN |  |  |
-| 65.109.93.58 | nj-snap | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
