@@ -38,7 +38,7 @@
 | 131.153.158.137 | Republic Runtime | SSL-65 | SECURED SERVERS LLC |
 | 162.19.217.52 | test | RIPE | RIPE Network Coordination Centre |
 | 167.235.14.83 | Ubuntu-2204-jammy-amd64-base | RIPE | RIPE Network Coordination Centre |
-| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
+| 94.19.17.103 | clone |  |  |
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 185.162.93.88 | clone |  |  |
@@ -56,11 +56,11 @@
 | 212.192.25.202 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.167.188 | wildweststaking |  |  |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
-| 207.180.208.25 | adamwolf | RIPE | RIPE Network Coordination Centre |
+| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
 | 62.171.145.36 | vinLava |  |  |
 | 168.119.38.252 | gumat.top | RIPE | RIPE Network Coordination Centre |
 | 65.109.25.104 | 5ElementsNodes | RIPE | RIPE Network Coordination Centre |
@@ -146,8 +146,7 @@
 | 84.54.192.204 | C2000M1Node07 |  |  |
 | 176.103.222.21 | test |  |  |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
-| 94.19.17.103 | clone |  |  |
+| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
