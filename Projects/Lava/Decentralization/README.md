@@ -40,14 +40,14 @@
 | 167.235.14.83 | Ubuntu-2204-jammy-amd64-base | RIPE | RIPE Network Coordination Centre |
 | 94.19.17.103 | clone |  |  |
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 185.162.93.88 | clone |  |  |
 | 167.235.117.93 | w3coins | RIPE | RIPE Network Coordination Centre |
 | 162.55.245.144 | e9c2c9b8-739e0e | RIPE | RIPE Network Coordination Centre |
 | 143.110.185.169 | Kahuna | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
 | 31.220.80.131 | Userr01 |  |  |
 | 178.250.154.26 | clone |  |  |
-| 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
+| 93.92.205.218 | none |  |  |
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 5.161.132.110 | LavaRelayUS |  |  |
 | 31.220.76.131 | trav |  |  |
@@ -122,7 +122,7 @@
 | 185.248.24.33 | web34ever |  |  |
 | 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
 | 62.171.159.226 | Lavanode6 |  |  |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 45.67.213.105 | clone |  |  |
 | 173.212.197.148 | DmytriyGuru | RIPE | RIPE Network Coordination Centre |
 | 94.130.35.35 | Monika |  |  |
 | 167.86.104.221 | hlebhryliav | RIPE | RIPE Network Coordination Centre |
@@ -144,10 +144,10 @@
 | 65.108.75.107 | node | RIPE | RIPE Network Coordination Centre |
 | 13.212.50.222 | mynode | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 38.242.129.140 | mynode | COGENT-A | PSINet, Inc. |
-| 46.4.55.46 | LiveRaveN |  |  |
-| 185.192.97.25 | DuNock Lava |  |  |
 | 212.192.25.202 | clone |  |  |
-| 45.67.213.105 | clone |  |  |
-| 195.3.221.118 | erfer4 |  |  |
+| 185.192.97.25 | DuNock Lava |  |  |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 5.9.122.49 | NodexPlus |  |  |
+| 46.4.55.46 | LiveRaveN |  |  |
 
 <!-- END_TABLE -->
