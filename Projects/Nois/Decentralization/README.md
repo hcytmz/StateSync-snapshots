@@ -18,7 +18,7 @@
 | 142.132.209.97 | ECO Stake | RIPE | RIPE Network Coordination Centre |
 | 5.39.249.16 | Sr20de service node |  |  |
 | 57.128.60.165 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
-| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
 | 65.109.104.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
 | 46.4.91.49 | fln |  |  |
 | 51.89.98.102 | noname-21671 |  |  |
@@ -55,17 +55,17 @@
 | 65.109.33.48 | L0vd.com | RPC | RIPE | RIPE Network Coordination Centre |
 | 144.76.40.53 | 4249725a-814c-5f40-a94b-e80bd52bdc4c | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 142.132.152.46 | stakr-space | RIPE | RIPE Network Coordination Centre |
-| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 65.109.112.170 | Nodejumper | RIPE | RIPE Network Coordination Centre |
-| 74.208.94.42 | sentinelnois | 1AN1-NETWORK | IONOS Inc. |
+| 57.128.20.163 | 45d756ee-69c2-5344-9233-fa8ac733f323 | RIPE-ERX-57 | RIPE Network Coordination Centre |
+| 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 84.46.250.136 | Stake&Relax |  |  |
 | 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
 | 95.217.141.43 | Kolot |  |  |
 | 135.181.117.165 | alterkahn | RIPE | RIPE Network Coordination Centre |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 65.109.39.223 | Loona.Systems | RIPE | RIPE Network Coordination Centre |
-| 216.128.134.36 | node | CONSTANT NET-216-128-134-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
+| 74.208.94.42 | sentinelnois | 1AN1-NETWORK | IONOS Inc. |
 | 54.39.128.229 | Cumulo | HO-2 SD-BHS-SD-1G-VOIE-A-B707A | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 162.55.245.149 | d18ef169-01a5af | RIPE | RIPE Network Coordination Centre |
 | 2001:bc8:702:16d0::3 | nois-1 |  |  |
@@ -76,7 +76,7 @@
 | 85.10.201.125 | jayjay |  |  |
 | 81.0.246.225 | 7aaa9c11c4fb1bdf8245625ad499fc96 |  |  |
 | 51.159.16.102 | nysa.network |  |  |
-| 57.128.20.163 | 45d756ee-69c2-5344-9233-fa8ac733f323 | RIPE-ERX-57 | RIPE Network Coordination Centre |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 148.251.8.186 | Nodejumper | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 167.160.93.90 | nois | UDL-17 | Dedicated.com |
 | 135.181.215.62 | nois_mainnets | RIPE | RIPE Network Coordination Centre |
@@ -84,9 +84,13 @@
 | 65.109.54.232 | myNode | RIPE | RIPE Network Coordination Centre |
 | 65.21.14.11 | Vitek73 | RIPE | RIPE Network Coordination Centre |
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
-| 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
-| 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.44.239 | dstake |  |  |
 | 135.181.128.114 | hello-nois-backup | RIPE | RIPE Network Coordination Centre |
-| 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
+| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
+| 216.128.134.36 | node | CONSTANT NET-216-128-134-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
+| 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
+| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE | RIPE Network Coordination Centre |
+| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 135.181.5.219 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
