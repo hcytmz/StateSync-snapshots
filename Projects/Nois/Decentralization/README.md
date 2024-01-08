@@ -15,7 +15,7 @@
 | 65.108.82.62 | ROSNODEMONITORING | RIPE | RIPE Network Coordination Centre |
 | 54.38.128.34 | qwerty-nois-main | RIPE | RIPE Network Coordination Centre |
 | 142.132.209.97 | ECO Stake | RIPE | RIPE Network Coordination Centre |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 154.53.44.239 | dstake |  |  |
 | 57.128.60.165 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 65.109.104.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
@@ -58,7 +58,7 @@
 | 65.109.112.170 | Nodejumper | RIPE | RIPE Network Coordination Centre |
 | 74.208.94.42 | sentinelnois | 1AN1-NETWORK | IONOS Inc. |
 | 84.46.250.136 | Stake&Relax |  |  |
-| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
+| 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
 | 103.180.28.70 | forbole | METROPOLIS-AP | Metropolis Networks Inc |
 | 95.217.141.43 | Kolot |  |  |
 | 135.181.117.165 | alterkahn | RIPE | RIPE Network Coordination Centre |
@@ -75,7 +75,7 @@
 | 85.10.201.125 | jayjay |  |  |
 | 81.0.246.225 | 7aaa9c11c4fb1bdf8245625ad499fc96 |  |  |
 | 51.159.16.102 | nysa.network |  |  |
-| 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
 | 148.251.8.186 | Nodejumper | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 167.160.93.90 | nois | UDL-17 | Dedicated.com |
 | 135.181.215.62 | nois_mainnets | RIPE | RIPE Network Coordination Centre |
@@ -85,8 +85,7 @@
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
 | 135.181.128.114 | hello-nois-backup | RIPE | RIPE Network Coordination Centre |
 | 185.16.39.158 | anun10vv7ign |  |  |
-| 154.53.44.239 | dstake |  |  |
-| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 135.181.5.219 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
