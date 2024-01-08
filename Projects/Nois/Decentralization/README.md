@@ -60,7 +60,7 @@
 | 57.128.20.163 | 45d756ee-69c2-5344-9233-fa8ac733f323 | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 84.46.250.136 | Stake&Relax |  |  |
-| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE | RIPE Network Coordination Centre |
+| 108.54.195.36 | gelotto-dave-hq2 | VIS-BLOCK | Verizon Business |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
 | 95.217.141.43 | Kolot |  |  |
 | 135.181.117.165 | alterkahn | RIPE | RIPE Network Coordination Centre |
@@ -86,12 +86,12 @@
 | 65.21.14.11 | Vitek73 | RIPE | RIPE Network Coordination Centre |
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
-| 154.53.44.239 | dstake |  |  |
-| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
-| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
-| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
+| 154.53.44.239 | dstake |  |  |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
