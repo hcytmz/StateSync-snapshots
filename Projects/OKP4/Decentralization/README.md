@@ -27,8 +27,5 @@
 | 65.21.90.141 | SerGo | RIPE | RIPE Network Coordination Centre |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
-| 95.217.110.39 | Validator.run |  |  |
-| 65.108.192.123 | Cros-Nest | RIPE | RIPE Network Coordination Centre |
-| 65.108.104.96 | ericet | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
