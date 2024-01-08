@@ -70,7 +70,7 @@
 | 167.86.126.169 | pylypevan | RIPE | RIPE Network Coordination Centre |
 | 178.250.154.42 | clone |  |  |
 | 65.108.86.122 | F5Nodes | RIPE | RIPE Network Coordination Centre |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 212.192.25.137 | LavaTm105 |  |  |
 | 34.22.231.207 | testnet-internal-rpc | GOOGL-2 | Google LLC |
 | 164.68.105.141 | Dominik | RIPE | RIPE Network Coordination Centre |
 | 65.108.81.145 | nodeYarNik | RIPE | RIPE Network Coordination Centre |
@@ -143,11 +143,11 @@
 | 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 13.212.50.222 | mynode | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 38.242.129.140 | mynode | COGENT-A | PSINet, Inc. |
-| 65.109.93.58 | nj-snap | RIPE | RIPE Network Coordination Centre |
+| 46.4.55.46 | LiveRaveN |  |  |
 | 185.192.97.25 | DuNock Lava |  |  |
 | 212.192.25.202 | clone |  |  |
 | 45.67.213.105 | clone |  |  |
-| 46.4.55.46 | LiveRaveN |  |  |
+| 65.108.75.107 | node | RIPE | RIPE Network Coordination Centre |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
