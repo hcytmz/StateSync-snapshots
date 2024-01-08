@@ -114,7 +114,7 @@
 | 148.251.88.145 | Palamar | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 65.108.41.173 | ToTheMars | RIPE | RIPE Network Coordination Centre |
 | 161.97.122.145 | Lavanode1 | RIPE | RIPE Network Coordination Centre |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 14.226.244.42 | TeoViTeoVi | VNPT-VN |  |
 | 176.121.188.9 | LavaTm102 |  |  |
 | 195.128.158.108 | C2857M1Node05-hdd |  |  |
 | 173.249.0.170 | forestgamp | RIPE | RIPE Network Coordination Centre |
@@ -137,7 +137,7 @@
 | 65.108.226.183 | hello-lava-test | RIPE | RIPE Network Coordination Centre |
 | 65.108.229.93 | mynode | RIPE | RIPE Network Coordination Centre |
 | 195.128.158.230 | clone |  |  |
-| 185.40.79.114 | clone |  |  |
+| 46.4.55.46 | LiveRaveN |  |  |
 | 65.109.65.248 | StakeTown-API | RIPE | RIPE Network Coordination Centre |
 | 95.217.114.120 | Jocker |  |  |
 | 176.9.110.12 | Sirius.nodes |  |  |
@@ -146,7 +146,7 @@
 | 84.54.192.204 | C2000M1Node07 |  |  |
 | 176.103.222.21 | test |  |  |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
-| 14.226.244.42 | TeoViTeoVi | VNPT-VN |  |
-| 46.4.55.46 | LiveRaveN |  |  |
+| 195.3.221.118 | erfer4 |  |  |
+| 45.15.253.85 | clone |  |  |
 
 <!-- END_TABLE -->
