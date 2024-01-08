@@ -34,6 +34,7 @@
 | 65.109.62.179 | roadz-main | RIPE | RIPE Network Coordination Centre |
 | 146.59.52.137 | d8ab2567-6e7f-55a6-a7bd-ce15a61c08c5 | RIPE-ERX-146-59-0-0 | RIPE Network Coordination Centre |
 | 135.181.198.17 | chronon | RIPE | RIPE Network Coordination Centre |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 81.0.248.57 | nois-main |  |  |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 195.3.223.9 | jpoop0n4q4rk |  |  |
@@ -83,11 +84,11 @@
 | 65.109.54.232 | myNode | RIPE | RIPE Network Coordination Centre |
 | 65.21.14.11 | Vitek73 | RIPE | RIPE Network Coordination Centre |
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
-| 135.181.128.114 | hello-nois-backup | RIPE | RIPE Network Coordination Centre |
-| 154.53.44.239 | dstake |  |  |
-| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 154.53.44.239 | dstake |  |  |
+| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
+| 135.181.128.114 | hello-nois-backup | RIPE | RIPE Network Coordination Centre |
 | 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 
 <!-- END_TABLE -->
