@@ -55,7 +55,7 @@
 | 54.36.108.222 | Stakewolle | RIPE | RIPE Network Coordination Centre |
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
-| 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
+| 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
