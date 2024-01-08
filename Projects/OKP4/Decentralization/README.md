@@ -28,5 +28,7 @@
 | 157.90.181.186 | tRDM | RIPE | RIPE Network Coordination Centre |
 | 91.194.30.203 | riser |  |  |
 | 65.21.90.141 | SerGo | RIPE | RIPE Network Coordination Centre |
+| 89.117.53.92 | Picolo88 |  |  |
+| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
