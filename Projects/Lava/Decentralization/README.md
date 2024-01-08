@@ -56,7 +56,7 @@
 | 212.192.25.202 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking |  |  |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -74,7 +74,6 @@
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 34.22.231.207 | testnet-internal-rpc | GOOGL-2 | Google LLC |
 | 164.68.105.141 | Dominik | RIPE | RIPE Network Coordination Centre |
-| 46.4.55.46 | LiveRaveN |  |  |
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 65.108.99.250 | xAlex | RIPE | RIPE Network Coordination Centre |
 | 46.4.14.172 | PPNV |  |  |
@@ -144,9 +143,11 @@
 | 176.9.110.12 | Sirius.nodes |  |  |
 | 167.86.126.169 | pylypevan | RIPE | RIPE Network Coordination Centre |
 | 65.21.141.117 | MarkCN | RIPE | RIPE Network Coordination Centre |
+| 84.54.192.204 | C2000M1Node07 |  |  |
 | 176.103.222.21 | test |  |  |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
-| 84.54.192.204 | C2000M1Node07 |  |  |
+| 14.226.244.42 | TeoViTeoVi | VNPT-VN |  |
+| 138.201.204.5 | haciyatmaz | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
