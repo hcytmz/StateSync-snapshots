@@ -18,7 +18,7 @@
 | 142.132.209.97 | ECO Stake | RIPE | RIPE Network Coordination Centre |
 | 185.16.39.158 | anun10vv7ign |  |  |
 | 57.128.60.165 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
-| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
+| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 65.109.104.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
 | 46.4.91.49 | fln |  |  |
 | 51.89.98.102 | noname-21671 |  |  |
@@ -27,14 +27,14 @@
 | 195.201.197.4 | itrocket |  |  |
 | 154.53.44.239 | dstake |  |  |
 | 45.63.104.164 | nois-node | CONSTANT NET-45-63-104-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
-| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 5.39.249.16 | Sr20de service node |  |  |
 | 88.198.18.88 | terlia |  |  |
 | 144.76.97.251 | AlxVoy | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 32.221.99.231 | YOUR_MONIKER | SNET-AMERICA | Southern New England Telephone Company and SNET America, Inc. |
 | 65.109.62.179 | roadz-main | RIPE | RIPE Network Coordination Centre |
 | 146.59.52.137 | d8ab2567-6e7f-55a6-a7bd-ce15a61c08c5 | RIPE-ERX-146-59-0-0 | RIPE Network Coordination Centre |
 | 135.181.198.17 | chronon | RIPE | RIPE Network Coordination Centre |
-| 57.128.20.163 | 45d756ee-69c2-5344-9233-fa8ac733f323 | RIPE-ERX-57 | RIPE Network Coordination Centre |
+| 103.180.28.70 | forbole | METROPOLIS-AP | Metropolis Networks Inc |
 | 81.0.248.57 | nois-main |  |  |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 195.3.223.9 | jpoop0n4q4rk |  |  |
@@ -60,7 +60,6 @@
 | 74.208.94.42 | sentinelnois | 1AN1-NETWORK | IONOS Inc. |
 | 84.46.250.136 | Stake&Relax |  |  |
 | 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
-| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 95.217.141.43 | Kolot |  |  |
 | 135.181.117.165 | alterkahn | RIPE | RIPE Network Coordination Centre |
 | 144.76.63.67 | EZStaking.io | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
@@ -76,7 +75,7 @@
 | 85.10.201.125 | jayjay |  |  |
 | 81.0.246.225 | 7aaa9c11c4fb1bdf8245625ad499fc96 |  |  |
 | 51.159.16.102 | nysa.network |  |  |
-| 103.180.28.70 | forbole | METROPOLIS-AP | Metropolis Networks Inc |
+| 57.128.20.163 | 45d756ee-69c2-5344-9233-fa8ac733f323 | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 148.251.8.186 | Nodejumper | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 167.160.93.90 | nois | UDL-17 | Dedicated.com |
 | 135.181.215.62 | nois_mainnets | RIPE | RIPE Network Coordination Centre |
@@ -85,10 +84,10 @@
 | 65.21.14.11 | Vitek73 | RIPE | RIPE Network Coordination Centre |
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
 | 135.181.128.114 | hello-nois-backup | RIPE | RIPE Network Coordination Centre |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
-| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
-| 5.39.249.16 | Sr20de service node |  |  |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 135.181.5.219 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
