@@ -74,7 +74,7 @@
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 34.22.231.207 | testnet-internal-rpc | GOOGL-2 | Google LLC |
 | 164.68.105.141 | Dominik | RIPE | RIPE Network Coordination Centre |
-| 176.103.222.21 | test |  |  |
+| 46.4.55.46 | LiveRaveN |  |  |
 | 65.109.143.184 | srklt | RIPE | RIPE Network Coordination Centre |
 | 65.108.99.250 | xAlex | RIPE | RIPE Network Coordination Centre |
 | 46.4.14.172 | PPNV |  |  |
@@ -115,7 +115,7 @@
 | 148.251.88.145 | Palamar | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 65.108.41.173 | ToTheMars | RIPE | RIPE Network Coordination Centre |
 | 161.97.122.145 | Lavanode1 | RIPE | RIPE Network Coordination Centre |
-| 84.54.192.204 | C2000M1Node07 |  |  |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
 | 176.121.188.9 | LavaTm102 |  |  |
 | 195.128.158.108 | C2857M1Node05-hdd |  |  |
 | 173.249.0.170 | forestgamp | RIPE | RIPE Network Coordination Centre |
@@ -146,7 +146,8 @@
 | 65.21.141.117 | MarkCN | RIPE | RIPE Network Coordination Centre |
 | 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
-| 46.4.55.46 | LiveRaveN |  |  |
+| 176.103.222.21 | test |  |  |
 | 5.9.122.49 | NodexPlus |  |  |
+| 46.138.240.175 | EL646 |  |  |
 
 <!-- END_TABLE -->
