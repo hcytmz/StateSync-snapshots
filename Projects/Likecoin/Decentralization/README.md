@@ -56,11 +56,9 @@
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
-| 103.19.25.16 | Yasu | UDOMAIN-HK |  |
+| 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
-| 89.241.118.152 | kamkcir |  |  |
-| 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 
 <!-- END_TABLE -->
