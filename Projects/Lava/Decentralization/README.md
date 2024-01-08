@@ -107,7 +107,7 @@
 | 158.220.105.187 | Lavanode7 | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 89.117.52.186 | HalfButy |  |  |
 | 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 45.15.253.85 | clone |  |  |
 | 173.212.205.21 | Lava1 | RIPE | RIPE Network Coordination Centre |
 | 57.128.44.52 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 142.132.214.131 | Moldova | RIPE | RIPE Network Coordination Centre |
@@ -137,7 +137,7 @@
 | 65.108.226.183 | hello-lava-test | RIPE | RIPE Network Coordination Centre |
 | 65.108.229.93 | mynode | RIPE | RIPE Network Coordination Centre |
 | 195.128.158.230 | clone |  |  |
-| 46.4.55.46 | LiveRaveN |  |  |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 65.109.65.248 | StakeTown-API | RIPE | RIPE Network Coordination Centre |
 | 95.217.114.120 | Jocker |  |  |
 | 176.9.110.12 | Sirius.nodes |  |  |
@@ -146,7 +146,7 @@
 | 84.54.192.204 | C2000M1Node07 |  |  |
 | 176.103.222.21 | test |  |  |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
-| 195.3.221.118 | erfer4 |  |  |
-| 45.15.253.85 | clone |  |  |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 46.138.240.175 | EL646 |  |  |
 
 <!-- END_TABLE -->
