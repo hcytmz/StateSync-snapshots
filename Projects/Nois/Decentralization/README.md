@@ -15,7 +15,7 @@
 | 65.108.82.62 | ROSNODEMONITORING | RIPE | RIPE Network Coordination Centre |
 | 54.38.128.34 | qwerty-nois-main | RIPE | RIPE Network Coordination Centre |
 | 142.132.209.97 | ECO Stake | RIPE | RIPE Network Coordination Centre |
-| 154.53.44.239 | dstake |  |  |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 57.128.60.165 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 65.109.104.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
@@ -24,7 +24,7 @@
 | 65.21.52.246 | nois-1 | RIPE | RIPE Network Coordination Centre |
 | 157.90.181.186 | tRDM | RIPE | RIPE Network Coordination Centre |
 | 195.201.197.4 | itrocket |  |  |
-| 5.39.249.16 | Sr20de service node |  |  |
+| 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
 | 45.63.104.164 | nois-node | CONSTANT NET-45-63-104-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 88.198.18.88 | terlia |  |  |
@@ -75,7 +75,7 @@
 | 85.10.201.125 | jayjay |  |  |
 | 81.0.246.225 | 7aaa9c11c4fb1bdf8245625ad499fc96 |  |  |
 | 51.159.16.102 | nysa.network |  |  |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 5.39.249.16 | Sr20de service node |  |  |
 | 148.251.8.186 | Nodejumper | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 167.160.93.90 | nois | UDL-17 | Dedicated.com |
 | 135.181.215.62 | nois_mainnets | RIPE | RIPE Network Coordination Centre |
@@ -85,7 +85,9 @@
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
 | 135.181.128.114 | hello-nois-backup | RIPE | RIPE Network Coordination Centre |
 | 185.16.39.158 | anun10vv7ign |  |  |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
 | 135.181.5.219 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
+| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
+| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
