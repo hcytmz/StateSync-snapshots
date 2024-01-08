@@ -21,7 +21,7 @@
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 | 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
 | 154.12.227.117 | 50%Banana |  |  |
-| 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
+| 143.244.178.171 | OurBoardRoom | DIGITALOCEAN-143-244-128-0 | DigitalOcean, LLC |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 5.9.121.55 | StakeAngle_RPC |  |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
@@ -60,6 +60,7 @@
 | 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
 | 89.241.118.152 | kamkcir |  |  |
-| 143.244.178.171 | OurBoardRoom | DIGITALOCEAN-143-244-128-0 | DigitalOcean, LLC |
+| 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
