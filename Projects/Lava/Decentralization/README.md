@@ -14,7 +14,7 @@
 | 65.108.124.121 | Lapatylin | RIPE | RIPE Network Coordination Centre |
 | 128.140.83.145 | dmnodes | RIPE-ERX-128-140-0-0 | RIPE Network Coordination Centre |
 | 159.89.111.21 | Tendermint | DIGITALOCEAN-159-89-0-0 | DigitalOcean, LLC |
-| 46.4.55.46 | LiveRaveN |  |  |
+| 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
 | 65.109.92.79 | rpc | RIPE | RIPE Network Coordination Centre |
 | 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
 | 65.108.231.238 | nodeADDICT | RIPE | RIPE Network Coordination Centre |
@@ -51,7 +51,7 @@
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 5.161.132.110 | LavaRelayUS |  |  |
 | 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
-| 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
+| 190.15.217.229 | mynode |  |  |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 212.192.25.202 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
@@ -147,5 +147,6 @@
 | 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 31.220.76.131 | trav |  |  |
 | 5.9.122.49 | NodexPlus |  |  |
+| 46.4.50.247 | Rumbanoid |  |  |
 
 <!-- END_TABLE -->
