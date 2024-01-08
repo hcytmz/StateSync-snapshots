@@ -20,7 +20,7 @@
 | 188.166.226.230 | PM |  |  |
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
-| 154.12.227.117 | 50%Banana |  |  |
+| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
 | 143.244.178.171 | OurBoardRoom | DIGITALOCEAN-143-244-128-0 | DigitalOcean, LLC |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 5.9.121.55 | StakeAngle_RPC |  |  |
@@ -28,7 +28,7 @@
 | 65.21.236.25 | OmniFlix Network | RIPE | RIPE Network Coordination Centre |
 | 51.159.223.25 | Citizen Cosmos |  |  |
 | 47.56.186.154 | s411 | AL-3 ALICLOUD-HK | Alibaba Cloud LLC |
-| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
+| 154.53.63.22 | martianforest |  |  |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
 | 62.171.186.77 | moonbeam |  |  |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
@@ -60,6 +60,6 @@
 | 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
