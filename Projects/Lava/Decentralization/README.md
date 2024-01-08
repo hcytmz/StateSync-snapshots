@@ -51,7 +51,7 @@
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 5.161.132.110 | LavaRelayUS |  |  |
 | 31.220.76.131 | trav |  |  |
-| 190.15.217.229 | mynode |  |  |
+| 45.67.212.105 | clone |  |  |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 212.192.25.202 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
@@ -147,6 +147,6 @@
 | 176.103.222.21 | test |  |  |
 | 147.135.222.170 | nnm | RIPE | RIPE Network Coordination Centre |
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
-| 45.67.212.105 | clone |  |  |
+| 46.4.55.46 | LiveRaveN |  |  |
 
 <!-- END_TABLE -->
