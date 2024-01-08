@@ -24,13 +24,13 @@
 | 213.135.142.131 | clone |  |  |
 | 35.205.44.215 | testnet2-validator-3 | GOOGLE-CLOUD | Google LLC |
 | 65.108.41.172 | cyberG | RIPE | RIPE Network Coordination Centre |
-| 45.67.213.105 | clone |  |  |
+| 176.9.110.12 | Sirius.nodes |  |  |
 | 188.247.44.113 | clone |  |  |
-| 166.1.70.168 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
+| 176.103.222.21 | test |  |  |
 | 45.94.58.240 | mynode |  |  |
 | 157.90.128.99 | Bablovcoin | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.50 | clone |  |  |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
 | 65.21.131.21 | node | RIPE | RIPE Network Coordination Centre |
 | 45.67.213.137 | clone |  |  |
 | 66.129.101.70 | data-nexus-validator | PEAK10-NETBLK-02 P10-4281-6540-28 | Flexential Corp. |
@@ -51,9 +51,8 @@
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 5.161.132.110 | LavaRelayUS |  |  |
 | 31.220.76.131 | trav |  |  |
-| 45.67.212.105 | clone |  |  |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
-| 212.192.25.202 | clone |  |  |
+| 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
 | 154.38.167.188 | wildweststaking |  |  |
@@ -68,9 +67,10 @@
 | 65.21.224.11 | mynode | RIPE | RIPE Network Coordination Centre |
 | 77.239.227.38 | clone |  |  |
 | 65.108.232.182 | Mrs_ml | RIPE | RIPE Network Coordination Centre |
-| 212.192.25.38 | LavaTm100 |  |  |
+| 167.86.126.169 | pylypevan | RIPE | RIPE Network Coordination Centre |
 | 178.250.154.42 | clone |  |  |
 | 65.108.86.122 | F5Nodes | RIPE | RIPE Network Coordination Centre |
+| 46.4.55.46 | LiveRaveN |  |  |
 | 34.22.231.207 | testnet-internal-rpc | GOOGL-2 | Google LLC |
 | 164.68.105.141 | Dominik | RIPE | RIPE Network Coordination Centre |
 | 65.108.81.145 | nodeYarNik | RIPE | RIPE Network Coordination Centre |
@@ -90,14 +90,14 @@
 | 95.217.207.236 | PostHuman |  |  |
 | 37.120.171.159 | durnoy |  |  |
 | 176.103.222.17 | test |  |  |
-| 45.67.213.73 | clone |  |  |
+| 65.21.141.117 | MarkCN | RIPE | RIPE Network Coordination Centre |
 | 161.97.153.110 | pilsy lava | RIPE | RIPE Network Coordination Centre |
 | 207.180.215.4 | Dominik | RIPE | RIPE Network Coordination Centre |
 | 149.50.96.28 | lavashark | COGENT-149-50-16 MEVERYWHERE-CGNT-NET-1 | PSINet, Inc. MEVSPACE |
 | 164.68.122.32 | testnet | RIPE | RIPE Network Coordination Centre |
 | 57.128.54.106 | my-node | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 75.119.148.206 | Dominik | RIPE | RIPE Network Coordination Centre |
-| 45.15.253.75 | clone |  |  |
+| 147.135.222.170 | nnm | RIPE | RIPE Network Coordination Centre |
 | 65.21.32.13 | STAKKY | RIPE | RIPE Network Coordination Centre |
 | 184.174.32.120 | Alex190 | CAC-BLOCK8 IL-845 | Colocation America Corporation IPXO LLC |
 | 178.18.252.105 | testnet |  |  |
@@ -107,7 +107,7 @@
 | 158.220.105.187 | Lavanode7 | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 89.117.52.186 | HalfButy |  |  |
 | 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
-| 45.15.253.85 | clone |  |  |
+| 84.54.192.204 | C2000M1Node07 |  |  |
 | 173.212.205.21 | Lava1 | RIPE | RIPE Network Coordination Centre |
 | 57.128.44.52 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 142.132.214.131 | Moldova | RIPE | RIPE Network Coordination Centre |
@@ -121,7 +121,7 @@
 | 185.248.24.33 | web34ever |  |  |
 | 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
 | 62.171.159.226 | Lavanode6 |  |  |
-| 45.67.212.233 | clone |  |  |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 173.212.197.148 | DmytriyGuru | RIPE | RIPE Network Coordination Centre |
 | 94.130.35.35 | Monika |  |  |
 | 167.86.104.221 | hlebhryliav | RIPE | RIPE Network Coordination Centre |
@@ -137,16 +137,14 @@
 | 65.108.226.183 | hello-lava-test | RIPE | RIPE Network Coordination Centre |
 | 65.108.229.93 | mynode | RIPE | RIPE Network Coordination Centre |
 | 195.128.158.230 | clone |  |  |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 65.109.65.248 | StakeTown-API | RIPE | RIPE Network Coordination Centre |
 | 95.217.114.120 | Jocker |  |  |
-| 176.9.110.12 | Sirius.nodes |  |  |
-| 167.86.126.169 | pylypevan | RIPE | RIPE Network Coordination Centre |
-| 65.21.141.117 | MarkCN | RIPE | RIPE Network Coordination Centre |
-| 84.54.192.204 | C2000M1Node07 |  |  |
-| 176.103.222.21 | test |  |  |
-| 147.135.222.170 | nnm | RIPE | RIPE Network Coordination Centre |
-| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
-| 46.4.55.46 | LiveRaveN |  |  |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 13.212.50.222 | mynode | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 38.242.129.140 | mynode | COGENT-A | PSINet, Inc. |
+| 65.109.93.58 | nj-snap | RIPE | RIPE Network Coordination Centre |
+| 185.192.97.25 | DuNock Lava |  |  |
+| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
