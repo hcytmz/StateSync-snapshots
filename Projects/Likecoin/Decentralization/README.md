@@ -16,7 +16,7 @@
 |-------------|-------------|-------------|-------------|
 | 194.163.161.194 | Foxinodes |  |  |
 | 194.195.212.69 | Stakeland by 9GAG |  |  |
-| 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
+| 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
 | 188.166.226.230 | PM |  |  |
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 | 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
@@ -28,10 +28,10 @@
 | 65.21.236.25 | OmniFlix Network | RIPE | RIPE Network Coordination Centre |
 | 51.159.223.25 | Citizen Cosmos |  |  |
 | 47.56.186.154 | s411 | AL-3 ALICLOUD-HK | Alibaba Cloud LLC |
-| 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
+| 154.53.63.22 | martianforest |  |  |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
 | 62.171.186.77 | moonbeam |  |  |
-| 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
+| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 5.78.102.149 | BRAND-likecoin-relayer |  |  |
 | 89.163.154.108 | Foxinodes |  |  |
 | 207.180.238.137 | moonbeam-RPC | RIPE | RIPE Network Coordination Centre |
@@ -58,7 +58,7 @@
 | 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
-| 154.53.63.22 | martianforest |  |  |
+| 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
+| 89.241.118.152 | kamkcir |  |  |
 
 <!-- END_TABLE -->
