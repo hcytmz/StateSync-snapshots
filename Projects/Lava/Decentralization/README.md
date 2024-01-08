@@ -40,7 +40,7 @@
 | 167.235.14.83 | Ubuntu-2204-jammy-amd64-base | RIPE | RIPE Network Coordination Centre |
 | 94.19.17.103 | clone |  |  |
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
-| 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
 | 185.162.93.88 | clone |  |  |
 | 167.235.117.93 | w3coins | RIPE | RIPE Network Coordination Centre |
 | 162.55.245.144 | e9c2c9b8-739e0e | RIPE | RIPE Network Coordination Centre |
@@ -140,14 +140,14 @@
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 65.109.65.248 | StakeTown-API | RIPE | RIPE Network Coordination Centre |
 | 95.217.114.120 | Jocker |  |  |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 65.108.75.107 | node | RIPE | RIPE Network Coordination Centre |
 | 13.212.50.222 | mynode | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
 | 38.242.129.140 | mynode | COGENT-A | PSINet, Inc. |
 | 46.4.55.46 | LiveRaveN |  |  |
 | 185.192.97.25 | DuNock Lava |  |  |
 | 212.192.25.202 | clone |  |  |
 | 45.67.213.105 | clone |  |  |
-| 65.108.75.107 | node | RIPE | RIPE Network Coordination Centre |
+| 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
