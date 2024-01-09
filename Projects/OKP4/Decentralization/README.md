@@ -28,7 +28,6 @@
 | 81.30.157.35 | CryptoSailors |  |  |
 | 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
-| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
-| 195.201.222.82 | okp4-nemeton-1-seed |  |  |
+| 65.108.104.96 | ericet | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
