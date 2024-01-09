@@ -38,7 +38,7 @@
 | 195.3.223.9 | jpoop0n4q4rk |  |  |
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 | RIPE Network Coordination Centre |
-| 154.53.44.239 | dstake |  |  |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
 | 49.12.120.113 | rnggnr | STUB-49-12SLASH15 |  |
 | 65.108.46.100 | BccNodes | RIPE | RIPE Network Coordination Centre |
 | 136.243.69.55 | e8521d73-db81-5a07-9c8c-a96516e31cdf | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
@@ -58,7 +58,7 @@
 | 142.132.152.46 | stakr-space | RIPE | RIPE Network Coordination Centre |
 | 81.0.248.57 | nois-main |  |  |
 | 57.128.20.163 | 45d756ee-69c2-5344-9233-fa8ac733f323 | RIPE-ERX-57 | RIPE Network Coordination Centre |
-| 65.108.227.217 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
+| 65.109.112.170 | Nodejumper | RIPE | RIPE Network Coordination Centre |
 | 84.46.250.136 | Stake&Relax |  |  |
 | 108.54.195.36 | gelotto-dave-hq2 | VIS-BLOCK | Verizon Business |
 | 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
@@ -86,11 +86,12 @@
 | 65.21.14.11 | Vitek73 | RIPE | RIPE Network Coordination Centre |
 | 144.76.63.67 | EZStaking.io | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
-| 65.109.112.170 | Nodejumper | RIPE | RIPE Network Coordination Centre |
+| 154.53.44.239 | dstake |  |  |
 | 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 5.39.249.16 | Sr20de service node |  |  |
 | 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
