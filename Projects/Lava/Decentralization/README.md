@@ -148,6 +148,6 @@
 | 86.102.123.235 | LavaTm26 |  |  |
 | 206.189.145.18 | SKUUYNODES | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
 | 176.103.222.21 | test |  |  |
-| 5.9.122.49 | NodexPlus |  |  |
+| 45.15.253.85 | clone |  |  |
 
 <!-- END_TABLE -->
