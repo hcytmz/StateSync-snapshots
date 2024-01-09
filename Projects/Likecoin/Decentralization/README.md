@@ -20,7 +20,7 @@
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
-| 154.12.227.117 | 50%Banana |  |  |
+| 159.203.118.94 | 7a8a934f35fa | DIGITALOCEAN-159-203-0-0 | DigitalOcean, LLC |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
@@ -58,8 +58,8 @@
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 51.159.223.25 | Citizen Cosmos |  |  |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
-| 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
-| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
 
 <!-- END_TABLE -->
