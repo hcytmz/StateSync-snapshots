@@ -26,7 +26,10 @@
 | 94.130.137.122 | Vagif |  |  |
 | 65.108.230.161 | Testnetrun-RPC | RIPE | RIPE Network Coordination Centre |
 | 81.30.157.35 | CryptoSailors |  |  |
-| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed |  |  |
+| 103.234.71.245 | okp4 | REGEN_IN |  |
 
 <!-- END_TABLE -->
