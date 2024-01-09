@@ -36,7 +36,7 @@
 | 146.59.52.137 | d8ab2567-6e7f-55a6-a7bd-ce15a61c08c5 | RIPE-ERX-146-59-0-0 | RIPE Network Coordination Centre |
 | 135.181.198.17 | chronon | RIPE | RIPE Network Coordination Centre |
 | 195.3.223.9 | jpoop0n4q4rk |  |  |
-| 81.0.248.57 | nois-main |  |  |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 5.39.249.16 | Sr20de service node |  |  |
 | 49.12.120.113 | rnggnr | STUB-49-12SLASH15 |  |
@@ -56,7 +56,7 @@
 | 65.109.33.48 | L0vd.com | RPC | RIPE | RIPE Network Coordination Centre |
 | 144.76.40.53 | 4249725a-814c-5f40-a94b-e80bd52bdc4c | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 142.132.152.46 | stakr-space | RIPE | RIPE Network Coordination Centre |
-| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE | RIPE Network Coordination Centre |
+| 81.0.248.57 | nois-main |  |  |
 | 57.128.20.163 | 45d756ee-69c2-5344-9233-fa8ac733f323 | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 84.46.250.136 | Stake&Relax |  |  |
@@ -87,12 +87,11 @@
 | 142.132.248.138 | EZStaking.io | RIPE | RIPE Network Coordination Centre |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
 | 65.109.112.170 | Nodejumper | RIPE | RIPE Network Coordination Centre |
-| 154.53.44.239 | dstake |  |  |
+| 154.53.44.239 | dstake | COGENT-154-53-16 | PSINet, Inc. |
 | 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 185.16.39.158 | anun10vv7ign |  |  |
-| 65.108.79.237 | chaintools-relayer-node | RIPE | RIPE Network Coordination Centre |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
-| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
