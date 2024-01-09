@@ -38,7 +38,7 @@
 | 195.3.223.9 | jpoop0n4q4rk |  |  |
 | 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 | RIPE Network Coordination Centre |
-| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
 | 49.12.120.113 | rnggnr | STUB-49-12SLASH15 |  |
 | 65.108.46.100 | BccNodes | RIPE | RIPE Network Coordination Centre |
 | 136.243.69.55 | e8521d73-db81-5a07-9c8c-a96516e31cdf | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
@@ -89,10 +89,9 @@
 | 65.109.112.170 | Nodejumper | RIPE | RIPE Network Coordination Centre |
 | 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 154.53.44.239 | dstake |  |  |
-| 185.16.39.158 | anun10vv7ign |  |  |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
-| 65.108.227.217 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
 | 135.181.5.219 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
+| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE | RIPE Network Coordination Centre |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
