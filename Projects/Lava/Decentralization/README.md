@@ -21,7 +21,7 @@
 | 95.111.225.213 | mynode |  |  |
 | 207.180.240.225 | Lava | RIPE | RIPE Network Coordination Centre |
 | 213.135.142.131 | clone |  |  |
-| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
+| 109.123.245.102 | PRIZZMYLAVANODE |  |  |
 | 65.108.41.172 | cyberG | RIPE | RIPE Network Coordination Centre |
 | 176.9.110.12 | Sirius.nodes |  |  |
 | 188.247.44.113 | clone |  |  |
@@ -41,7 +41,7 @@
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 81.5.73.66 | clone |  |  |
 | 185.162.93.88 | clone |  |  |
-| 167.235.117.93 | w3coins | RIPE | RIPE Network Coordination Centre |
+| 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
 | 162.55.245.144 | e9c2c9b8-739e0e | RIPE | RIPE Network Coordination Centre |
 | 143.110.185.169 | Kahuna | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
 | 31.220.80.131 | Userr01 |  |  |
@@ -55,7 +55,7 @@
 | 185.40.78.163 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking |  |  |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -147,7 +147,7 @@
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
 | 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
-| 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
+| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
