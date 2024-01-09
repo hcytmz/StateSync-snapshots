@@ -26,7 +26,7 @@
 | 65.108.41.172 | cyberG | RIPE | RIPE Network Coordination Centre |
 | 176.9.110.12 | Sirius.nodes |  |  |
 | 188.247.44.113 | clone |  |  |
-| 176.103.222.21 | test |  |  |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 45.94.58.240 | mynode |  |  |
 | 157.90.128.99 | Bablovcoin | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.50 | clone |  |  |
@@ -40,7 +40,7 @@
 | 167.235.14.83 | Ubuntu-2204-jammy-amd64-base | RIPE | RIPE Network Coordination Centre |
 | 94.19.17.103 | clone |  |  |
 | 158.220.102.10 | sasha | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 81.5.73.66 | clone |  |  |
 | 185.162.93.88 | clone |  |  |
 | 167.235.117.93 | w3coins | RIPE | RIPE Network Coordination Centre |
 | 162.55.245.144 | e9c2c9b8-739e0e | RIPE | RIPE Network Coordination Centre |
@@ -98,7 +98,7 @@
 | 164.68.122.32 | testnet | RIPE | RIPE Network Coordination Centre |
 | 57.128.54.106 | my-node | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 75.119.148.206 | Dominik | RIPE | RIPE Network Coordination Centre |
-| 5.9.122.49 | NodexPlus |  |  |
+| 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
 | 65.21.32.13 | STAKKY | RIPE | RIPE Network Coordination Centre |
 | 184.174.32.120 | Alex190 | CAC-BLOCK8 IL-845 | Colocation America Corporation IPXO LLC |
 | 178.18.252.105 | testnet |  |  |
@@ -147,7 +147,8 @@
 | 212.192.25.202 | clone |  |  |
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
-| 81.5.73.66 | clone |  |  |
-| 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 206.189.145.18 | SKUUYNODES | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
+| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
