@@ -9,8 +9,8 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 65.109.92.79 | ITRocket | RIPE | RIPE Network Coordination Centre |
-| 89.233.104.215 | tienthuattoan |  |  |
+| 65.108.226.183 | hello-ojo-test | RIPE | RIPE Network Coordination Centre |
+| 65.109.93.58 | NJ-snap | RIPE | RIPE Network Coordination Centre |
 | 65.108.199.120 | RAMZES | RIPE | RIPE Network Coordination Centre |
 | 142.132.194.124 | CryptoSJnet | RIPE | RIPE Network Coordination Centre |
 | 65.108.71.92 | Ubuntu-2004-focal-64-minimal | RIPE | RIPE Network Coordination Centre |
@@ -19,10 +19,9 @@
 | 135.181.183.62 | IrinaVasik | RIPE | RIPE Network Coordination Centre |
 | 65.109.48.181 | R1M | RIPE | RIPE Network Coordination Centre |
 | 207.180.247.106 | iptrade | RIPE | RIPE Network Coordination Centre |
-| 168.119.66.95 | maximyourich | RIPE | RIPE Network Coordination Centre |
-| 65.109.93.58 | NJ-snap | RIPE | RIPE Network Coordination Centre |
+| 103.234.71.245 | Vixello | REGEN_IN |  |
 | 213.239.207.175 | landeros |  |  |
-| 173.212.203.238 | Army IDs | RIPE | RIPE Network Coordination Centre |
+| 34.107.24.146 | snapshot-28413720-jhwv2 | GOOGL-2 | Google LLC |
 | 167.235.117.93 | rpc | RIPE | RIPE Network Coordination Centre |
 | 95.111.240.82 | CryptoSJnet |  |  |
 | 138.201.85.176 | ojo-devnet | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
@@ -42,7 +41,7 @@
 | 5.78.91.63 | KingSuper |  |  |
 | 65.108.41.172 | cyberG | RIPE | RIPE Network Coordination Centre |
 | 194.233.81.235 | thagunslinger |  |  |
-| 86.48.1.165 | vmi1587671.contaboserver.net |  |  |
+| 195.3.220.54 | 54qf918u1d27 |  |  |
 | 195.201.197.4 | ITRocket |  |  |
 | 65.108.206.118 | utsa_guide | RIPE | RIPE Network Coordination Centre |
 | 65.108.206.74 | vinjan | RIPE | RIPE Network Coordination Centre |
@@ -65,7 +64,7 @@
 | 37.187.142.41 | zp-node-777 |  |  |
 | 135.181.227.157 | MapleSyrup | RIPE | RIPE Network Coordination Centre |
 | 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
-| 195.3.220.54 | 54qf918u1d27 |  |  |
+| 3.239.191.168 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 167.235.252.89 | oneplus | RIPE | RIPE Network Coordination Centre |
 | 65.21.170.3 | Munris | RIPE | RIPE Network Coordination Centre |
 | 185.219.142.216 | AnnaSot |  |  |
@@ -81,7 +80,7 @@
 | 65.108.203.149 | wizae | RIPE | RIPE Network Coordination Centre |
 | 167.235.180.97 | w3coins | RIPE | RIPE Network Coordination Centre |
 | 2a01:4f9:4a:2864::2 | s-ojo-testrelay |  |  |
-| 62.171.182.164 | zkhumo |  |  |
+| 89.233.104.215 | tienthuattoan |  |  |
 | 84.46.240.144 | jdoe.C.Sailors |  |  |
 | 85.239.236.13 | buray |  |  |
 | 65.21.134.202 | DiBugNodes | RIPE | RIPE Network Coordination Centre |
@@ -98,26 +97,21 @@
 | 65.108.78.101 | Moonbridge | RIPE | RIPE Network Coordination Centre |
 | 167.235.14.83 | Appieasahbie | AkNodes | RIPE | RIPE Network Coordination Centre |
 | 65.109.122.105 | Seasting | RIPE | RIPE Network Coordination Centre |
-| 3.239.191.168 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 89.163.132.156 | boranode |  |  |
 | 2a03:cfc0:8000:26::c303:dd4c | stakr-space |  |  |
 | 116.202.55.156 | testovich | STUB-116-202SLASH15 |  |
 | 23.88.5.169 | LiveRaveN | RIPE | RIPE Network Coordination Centre |
 | 95.217.114.120 | Jocker |  |  |
 | 85.10.192.146 | w3coins |  |  |
-| 185.155.97.74 | StakeMake.pro |  |  |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 77.54.1.75 | don |  |  |
 | 65.109.32.174 | MMS | RIPE | RIPE Network Coordination Centre |
-| 154.53.40.197 | ozzyq |  |  |
+| 154.53.40.197 | ozzyq | COGENT-154-53-16 | PSINet, Inc. |
 | 173.249.28.139 | Kultigin | RIPE | RIPE Network Coordination Centre |
 | 136.243.88.91 | ojo_testnet | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
 | 167.86.73.12 | naoop | RIPE | RIPE Network Coordination Centre |
-| 89.163.132.156 | boranode |  |  |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
-| 103.234.71.245 | Vixello | REGEN_IN |  |
-| 65.108.226.183 | hello-ojo-test | RIPE | RIPE Network Coordination Centre |
+| 86.48.1.165 | vmi1587671.contaboserver.net |  |  |
 | 65.108.13.154 | R1M-Snap | RIPE | RIPE Network Coordination Centre |
-| 35.198.181.13 | sentry-0 | GOOGLE-CLOUD | Google LLC |
-| 138.201.220.51 | ojo-devnet-seed | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
-| 141.94.193.28 | rpc-1.ojo.nodes.guru |  |  |
+| 168.119.66.95 | maximyourich | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
