@@ -21,7 +21,7 @@
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 154.12.227.117 | 50%Banana |  |  |
+| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 5.9.121.55 | StakeAngle_RPC |  |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
