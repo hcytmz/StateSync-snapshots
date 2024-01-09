@@ -22,7 +22,7 @@
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 154.12.227.117 | 50%Banana |  |  |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
-| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE | RIPE Network Coordination Centre |
 | 5.9.121.55 | StakeAngle_RPC |  |  |
@@ -49,7 +49,7 @@
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 144.91.125.80 | BRAND-likecoin-main | RIPE | RIPE Network Coordination Centre |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 14.224.145.244 | csc04 | VNPT-VN |  |
 | 54.36.108.222 | Stakewolle | RIPE | RIPE Network Coordination Centre |
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
@@ -59,7 +59,7 @@
 | 51.159.223.25 | Citizen Cosmos |  |  |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
-| 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
-| 159.203.118.94 | 7a8a934f35fa | DIGITALOCEAN-159-203-0-0 | DigitalOcean, LLC |
+| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
