@@ -119,7 +119,7 @@
 | 176.121.188.9 | LavaTm102 |  |  |
 | 195.128.158.108 | C2857M1Node05-hdd |  |  |
 | 173.249.0.170 | forestgamp | RIPE | RIPE Network Coordination Centre |
-| 185.248.24.33 | web34ever |  |  |
+| 176.103.222.21 | test |  |  |
 | 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
 | 62.171.159.226 | Lavanode6 |  |  |
 | 45.67.213.105 | clone |  |  |
@@ -148,7 +148,7 @@
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
 | 206.189.145.18 | SKUUYNODES | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
-| 176.103.222.21 | test |  |  |
-| 5.9.122.49 | NodexPlus |  |  |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 109.123.245.102 | PRIZZMYLAVANODE |  |  |
 
 <!-- END_TABLE -->
