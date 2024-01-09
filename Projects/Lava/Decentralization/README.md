@@ -138,7 +138,7 @@
 | 65.108.226.183 | hello-lava-test | RIPE | RIPE Network Coordination Centre |
 | 65.108.229.93 | mynode | RIPE | RIPE Network Coordination Centre |
 | 195.128.158.230 | clone |  |  |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 95.164.47.167 | Lava |  |  |
 | 65.109.65.248 | StakeTown-API | RIPE | RIPE Network Coordination Centre |
 | 95.217.114.120 | Jocker |  |  |
 | 65.108.75.107 | node | RIPE | RIPE Network Coordination Centre |
