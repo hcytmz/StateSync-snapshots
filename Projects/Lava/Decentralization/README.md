@@ -26,7 +26,7 @@
 | 65.108.41.172 | cyberG | RIPE | RIPE Network Coordination Centre |
 | 176.9.110.12 | Sirius.nodes |  |  |
 | 188.247.44.113 | clone |  |  |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 45.15.253.85 | clone |  |  |
 | 45.94.58.240 | mynode |  |  |
 | 157.90.128.99 | Bablovcoin | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.50 | clone |  |  |
@@ -148,6 +148,6 @@
 | 86.102.123.235 | LavaTm26 |  |  |
 | 206.189.145.18 | SKUUYNODES | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
 | 176.103.222.21 | test |  |  |
-| 45.15.253.85 | clone |  |  |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 
 <!-- END_TABLE -->
