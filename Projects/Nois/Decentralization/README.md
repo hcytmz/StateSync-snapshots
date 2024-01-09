@@ -43,7 +43,7 @@
 | 65.108.46.100 | BccNodes | RIPE | RIPE Network Coordination Centre |
 | 136.243.69.55 | e8521d73-db81-5a07-9c8c-a96516e31cdf | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
 | 65.109.118.169 | jayjayservice | RIPE | RIPE Network Coordination Centre |
-| 5.39.249.16 | Sr20de service node |  |  |
+| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE | RIPE Network Coordination Centre |
 | 65.109.116.151 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 51.91.105.152 | CryptoCats.Pro |  |  |
 | 57.128.144.242 | Forbole | RIPE-ERX-57 | RIPE Network Coordination Centre |
@@ -56,6 +56,7 @@
 | 65.109.33.48 | L0vd.com | RPC | RIPE | RIPE Network Coordination Centre |
 | 144.76.40.53 | 4249725a-814c-5f40-a94b-e80bd52bdc4c | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 142.132.152.46 | stakr-space | RIPE | RIPE Network Coordination Centre |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 57.128.20.163 | 45d756ee-69c2-5344-9233-fa8ac733f323 | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 84.46.250.136 | Stake&Relax |  |  |
@@ -89,8 +90,8 @@
 | 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 185.16.39.158 | anun10vv7ign |  |  |
+| 5.39.249.16 | Sr20de service node |  |  |
 | 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
-| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
