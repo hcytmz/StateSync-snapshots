@@ -142,13 +142,13 @@
 | 65.109.65.248 | StakeTown-API | RIPE | RIPE Network Coordination Centre |
 | 95.217.114.120 | Jocker |  |  |
 | 65.108.75.107 | node | RIPE | RIPE Network Coordination Centre |
-| 13.212.50.222 | mynode | AT-88-Z AMAZON-SIN | Amazon Technologies Inc. Amazon Data Services Singapore |
+| 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
 | 38.242.129.140 | mynode | COGENT-A | PSINet, Inc. |
 | 212.192.25.202 | clone |  |  |
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
 | 206.189.145.18 | SKUUYNODES | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
 | 176.103.222.21 | test |  |  |
-| 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
+| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
