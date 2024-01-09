@@ -82,7 +82,7 @@
 | 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | HostPapa |
 | 86.111.48.158 | test |  |  |
 | 92.119.186.40 | xtrend |  |  |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 166.1.70.168 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 91.245.225.5 | farmpointer |  |  |
 | 164.68.103.241 | TronMan | RIPE | RIPE Network Coordination Centre |
@@ -105,7 +105,7 @@
 | 158.220.97.152 | Dominik | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 144.91.76.130 | Dominik | RIPE | RIPE Network Coordination Centre |
 | 158.220.105.187 | Lavanode7 | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
-| 89.117.52.186 | HalfButy |  |  |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
 | 84.54.192.204 | C2000M1Node07 |  |  |
 | 173.212.205.21 | Lava1 | RIPE | RIPE Network Coordination Centre |
@@ -133,7 +133,7 @@
 | 89.117.51.129 | KelvinBorrel |  |  |
 | 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
 | 65.109.52.156 | Yurbason | RIPE | RIPE Network Coordination Centre |
-| 144.217.68.182 | Nodeist-lava-test | HO-2 |  |
+| 144.217.68.182 | Nodeist-lava-test | HO-2 | OVH Hosting, Inc. |
 | 65.108.226.183 | hello-lava-test | RIPE | RIPE Network Coordination Centre |
 | 65.108.229.93 | mynode | RIPE | RIPE Network Coordination Centre |
 | 195.128.158.230 | clone |  |  |
@@ -146,6 +146,8 @@
 | 212.192.25.202 | clone |  |  |
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
-| 46.4.55.46 | LiveRaveN |  |  |
+| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
+| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
