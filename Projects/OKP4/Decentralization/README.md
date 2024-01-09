@@ -27,7 +27,7 @@
 | 65.108.230.161 | Testnetrun-RPC | RIPE | RIPE Network Coordination Centre |
 | 81.30.157.35 | CryptoSailors |  |  |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
-| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
-| 65.108.104.96 | ericet | RIPE | RIPE Network Coordination Centre |
+| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed |  |  |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
