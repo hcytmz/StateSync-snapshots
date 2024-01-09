@@ -14,7 +14,7 @@
 | 65.108.124.121 | Lapatylin | RIPE | RIPE Network Coordination Centre |
 | 128.140.83.145 | dmnodes | RIPE-ERX-128-140-0-0 | RIPE Network Coordination Centre |
 | 159.89.111.21 | Tendermint | DIGITALOCEAN-159-89-0-0 | DigitalOcean, LLC |
-| 35.243.155.88 | testnet-2-public-rpc | GOOGLE-CLOUD | Google LLC |
+| 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
 | 65.109.92.79 | rpc | RIPE | RIPE Network Coordination Centre |
 | 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
 | 65.108.231.238 | nodeADDICT | RIPE | RIPE Network Coordination Centre |
@@ -53,10 +53,10 @@
 | 31.220.76.131 | trav |  |  |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
-| 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
+| 185.40.78.163 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.167.188 | wildweststaking |  |  |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -146,7 +146,8 @@
 | 38.242.129.140 | mynode | COGENT-A | PSINet, Inc. |
 | 212.192.25.202 | clone |  |  |
 | 185.192.97.25 | DuNock Lava |  |  |
-| 46.4.55.46 | LiveRaveN |  |  |
-| 185.40.78.163 | clone |  |  |
+| 86.102.123.235 | LavaTm26 |  |  |
+| 81.5.73.66 | clone |  |  |
+| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
