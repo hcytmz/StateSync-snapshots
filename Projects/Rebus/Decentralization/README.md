@@ -26,7 +26,7 @@
 | 146.59.47.210 | USArmy2 | RIPE-ERX-146-59-0-0 | RIPE Network Coordination Centre |
 | 65.21.95.15 | 1ce | RIPE | RIPE Network Coordination Centre |
 | 65.108.106.131 | StakeLab | RIPE | RIPE Network Coordination Centre |
-| 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
+| 65.108.226.26 | [NODERS]TEAM_SERVICE | RIPE | RIPE Network Coordination Centre |
 | 142.132.132.173 | Brochain | RIPE | RIPE Network Coordination Centre |
 | 149.56.131.26 | api1 | HO-2 OVH-VPS-149-56-128 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 64.5.123.203 | LogiCrypt | NEXCU | NEXCUS TECHNOLOGIES LLC |
@@ -38,6 +38,5 @@
 | 38.242.244.85 | Coverlet | COGENT-A | PSINet, Inc. |
 | 65.109.109.225 | node | RIPE | RIPE Network Coordination Centre |
 | 164.90.225.219 | commercio.network | DIGITALOCEAN-164-90-128-0 | DigitalOcean, LLC |
-| 65.108.226.26 | [NODERS]TEAM_SERVICE | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
