@@ -33,7 +33,7 @@
 | 31.220.76.134 | serhii |  |  |
 | 65.21.131.21 | node | RIPE | RIPE Network Coordination Centre |
 | 45.67.213.137 | clone |  |  |
-| 66.129.101.70 | data-nexus-validator | PEAK10-NETBLK-02 P10-4281-6540-28 | Flexential Corp. |
+| 66.129.101.70 | data-nexus-validator | PEAK10-NETBLK-02 P10-4281-6540-28 |  |
 | 86.111.48.159 | test |  |  |
 | 131.153.158.137 | Republic Runtime | SSL-65 | SECURED SERVERS LLC |
 | 162.19.217.52 | test | RIPE | RIPE Network Coordination Centre |
@@ -138,7 +138,7 @@
 | 65.108.226.183 | hello-lava-test | RIPE | RIPE Network Coordination Centre |
 | 65.108.229.93 | mynode | RIPE | RIPE Network Coordination Centre |
 | 195.128.158.230 | clone |  |  |
-| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 65.109.65.248 | StakeTown-API | RIPE | RIPE Network Coordination Centre |
 | 95.217.114.120 | Jocker |  |  |
 | 65.108.75.107 | node | RIPE | RIPE Network Coordination Centre |
@@ -149,6 +149,6 @@
 | 86.102.123.235 | LavaTm26 |  |  |
 | 206.189.145.18 | SKUUYNODES | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
 | 176.103.222.21 | test |  |  |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 
 <!-- END_TABLE -->
