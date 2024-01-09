@@ -21,9 +21,9 @@
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
+| 154.12.227.117 | 50%Banana |  |  |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
-| 5.9.121.55 | StakeAngle_RPC |  |  |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE | RIPE Network Coordination Centre |
 | 18.162.114.179 | Animoca Brands | AT-88-Z AMAZON-HKG | Amazon Technologies Inc. Amazon Data Services Hong Kong |
@@ -60,6 +60,6 @@
 | 51.159.223.25 | Citizen Cosmos |  |  |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 5.9.121.55 | StakeAngle_RPC |  |  |
 
 <!-- END_TABLE -->
