@@ -22,9 +22,14 @@
 | 144.91.115.146 | OKP4 | RIPE | RIPE Network Coordination Centre |
 | 144.217.68.182 | Nodeist-okp4-test | HO-2 | OVH Hosting, Inc. |
 | 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
-| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
-| 65.108.230.161 | Testnetrun-RPC | RIPE | RIPE Network Coordination Centre |
 | 91.194.30.203 | riser |  |  |
-| 65.108.104.96 | ericet | RIPE | RIPE Network Coordination Centre |
+| 65.108.230.161 | Testnetrun-RPC | RIPE | RIPE Network Coordination Centre |
+| 81.30.157.35 | CryptoSailors |  |  |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 94.130.137.122 | Vagif |  |  |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
+| 103.234.71.245 | okp4 | REGEN_IN |  |
+| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
