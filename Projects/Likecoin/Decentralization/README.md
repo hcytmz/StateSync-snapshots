@@ -57,7 +57,7 @@
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 159.203.118.94 | 7a8a934f35fa | DIGITALOCEAN-159-203-0-0 | DigitalOcean, LLC |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
