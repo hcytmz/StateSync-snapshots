@@ -27,7 +27,8 @@
 | 65.21.90.141 | SerGo | RIPE | RIPE Network Coordination Centre |
 | 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 188.40.66.173 | hello-okp4-test |  |  |
-| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
-| 95.217.110.39 | Validator.run |  |  |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 195.201.222.82 | okp4-nemeton-1-seed |  |  |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
