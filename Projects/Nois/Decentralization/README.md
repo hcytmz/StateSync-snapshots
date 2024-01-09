@@ -77,7 +77,6 @@
 | 85.10.201.125 | jayjay |  |  |
 | 81.0.246.225 | 7aaa9c11c4fb1bdf8245625ad499fc96 |  |  |
 | 51.159.16.102 | nysa.network |  |  |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
 | 148.251.8.186 | Nodejumper | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 167.160.93.90 | nois | UDL-17 | Dedicated.com |
 | 135.181.215.62 | nois_mainnets | RIPE | RIPE Network Coordination Centre |
@@ -88,9 +87,10 @@
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
 | 154.53.44.239 | dstake |  |  |
 | 135.181.128.114 | hello-nois-backup | RIPE | RIPE Network Coordination Centre |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
 | 144.76.30.36 | d944fcf98b7b | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 144.76.97.251 | AlxVoy | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 5.39.249.16 | Sr20de service node |  |  |
 
 <!-- END_TABLE -->
