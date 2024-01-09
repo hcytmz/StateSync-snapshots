@@ -84,6 +84,7 @@
 | 86.111.48.158 | test |  |  |
 | 92.119.186.40 | xtrend |  |  |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 91.245.225.5 | farmpointer |  |  |
 | 164.68.103.241 | TronMan | RIPE | RIPE Network Coordination Centre |
 | 89.117.54.156 | Dominik |  |  |
@@ -148,6 +149,6 @@
 | 86.102.123.235 | LavaTm26 |  |  |
 | 206.189.145.18 | SKUUYNODES | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
 | 176.103.222.21 | test |  |  |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
