@@ -26,8 +26,10 @@
 | 65.109.94.221 | TestnetPride | RIPE | RIPE Network Coordination Centre |
 | 65.21.90.141 | SerGo | RIPE | RIPE Network Coordination Centre |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
-| 195.201.222.82 | okp4-nemeton-1-seed |  |  |
-| 95.217.110.39 | Validator.run |  |  |
-| 65.108.104.96 | ericet | RIPE | RIPE Network Coordination Centre |
+| 65.109.85.221 | okp4_bertha | RIPE | RIPE Network Coordination Centre |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 103.234.71.245 | okp4 | REGEN_IN |  |
+| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
