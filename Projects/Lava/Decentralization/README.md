@@ -15,13 +15,13 @@
 | 159.89.111.21 | Tendermint | DIGITALOCEAN-159-89-0-0 | DigitalOcean, LLC |
 | 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
 | 65.109.92.79 | rpc | RIPE | RIPE Network Coordination Centre |
-| 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
+| 206.189.145.18 | SKUUYNODES | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
 | 65.108.231.238 | nodeADDICT | RIPE | RIPE Network Coordination Centre |
 | 65.21.73.233 | monastic | RIPE | RIPE Network Coordination Centre |
 | 95.111.225.213 | mynode |  |  |
 | 207.180.240.225 | Lava | RIPE | RIPE Network Coordination Centre |
 | 213.135.142.131 | clone |  |  |
-| 35.205.44.215 | testnet2-validator-3 | GOOGLE-CLOUD | Google LLC |
+| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
 | 65.108.41.172 | cyberG | RIPE | RIPE Network Coordination Centre |
 | 176.9.110.12 | Sirius.nodes |  |  |
 | 188.247.44.113 | clone |  |  |
@@ -82,7 +82,7 @@
 | 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | HostPapa |
 | 86.111.48.158 | test |  |  |
 | 92.119.186.40 | xtrend |  |  |
-| 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 91.245.225.5 | farmpointer |  |  |
 | 164.68.103.241 | TronMan | RIPE | RIPE Network Coordination Centre |
@@ -133,7 +133,7 @@
 | 89.117.51.129 | KelvinBorrel |  |  |
 | 138.201.1.254 | perf | RIPE-ERX-138-198-0-0 | RIPE Network Coordination Centre |
 | 65.109.52.156 | Yurbason | RIPE | RIPE Network Coordination Centre |
-| 144.217.68.182 | Nodeist-lava-test | HO-2 | OVH Hosting, Inc. |
+| 144.217.68.182 | Nodeist-lava-test | HO-2 |  |
 | 65.108.226.183 | hello-lava-test | RIPE | RIPE Network Coordination Centre |
 | 65.108.229.93 | mynode | RIPE | RIPE Network Coordination Centre |
 | 195.128.158.230 | clone |  |  |
@@ -146,8 +146,6 @@
 | 212.192.25.202 | clone |  |  |
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
-| 206.189.145.18 | SKUUYNODES | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
-| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 46.4.55.46 | LiveRaveN |  |  |
 
 <!-- END_TABLE -->
