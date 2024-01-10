@@ -29,7 +29,7 @@
 | 154.53.63.22 | martianforest |  |  |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
 | 62.171.186.77 | moonbeam |  |  |
-| 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
+| 89.241.118.152 | kamkcir |  |  |
 | 5.78.102.149 | BRAND-likecoin-relayer |  |  |
 | 89.163.154.108 | Foxinodes |  |  |
 | 207.180.238.137 | moonbeam-RPC | RIPE | RIPE Network Coordination Centre |
@@ -40,7 +40,7 @@
 | 94.250.203.238 | ericet |  |  |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 136.243.55.237 | AnyValid | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 167.172.111.114 | e905ab174562 | RIPE-ERX-167-172-0-0 | RIPE Network Coordination Centre |
 | 174.62.237.158 | StakeLabz DAO | JUMPSTART-5 CHICAGO-CPE-15 | Comcast Cable Communications, LLC |
 | 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 34.143.212.21 | matters.news | GOOGL-2 | Google LLC |
@@ -58,6 +58,7 @@
 | 43.224.50.29 | itchitech | HKBNES-HK |  |
 | 57.128.133.16 | likecoin-m-horcrux1-ovh-lon | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 159.203.118.94 | 7a8a934f35fa | DIGITALOCEAN-159-203-0-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
