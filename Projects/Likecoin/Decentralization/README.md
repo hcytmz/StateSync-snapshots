@@ -19,7 +19,7 @@
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
-| 167.172.111.114 | e905ab174562 | RIPE-ERX-167-172-0-0 | RIPE Network Coordination Centre |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
@@ -58,7 +58,7 @@
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 188.166.226.230 | PM |  |  |
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 167.172.111.114 | e905ab174562 | RIPE-ERX-167-172-0-0 | RIPE Network Coordination Centre |
 | 159.203.118.94 | 7a8a934f35fa | DIGITALOCEAN-159-203-0-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
