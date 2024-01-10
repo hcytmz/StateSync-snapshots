@@ -19,7 +19,7 @@
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
-| 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
+| 167.172.111.114 | e905ab174562 | RIPE-ERX-167-172-0-0 | RIPE Network Coordination Centre |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
 | 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
@@ -55,10 +55,10 @@
 | 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
-| 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
+| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 188.166.226.230 | PM |  |  |
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
-| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 167.172.111.114 | e905ab174562 | RIPE-ERX-167-172-0-0 | RIPE Network Coordination Centre |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 159.203.118.94 | 7a8a934f35fa | DIGITALOCEAN-159-203-0-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
