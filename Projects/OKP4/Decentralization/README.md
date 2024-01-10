@@ -39,6 +39,7 @@
 | 38.242.251.204 | Lexar | COGENT-A | PSINet, Inc. |
 | 142.132.149.118 | dj3g-8bdl | RIPE | RIPE Network Coordination Centre |
 | 65.108.230.161 | Testnetrun-RPC | RIPE | RIPE Network Coordination Centre |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
 | 194.34.232.225 | nemeton |  |  |
 | 65.108.70.119 | AlxVoy | RIPE | RIPE Network Coordination Centre |
 | 65.21.187.101 | SmartHamster | RIPE | RIPE Network Coordination Centre |
@@ -54,6 +55,13 @@
 | 161.97.79.109 | MELLIFERA-NODE | RIPE | RIPE Network Coordination Centre |
 | 65.109.92.249 | Nod | RIPE | RIPE Network Coordination Centre |
 | 5.9.147.22 | StingRay |  |  |
-| 195.201.222.82 | okp4-nemeton-1-seed |  |  |
+| 65.109.85.221 | okp4_bertha | RIPE | RIPE Network Coordination Centre |
+| 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
+| 95.217.203.43 | swiftstaking |  |  |
+| 65.21.90.141 | SerGo | RIPE | RIPE Network Coordination Centre |
+| 91.194.30.203 | riser |  |  |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 81.0.246.196 | Stake&Relax |  |  |
+| 167.235.14.83 | Appieasahbie | AkNodes | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
