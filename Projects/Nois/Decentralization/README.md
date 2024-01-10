@@ -38,7 +38,7 @@
 | 195.3.223.9 | jpoop0n4q4rk |  |  |
 | 174.138.180.190 | UTSA_guide | INTER-83 | Interserver, Inc |
 | 57.128.95.94 | ECO Stake | RIPE-ERX-57 | RIPE Network Coordination Centre |
-| 65.109.112.170 | Nodejumper | RIPE | RIPE Network Coordination Centre |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 49.12.120.113 | rnggnr | STUB-49-12SLASH15 |  |
 | 65.108.46.100 | BccNodes | RIPE | RIPE Network Coordination Centre |
 | 136.243.69.55 | e8521d73-db81-5a07-9c8c-a96516e31cdf | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
@@ -83,6 +83,7 @@
 | 135.181.215.62 | nois_mainnets | RIPE | RIPE Network Coordination Centre |
 | 89.233.108.200 | SECARD |  |  |
 | 65.109.54.232 | myNode | RIPE | RIPE Network Coordination Centre |
+| 65.109.112.170 | Nodejumper | RIPE | RIPE Network Coordination Centre |
 | 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
 | 81.0.248.57 | nois-main |  |  |
@@ -90,8 +91,10 @@
 | 95.216.100.99 | mainnet-backup-1 |  |  |
 | 185.16.39.158 | anun10vv7ign |  |  |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
+| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
-| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 45.63.104.164 | nois-node | CONSTANT NET-45-63-104-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
+| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
