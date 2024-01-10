@@ -17,7 +17,7 @@
 | 51.159.223.25 | Citizen Web3 |  |  |
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
-| 167.172.111.114 | e905ab174562 | RIPE-ERX-167-172-0-0 | RIPE Network Coordination Centre |
+| 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 50.98.220.238 | BusinessAsMission | TELUS TELUS-FIBRE-HANYBC1 | TELUS Communications Inc. |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
@@ -26,16 +26,16 @@
 | 65.21.236.25 | OmniFlix Network | RIPE | RIPE Network Coordination Centre |
 | 5.9.121.55 | StakeAngle_RPC |  |  |
 | 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
-| 154.53.63.22 | martianforest |  |  |
+| 154.53.63.22 | martianforest | COGENT-154-53-16 | PSINet, Inc. |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
 | 62.171.186.77 | moonbeam |  |  |
 | 167.99.71.225 | liker_mxp_v2 | DIGITALOCEAN-167-99-0-0 | DigitalOcean, LLC |
 | 5.78.102.149 | BRAND-likecoin-relayer |  |  |
 | 89.163.154.108 | Foxinodes |  |  |
 | 207.180.238.137 | moonbeam-RPC | RIPE | RIPE Network Coordination Centre |
-| 38.242.143.195 | likecoin-mainnet | COGENT-A | PSINet, Inc. |
+| 38.242.143.195 | likecoin-mainnet | COGENT-A |  |
 | 198.244.228.17 | web34ever | RIPE | RIPE Network Coordination Centre |
-| 43.224.50.29 | itchitech | HKBNES-HK |  |
+| 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 5.10.19.55 | forbole-rds |  |  |
 | 94.250.203.238 | ericet |  |  |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
@@ -48,7 +48,6 @@
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 144.91.125.80 | BRAND-likecoin-main | RIPE | RIPE Network Coordination Centre |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 14.224.145.244 | csc04 | VNPT-VN |  |
 | 54.36.108.222 | Stakewolle | RIPE | RIPE Network Coordination Centre |
 | 174.62.237.158 | StakeLabz DAO | JUMPSTART-5 CHICAGO-CPE-15 | Comcast Cable Communications, LLC |
@@ -58,7 +57,8 @@
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 154.12.227.117 | 50%Banana | COGENT-154-12-16 | PSINet, Inc. |
 | 188.166.226.230 | PM |  |  |
-| 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
-| 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 159.203.118.94 | 7a8a934f35fa | DIGITALOCEAN-159-203-0-0 | DigitalOcean, LLC |
+| 167.172.111.114 | e905ab174562 | RIPE-ERX-167-172-0-0 | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
