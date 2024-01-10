@@ -15,7 +15,6 @@
 | 194.163.161.194 | Foxinodes |  |  |
 | 194.195.212.69 | Stakeland by 9GAG |  |  |
 | 51.159.223.25 | Citizen Web3 |  |  |
-| 167.172.111.114 | e905ab174562 | RIPE-ERX-167-172-0-0 | RIPE Network Coordination Centre |
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
@@ -53,10 +52,13 @@
 | 54.36.108.222 | Stakewolle | RIPE | RIPE Network Coordination Centre |
 | 174.62.237.158 | StakeLabz DAO | JUMPSTART-5 CHICAGO-CPE-15 | Comcast Cable Communications, LLC |
 | 173.212.231.154 | Family-Online | RIPE | RIPE Network Coordination Centre |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 188.166.226.230 | PM |  |  |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 159.203.118.94 | 7a8a934f35fa | DIGITALOCEAN-159-203-0-0 | DigitalOcean, LLC |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
