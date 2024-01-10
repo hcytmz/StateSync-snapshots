@@ -13,7 +13,7 @@
 | 94.130.137.122 | Vagif |  |  |
 | 167.235.180.97 | w3coins | RIPE | RIPE Network Coordination Centre |
 | 188.40.66.173 | hello-okp4-test |  |  |
-| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 65.108.141.228 | node75&pro-nodes | RIPE | RIPE Network Coordination Centre |
 | 162.55.234.70 | Ubuntu-2004-focal-64-minimal | RIPE | RIPE Network Coordination Centre |
 | 162.246.20.74 | Darvin | INTERSERVER | Interserver, Inc |
 | 38.242.243.205 | node101 | COGENT-A | PSINet, Inc. |
@@ -43,7 +43,17 @@
 | 65.108.70.119 | AlxVoy | RIPE | RIPE Network Coordination Centre |
 | 65.21.187.101 | SmartHamster | RIPE | RIPE Network Coordination Centre |
 | 202.61.226.120 | nemeton | STUB-202-61-192SLASH18 |  |
+| 172.96.160.233 | ArcLing | RL-323 | ReliableSite.Net LLC |
+| 15.235.46.79 | NodeStake | HO-2 PCI-BHS5 | OVH Hosting, Inc. OVH Hosting, Inc. |
+| 141.95.34.193 | node |  |  |
+| 65.109.108.150 | Niloki | RIPE | RIPE Network Coordination Centre |
+| 162.248.225.244 | Noderunners | KING-SERVERS KING-SERVERS-DSPOOL | Hosting Solution Ltd. |
+| 65.109.82.249 | bulevar | RIPE | RIPE Network Coordination Centre |
+| 65.108.206.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
+| 81.30.157.35 | CryptoSailors |  |  |
+| 161.97.79.109 | MELLIFERA-NODE | RIPE | RIPE Network Coordination Centre |
+| 65.109.92.249 | Nod | RIPE | RIPE Network Coordination Centre |
+| 5.9.147.22 | StingRay |  |  |
 | 195.201.222.82 | okp4-nemeton-1-seed |  |  |
-| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
