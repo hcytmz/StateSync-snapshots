@@ -116,7 +116,7 @@
 | 65.108.41.173 | ToTheMars | RIPE | RIPE Network Coordination Centre |
 | 161.97.122.145 | Lavanode1 | RIPE | RIPE Network Coordination Centre |
 | 14.226.244.42 | TeoViTeoVi | VNPT-VN |  |
-| 176.121.188.9 | LavaTm102 |  |  |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 195.128.158.108 | C2857M1Node05-hdd |  |  |
 | 173.249.0.170 | forestgamp | RIPE | RIPE Network Coordination Centre |
 | 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
@@ -149,6 +149,6 @@
 | 86.102.123.235 | LavaTm26 |  |  |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
 | 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
