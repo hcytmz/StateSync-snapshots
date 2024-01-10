@@ -84,7 +84,7 @@
 | 86.111.48.158 | test |  |  |
 | 176.103.222.21 | test |  |  |
 | 166.1.70.168 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 45.67.213.73 | clone |  |  |
 | 91.245.225.5 | farmpointer |  |  |
 | 164.68.103.241 | TronMan | RIPE | RIPE Network Coordination Centre |
 | 89.117.54.156 | Dominik |  |  |
@@ -149,6 +149,6 @@
 | 86.102.123.235 | LavaTm26 |  |  |
 | 166.1.70.10 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
 | 65.108.206.118 | UTSA_guide | RIPE | RIPE Network Coordination Centre |
-| 45.67.213.73 | clone |  |  |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 
 <!-- END_TABLE -->
