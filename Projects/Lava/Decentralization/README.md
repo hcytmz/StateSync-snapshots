@@ -44,7 +44,7 @@
 | 185.162.93.88 | clone |  |  |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
 | 162.55.245.144 | e9c2c9b8-739e0e | RIPE | RIPE Network Coordination Centre |
-| 143.110.185.169 | Kahuna | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 31.220.80.131 | Userr01 |  |  |
 | 178.250.154.26 | clone |  |  |
 | 93.92.205.218 | none |  |  |
@@ -56,7 +56,7 @@
 | 185.40.78.163 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking |  |  |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -80,7 +80,7 @@
 | 46.4.14.172 | PPNV |  |  |
 | 86.111.48.155 | test |  |  |
 | 91.245.225.3 | TopOurNodes |  |  |
-| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | HostPapa |
+| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 |  |
 | 86.111.48.158 | test |  |  |
 | 176.103.222.21 | test |  |  |
 | 166.1.70.168 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
@@ -107,7 +107,7 @@
 | 144.91.76.130 | Dominik | RIPE | RIPE Network Coordination Centre |
 | 158.220.105.187 | Lavanode7 | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 173.249.9.164 | lavass | RIPE | RIPE Network Coordination Centre |
-| 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
+| 65.108.206.118 | UTSA_guide | RIPE | RIPE Network Coordination Centre |
 | 84.54.192.204 | C2000M1Node07 |  |  |
 | 173.212.205.21 | Lava1 | RIPE | RIPE Network Coordination Centre |
 | 57.128.44.52 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
@@ -148,7 +148,6 @@
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
 | 166.1.70.10 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
-| 65.108.206.118 | UTSA_guide | RIPE | RIPE Network Coordination Centre |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
