@@ -55,7 +55,7 @@
 | 185.40.78.163 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.167.188 | wildweststaking |  |  |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -97,7 +97,7 @@
 | 164.68.122.32 | testnet | RIPE | RIPE Network Coordination Centre |
 | 57.128.54.106 | my-node | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 75.119.148.206 | Dominik | RIPE | RIPE Network Coordination Centre |
-| 34.75.214.127 | testnet2-seed-1 | GOOGL-2 | Google LLC |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
 | 65.21.32.13 | STAKKY | RIPE | RIPE Network Coordination Centre |
 | 184.174.32.120 | Alex190 | CAC-BLOCK8 IL-845 | Colocation America Corporation IPXO LLC |
 | 178.18.252.105 | testnet |  |  |
@@ -148,6 +148,5 @@
 | 86.102.123.235 | LavaTm26 |  |  |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
 | 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
-| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
