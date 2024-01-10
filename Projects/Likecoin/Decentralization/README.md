@@ -15,7 +15,7 @@
 |-------------|-------------|-------------|-------------|
 | 194.163.161.194 | Foxinodes |  |  |
 | 194.195.212.69 | Stakeland by 9GAG |  |  |
-| 203.135.141.7 | UD Archive Node | WEBHOST-HK |  |
+| 51.159.223.25 | Citizen Web3 |  |  |
 | 158.247.206.39 | Cosmostation | APNIC CONSTANT-AP | Asia Pacific Network Information Centre The Constant Company, LLC |
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
 | 172.104.109.174 | Yoitsu | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
@@ -36,7 +36,7 @@
 | 207.180.238.137 | moonbeam-RPC | RIPE | RIPE Network Coordination Centre |
 | 38.242.143.195 | likecoin-mainnet | COGENT-A | PSINet, Inc. |
 | 198.244.228.17 | web34ever | RIPE | RIPE Network Coordination Centre |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 43.224.50.29 | itchitech | HKBNES-HK |  |
 | 5.10.19.55 | forbole-rds |  |  |
 | 94.250.203.238 | ericet |  |  |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
@@ -59,7 +59,7 @@
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 188.166.226.230 | PM |  |  |
-| 51.159.223.25 | Citizen Web3 |  |  |
-| 43.224.50.29 | itchitech | HKBNES-HK |  |
+| 159.203.118.94 | 7a8a934f35fa | DIGITALOCEAN-159-203-0-0 | DigitalOcean, LLC |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 
 <!-- END_TABLE -->
