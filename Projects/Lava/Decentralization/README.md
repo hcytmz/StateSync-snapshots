@@ -142,13 +142,12 @@
 | 65.109.65.248 | StakeTown-API | RIPE | RIPE Network Coordination Centre |
 | 95.217.114.120 | Jocker |  |  |
 | 65.108.75.107 | node | RIPE | RIPE Network Coordination Centre |
-| 65.109.68.190 | kjnodes-testnet-rpc | RIPE | RIPE Network Coordination Centre |
+| 5.9.122.49 | NodexPlus |  |  |
 | 38.242.129.140 | mynode | COGENT-A | PSINet, Inc. |
 | 212.192.25.202 | clone |  |  |
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
-| 195.3.221.118 | erfer4 |  |  |
 
 <!-- END_TABLE -->
