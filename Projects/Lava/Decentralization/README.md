@@ -84,7 +84,7 @@
 | 86.111.48.158 | test |  |  |
 | 176.103.222.21 | test |  |  |
 | 166.1.70.168 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
-| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 91.245.225.5 | farmpointer |  |  |
 | 164.68.103.241 | TronMan | RIPE | RIPE Network Coordination Centre |
 | 89.117.54.156 | Dominik |  |  |
@@ -147,8 +147,8 @@
 | 212.192.25.202 | clone |  |  |
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
-| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 166.1.70.10 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
 | 65.108.206.118 | UTSA_guide | RIPE | RIPE Network Coordination Centre |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 
 <!-- END_TABLE -->
