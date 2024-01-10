@@ -17,7 +17,7 @@
 | 65.108.82.62 | ROSNODEMONITORING | RIPE | RIPE Network Coordination Centre |
 | 54.38.128.34 | qwerty-nois-main | RIPE | RIPE Network Coordination Centre |
 | 142.132.209.97 | ECO Stake | RIPE | RIPE Network Coordination Centre |
-| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
+| 5.39.249.16 | Sr20de service node |  |  |
 | 57.128.60.165 | NodeStake | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 144.217.180.121 | Loona.Systems | HO-2 | OVH Hosting, Inc. |
 | 65.109.104.118 | lesnik_utsa | RIPE | RIPE Network Coordination Centre |
@@ -28,7 +28,7 @@
 | 195.201.197.4 | itrocket |  |  |
 | 65.108.79.237 | chaintools-relayer-node | RIPE | RIPE Network Coordination Centre |
 | 144.76.30.36 | d944fcf98b7b | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
-| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
+| 65.108.141.109 | node | RIPE | RIPE Network Coordination Centre |
 | 88.198.18.88 | terlia |  |  |
 | 144.76.97.251 | AlxVoy | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 65.108.247.73 | random node | RIPE | RIPE Network Coordination Centre |
@@ -83,17 +83,17 @@
 | 135.181.215.62 | nois_mainnets | RIPE | RIPE Network Coordination Centre |
 | 89.233.108.200 | SECARD |  |  |
 | 65.109.54.232 | myNode | RIPE | RIPE Network Coordination Centre |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
-| 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
+| 103.180.28.70 | forbole | METROPOLIS-AP | Metropolis Networks Inc |
+| 154.53.44.239 | dstake |  |  |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
 | 81.0.248.57 | nois-main |  |  |
 | 45.63.104.164 | nois-node | CONSTANT NET-45-63-104-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
-| 154.53.44.239 | dstake |  |  |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 185.16.39.158 | anun10vv7ign |  |  |
-| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
 | 65.109.112.170 | Nodejumper | RIPE | RIPE Network Coordination Centre |
-| 5.39.249.16 | Sr20de service node |  |  |
-| 65.108.227.217 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
-| 103.180.28.70 | forbole | METROPOLIS-AP | Metropolis Networks Inc |
+| 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
+| 135.181.5.219 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 
 <!-- END_TABLE -->
