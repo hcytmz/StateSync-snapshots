@@ -105,7 +105,7 @@
 | 158.220.97.152 | Dominik | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 144.91.76.130 | Dominik | RIPE | RIPE Network Coordination Centre |
 | 158.220.105.187 | Lavanode7 | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 173.249.9.164 | lavass | RIPE | RIPE Network Coordination Centre |
 | 116.202.227.117 | kjnodes | STUB-116-202SLASH15 |  |
 | 84.54.192.204 | C2000M1Node07 |  |  |
 | 173.212.205.21 | Lava1 | RIPE | RIPE Network Coordination Centre |
@@ -147,7 +147,6 @@
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
-| 173.249.9.164 | lavass | RIPE | RIPE Network Coordination Centre |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
