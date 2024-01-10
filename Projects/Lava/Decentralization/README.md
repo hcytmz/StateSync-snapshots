@@ -18,7 +18,7 @@
 | 65.109.92.79 | rpc | RIPE | RIPE Network Coordination Centre |
 | 206.189.145.18 | SKUUYNODES | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
-| 65.21.73.233 | monastic | RIPE | RIPE Network Coordination Centre |
+| 38.242.152.80 | xelnaga | COGENT-A | PSINet, Inc. |
 | 95.111.225.213 | mynode |  |  |
 | 207.180.240.225 | Lava | RIPE | RIPE Network Coordination Centre |
 | 213.135.142.131 | clone |  |  |
@@ -50,13 +50,13 @@
 | 93.92.205.218 | none |  |  |
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 5.161.132.110 | LavaRelayUS |  |  |
-| 31.220.76.131 | trav |  |  |
+| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 185.40.78.163 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.167.188 | wildweststaking |  |  |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -80,7 +80,7 @@
 | 46.4.14.172 | PPNV |  |  |
 | 86.111.48.155 | test |  |  |
 | 91.245.225.3 | TopOurNodes |  |  |
-| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 |  |
+| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | HostPapa |
 | 86.111.48.158 | test |  |  |
 | 176.103.222.21 | test |  |  |
 | 166.1.70.168 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
@@ -142,12 +142,12 @@
 | 65.109.65.248 | StakeTown-API | RIPE | RIPE Network Coordination Centre |
 | 95.217.114.120 | Jocker |  |  |
 | 65.108.75.107 | node | RIPE | RIPE Network Coordination Centre |
-| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
+| 166.1.70.10 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
 | 38.242.129.140 | mynode | COGENT-A | PSINet, Inc. |
 | 212.192.25.202 | clone |  |  |
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
-| 166.1.70.10 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
+| 45.67.212.105 | clone |  |  |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
