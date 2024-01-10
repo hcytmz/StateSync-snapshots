@@ -20,14 +20,13 @@
 | 144.91.115.146 | OKP4 | RIPE | RIPE Network Coordination Centre |
 | 143.198.17.58 | eozdemirok | DIGITALOCEAN-143-198-0-0 | DigitalOcean, LLC |
 | 94.130.137.122 | Vagif |  |  |
-| 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 81.30.157.35 | CryptoSailors |  |  |
 | 65.108.230.161 | Testnetrun-RPC | RIPE | RIPE Network Coordination Centre |
 | 65.21.32.216 | jayjay | RIPE | RIPE Network Coordination Centre |
 | 65.109.117.212 | w3coins | RIPE | RIPE Network Coordination Centre |
-| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
-| 195.201.222.82 | okp4-nemeton-1-seed |  |  |
-| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 95.217.110.39 | Validator.run |  |  |
 
 <!-- END_TABLE -->
