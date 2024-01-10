@@ -80,7 +80,7 @@
 | 46.4.14.172 | PPNV |  |  |
 | 86.111.48.155 | test |  |  |
 | 91.245.225.3 | TopOurNodes |  |  |
-| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 |  |
+| 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | HostPapa |
 | 86.111.48.158 | test |  |  |
 | 176.103.222.21 | test |  |  |
 | 166.1.70.168 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
@@ -100,7 +100,7 @@
 | 75.119.148.206 | Dominik | RIPE | RIPE Network Coordination Centre |
 | 92.119.186.40 | xtrend |  |  |
 | 65.21.32.13 | STAKKY | RIPE | RIPE Network Coordination Centre |
-| 184.174.32.120 | Alex190 | CAC-BLOCK8 IL-845 | IPXO LLC |
+| 184.174.32.120 | Alex190 | CAC-BLOCK8 IL-845 | Colocation America Corporation IPXO LLC |
 | 178.18.252.105 | testnet |  |  |
 | 95.217.87.110 | services |  |  |
 | 158.220.97.152 | Dominik | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
@@ -116,7 +116,7 @@
 | 65.108.41.173 | ToTheMars | RIPE | RIPE Network Coordination Centre |
 | 161.97.122.145 | Lavanode1 | RIPE | RIPE Network Coordination Centre |
 | 14.226.244.42 | TeoViTeoVi | VNPT-VN |  |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 195.3.220.21 | 0ovpmkhjxkvt |  |  |
 | 195.128.158.108 | C2857M1Node05-hdd |  |  |
 | 173.249.0.170 | forestgamp | RIPE | RIPE Network Coordination Centre |
 | 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
@@ -149,6 +149,6 @@
 | 86.102.123.235 | LavaTm26 |  |  |
 | 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 65.108.206.118 | UTSA_guide | RIPE | RIPE Network Coordination Centre |
-| 5.9.122.49 | NodexPlus |  |  |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 
 <!-- END_TABLE -->
