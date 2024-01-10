@@ -26,7 +26,8 @@
 | 65.108.230.161 | Testnetrun-RPC | RIPE | RIPE Network Coordination Centre |
 | 65.21.32.216 | jayjay | RIPE | RIPE Network Coordination Centre |
 | 65.109.117.212 | w3coins | RIPE | RIPE Network Coordination Centre |
+| 65.109.85.221 | okp4_bertha | RIPE | RIPE Network Coordination Centre |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
-| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed |  |  |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
