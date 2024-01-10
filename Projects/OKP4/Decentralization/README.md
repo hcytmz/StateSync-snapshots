@@ -26,6 +26,12 @@
 | 65.108.230.161 | Testnetrun-RPC | RIPE | RIPE Network Coordination Centre |
 | 65.21.32.216 | jayjay | RIPE | RIPE Network Coordination Centre |
 | 65.109.117.212 | w3coins | RIPE | RIPE Network Coordination Centre |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
+| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
+| 103.234.71.245 | okp4 | REGEN_IN |  |
+| 144.91.126.238 | Anatolian Team | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
