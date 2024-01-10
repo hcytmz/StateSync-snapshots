@@ -17,7 +17,7 @@
 | 34.148.73.227 | testnet2-validator-2 | GOOGL-2 | Google LLC |
 | 65.109.92.79 | rpc | RIPE | RIPE Network Coordination Centre |
 | 206.189.145.18 | SKUUYNODES | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
-| 65.108.231.238 | nodeADDICT | RIPE | RIPE Network Coordination Centre |
+| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 65.21.73.233 | monastic | RIPE | RIPE Network Coordination Centre |
 | 95.111.225.213 | mynode |  |  |
 | 207.180.240.225 | Lava | RIPE | RIPE Network Coordination Centre |
@@ -149,6 +149,6 @@
 | 86.102.123.235 | LavaTm26 |  |  |
 | 166.1.70.10 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
 | 65.108.206.118 | UTSA_guide | RIPE | RIPE Network Coordination Centre |
-| 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
+| 45.67.213.73 | clone |  |  |
 
 <!-- END_TABLE -->
