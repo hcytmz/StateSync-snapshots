@@ -13,7 +13,7 @@
 | 65.108.124.121 | Lapatylin | RIPE | RIPE Network Coordination Centre |
 | 128.140.83.145 | dmnodes | RIPE-ERX-128-140-0-0 | RIPE Network Coordination Centre |
 | 159.89.111.21 | Tendermint | DIGITALOCEAN-159-89-0-0 | DigitalOcean, LLC |
-| 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
+| 34.148.73.227 | testnet2-validator-2 | GOOGL-2 | Google LLC |
 | 65.109.92.79 | rpc | RIPE | RIPE Network Coordination Centre |
 | 206.189.145.18 | SKUUYNODES | DIGITALOCEAN-206-189-0-0 | DigitalOcean, LLC |
 | 65.108.231.238 | nodeADDICT | RIPE | RIPE Network Coordination Centre |
@@ -147,6 +147,7 @@
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
+| 173.249.9.164 | lavass | RIPE | RIPE Network Coordination Centre |
 | 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
