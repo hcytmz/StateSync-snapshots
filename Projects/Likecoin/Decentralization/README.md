@@ -40,7 +40,7 @@
 | 94.250.203.238 | ericet |  |  |
 | 144.76.195.75 | moniker | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 136.243.55.237 | AnyValid | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
 | 172.105.153.187 | mn | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 34.143.212.21 | matters.news | GOOGL-2 | Google LLC |
@@ -48,7 +48,7 @@
 | 52.185.150.254 | Taiwan FactCheck Center | MSFT | Microsoft Corporation |
 | 144.91.125.80 | BRAND-likecoin-main | RIPE | RIPE Network Coordination Centre |
 | 70.70.200.225 | Quebec | SHAW-COMM | Shaw Communications Inc. |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 | Comcast Cable Communications, LLC |
+| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
 | 14.224.145.244 | csc04 | VNPT-VN |  |
 | 54.36.108.222 | Stakewolle | RIPE | RIPE Network Coordination Centre |
 | 34.83.121.40 | likecoin-fdn | GOOGL-2 | Google LLC |
@@ -56,6 +56,10 @@
 | 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
 | 144.126.131.195 | WeLike | CONTA-48 | Contabo Inc. |
-| 45.33.97.75 | CoderNoah | LINODE-US LINODE | Akamai Technologies, Inc. Linode |
+| 43.224.50.29 | itchitech | HKBNES-HK |  |
+| 57.128.133.16 | likecoin-m-horcrux1-ovh-lon | RIPE-ERX-57 | RIPE Network Coordination Centre |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 174.62.237.158 | StakeLabz DAO | JUMPSTART-5 CHICAGO-CPE-15 | Comcast Cable Communications, LLC |
+| 167.172.111.114 | e905ab174562 | RIPE-ERX-167-172-0-0 | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
