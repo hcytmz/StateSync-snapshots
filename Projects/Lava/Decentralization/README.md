@@ -82,7 +82,7 @@
 | 91.245.225.3 | TopOurNodes |  |  |
 | 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | HostPapa |
 | 86.111.48.158 | test |  |  |
-| 92.119.186.40 | xtrend |  |  |
+| 176.103.222.21 | test |  |  |
 | 166.1.70.168 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
 | 35.205.49.53 | testnet2-seed-2 | GOOGLE-CLOUD | Google LLC |
 | 91.245.225.5 | farmpointer |  |  |
@@ -98,7 +98,7 @@
 | 164.68.122.32 | testnet | RIPE | RIPE Network Coordination Centre |
 | 57.128.54.106 | my-node | RIPE-ERX-57 | RIPE Network Coordination Centre |
 | 75.119.148.206 | Dominik | RIPE | RIPE Network Coordination Centre |
-| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 92.119.186.40 | xtrend |  |  |
 | 65.21.32.13 | STAKKY | RIPE | RIPE Network Coordination Centre |
 | 184.174.32.120 | Alex190 | CAC-BLOCK8 IL-845 | Colocation America Corporation IPXO LLC |
 | 178.18.252.105 | testnet |  |  |
@@ -119,7 +119,7 @@
 | 176.121.188.9 | LavaTm102 |  |  |
 | 195.128.158.108 | C2857M1Node05-hdd |  |  |
 | 173.249.0.170 | forestgamp | RIPE | RIPE Network Coordination Centre |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
 | 38.242.241.5 | viktorkalyna | COGENT-A | PSINet, Inc. |
 | 62.171.159.226 | Lavanode6 |  |  |
 | 45.67.213.105 | clone |  |  |
@@ -148,7 +148,7 @@
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
 | 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
-| 34.74.59.43 | testnet2-validator-4 | GOOGL-2 | Google LLC |
-| 176.103.222.21 | test |  |  |
+| 65.108.231.124 | seed | RIPE | RIPE Network Coordination Centre |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 
 <!-- END_TABLE -->
