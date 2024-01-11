@@ -50,8 +50,17 @@
 | 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 81.0.246.196 | Stake&Relax |  |  |
 | 162.248.225.244 | Noderunners | KING-SERVERS KING-SERVERS-DSPOOL | Hosting Solution Ltd. |
-| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
-| 144.217.68.182 | Nodeist-okp4-test | HO-2 | OVH Hosting, Inc. |
 | 136.243.88.91 | Enigma | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
+| 144.217.68.182 | Nodeist-okp4-test | HO-2 | OVH Hosting, Inc. |
+| 65.108.68.86 | emperor | RIPE | RIPE Network Coordination Centre |
+| 141.95.34.193 | node |  |  |
+| 162.55.234.70 | Ubuntu-2004-focal-64-minimal | RIPE | RIPE Network Coordination Centre |
+| 65.21.187.101 | SmartHamster | RIPE | RIPE Network Coordination Centre |
+| 172.96.160.233 | ArcLing | RL-323 | ReliableSite.Net LLC |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 142.132.149.118 | dj3g-8bdl | RIPE | RIPE Network Coordination Centre |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
+| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 195.201.222.82 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
