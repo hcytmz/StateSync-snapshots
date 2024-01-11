@@ -12,7 +12,7 @@
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
 | 46.4.81.204 | Kalia Network |  |  |
-| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 84.201.135.7 | cixrh68r |  |  |
 | 65.109.82.249 | bulevar | RIPE | RIPE Network Coordination Centre |
 | 94.130.137.122 | Vagif |  |  |
 | 176.103.222.44 | test |  |  |
@@ -48,7 +48,7 @@
 | 202.61.226.120 | nemeton | STUB-202-61-192SLASH18 |  |
 | 81.30.157.35 | CryptoSailors |  |  |
 | 91.194.30.203 | riser |  |  |
-| 81.0.246.196 | Stake&Relax |  |  |
+| 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 162.248.225.244 | Noderunners | KING-SERVERS KING-SERVERS-DSPOOL | Hosting Solution Ltd. |
 | 136.243.88.91 | Enigma | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
 | 144.217.68.182 | Nodeist-okp4-test | HO-2 | OVH Hosting, Inc. |
@@ -67,8 +67,6 @@
 | 65.21.129.95 | Beametzner | RIPE | RIPE Network Coordination Centre |
 | 65.108.70.119 | AlxVoy | RIPE | RIPE Network Coordination Centre |
 | 65.21.90.141 | SerGo | RIPE | RIPE Network Coordination Centre |
-| 84.201.135.7 | cixrh68r |  |  |
-| 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
