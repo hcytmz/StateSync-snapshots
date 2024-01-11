@@ -13,7 +13,6 @@
 <!-- START_TABLE -->
 | IP-address | Moniker | NetName | Organization |
 |-------------|-------------|-------------|-------------|
-| 5.39.249.16 | Sr20de service node |  |  |
 | 65.108.82.62 | ROSNODEMONITORING | RIPE | RIPE Network Coordination Centre |
 | 54.38.128.34 | qwerty-nois-main | RIPE | RIPE Network Coordination Centre |
 | 142.132.209.97 | ECO Stake | RIPE | RIPE Network Coordination Centre |
@@ -28,8 +27,9 @@
 | 195.201.197.4 | itrocket |  |  |
 | 65.108.79.237 | chaintools-relayer-node | RIPE | RIPE Network Coordination Centre |
 | 65.109.116.151 | itrocket | RIPE | RIPE Network Coordination Centre |
-| 88.198.18.88 | terlia |  |  |
 | 144.76.97.251 | AlxVoy | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
+| 88.198.18.88 | terlia |  |  |
+| 5.39.249.16 | Sr20de service node |  |  |
 | 65.108.247.73 | random node | RIPE | RIPE Network Coordination Centre |
 | 65.109.62.179 | roadz-main | RIPE | RIPE Network Coordination Centre |
 | 146.59.52.137 | d8ab2567-6e7f-55a6-a7bd-ce15a61c08c5 | RIPE-ERX-146-59-0-0 | RIPE Network Coordination Centre |
@@ -89,8 +89,9 @@
 | 45.63.104.164 | nois-node | CONSTANT NET-45-63-104-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
 | 38.242.225.247 | narkosha | COGENT-A | PSINet, Inc. |
-| 154.53.44.239 | dstake |  |  |
+| 159.203.118.94 | 7a8a934f35fa | DIGITALOCEAN-159-203-0-0 | DigitalOcean, LLC |
 | 185.16.39.158 | kmnc5q11uip2 |  |  |
+| 154.53.44.239 | dstake |  |  |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
 
