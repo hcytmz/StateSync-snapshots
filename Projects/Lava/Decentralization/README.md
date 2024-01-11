@@ -82,10 +82,10 @@
 | 91.245.225.3 | TopOurNodes |  |  |
 | 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | HostPapa |
 | 86.111.48.158 | test |  |  |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 143.110.185.169 | Kahuna | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
 | 166.1.70.168 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
 | 45.67.213.73 | clone |  |  |
-| 91.245.225.5 | farmpointer |  |  |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 164.68.103.241 | TronMan | RIPE | RIPE Network Coordination Centre |
 | 89.117.54.156 | Dominik |  |  |
 | 95.217.207.236 | PostHuman |  |  |
@@ -149,6 +149,6 @@
 | 86.102.123.235 | LavaTm26 |  |  |
 | 45.67.212.105 | clone |  |  |
 | 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
-| 143.110.185.169 | Kahuna | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
+| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
