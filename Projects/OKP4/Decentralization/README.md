@@ -62,5 +62,6 @@
 | 167.235.14.83 | Appieasahbie | AkNodes | RIPE | RIPE Network Coordination Centre |
 | 51.158.73.82 | Meria |  |  |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
