@@ -82,7 +82,7 @@
 | 91.245.225.3 | TopOurNodes |  |  |
 | 192.3.168.3 | CryptoSailors | CC-15 CC-192-3-168-0-29 | HostPapa |
 | 86.111.48.158 | test |  |  |
-| 176.103.222.21 | test |  |  |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 | 166.1.70.168 | clone | ACE-NETWORK-10 | Ace Data Centers, Inc. |
 | 45.67.213.73 | clone |  |  |
 | 91.245.225.5 | farmpointer |  |  |
@@ -148,6 +148,6 @@
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
 | 45.67.212.105 | clone |  |  |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
 
 <!-- END_TABLE -->
