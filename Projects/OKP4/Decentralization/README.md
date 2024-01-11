@@ -65,5 +65,6 @@
 | 185.144.99.16 | cryptech |  |  |
 | 161.97.77.219 | Apollo | RIPE | RIPE Network Coordination Centre |
 | 176.103.222.44 | test |  |  |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
