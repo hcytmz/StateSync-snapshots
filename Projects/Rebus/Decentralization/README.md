@@ -4,3 +4,38 @@
 | OVH | 2 | 6.90% | 🟢 |
 | DIGITALOCEAN | 1 | 3.45% | 🟢 |
 | OTHER | 26 | 89.66% | 🟢 |
+
+<!-- START_TABLE -->
+| IP-address | Moniker | NetName | Organization |
+|-------------|-------------|-------------|-------------|
+| 169.155.46.52 | Tendermint | ALLNO | Allnodes Inc |
+| 164.90.225.219 | commercio.network | DIGITALOCEAN-164-90-128-0 | DigitalOcean, LLC |
+| 51.159.195.168 | rebus |  |  |
+| 178.33.161.116 | vertotrade |  |  |
+| 188.165.24.24 | vertonft |  |  |
+| 51.77.195.46 | Nodo42 |  |  |
+| 78.47.153.128 | Palamar |  |  |
+| 164.152.160.233 | Tendermint | ALLNO | Allnodes Inc |
+| 195.201.63.87 | Tendermint |  |  |
+| 65.21.95.15 | 1ce | RIPE | RIPE Network Coordination Centre |
+| 78.46.37.55 | Coinstamp |  |  |
+| 65.108.66.174 | hello-BccNodesRPC | RIPE | RIPE Network Coordination Centre |
+| 146.59.47.210 | USArmy2 | RIPE-ERX-146-59-0-0 | RIPE Network Coordination Centre |
+| 65.108.199.51 | DOUBLETOP_RPC | RIPE | RIPE Network Coordination Centre |
+| 142.132.132.173 | Brochain | RIPE | RIPE Network Coordination Centre |
+| 5.9.73.62 | Brochain |  |  |
+| 65.109.29.150 | range | RIPE | RIPE Network Coordination Centre |
+| 185.144.99.30 | cryptech |  |  |
+| 65.21.170.3 | Munris | RIPE | RIPE Network Coordination Centre |
+| 159.69.200.24 | Simurgh | RIPE | RIPE Network Coordination Centre |
+| 213.239.207.175 | landeros |  |  |
+| 169.155.44.106 | Tendermint | ALLNO | Allnodes Inc |
+| 149.56.131.26 | api1 | HO-2 OVH-VPS-149-56-128 | OVH Hosting, Inc. OVH Hosting, Inc. |
+| 65.108.106.131 | StakeLab | RIPE | RIPE Network Coordination Centre |
+| 65.109.122.105 | Seasting | RIPE | RIPE Network Coordination Centre |
+| 64.5.123.203 | LogiCrypt | NEXCU | NEXCUS TECHNOLOGIES LLC |
+| 65.108.124.219 | MantiCore | RIPE | RIPE Network Coordination Centre |
+| 54.39.96.230 | api0 | HO-2 VPS-BHS | OVH Hosting, Inc. OVH Hosting, Inc. |
+| 136.243.95.80 | BDN | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
+
+<!-- END_TABLE -->
