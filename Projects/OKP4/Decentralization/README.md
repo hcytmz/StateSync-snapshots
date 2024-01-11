@@ -67,6 +67,9 @@
 | 65.21.129.95 | Beametzner | RIPE | RIPE Network Coordination Centre |
 | 65.108.70.119 | AlxVoy | RIPE | RIPE Network Coordination Centre |
 | 65.21.90.141 | SerGo | RIPE | RIPE Network Coordination Centre |
+| 81.0.246.196 | Stake&Relax |  |  |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 2a01:4f8:1c1e:d74d::1 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
