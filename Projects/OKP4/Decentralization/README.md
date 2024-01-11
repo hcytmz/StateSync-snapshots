@@ -24,7 +24,7 @@
 | 65.108.68.86 | emperor | RIPE | RIPE Network Coordination Centre |
 | 65.109.84.33 | Nodejumper | RIPE | RIPE Network Coordination Centre |
 | 65.109.94.221 | TestnetPride | RIPE | RIPE Network Coordination Centre |
-| 144.217.68.182 | Nodeist-okp4-test | HO-2 | OVH Hosting, Inc. |
+| 144.217.68.182 | Nodeist-okp4-test | HO-2 |  |
 | 34.68.242.3 | Dora Factory PGS | GOOGL-2 | Google LLC |
 | 143.198.17.58 | eozdemirok | DIGITALOCEAN-143-198-0-0 | DigitalOcean, LLC |
 | 95.217.110.39 | Validator.run |  |  |
@@ -69,6 +69,6 @@
 | 65.109.85.221 | okp4_bertha | RIPE | RIPE Network Coordination Centre |
 | 46.4.81.204 | Kalia Network |  |  |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
-| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
