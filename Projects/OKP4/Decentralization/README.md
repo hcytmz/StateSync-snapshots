@@ -66,5 +66,8 @@
 | 161.97.77.219 | Apollo | RIPE | RIPE Network Coordination Centre |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
 | 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
+| 195.201.222.82 | okp4-nemeton-1-seed |  |  |
+| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
