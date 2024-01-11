@@ -69,6 +69,7 @@
 | 65.21.90.141 | SerGo | RIPE | RIPE Network Coordination Centre |
 | 84.201.135.7 | cixrh68r |  |  |
 | 91.194.30.203 | riser |  |  |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
 | 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
 | 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
 
