@@ -56,7 +56,7 @@
 | 185.40.78.163 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
+| 154.38.167.188 | wildweststaking |  |  |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -149,5 +149,6 @@
 | 86.102.123.235 | LavaTm26 |  |  |
 | 45.67.212.105 | clone |  |  |
 | 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
+| 143.110.185.169 | Kahuna | DIGITALOCEAN-143-110-128-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
