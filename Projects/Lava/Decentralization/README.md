@@ -44,7 +44,7 @@
 | 185.162.93.88 | clone |  |  |
 | 104.196.5.23 | testnet2-validator-1 | GOOGLE-CLOUD | Google LLC |
 | 162.55.245.144 | e9c2c9b8-739e0e | RIPE | RIPE Network Coordination Centre |
-| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
+| 45.67.212.233 | clone |  |  |
 | 31.220.80.131 | Userr01 |  |  |
 | 178.250.154.26 | clone |  |  |
 | 93.92.205.218 | none |  |  |
@@ -56,7 +56,7 @@
 | 185.40.78.163 | clone |  |  |
 | 161.97.153.175 | nikabirsak22 | RIPE | RIPE Network Coordination Centre |
 | 88.198.8.79 | lava_dora |  |  |
-| 154.38.167.188 | wildweststaking |  |  |
+| 154.38.167.188 | wildweststaking | COGENT-154-38-16 | PSINet, Inc. |
 | 65.108.100.31 | MELLIFERA | RIPE | RIPE Network Coordination Centre |
 | 65.109.88.254 | ksalab | RIPE | RIPE Network Coordination Centre |
 | 185.40.79.18 | clone |  |  |
@@ -148,6 +148,6 @@
 | 185.192.97.25 | DuNock Lava |  |  |
 | 86.102.123.235 | LavaTm26 |  |  |
 | 45.67.212.105 | clone |  |  |
-| 45.67.212.233 | clone |  |  |
+| 18.119.242.242 | NodeStake | AT-88-Z | Amazon Technologies Inc. |
 
 <!-- END_TABLE -->
