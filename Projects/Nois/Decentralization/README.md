@@ -43,7 +43,7 @@
 | 65.108.46.100 | BccNodes | RIPE | RIPE Network Coordination Centre |
 | 136.243.69.55 | e8521d73-db81-5a07-9c8c-a96516e31cdf | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
 | 65.109.118.169 | jayjayservice | RIPE | RIPE Network Coordination Centre |
-| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
 | 65.109.116.151 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 51.91.105.152 | CryptoCats.Pro |  |  |
 | 57.128.144.242 | Forbole | RIPE-ERX-57 | RIPE Network Coordination Centre |
@@ -84,6 +84,7 @@
 | 89.233.108.200 | SECARD |  |  |
 | 65.109.54.232 | myNode | RIPE | RIPE Network Coordination Centre |
 | 103.180.28.70 | forbole | METROPOLIS-AP | Metropolis Networks Inc |
+| 154.53.44.239 | dstake |  |  |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
 | 81.0.248.57 | nois-main |  |  |
 | 45.63.104.164 | nois-node | CONSTANT NET-45-63-104-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
@@ -91,10 +92,8 @@
 | 185.16.39.158 | anun10vv7ign |  |  |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
 | 5.39.249.16 | Sr20de service node |  |  |
-| 154.53.44.239 | dstake |  |  |
-| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
-| 65.109.106.169 | test | RIPE | RIPE Network Coordination Centre |
+| 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
 | 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
-| 65.108.227.217 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
+| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
 
 <!-- END_TABLE -->
