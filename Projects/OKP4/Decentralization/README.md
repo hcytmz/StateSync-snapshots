@@ -57,10 +57,10 @@
 | 162.55.234.70 | Ubuntu-2004-focal-64-minimal | RIPE | RIPE Network Coordination Centre |
 | 65.21.187.101 | SmartHamster | RIPE | RIPE Network Coordination Centre |
 | 172.96.160.233 | ArcLing | RL-323 | ReliableSite.Net LLC |
-| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
 | 142.132.149.118 | dj3g-8bdl | RIPE | RIPE Network Coordination Centre |
-| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
-| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
-| 195.201.222.82 | okp4-nemeton-1-seed |  |  |
+| 213.239.207.175 | landeros |  |  |
+| 167.235.14.83 | Appieasahbie | AkNodes | RIPE | RIPE Network Coordination Centre |
+| 51.158.73.82 | Meria |  |  |
+| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
