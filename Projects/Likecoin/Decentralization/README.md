@@ -18,8 +18,8 @@
 | 165.232.173.74 | leafwind | DIGITALOCEAN-165-232-32-0 | DigitalOcean, LLC |
 | 116.203.225.105 | POSTHUMAN | STUB-116-202SLASH15 |  |
 | 213.136.88.233 | Oldcat-likecoin-relayer |  |  |
-| 167.172.111.114 | e905ab174562 | RIPE-ERX-167-172-0-0 | RIPE Network Coordination Centre |
-| 103.19.25.16 | Yasu | UDOMAIN-HK |  |
+| 57.128.133.16 | likecoin-m-horcrux1-ovh-lon | RIPE-ERX-57 | RIPE Network Coordination Centre |
+| 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 154.53.63.22 | martianforest |  |  |
 | 207.180.197.26 | SupportHK | RIPE | RIPE Network Coordination Centre |
 | 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
@@ -57,7 +57,9 @@
 | 157.230.252.47 | NTUTBlockchain | DIGITALOCEAN-157-230-0-0 | DigitalOcean, LLC |
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
 | 43.224.50.29 | itchitech | HKBNES-HK |  |
-| 57.128.133.16 | likecoin-m-horcrux1-ovh-lon | RIPE-ERX-57 | RIPE Network Coordination Centre |
-| 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
+| 103.19.25.16 | Yasu | UDOMAIN-HK |  |
+| 167.172.111.114 | e905ab174562 | RIPE-ERX-167-172-0-0 | RIPE Network Coordination Centre |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
+| 159.203.118.94 | 7a8a934f35fa | DIGITALOCEAN-159-203-0-0 | DigitalOcean, LLC |
 
 <!-- END_TABLE -->
