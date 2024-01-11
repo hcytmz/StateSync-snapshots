@@ -20,12 +20,12 @@
 | 34.66.248.218 | dataxStaking | GOOGL-2 | Google LLC |
 | 103.19.25.16 | Yasu | UDOMAIN-HK |  |
 | 154.53.63.22 | martianforest |  |  |
-| 203.135.141.208 | YasuArchive01 | WEBHOST-HK |  |
+| 159.203.118.94 | 7a8a934f35fa | DIGITALOCEAN-159-203-0-0 | DigitalOcean, LLC |
 | 58.153.151.40 | Nicholas.HK | NETVIGATOR |  |
 | 15.235.115.151 | Cosmostation | HO-2 SD-BHS-BHS8-B811B-3IEMEMAGGIE-INFRA-002-1-2 | OVH Hosting, Inc. OVH Hosting, Inc. |
 | 65.21.236.25 | OmniFlix Network | RIPE | RIPE Network Coordination Centre |
 | 5.9.121.55 | StakeAngle_RPC |  |  |
-| 73.40.151.121 | The Chicken Coop | CABLE-1 PITTSBURGH-5 |  |
+| 35.185.161.147 | Oursky | GOOGLE-CLOUD | Google LLC |
 | 188.166.226.230 | PM |  |  |
 | 35.233.242.36 | likecoin-fdn-nodes | GOOGLE-CLOUD | Google LLC |
 | 62.171.186.77 | moonbeam |  |  |
@@ -57,8 +57,7 @@
 | 165.22.106.32 | Liker.Social | DIGITALOCEAN-165-22-0-0 | DigitalOcean, LLC |
 | 43.224.50.29 | itchitech | HKBNES-HK |  |
 | 57.128.133.16 | likecoin-m-horcrux1-ovh-lon | RIPE-ERX-57 | RIPE Network Coordination Centre |
-| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 | 167.172.111.114 | e905ab174562 | RIPE-ERX-167-172-0-0 | RIPE Network Coordination Centre |
-| 159.203.118.94 | 7a8a934f35fa | DIGITALOCEAN-159-203-0-0 | DigitalOcean, LLC |
+| 111.235.217.51 | bubbletea | TAIFO-NET |  |
 
 <!-- END_TABLE -->
