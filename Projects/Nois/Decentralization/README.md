@@ -84,16 +84,19 @@
 | 89.233.108.200 | SECARD |  |  |
 | 65.109.54.232 | myNode | RIPE | RIPE Network Coordination Centre |
 | 103.180.28.70 | forbole | METROPOLIS-AP | Metropolis Networks Inc |
-| 154.53.44.239 | dstake |  |  |
 | 38.146.3.181 | nois | COGENT-A | PSINet, Inc. |
 | 81.0.248.57 | nois-main |  |  |
 | 45.63.104.164 | nois-node | CONSTANT NET-45-63-104-0-23 | The Constant Company, LLC Vultr Holdings, LLC |
-| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
+| 154.53.44.239 | dstake |  |  |
 | 185.16.39.158 | anun10vv7ign |  |  |
 | 65.109.88.38 | mainnet-rpc-1 | RIPE | RIPE Network Coordination Centre |
-| 5.39.249.16 | Sr20de service node |  |  |
+| 130.255.170.126 | Sr20de | RIPE-ERX-130-255-0-0 | RIPE Network Coordination Centre |
 | 3.238.187.192 | NodeStake | AT-88-Z AMAZON-IAD | Amazon Technologies Inc. Amazon Data Services NoVa |
+| 142.132.253.112 | itrocket | RIPE | RIPE Network Coordination Centre |
+| 5.39.249.16 | Sr20de service node |  |  |
 | 65.109.106.211 | NakoTurk | RIPE | RIPE Network Coordination Centre |
-| 38.146.3.100 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 38.242.150.63 | nois-1-seed | COGENT-A | PSINet, Inc. |
+| 135.181.209.51 | ChainTools_Snapshot_Node | RIPE | RIPE Network Coordination Centre |
+| 135.181.5.219 | nois-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
