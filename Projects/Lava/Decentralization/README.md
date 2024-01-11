@@ -33,7 +33,7 @@
 | 31.220.76.134 | serhii |  |  |
 | 65.21.131.21 | node | RIPE | RIPE Network Coordination Centre |
 | 45.67.213.137 | clone |  |  |
-| 66.129.101.70 | data-nexus-validator | PEAK10-NETBLK-02 P10-4281-6540-28 | Flexential Corp. |
+| 66.129.101.70 | data-nexus-validator | PEAK10-NETBLK-02 P10-4281-6540-28 |  |
 | 86.111.48.159 | test |  |  |
 | 131.153.158.137 | Republic Runtime | SSL-65 | SECURED SERVERS LLC |
 | 162.19.217.52 | test | RIPE | RIPE Network Coordination Centre |
@@ -50,7 +50,7 @@
 | 93.92.205.218 | none |  |  |
 | 158.220.89.86 | AVIAONE | RIPE-ERX-158-220-0-0 | RIPE Network Coordination Centre |
 | 5.161.132.110 | LavaRelayUS |  |  |
-| 65.108.105.48 | d289675c-9b8e-5850-93c9-56ba24baa6c0 | RIPE | RIPE Network Coordination Centre |
+| 46.4.55.46 | LiveRaveN |  |  |
 | 144.76.114.49 | mynode | RIPE-ERX-144-76-0-0 | RIPE Network Coordination Centre |
 | 65.109.89.18 | itrocket | RIPE | RIPE Network Coordination Centre |
 | 185.40.78.163 | clone |  |  |
@@ -149,6 +149,6 @@
 | 86.102.123.235 | LavaTm26 |  |  |
 | 45.67.212.105 | clone |  |  |
 | 194.163.174.231 | AviaDoc_by_AviaOne |  |  |
-| 195.3.221.118 | erfer4 |  |  |
+| 5.9.122.49 | NodexPlus |  |  |
 
 <!-- END_TABLE -->
