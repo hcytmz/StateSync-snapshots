@@ -54,17 +54,18 @@
 | 161.97.79.109 | MELLIFERA-NODE | RIPE | RIPE Network Coordination Centre |
 | 65.109.92.249 | Nod | RIPE | RIPE Network Coordination Centre |
 | 5.9.147.22 | StingRay |  |  |
-| 65.109.85.221 | okp4_bertha | RIPE | RIPE Network Coordination Centre |
+| 161.97.77.219 | Apollo | RIPE | RIPE Network Coordination Centre |
 | 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
 | 95.217.203.43 | swiftstaking |  |  |
 | 65.21.90.141 | SerGo | RIPE | RIPE Network Coordination Centre |
 | 91.194.30.203 | riser |  |  |
-| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 176.103.222.44 | test |  |  |
 | 81.0.246.196 | Stake&Relax |  |  |
 | 167.235.14.83 | Appieasahbie | AkNodes | RIPE | RIPE Network Coordination Centre |
 | 185.144.99.16 | cryptech |  |  |
-| 161.97.77.219 | Apollo | RIPE | RIPE Network Coordination Centre |
-| 176.103.222.44 | test |  |  |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 65.109.85.221 | okp4_bertha | RIPE | RIPE Network Coordination Centre |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
