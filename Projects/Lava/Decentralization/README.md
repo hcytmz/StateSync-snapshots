@@ -39,7 +39,7 @@
 | 65.21.131.21 | node | AS24940 Hetzner Online GmbH | 🇫🇮 FI | Helsinki |
 | 154.53.55.21 | Hawkk | AS40021 Nubes, LLC | 🇺🇸 US | New York City |
 | 66.129.101.70 | data-nexus-validator | AS13649 Flexential Colorado Corp. | 🇺🇸 US | St. Petersburg |
-| 86.111.48.159 | test | AS50304 Blix Solutions AS |  NO | Oslo |
+| 86.111.48.159 | test | AS50304 Blix Solutions AS | 🇳🇴 NO | Oslo |
 | 131.153.158.137 | Republic Runtime | AS60558 PHOENIX NAP, LLC. | 🇳🇱 NL | Amsterdam |
 | 162.19.217.52 | test | AS16276 OVH SAS | 🇩🇪 DE | Frankfurt am Main |
 | 167.235.14.83 | Ubuntu-2204-jammy-amd64-base | AS24940 Hetzner Online GmbH | 🇩🇪 DE | Falkenstein |
@@ -83,10 +83,10 @@
 | 65.109.143.184 | srklt | AS24940 Hetzner Online GmbH | 🇫🇮 FI | Helsinki |
 | 65.108.99.250 | xAlex | AS24940 Hetzner Online GmbH | 🇫🇮 FI | Helsinki |
 | 46.4.14.172 | PPNV | AS24940 Hetzner Online GmbH | 🇩🇪 DE | Falkenstein |
-| 86.111.48.155 | test | AS50304 Blix Solutions AS |  NO | Oslo |
+| 86.111.48.155 | test | AS50304 Blix Solutions AS | 🇳🇴 NO | Oslo |
 | 91.245.225.3 | TopOurNodes | AS9002 RETN Limited | 🇨🇭 CH | Zürich |
 | 192.3.168.3 | CryptoSailors | AS36352 HostPapa | 🇺🇸 US | Los Angeles |
-| 86.111.48.158 | test | AS50304 Blix Solutions AS |  NO | Oslo |
+| 86.111.48.158 | test | AS50304 Blix Solutions AS | 🇳🇴 NO | Oslo |
 | 143.110.185.169 | Kahuna | AS14061 DigitalOcean, LLC | 🇮🇳 IN | Doddaballapura |
 | 166.1.70.168 | clone | AS48614 ITSOFT LLC | 🇷🇺 RU | Moscow |
 | 194.163.174.231 | AviaDoc_by_AviaOne | AS51167 Contabo GmbH | 🇩🇪 DE | Düsseldorf |
