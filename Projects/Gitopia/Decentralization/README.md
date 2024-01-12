@@ -123,7 +123,7 @@
 | 34.143.129.197 | gitopia-unisentry-2b | AS396982 Google LLC | 🇸🇬 SG | Singapore |
 | 65.108.15.170 | ramuchi.tech | AS24940 Hetzner Online GmbH | 🇫🇮 FI | Helsinki |
 | 35.240.242.57 | gitopia-graphql-unisentry-1 | AS396982 Google LLC | 🇸🇬 SG | Singapore |
-| 86.33.1.116 | Decloud Nodes Lab | AS205714 Telemach Hrvatska d.o.o. |  HR | Zagreb |
+| 86.33.1.116 | Decloud Nodes Lab | AS205714 Telemach Hrvatska d.o.o. | 🇭🇷 HR | Zagreb |
 | 65.21.198.100 | nodexrelay | AS24940 Hetzner Online GmbH | 🇫🇮 FI | Helsinki |
 | 31.220.75.207 | ahmkah | AS51167 Contabo GmbH | 🇩🇪 DE | Düsseldorf |
 | 142.132.199.236 | LiveRaveN | AS24940 Hetzner Online GmbH | 🇩🇪 DE | Falkenstein |
