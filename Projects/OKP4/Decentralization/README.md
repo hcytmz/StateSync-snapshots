@@ -41,7 +41,7 @@
 | 195.3.220.54 | mv7bfopywjxf |  |  |
 | 65.21.170.3 | Munris | RIPE | RIPE Network Coordination Centre |
 | 103.234.71.245 | okp4 | REGEN_IN |  |
-| 167.235.180.97 | w3coins | RIPE | RIPE Network Coordination Centre |
+| 162.248.225.244 | Noderunners | KING-SERVERS KING-SERVERS-DSPOOL | Hosting Solution Ltd. |
 | 65.109.92.249 | Nod | RIPE | RIPE Network Coordination Centre |
 | 194.34.232.225 | nemeton |  |  |
 | 38.242.251.204 | Lexar | COGENT-A | PSINet, Inc. |
@@ -50,7 +50,7 @@
 | 81.30.157.35 | CryptoSailors |  |  |
 | 91.194.30.203 | riser |  |  |
 | 148.251.133.248 | 8345-asdg-asdg-4g-adsg | RIPE-ERX-148-251-0-0 | RIPE Network Coordination Centre |
-| 162.248.225.244 | Noderunners | KING-SERVERS KING-SERVERS-DSPOOL | Hosting Solution Ltd. |
+| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
 | 136.243.88.91 | Enigma | RIPE-ERX-136-243-0-0 | RIPE Network Coordination Centre |
 | 144.217.68.182 | Nodeist-okp4-test | HO-2 | OVH Hosting, Inc. |
 | 65.108.68.86 | emperor | RIPE | RIPE Network Coordination Centre |
@@ -69,6 +69,7 @@
 | 65.108.70.119 | AlxVoy | RIPE | RIPE Network Coordination Centre |
 | 65.21.90.141 | SerGo | RIPE | RIPE Network Coordination Centre |
 | 81.0.246.196 | Stake&Relax |  |  |
-| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
+| 167.235.180.97 | w3coins | RIPE | RIPE Network Coordination Centre |
+| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
 
 <!-- END_TABLE -->
