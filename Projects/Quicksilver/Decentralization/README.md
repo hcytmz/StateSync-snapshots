@@ -139,7 +139,7 @@
 | 38.242.151.124 | b1568b554873 | AS51167 Contabo GmbH | 🇩🇪 DE | Düsseldorf |
 | 95.217.197.100 | node001 | AS24940 Hetzner Online GmbH | 🇫🇮 FI | Tuusula |
 | 65.108.201.46 | test | AS24940 Hetzner Online GmbH | 🇫🇮 FI | Helsinki |
-| 80.64.208.149 | Simply Staking | AS200295 Skoed Limited |  MT | Qormi |
+| 80.64.208.149 | Simply Staking | AS200295 Skoed Limited | 🇲🇹 MT | Qormi |
 | 108.181.106.114 | Node2 | AS40676 Psychz Networks | 🇺🇸 US | Los Angeles |
 | 159.89.171.207 | KingSuper | AS14061 DigitalOcean, LLC | 🇮🇳 IN | Doddaballapura |
 | 20.38.38.221 | ADORA | AS8075 Microsoft Corporation | 🇺🇸 US | Phoenix |
