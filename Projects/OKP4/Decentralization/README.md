@@ -39,7 +39,7 @@
 | 65.108.192.123 | Cros-Nest | RIPE | RIPE Network Coordination Centre |
 | 78.46.74.23 | Lex_Prime |  |  |
 | 195.3.220.54 | mv7bfopywjxf |  |  |
-| 116.202.231.58 | kjnodes-testnet-backup | STUB-116-202SLASH15 |  |
+| 65.21.170.3 | Munris | RIPE | RIPE Network Coordination Centre |
 | 103.234.71.245 | okp4 | REGEN_IN |  |
 | 167.235.180.97 | w3coins | RIPE | RIPE Network Coordination Centre |
 | 65.109.92.249 | Nod | RIPE | RIPE Network Coordination Centre |
@@ -71,6 +71,5 @@
 | 81.0.246.196 | Stake&Relax |  |  |
 | 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
 | 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
-| 195.201.222.82 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
