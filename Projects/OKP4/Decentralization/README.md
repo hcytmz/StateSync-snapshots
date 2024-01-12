@@ -69,8 +69,6 @@
 | 65.108.70.119 | AlxVoy | RIPE | RIPE Network Coordination Centre |
 | 65.21.90.141 | SerGo | RIPE | RIPE Network Coordination Centre |
 | 81.0.246.196 | Stake&Relax |  |  |
-| 65.108.212.224 | okp4-nemeton-1-multiseed | RIPE | RIPE Network Coordination Centre |
-| 65.109.68.190 | okp4-nemeton-1-seed | RIPE | RIPE Network Coordination Centre |
-| 38.242.150.63 | okp4-nemeton-1-seed | COGENT-A | PSINet, Inc. |
+| 176.9.82.221 | okp4-nemeton-1-seed |  |  |
 
 <!-- END_TABLE -->
