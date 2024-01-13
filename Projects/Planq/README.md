@@ -71,4 +71,4 @@ We marked such validators with a red symbol
 
 
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>185.190.140.93:14657</td><td>planq_7070-2</td><td>geonodes 🔴</td><td>6966826</td><td>1763655</td><td>False</td><td>on</td><td>629047</td><td>2024-01-13T04:10:17.760646979UTC</td></tr><tr><td>135.181.114.86:13657</td><td>planq_7070-2</td><td>NodeName 🔴</td><td>6966827</td><td>6518001</td><td>False</td><td>off</td><td>26194</td><td>2024-01-13T04:10:28.375185211UTC</td></tr><tr><td>66.45.246.166:1077</td><td>planq_7070-2</td><td>STAVR-Service 🟢</td><td>6966831</td><td>6966001</td><td>False</td><td>on</td><td>0</td><td>2024-01-13T04:10:49.360196271UTC</td></tr></table>
