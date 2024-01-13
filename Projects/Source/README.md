@@ -42,7 +42,7 @@ sudo systemctl restart sourced && journalctl -u sourced -f -o cat
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Source/Testnet)
 =
 
-# SnapShot Testnet (~0.3 GB) updated every 6 hours
+# SnapShot Testnet (~0.3 GB)  (Temporarily stopped)
 ```python
 cd $HOME
 apt install lz4
