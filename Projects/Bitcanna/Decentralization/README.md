@@ -40,7 +40,7 @@
 | 85.214.208.127 | 420Validator | AS6724 Strato AG | 🇩🇪 DE | Berlin |
 | 95.216.242.82 | Moniker | AS24940 Hetzner Online GmbH | 🇫🇮 FI | Helsinki |
 | 144.91.114.250 | OptimusValidatorNetwork | AS51167 Contabo GmbH | 🇩🇪 DE | Nürnberg |
-| 190.216.145.52 | ViteSpanishNode | AS3549 Level 3 Parent, LLC |  CL | Santiago |
+| 190.216.145.52 | ViteSpanishNode | AS3549 Level 3 Parent, LLC | 🇨🇱 CL | Santiago |
 | 185.180.222.190 | CryptoSailors | AS49981 WorldStream B.V. | 🇳🇱 NL | Naaldwijk |
 | 161.97.150.65 | New_peer | AS51167 Contabo GmbH | 🇩🇪 DE | Düsseldorf |
 | 192.99.4.66 | CryptoNet | AS16276 OVH SAS | 🇨🇦 CA | Beauharnois |
