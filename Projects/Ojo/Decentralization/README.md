@@ -34,7 +34,7 @@
 | 95.111.240.82 | CryptoSJnet | AS51167 Contabo GmbH | 🇩🇪 DE | Frankfurt am Main |
 | 138.201.85.176 | ojo-devnet | AS24940 Hetzner Online GmbH | 🇩🇪 DE | Falkenstein |
 | 94.250.202.215 | node | AS51167 Contabo GmbH | 🇩🇪 DE | Düsseldorf |
-| 45.142.212.115 | tangogenlu_OJO | AS44477 STARK INDUSTRIES SOLUTIONS LTD |  MD | Chisinau |
+| 45.142.212.115 | tangogenlu_OJO | AS44477 STARK INDUSTRIES SOLUTIONS LTD | 🇲🇩 MD | Chisinau |
 | 65.109.90.171 | R1M | AS24940 Hetzner Online GmbH | 🇫🇮 FI | Helsinki |
 | 65.108.68.86 | emperor | AS24940 Hetzner Online GmbH | 🇫🇮 FI | Helsinki |
 | 95.217.190.81 | STANV | AS24940 Hetzner Online GmbH | 🇫🇮 FI | Tuusula |
