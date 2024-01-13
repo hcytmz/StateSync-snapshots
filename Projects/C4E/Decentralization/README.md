@@ -15,11 +15,11 @@
 | IP-address | Moniker | Organization | Country | City |
 |-------------|---------|---------------|---------|------|
 | 65.108.70.119 | AlxVoy | AS24940 Hetzner Online GmbH | 🇫🇮 FI | Helsinki |
-| 172.20.1.8 | c4e-dao2-mainnet | null |  null | null |
+| 172.20.1.8 | c4e-dao2-mainnet | null | 🏴‍☠️ null | null |
 | 51.75.55.49 | keno-saas-mainnet | AS16276 OVH SAS | 🇵🇱 PL | Warsaw |
 | 167.86.82.140 | superjax | AS51167 Contabo GmbH | 🇩🇪 DE | Munich |
 | 188.132.178.170 | 0xaB6a4 | AS62077 DT Iletisim Hizmetleri A.S. | 🇹🇷 TR | Istanbul |
-| 172.20.1.3 | c4e-sentry3-mainnet | null |  null | null |
+| 172.20.1.3 | c4e-sentry3-mainnet | null | 🏴‍☠️ null | null |
 | 163.172.18.162 | c4e-dao3-mainnet | AS12876 SCALEWAY S.A.S. | 🇫🇷 FR | Paris |
 | 139.144.96.120 | grenton-sass-mainnet | AS63949 Akamai Connected Cloud | 🇦🇺 AU | Sydney |
 | 170.64.175.31 | f9bfe9948fce | AS14061 DigitalOcean, LLC | 🇦🇺 AU | Sydney |
@@ -30,7 +30,7 @@
 | 95.214.52.138 | duality | AS201814 MEVSPACE sp. z o.o. | 🇵🇱 PL | Warsaw |
 | 188.165.195.79 | ekrypto | AS16276 OVH SAS | 🇫🇷 FR | Lille |
 | 185.252.235.83 | Alien | AS51167 Contabo GmbH | 🇩🇪 DE | Düsseldorf |
-| 172.20.1.4 | c4e-sentry4-mainnet | null |  null | null |
+| 172.20.1.4 | c4e-sentry4-mainnet | null | 🏴‍☠️ null | null |
 | 94.130.230.164 | node-1 | AS24940 Hetzner Online GmbH | 🇩🇪 DE | Nürnberg |
 | 167.172.69.221 | 4eca8255c3cc | AS14061 DigitalOcean, LLC | 🇸🇬 SG | Singapore |
 | 65.108.238.61 | alex | AS24940 Hetzner Online GmbH | 🇫🇮 FI | Helsinki |
