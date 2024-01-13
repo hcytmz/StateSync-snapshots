@@ -68,7 +68,7 @@
 | 134.209.224.208 | fb8ad4160dea | AS14061 DigitalOcean, LLC | 🇩🇪 DE | Frankfurt am Main |
 | 157.90.129.168 | KalpaTech | AS24940 Hetzner Online GmbH | 🇩🇪 DE | Falkenstein |
 | 15.235.65.125 | Pupmos | AS16276 OVH SAS | 🇨🇦 CA | Beauharnois |
-| 80.64.211.108 | Simply Staking | AS200295 Skoed Limited |  MT | Floriana |
+| 80.64.211.108 | Simply Staking | AS200295 Skoed Limited | 🇲🇹 MT | Floriana |
 | 5.9.49.11 | 2923knwefk | AS24940 Hetzner Online GmbH | 🇩🇪 DE | Falkenstein |
 | 135.181.141.29 | juno-node-1 | AS24940 Hetzner Online GmbH | 🇫🇮 FI | Tuusula |
 | 136.243.79.95 | Validavia | AS24940 Hetzner Online GmbH | 🇩🇪 DE | Falkenstein |
