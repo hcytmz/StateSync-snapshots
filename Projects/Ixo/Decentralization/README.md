@@ -60,6 +60,6 @@
 | 172.111.52.52 | Haliphron Atlanticus | AS395322 Halton Datacenter Inc. | 🇨🇦 CA | Toronto |
 | 144.76.63.67 | ezstaking-sentry-1 | AS24940 Hetzner Online GmbH | 🇩🇪 DE | Falkenstein |
 | 167.172.111.114 | e905ab174562 | AS14061 DigitalOcean, LLC | 🇩🇪 DE | Frankfurt am Main |
-| 80.64.208.42 | ixo-mainnet-validator | AS200295 Skoed Limited |  MT | San Ġiljan |
+| 80.64.208.42 | ixo-mainnet-validator | AS200295 Skoed Limited | 🇲🇹 MT | San Ġiljan |
 
 <!-- END_TABLE -->
