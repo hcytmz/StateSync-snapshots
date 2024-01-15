@@ -6,7 +6,7 @@
 
 # StateSync
 ```python
-SNAP_RPC=http://cheqd.rpc.m.stavr.tech:26337
+SNAP_RPC=https://cheqd.rpc.m.stavr.tech:443
 SEEDS=46bb1e68fcc2750ecdc4253986d653f4bd7228ef@cheqd.peer.stavr.tech:21016
 cp $HOME/.cheqdnode/data/priv_validator_state.json $HOME/.cheqdnode/priv_validator_state.json.backup
 sed -i -e "/seeds =/ s/= .*/= \"$SEEDS\"/"  $HOME/.cheqdnode/config/config.toml
@@ -42,7 +42,7 @@ sudo systemctl restart cheqd-noded && journalctl -u cheqd-noded -f -o cat
 
 🔥EXPLORER🔥:     https://explorer.stavr.tech/Cheqd-Mainnet        `Indexer "ON"` \
 🔥API🔥:          https://cheqd.api.m.stavr.tech \
-🔥RPC🔥:          http://cheqd.rpc.m.stavr.tech:26337              `Snapshot-interval = 1000` \
+🔥RPC🔥:          https://cheqd.rpc.m.stavr.tech:443              `Snapshot-interval = 1000` \
 🔥gRPC🔥:         http://cheqd.grpc.m.stavr.tech:9337 \
 🔥peer🔥:         `46bb1e68fcc2750ecdc4253986d653f4bd7228ef@cheqd.peer.stavr.tech:21016` \
 🔥Addrbook🔥:  `wget -O $HOME/.cheqdnode/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Cheqd/addrbook.json"` \
