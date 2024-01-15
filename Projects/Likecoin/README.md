@@ -6,7 +6,7 @@
 
 # StateSync
 ```python
-SNAP_RPC=http://like.rpc.m.stavr.tech:1007
+SNAP_RPC=https://like.rpc.m.stavr.tech:443
 SEEDS=fd7589625f4ad41bb93f96f4c962ed6638426497@like.peer.stavr.tech:1006
 cp $HOME/.liked/data/priv_validator_state.json $HOME/.liked/priv_validator_state.json.backup
 sed -i -e "/seeds =/ s/= .*/= \"$SEEDS\"/"  $HOME/.liked/config/config.toml
@@ -35,7 +35,7 @@ SOON
 
 🔥EXPLORER🔥:     https://explorer.stavr.tech/Likecoin-M        `Indexer "ON"` \
 🔥API🔥:          https://like.api.m.stavr.tech \
-🔥RPC🔥:          http://like.rpc.m.stavr.tech:1007              `Snapshot-interval = 1000` \
+🔥RPC🔥:          https://like.rpc.m.stavr.tech:443              `Snapshot-interval = 1000` \
 🔥gRPC🔥:         http://like.grpc.m.stavr.tech:2000 \
 🔥peer🔥:         `fd7589625f4ad41bb93f96f4c962ed6638426497@like.peer.stavr.tech:1006` \
 🔥Addrbook🔥:  `wget -O $HOME/.liked/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Likecoin/addrbook.json"` \
