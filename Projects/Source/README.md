@@ -91,4 +91,4 @@ We marked such validators with a red symbol
 =
 
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>65.21.57.72:26657</td><td>source-1</td><td>WellNode 🔴</td><td>1473696</td><td>1333943</td><td>False</td><td>off</td><td>126357</td><td>2024-01-15T10:34:51.194532744UTC</td></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>65.21.57.72:26657</td><td>source-1</td><td>WellNode 🔴</td><td>1476253</td><td>1333943</td><td>False</td><td>off</td><td>126434</td><td>2024-01-15T14:36:05.976192093UTC</td></tr></table>
