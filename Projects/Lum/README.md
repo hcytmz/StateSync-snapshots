@@ -65,6 +65,6 @@ We marked such validators with a red symbol
 
 </details>
 
-[raw Mainnet json](https://rpc-check.lum.stavr.tech/lum/rpc-lum-result.json)
+[raw Mainnet json](https://rpc-check.lum.stavr.tech/lum/rpclum-result.json)
 =
 
