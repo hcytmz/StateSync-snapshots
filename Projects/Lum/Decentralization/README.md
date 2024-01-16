@@ -64,7 +64,7 @@
 | 5.9.100.51 | STAKECRAFT | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
 | 185.67.144.78 | SquallNetwork | AS201675 SACLAK NETWORK SARL | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FR.svg) FR | Loudun |
 | 159.69.59.89 | ugaenn | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
-| 72.20.10.17 | E2ard | AS33438 StackPath, LLC. |  AE | Dubai |
+| 72.20.10.17 | E2ard | AS33438 StackPath, LLC. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/AE.svg) AE | Dubai |
 | 138.201.83.250 | uGaenn | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
 | 85.237.193.100 | Consensus One | AS56540 Consensus One Sp. z o.o. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/PL.svg) PL | Warsaw |
 | 185.16.39.65 | ro9uypotfxz9 | AS201814 MEVSPACE sp. z o.o. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/PL.svg) PL | Warsaw |
