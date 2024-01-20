@@ -43,7 +43,7 @@
 | 138.201.83.250 | uGaenn | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
 | 185.67.144.78 | SquallNetwork | AS201675 SACLAK NETWORK SARL | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FR.svg) FR | Loudun |
 | 164.90.181.78 | alpha2 | AS14061 DigitalOcean, LLC | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Frankfurt am Main |
-| 109.230.36.216 | Merkan | AS15962 Orange Slovensko a.s. |  SK | Prešov |
+| 109.230.36.216 | Merkan | AS15962 Orange Slovensko a.s. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/SK.svg) SK | Prešov |
 | 194.180.176.49 | Crypto Lion | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Düsseldorf |
 | 154.12.253.16 | os-lum-node-usc | AS40021 Nubes, LLC | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | St. Louis |
 | 65.21.204.171 | monitor | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Tuusula |
