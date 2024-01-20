@@ -59,6 +59,6 @@
 | 176.9.110.12 | Sirius.nodes | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
 | 185.230.138.142 | FooZee | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Düsseldorf |
 | 65.108.231.124 | itrocket_seed | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
-| 86.99.227.94 | CryptoSJ.net | AS5384 EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC |  AE | Dubai |
+| 86.99.227.94 | CryptoSJ.net | AS5384 EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/AE.svg) AE | Dubai |
 
 <!-- END_TABLE -->
