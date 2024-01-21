@@ -72,4 +72,4 @@ We marked such validators with a red symbol
 =
 
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>62.210.90.254:26657</td><td>ixo-5</td><td>empower-validator 🔴</td><td>4426123</td><td>1</td><td>False</td><td>on</td><td>2294957</td><td>2024-01-21T14:37:37.231029836UTC</td></tr><tr><td>66.45.246.166:1017</td><td>ixo-5</td><td>STAVR-Service 🟢</td><td>4426123</td><td>3753001</td><td>False</td><td>on</td><td>0</td><td>2024-01-21T14:37:39.913944681UTC</td></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>66.45.246.166:1017</td><td>ixo-5</td><td>STAVR-Service 🟢</td><td>4428619</td><td>3753001</td><td>False</td><td>on</td><td>0</td><td>2024-01-21T18:39:22.533340477UTC</td></tr></table>
