@@ -135,7 +135,7 @@
 | 23.108.55.212 | CosmoBook | AS393886 Leaseweb USA, Inc. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | Miami |
 | 67.209.54.93 | umee | AS20326 TeraSwitch Networks Inc. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/SG.svg) SG | Singapore |
 | 65.109.69.59 | hello-umee-backup | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
-| 31.7.196.77 | Anonstake | AS56635 XENYA inzeniring, proizvodnja in trgovina, d.o.o. Ljubljana |  SI | Ljubljana |
+| 31.7.196.77 | Anonstake | AS56635 XENYA inzeniring, proizvodnja in trgovina, d.o.o. Ljubljana | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/SI.svg) SI | Ljubljana |
 | 135.125.4.73 | rpc-1.umee.nodes.guru | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FR.svg) FR | Strasbourg |
 | 94.250.203.6 | AlexRPC | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Düsseldorf |
 | 65.21.29.228 | Kitkat-umee-relayer | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Tuusula |
