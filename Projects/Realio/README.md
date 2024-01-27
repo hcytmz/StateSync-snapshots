@@ -49,6 +49,8 @@ sudo systemctl restart realio-networkd && journalctl -u realio-networkd -f -o ca
 🔥Auto_install script Mainnet(StateSync/SnapShot included)🔥: ```wget -O realio https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Realio/realio && chmod +x realio && ./realio``` \
 🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Realio/Decentralization)🔥
 
+# RPC Scanning
+
 <details>
 <summary>RPC Scanning</summary>
 
