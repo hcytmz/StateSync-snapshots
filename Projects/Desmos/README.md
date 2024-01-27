@@ -67,5 +67,5 @@ We marked such validators with a red symbol
 
 </details>
 
-[raw Mainnet json](https://rpc-check.desmosm.stavr.tech/desmosm/rpc-desmosm_result.json)
+[raw Mainnet json](https://rpc-check.desmosm.stavr.tech/desmosm/rpc-desmosm-result.json)
 =
