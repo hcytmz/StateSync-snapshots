@@ -49,6 +49,8 @@ sudo systemctl restart shentud && journalctl -u shentud -f -o cat
 🔥Genesis🔥:  `wget -O $HOME/.shentud/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Shentu/genesis.json"` \
 🔥Auto_install script🔥:`wget -O shentum https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Shentu/shentum && chmod +x shentum && ./shentum`
 
+<h1 align="center"> RPC Scanning</h1>
+
 <details>
 <summary>RPC Scanning</summary>
 
