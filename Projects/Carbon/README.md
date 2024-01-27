@@ -40,7 +40,7 @@ sudo systemctl restart carbond && journalctl -u carbond -f -o cat
 🔥EXPLORER🔥:     https://explorer.stavr.tech/Carbon-Mainnet        `Indexer "ON"` \
 🔥API🔥:          https://carbon.api.m.stavr.tech \
 🔥RPC🔥:          https://carbon.rpc.m.stavr.tech:443              `Snapshot-interval = 1000` \
-🔥EVM-RPC🔥:      https://carbon.evm-rpc.m.stavr:5115 \
+🔥EVM-RPC🔥:      http://carbon.evm-rpc.m.stavr:5115 \
 🔥gRPC🔥:         http://carbon.grpc.m.stavr.tech:100 \
 🔥seed🔥:      `f5f833ec5096dc9d1dd63e7d6a2727059696590e@carbon.seed.stavr.tech:2006` \
 🔥Addrbook🔥:  `wget -O $HOME/.carbon/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Carbon/addrbook.json"` \
