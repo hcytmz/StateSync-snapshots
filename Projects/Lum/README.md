@@ -49,6 +49,8 @@ sudo systemctl restart lumd && journalctl -u lumd -f -o cat
 🔥Auto_install script🔥:`wget -O lumm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Lum/lumm && chmod +x lumm && ./lumm` \
 🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Lum/Decentralization)🔥
 
+<h1 align="center"> RPC Scanning</h1>
+
 <details>
 <summary>RPC Scanning</summary>
 
