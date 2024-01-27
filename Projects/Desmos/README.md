@@ -7,9 +7,6 @@
 # StateSync
 ```python
 SNAP_RPC=https://desmos.rpc.m.stavr.tech:443
-SEEDS=a225d2e2dfe610993d83bf5e25025bde3ef38095@desmos.seed.stavr.tech:1046
-cp $HOME/.desmos/data/priv_validator_state.json $HOME/.desmos/priv_validator_state.json.backup
-sed -i -e "/seeds =/ s/= .*/= \"$SEEDS\"/"  $HOME/.desmos/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 1000)); \
 TRUST_HASH=$(curl -s "$SNAP_RPC/block?height=$BLOCK_HEIGHT" | jq -r .result.block_id.hash)
@@ -23,8 +20,8 @@ s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
 s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.desmos/config/config.toml
 desmos tendermint unsafe-reset-all
 curl -o - -L https://desmos.wasm.stavr.tech/wasm-desmos.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.desmos --strip-components 2
-mv $HOME/.desmos/priv_validator_state.json.backup $HOME/.desmos/data/priv_validator_state.json
-sudo systemctl restart desmos && journalctl -u desmos -f -o cat
+wget -O $HOME/.desmos/config/addrbook.json "https://raw.githubusercontent.com/nodersteam/cosmos-adrbook/main/desmos/addrbook.json"
+sudo systemctl restart desmos && sudo journalctl -u desmos -f -o cat
 ```
 # SnapShot (~0.9 GB) updated every 5 hours
 ```python
