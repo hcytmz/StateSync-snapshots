@@ -23,7 +23,7 @@ wget -O $HOME/.chihuahuad/config/addrbook.json "https://raw.githubusercontent.co
 curl -o - -L https://chihua.wasm.stavr.tech/wasm-chihua.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.chihuahuad --strip-components 2
 sudo systemctl restart chihuahuad && sudo journalctl -u chihuahuad -f -o cat
 ```
-# SnapShot (~0.9 GB) updated every 5 hours
+# SnapShot (~3 GB) updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
