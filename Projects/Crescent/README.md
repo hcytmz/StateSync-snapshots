@@ -6,6 +6,7 @@
 
 # StateSync
 ```python
+cd $HOME
 SNAP_RPC=https://crescent.rpc.m.stavr.tech:443
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 1000)); \
