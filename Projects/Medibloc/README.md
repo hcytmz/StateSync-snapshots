@@ -22,7 +22,7 @@ panacead tendermint unsafe-reset-all
 wget -O $HOME/.panacea/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Medibloc/addrbook.json"
 sudo systemctl restart panacead && sudo journalctl -u panacead -f -o cat
 ```
-# SnapShot (~2 GB) updated every 5 hours
+# SnapShot (~0.9 GB) updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
