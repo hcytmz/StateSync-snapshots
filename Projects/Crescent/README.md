@@ -69,3 +69,6 @@ We marked such validators with a red symbol
 [raw Mainnet json](https://rpc-check.crescentm.stavr.tech/crescentm/rpc-crescentm-result.json)
 =
 
+
+
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>148.251.246.239:28005</td><td>crescent-1</td><td>crescent-node 🟢</td><td>10701235</td><td>1</td><td>False</td><td>on</td><td>0</td><td>2024-01-28T11:01:43.663393229UTC</td></tr><tr><td>188.172.228.225:26657</td><td>crescent-1</td><td>YTWOFUND_PEREFMAIN 🟢</td><td>10701241</td><td>6160001</td><td>False</td><td>on</td><td>0</td><td>2024-01-28T11:02:16.908701579UTC</td></tr><tr><td>5.9.99.172:14557</td><td>crescent-1</td><td>BRAND-crescent-relayer 🟢</td><td>10701243</td><td>6594333</td><td>False</td><td>on</td><td>0</td><td>2024-01-28T11:02:25.340908162UTC</td></tr><tr><td>148.251.8.22:26457</td><td>crescent-1</td><td>crescent_rpc 🟢</td><td>10701248</td><td>10499647</td><td>False</td><td>on</td><td>0</td><td>2024-01-28T11:02:50.398910185UTC</td></tr></table>
