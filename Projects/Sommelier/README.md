@@ -68,3 +68,6 @@ We marked such validators with a red symbol
 
 [raw Mainnet json](https://rpc-check.somm.stavr.tech/somm/rpc-somm-result.json)
 =
+
+
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>5.9.99.172:14157</td><td>sommelier-3</td><td>BRAND-sommelier-relayer 🟢</td><td>12868643</td><td>9057545</td><td>False</td><td>on</td><td>0</td><td>2024-01-29T08:33:01.663685747UTC</td></tr><tr><td>148.113.6.121:34657</td><td>sommelier-3</td><td>Stakewolle 🔴</td><td>12868656</td><td>12151129</td><td>False</td><td>off</td><td>986277</td><td>2024-01-29T08:34:14.770691589UTC</td></tr><tr><td>57.128.20.238:48657</td><td>sommelier-3</td><td>rpc 🟢</td><td>12868649</td><td>12391083</td><td>False</td><td>on</td><td>0</td><td>2024-01-29T08:33:35.043185064UTC</td></tr><tr><td>135.181.210.171:2077</td><td>sommelier-3</td><td>STAVR-Service 🟢</td><td>12868646</td><td>12868001</td><td>False</td><td>on</td><td>0</td><td>2024-01-29T08:33:20.486314985UTC</td></tr></table>
