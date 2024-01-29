@@ -23,7 +23,7 @@ wget -O $HOME/.oraid/config/addrbook.json "https://raw.githubusercontent.com/oba
 curl -o - -L https://orai.wasm.stavr.tech/wasm-orai.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.oraid --strip-components 2
 sudo systemctl restart oraid && sudo journalctl -u oraid -f -o cat
 ```
-# SnapShot (~0.9 GB) updated every 5 hours
+# SnapShot (~2 GB) updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
