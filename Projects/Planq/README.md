@@ -71,4 +71,4 @@ We marked such validators with a red symbol
 
 
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>185.190.140.93:14657</td><td>planq_7070-2</td><td>geonodes 🔴</td><td>7218798</td><td>1763655</td><td>False</td><td>on</td><td>631930</td><td>2024-01-28T23:32:16.341229515UTC</td></tr><tr><td>65.108.66.174:31657</td><td>planq_7070-2</td><td>hello-BccNodesRPC 🟢</td><td>7218805</td><td>6064001</td><td>False</td><td>on</td><td>0</td><td>2024-01-28T23:32:55.321399293UTC</td></tr><tr><td>147.135.138.180:26727</td><td>planq_7070-2</td><td>CryptoNet 🔴</td><td>7218799</td><td>7193472</td><td>False</td><td>off</td><td>698909</td><td>2024-01-28T23:32:26.909178549UTC</td></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr></table>
