@@ -22,7 +22,7 @@ regen tendermint unsafe-reset-all
 wget -O $HOME/.regen/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Regen/addrbook.json"
 sudo systemctl restart regen && sudo journalctl -u regen -f -o cat
 ```
-# SnapShot (~0.9 GB) updated every 5 hours
+# SnapShot (~0.5 GB) updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
