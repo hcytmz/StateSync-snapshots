@@ -46,8 +46,6 @@ sudo systemctl restart sommelier && journalctl -u sommelier -f -o cat
 🔥Addrbook🔥:  `wget -O $HOME/.sommelier/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Sommelier/addrbook.json"` \
 🔥Auto_install script🔥:`wget -O sommm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Sommelier/sommm && chmod +x sommm && ./sommm`
 
-🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Sommelier/Decentralization)🔥
-=
 <h1 align="center"> RPC Scanning</h1>
 
 <details>
