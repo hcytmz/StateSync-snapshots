@@ -26,7 +26,7 @@ sed -i -e "s/^snapshot-interval *=.*/snapshot-interval = \"1500\"/" $HOME/.juno/
 curl -o - -L http://juno.wasm.stavr.tech:1005/wasm-juno.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.juno/ --strip-components 2
 sudo systemctl restart junod && journalctl -u junod -f -o cat
 ```
-# SnapShot (~12 GB) updated every 12 hours
+# SnapShot updated every 12 hours
 ```python
 cd $HOME
 snap install lz4
