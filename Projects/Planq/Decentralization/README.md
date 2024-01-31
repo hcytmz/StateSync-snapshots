@@ -1,18 +1,16 @@
-![Diagramm](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/Planq/1/README.md)
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
-| HETZNER | 34 | 40.00% | 🔴 |
-| Contabo | 12 | 14.12% | 🟢 |
-| OVH | 12 | 14.12% | 🟢 |
-| Google-Cloud | 3 | 3.53% | 🟢 |
-| DIGITALOCEAN | 2 | 2.35% | 🟢 |
-| IONOS | 2 | 2.35% | 🟢 |
-| MEVSPACE | 2 | 2.35% | 🟢 |
-| Netcup | 2 | 2.35% | 🟢 |
-| Nubes | 2 | 2.35% | 🟢 |
-| AMAZON | 1 | 1.18% | 🟢 |
-| IKOULA | 1 | 1.18% | 🟢 |
-| Interserver | 1 | 1.18% | 🟢 |
-| LeaseWeb | 1 | 1.18% | 🟢 |
-| Scaleway | 1 | 1.18% | 🟢 |
-| OTHER | 9 | 10.59% | 🟢 |
+| HETZNER | 34 | 39.53% | 🟢 |
+| OVH | 13 | 15.12% | 🟢 |
+| Contabo | 12 | 13.95% | 🟢 |
+| Google-Cloud | 3 | 3.49% | 🟢 |
+| DIGITALOCEAN | 2 | 2.33% | 🟢 |
+| IONOS | 2 | 2.33% | 🟢 |
+| MEVSPACE | 2 | 2.33% | 🟢 |
+| Netcup | 2 | 2.33% | 🟢 |
+| Nubes | 2 | 2.33% | 🟢 |
+| AMAZON | 1 | 1.16% | 🟢 |
+| IKOULA | 1 | 1.16% | 🟢 |
+| LeaseWeb | 1 | 1.16% | 🟢 |
+| Scaleway | 1 | 1.16% | 🟢 |
+| OTHER | 10 | 11.63% | 🟢 |
