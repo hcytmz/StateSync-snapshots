@@ -46,8 +46,6 @@ sudo systemctl restart crescentd && journalctl -u crescentd -f -o cat
 🔥Addrbook🔥:  `wget -O $HOME/.crescent/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Crescent/addrbook.json"` \
 🔥Auto_install script🔥:`wget -O crescentm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Crescent/crescentm && chmod +x crescentm && ./crescentm`
 
-🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Crescnet/Decentralization)🔥
-=
 <h1 align="center"> RPC Scanning</h1>
 
 <details>
