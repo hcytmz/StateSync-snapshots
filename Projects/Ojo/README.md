@@ -7,7 +7,7 @@
 
 # StateSync Ojo Testnet
 ```python
-SNAP_RPC=http://ojo.rpc.t.stavr.tech:37097
+SNAP_RPC=https://ojo.rpc.t.stavr.tech:443
 peers="1f091cf9567c0d72a0f93877007379e0298b8860@ojo.peer.stavr.tech:37096"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.ojo/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -41,7 +41,7 @@ sudo systemctl restart ojod && journalctl -u ojod -f -o cat
 
 🔥EXPLORER🔥:        https://explorer.stavr.tech/Ojo-Devnet/staking        `Indexer "ON"` \
 🔥API🔥:                     https://ojo.api.t.stavr.tech \
-🔥RPC🔥:                    http://ojo.rpc.t.stavr.tech:37097              `Snapshot-interval = 100` \
+🔥RPC🔥:                    https://ojo.rpc.t.stavr.tech:443              `Snapshot-interval = 100` \
 🔥gRPC🔥:                  http://ojo.grpc.t.stavr.tech:7729 \
 🔥peer🔥:                   `1f091cf9567c0d72a0f93877007379e0298b8860@ojo.peer.stavr.tech:37096` \
 🔥Genesis🔥:    ```wget -O $HOME/.ojo/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Ojo/genesis.json"``` \
