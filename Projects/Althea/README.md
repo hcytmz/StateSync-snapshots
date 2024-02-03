@@ -7,7 +7,7 @@
 
 # StateSync Althea Testnet
 ```python
-SNAP_RPC=http://althea.rpc.t.stavr.tech:17887
+SNAP_RPC=https://althea.rpc.t.stavr.tech:443
 peers="a1ef55814e2b9aa6c75fbdda52a0ce3d10aebfec@althea.peers.stavr.tech:17886"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.althea/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -40,7 +40,7 @@ sudo systemctl restart althea && journalctl -u althea -f -o cat
  
 🔥EXPLORER🔥: https://explorer.stavr.tech/Althea-testnetL1/staking        `Indexer "ON"` \
 🔥API🔥:      https://althea.api.t4.stavr.tech \
-🔥RPC🔥:      http://althea.rpc.t.stavr.tech:17887              `Snapshot-interval = 100` \
+🔥RPC🔥:      https://althea.rpc.t.stavr.tech:443              `Snapshot-interval = 100` \
 🔥gRPC🔥:     http://althea.grpc.t.stavr.tech:7219 \
 🔥peer🔥:     `a1ef55814e2b9aa6c75fbdda52a0ce3d10aebfec@althea.peers.stavr.tech:17886` \
 🔥Addrbook🔥: ```wget -O $HOME/.althea/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/addrbook.json"``` \
