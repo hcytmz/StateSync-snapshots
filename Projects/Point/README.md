@@ -6,7 +6,7 @@
 
 # StateSync
 ```python
-SNAP_RPC=http://point.rpc.m.stavr.tech:1057
+SNAP_RPC=https://point.rpc.m.stavr.tech:443
 SEEDS=f675d544f5e6b8bc7ef9923d6f594dd0a3570190@point.peer.stavr.tech:1056
 cp $HOME/.pointd/data/priv_validator_state.json $HOME/.pointd/priv_validator_state.json.backup
 sed -i -e "/seeds =/ s/= .*/= \"$SEEDS\"/"  $HOME/.pointd/config/config.toml
@@ -42,7 +42,7 @@ sudo systemctl restart pointd && journalctl -u pointd -f -o cat
 
 🔥EXPLORER🔥:     https://explorer.stavr.tech/Point-Mainnet        `Indexer "ON"` \
 🔥API🔥:          https://point.api.m.stavr.tech \
-🔥RPC🔥:          http://point.rpc.m.stavr.tech:1057              `Snapshot-interval = 1000` \
+🔥RPC🔥:          https://point.rpc.m.stavr.tech:443              `Snapshot-interval = 1000` \
 🔥gRPC🔥:         http://point.grpc.m.stavr.tech:2050 \
 🔥peer🔥:         `f675d544f5e6b8bc7ef9923d6f594dd0a3570190@point.peer.stavr.tech:1056` \
 🔥Addrbook🔥:  `wget -O $HOME/.pointd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Point/addrbook.json"` \
