@@ -7,7 +7,7 @@
 
 # State Sync
 ```python
-SNAP_RPC=http://aura.rpc.m.stavr.tech:11047
+SNAP_RPC=https://aura.rpc.m.stavr.tech:443
 SEEDS="7cefc9a64cd34f6de30e0289d16ee83978f309cc@aura.peers.stavr.tech:21056"
 cp $HOME/.aura/data/priv_validator_state.json $HOME/.aura/priv_validator_state.json.backup
 sed -i -e "/seeds =/ s/= .*/= \"$SEEDS\"/"  $HOME/.aura/config/config.toml
@@ -46,7 +46,7 @@ sudo systemctl restart aurad && journalctl -u aurad -f -o cat
 
 🔥EXPLORER🔥:     https://explorer.stavr.tech/Aura-Mainnet/staking        `Indexer "ON"` \
 🔥API🔥:          https://aura.api.m.stavr.tech \
-🔥RPC🔥:          http://aura.rpc.m.stavr.tech:11047              `Snapshot-interval = 100` \
+🔥RPC🔥:          https://aura.rpc.m.stavr.tech:443              `Snapshot-interval = 100` \
 🔥gRPC🔥:         http://aura.grpc.m.stavr.tech:9901 \
 🔥peer🔥:         `7cefc9a64cd34f6de30e0289d16ee83978f309cc@aura.peers.stavr.tech:21056` \
 🔥WASM Mainnet🔥:`curl -o - -L http://aura.wasm.stavr.tech:1102/wasm-aura.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.aura --strip-components 2` \
