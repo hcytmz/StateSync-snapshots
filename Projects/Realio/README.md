@@ -7,7 +7,7 @@
 
 # StateSync Realio Mainnet
 ```python
-SNAP_RPC=http://realio.rpc.m.stavr.tech:21097
+SNAP_RPC=https://realio.rpc.m.stavr.tech:443
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 100)); \
 TRUST_HASH=$(curl -s "$SNAP_RPC/block?height=$BLOCK_HEIGHT" | jq -r .result.block_id.hash)
@@ -40,7 +40,7 @@ sudo systemctl restart realio-networkd && journalctl -u realio-networkd -f -o ca
 🔥EXPLORER Testnet🔥:         https://explorer.stavr.tech/Realio             `Indexer "ON"` \
 🔥API Mainnet🔥:                    https://realio.api.m.stavr.tech \
 🔥API Testnet🔥:                      https://realio.api.t.stavr.tech \
-🔥RPC Mainnet🔥:                   http://realio.rpc.m.stavr.tech:21097              `Snapshot-interval = 100` \
+🔥RPC Mainnet🔥:                   https://realio.rpc.m.stavr.tech:443              `Snapshot-interval = 100` \
 🔥gRPC Mainnet🔥:                 http://realio.grpc.m.stavr.tech:9062 \
 🔥peer Mainnet🔥:                   `0f1a87ee4400c0b6332343775a4ff659bc3daf29@realio.peers.stavr.tech:21096` \
 🔥Genesis Mainnet🔥:     ```wget -O $HOME/.realio-network/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Realio/genesis.json"``` \
