@@ -7,7 +7,7 @@
 
 # StateSync Jackal Mainnet
 ```python
-SNAP_RPC=http://jkl.rpc.m.stavr.tech:11127
+SNAP_RPC=https://jkl.rpc.m.stavr.tech:443
 peers="ddb821309deba8f274b18ef3ae8731f239569b5c@jkl.rpc.m.stavr.tech:11126"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.canine/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -44,7 +44,7 @@ sudo systemctl restart canined && journalctl -u canined -f -o cat
 
 # StateSync Jackal Testnet
 ```python
-SNAP_RPC=http://jkl.rpc.t.stavr.tech:19127
+SNAP_RPC=https://jkl.rpc.t.stavr.tech:443
 peers="80613772b20df144945801b42f327d0945a24374@jkltest.peer.stavr.tech:19126"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.canine/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -80,8 +80,8 @@ sudo systemctl restart canined && journalctl -u canined -f -o cat
 🔥EXPLORER Testnet🔥:      https://explorer.stavr.tech/Jackal-Testnet/staking     `Indexer "ON"` \
 🔥API Mainnet🔥: 			 		 https://jkl.api.m.stavr.tech \
 🔥API Testnet🔥: 			 		 https://jkl.api.t.stavr.tech \
-🔥RPC Mainnet🔥:           http://jkl.rpc.m.stavr.tech:11127              `Snapshot-interval = 300` \
-🔥RPC Testnet🔥:           http://jkl.rpc.t.stavr.tech:19127              `Snapshot-interval = 100` \
+🔥RPC Mainnet🔥:           https://jkl.rpc.m.stavr.tech:443              `Snapshot-interval = 300` \
+🔥RPC Testnet🔥:           https://jkl.rpc.t.stavr.tech:443              `Snapshot-interval = 100` \
 🔥gRPC Mainnet🔥:          http://jkl.grpc.m.stavr.tech:5013 \
 🔥gRPC Testnet🔥:          http://jkl.grpc.t.stavr.tech:5913 \
 🔥peer Mainnet🔥:					 `ddb821309deba8f274b18ef3ae8731f239569b5c@jkl.peer.stavr.tech:11126` \
