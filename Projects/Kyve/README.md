@@ -4,7 +4,7 @@
 =
 # StateSync KYVE Mainnet
 ```python
-SNAP_RPC=http://kyve.rpc.m.stavr.tech:12357
+SNAP_RPC=https://kyve.rpc.m.stavr.tech:443
 peers="23f2668adb6d7387c8bc7fdc8a9d10430a092df7@kyve.peer.stavr.tech:12356"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.kyve/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -39,7 +39,7 @@ sudo systemctl restart kyved && journalctl -u kyved -f -o cat
 
 🔥EXPLORER🔥:     https://explorer.stavr.tech/Kyve/staking        Indexer "ON" \
 🔥API🔥: 			 		https://kyve.api.m.stavr.tech \
-🔥RPC🔥:          http://kyve.rpc.m.stavr.tech:12357	              Snapshot-interval = 100 \
+🔥RPC🔥:          https://kyve.rpc.m.stavr.tech:443	              Snapshot-interval = 100 \
 🔥gRPC🔥:         http://kyve.grpc.stavr.tech:7106 \
 🔥peer🔥:					`23f2668adb6d7387c8bc7fdc8a9d10430a092df7@kyve.peer.stavr.tech:12356` \
 🔥Addrbook🔥:    ```wget -O $HOME/.kyve/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Kyve/addrbook.json"``` \
