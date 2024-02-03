@@ -6,7 +6,7 @@
 
 # StateSync
 ```python
-RPC="http://bitcanna.rpc.m.stavr.tech:21327"
+RPC="https://bitcanna.rpc.m.stavr.tech:443"
 peers="644ac886e7f2fe082b3556dc694076e71a4e959a@bitcanna.peers.stavr.tech:21326"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.bcna/config/config.toml
 LATEST_HEIGHT=$(curl -s $RPC/block | jq -r .result.block.header.height); \
@@ -42,7 +42,7 @@ sudo systemctl restart bcnad && journalctl -u bcnad -f -o cat
 🔥EXPLORER Devnet🔥:     https://explorer.stavr.tech/Bitcanna-DEV/staking     `Indexer "ON"` \
 🔥API Mainnet🔥:         https://bitcanna.api.m.stavr.tech \
 🔥API Devnet🔥:          https://bitcanna.api.dev.stavr.tech \
-🔥RPC Mainnet🔥:         http://bitcanna.rpc.m.stavr.tech:21327         `Snapshot-interval = 300` \
+🔥RPC Mainnet🔥:         https://bitcanna.rpc.m.stavr.tech:443         `Snapshot-interval = 300` \
 🔥gRPC Mainnet🔥:        http://bitcanna.grpc.m.stavr.tech:9081 \
 🔥gRPC Devnet🔥:         http://bitcanna.grpc.dev.stavr.tech:2901 \
 🔥peer Mainnet🔥:        `644ac886e7f2fe082b3556dc694076e71a4e959a@bitcanna.peers.stavr.tech:21326` \
