@@ -6,7 +6,7 @@
 
 # StateSync
 ```python
-SNAP_RPC=http://firma.rpc.m.stavr.tech:1037
+SNAP_RPC=https://firma.rpc.m.stavr.tech:443
 SEEDS=35b9e0a0818d2c5e9ef187984872c0ad2dbd447c@firma.peer.stavr.tech:1036
 cp $HOME/.firmachain/data/priv_validator_state.json $HOME/.firmachain/priv_validator_state.json.backup
 sed -i -e "/seeds =/ s/= .*/= \"$SEEDS\"/"  $HOME/.firmachain/config/config.toml
@@ -44,7 +44,7 @@ sudo systemctl restart firmachaind && journalctl -u firmachaind -f -o cat
 
 🔥EXPLORER🔥:     https://explorer.stavr.tech/Firmachain-M        `Indexer "ON"` \
 🔥API🔥:          https://firma.api.m.stavr.tech \
-🔥RPC🔥:          http://firma.rpc.m.stavr.tech:1037              `Snapshot-interval = 1000` \
+🔥RPC🔥:          https://firma.rpc.m.stavr.tech:443              `Snapshot-interval = 1000` \
 🔥gRPC🔥:         http://firma.grpc.m.stavr.tech:2030 \
 🔥peer🔥:         `35b9e0a0818d2c5e9ef187984872c0ad2dbd447c@firma.peer.stavr.tech:1036` \
 🔥Addrbook🔥:  `wget -O $HOME/.firmachain/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Firmachain/addrbook.json"` \
