@@ -7,7 +7,7 @@
 
 # StateSync
 ```python
-SNAP_RPC=http://lambda.rpc.m.stavr.tech:31327
+SNAP_RPC=https://lambda.rpc.m.stavr.tech:443
 peers="ebdd47f7babb184240258d2fc6fba61bd994edaa@lambda.peer.stavr.tech:31326" 
 sed -i.bak -e "s/^seeds *=.*/seeds = \"$SEEDS\"/; s/^persistent_peers *=.*/persistent_peers = \"$PEERS\"/" $HOME/.lambdavm/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -41,7 +41,7 @@ sudo systemctl restart lambdavm && sudo journalctl -u lambdavm -f -o cat
 
 🔥EXPLORER🔥:      https://explorer.stavr.tech/Lambda/staking	        `Indexer "ON"` \
 🔥API🔥: 			 		 https://lambda.api.m.stavr.tech \
-🔥RPC🔥:           http://lambda.rpc.m.stavr.tech:31327	              `Snapshot-interval = 100` \
+🔥RPC🔥:           https://lambda.rpc.m.stavr.tech:443	              `Snapshot-interval = 100` \
 🔥gRPC🔥:          http://lambda.grpc.m.stavr.tech:2287 \
 🔥peer🔥:					 `ebdd47f7babb184240258d2fc6fba61bd994edaa@lambda.peer.stavr.tech:31326` \
 🔥Addrbook🔥:    ```wget -O $HOME/.lambdavm/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Lambda/addrbook.json"``` \
