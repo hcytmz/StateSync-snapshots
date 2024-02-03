@@ -7,7 +7,7 @@
 
 # StateSync
 ```python
-SNAP_RPC=http://gitopia.rpc.m.stavr.tech:51057
+SNAP_RPC=https://gitopia.rpc.m.stavr.tech:443
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 300)); \
 TRUST_HASH=$(curl -s "$SNAP_RPC/block?height=$BLOCK_HEIGHT" | jq -r .result.block_id.hash)
@@ -39,7 +39,7 @@ sudo systemctl restart gitopiad && journalctl -u gitopiad -f -o cat
 
 🔥EXPLORER🔥:      https://explorer.stavr.tech/Gitopia-M/staking  `Indexer "ON"` \
 🔥API🔥: 			 		 https://gitopia.api.m.stavr.tech \
-🔥RPC🔥:           http://gitopia.rpc.m.stavr.tech:51057              `Snapshot-interval = 300` \
+🔥RPC🔥:           https://gitopia.rpc.m.stavr.tech:443              `Snapshot-interval = 300` \
 🔥GRPC🔥:          http://gitopia.grpc.m.stavr.tech:5123 \
 🔥peer🔥:					 `6f9f729f2d4a9c3cbab3130157f5200a61bbb273@gitopia.peers.stavr.tech:51056` \
 🔥Addrbook🔥:    ```wget -O $HOME/.gitopia/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Gitopia/addrbook.json"``` \
