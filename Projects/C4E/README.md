@@ -7,7 +7,7 @@
 
 # StateSync C4E Mainnet
 ```python
-SNAP_RPC=http://c4e.rpc.m.stavr.tech:17097
+SNAP_RPC=https://c4e.rpc.m.stavr.tech:443
 peers="5ed0b8f7989d34438f71ccc74b0ab0fbf763a475@c4e.peer.stavr.tech:17096"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.c4e-chain/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -42,7 +42,7 @@ sudo systemctl restart c4ed && journalctl -u c4ed -f -o cat
 🔥EXPLORER TESTET🔥:   https://explorer.stavr.tech/C4E-Testnet/staking     `Indexer "ON"` \
 🔥API MAINNET🔥:       https://c4e.api.m.stavr.tech \
 🔥API TESTNET🔥:       https://c4e.api.t.stavr.tech \
-🔥RPC🔥:               http://c4e.rpc.m.stavr.tech:17097                  `Snapshot-interval = 100` \
+🔥RPC🔥:               https://c4e.rpc.m.stavr.tech:443                  `Snapshot-interval = 100` \
 🔥gRPC🔥:              http://c4e.grpc.m.stavr.tech:7029 \
 🔥peer🔥:              `5ed0b8f7989d34438f71ccc74b0ab0fbf763a475@c4e.peer.stavr.tech:17096` \
 🔥Addrbook-M🔥:    ```wget https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/C4E/genesis.json -O $HOME/.c4e-chain/config/genesis.json``` \
