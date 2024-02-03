@@ -7,7 +7,7 @@
 
 # StateSync Juno Mainnet
 ```python
-SNAP_RPC=http://juno.rpc.m.stavr.tech:1067
+SNAP_RPC=https://juno.rpc.m.stavr.tech:443
 PEERS="9ec270e1b4cdd38557da9d374ae4333145ee9300@juno.peer.stavr.tech:1066"
 sed -i.bak -e "s/^seeds *=.*/seeds = \"$SEEDS\"/; s/^persistent_peers *=.*/persistent_peers = \"$PEERS\"/" $HOME/.juno/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -85,7 +85,7 @@ sudo systemctl restart junod && journalctl -u junod -f -o cat
 🔥EXPLORER Testnet🔥:      https://explorer.stavr.tech/Juno-Testnet/staking       `Indexer "ON"` \
 🔥API Mainnet🔥: 			 		 https://juno.api.m.stavr.tech \
 🔥API Testnet🔥: 			 		 https://juno.api.t.stavr.tech \
-🔥RPC Mainnet🔥:           http://juno.rpc.m.stavr.tech:1067              `Snapshot-interval = 1000` \
+🔥RPC Mainnet🔥:           https://juno.rpc.m.stavr.tech:443              `Snapshot-interval = 1000` \
 🔥RPC Testnet🔥:           http://juno.rpc.t.stavr.tech:1067              `Snapshot-interval = 1000` \
 🔥gRPC Mainnet🔥:          http://juno.grpc.m.stavr.tech:504 \
 🔥gRPC Testnet🔥:          http://juno.grpc.t.stavr.tech:504 \
