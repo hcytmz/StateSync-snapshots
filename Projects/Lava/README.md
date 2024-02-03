@@ -7,7 +7,7 @@
 
 # StateSync Lava Testnet
 ```python
-SNAP_RPC=http://lava.rpc.t.stavr.tech:198
+SNAP_RPC=https://lava.rpc.t.stavr.tech:443
 peers="46a02fc2908aec60985fd2852c424907d6f79ed7@lava.peers.stavr.tech:197"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.lava/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -40,7 +40,7 @@ sudo systemctl restart lavad && journalctl -u lavad -f -o cat
  
 🔥EXPLORER🔥: https://explorer.stavr.tech/Lava-Testnet/staking        `Indexer "ON"` \
 🔥API🔥:      https://lava.api.t.stavr.tech \
-🔥RPC🔥:      http://lava.rpc.t.stavr.tech:198              `Snapshot-interval = 100` \
+🔥RPC🔥:      https://lava.rpc.t.stavr.tech:443              `Snapshot-interval = 100` \
 🔥gRPC🔥:     http://lava.grpc.t.stavr.tech:179 \
 🔥peer🔥:     `46a02fc2908aec60985fd2852c424907d6f79ed7@lava.peers.stavr.tech:197` \
 🔥Genesis🔥:  ```curl -s https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Lava_Network/genesis.json > $HOME/.lava/config/genesis.json``` \
