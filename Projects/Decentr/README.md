@@ -6,7 +6,7 @@
 
 # StateSync
 ```python
-SNAP_RPC=http://decentr.rpc.m.stavr.tech:1067
+SNAP_RPC=https://decentr.rpc.m.stavr.tech:443
 SEEDS=1f5497f2b4f6adb3b803c17c3b005f637fcaec2d@decentr.peer.stavr.tech:1066
 cp $HOME/.decentr/data/priv_validator_state.json $HOME/.decentr/priv_validator_state.json.backup
 sed -i -e "/seeds =/ s/= .*/= \"$SEEDS\"/"  $HOME/.decentr/config/config.toml
@@ -42,7 +42,7 @@ sudo systemctl restart decentrd && journalctl -u decentrd -f -o cat
 
 🔥EXPLORER🔥:     https://explorer.stavr.tech/Decentr-Mainnet        `Indexer "ON"` \
 🔥API🔥:          https://decentr.api.m.stavr.tech \
-🔥RPC🔥:          http://decentr.rpc.m.stavr.tech:1067              `Snapshot-interval = 1000` \
+🔥RPC🔥:          https://decentr.rpc.m.stavr.tech:443              `Snapshot-interval = 1000` \
 🔥gRPC🔥:         http://decentr.grpc.m.stavr.tech:2060 \
 🔥peer🔥:         `1f5497f2b4f6adb3b803c17c3b005f637fcaec2d@decentr.peer.stavr.tech:1066` \
 🔥Addrbook🔥:  `wget -O $HOME/.decentr/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Decentr/addrbook.json"` \
