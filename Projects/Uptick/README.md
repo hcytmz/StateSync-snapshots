@@ -7,7 +7,7 @@
 
 # StateSync Uptick Mainnet
 ```python
-SNAP_RPC=http://uptick.rpc.m.stavr.tech:3157
+SNAP_RPC=https://uptick.rpc.m.stavr.tech:443
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 100)); \
 TRUST_HASH=$(curl -s "$SNAP_RPC/block?height=$BLOCK_HEIGHT" | jq -r .result.block_id.hash)
@@ -42,7 +42,7 @@ sudo systemctl restart uptickd && journalctl -u uptickd -f -o cat
 🔥EXPLORER Testnet🔥:           https://explorer.stavr.tech/uptick/staking        `Indexer "ON"` \
 🔥API Mainnet🔥:                      https://uptick.api.m.stavr.tech \
 🔥API Testnet🔥:                        https://uptick.api.t.stavr.tech \
-🔥RPC🔥:                                      http://uptick.rpc.m.stavr.tech:3157              `Snapshot-interval = 100` \
+🔥RPC🔥:                         https://uptick.rpc.m.stavr.tech:443              `Snapshot-interval = 100` \
 🔥gRPC🔥:                                    http://uptick.grpc.m.stavr.tech:1901 \
 🔥peer🔥:                                    `ee147b5a411750138a7add20dd004e4f8f1a2179@uptick.peers.stavr.tech:3156` \
 🔥Genesis🔥:    ```wget -O $HOME/.uptickd/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Uptick/genesis.json"``` \
