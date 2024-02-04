@@ -5,7 +5,7 @@
 =
 # StateSync
 ```python
-SNAP_RPC="http://rebus.rpc.m.stavr.tech:40107"
+SNAP_RPC="https://rebus.rpc.m.stavr.tech:443"
 peers="629adb3c3c5331a562a978bc093238ae1b0b6720@rebus.peer.stavr.tech:40106"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.rebusd/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
@@ -40,7 +40,7 @@ sudo systemctl restart rebusd && journalctl -u rebusd -f -o cat
 
 🔥EXPLORER🔥:          https://explorer.stavr.tech/Rebus/staking        Indexer "ON" \
 🔥API🔥:                      https://rebus.api.m.stavr.tech \
-🔥RPC🔥:                      http://rebus.rpc.m.stavr.tech:40107              Snapshot-interval = 300 \
+🔥RPC🔥:                      https://rebus.rpc.m.stavr.tech:443              Snapshot-interval = 300 \
 🔥EVM-RPC🔥:                http://rebus.evmrpc.m.stavr.tech:8545 \
 🔥gRPC🔥:                    http://rebus.grpc.m.stavr.tech:3211 \
 🔥peer🔥:                     `629adb3c3c5331a562a978bc093238ae1b0b6720@rebus.peer.stavr.tech:40106` \
