@@ -6,7 +6,7 @@
 
 # StateSync
 ```python
-SNAP_RPC=http://shentu.rpc.m.stavr.tech:20017
+SNAP_RPC=https://shentu.rpc.m.stavr.tech:443
 SEEDS=060027d3bc10ff7ebc1ec315ae5671c541e1568c@shentu.peer.stavr.tech:20016
 cp $HOME/.shentud/data/priv_validator_state.json $HOME/.shentud/priv_validator_state.json.backup
 sed -i -e "/seeds =/ s/= .*/= \"$SEEDS\"/"  $HOME/.shentud/config/config.toml
@@ -42,7 +42,7 @@ sudo systemctl restart shentud && journalctl -u shentud -f -o cat
 
 🔥EXPLORER🔥:     https://explorer.stavr.tech/Shentu-Mainnet        `Indexer "ON"` \
 🔥API🔥:          https://shentu.api.m.stavr.tech \
-🔥RPC🔥:          http://shentu.rpc.m.stavr.tech:20017              `Snapshot-interval = 1000` \
+🔥RPC🔥:          https://shentu.rpc.m.stavr.tech:443              `Snapshot-interval = 1000` \
 🔥gRPC🔥:         http://shentu.grpc.m.stavr.tech:9593 \
 🔥peer🔥:         `060027d3bc10ff7ebc1ec315ae5671c541e1568c@shentu.peer.stavr.tech:20016` \
 🔥Addrbook🔥:  `wget -O $HOME/.shentud/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Shentu/addrbook.json"` \
