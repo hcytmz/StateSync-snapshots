@@ -31,7 +31,7 @@
 | 165.73.113.212 | buildkitsandbox | AS37611 Afrihost (Pty) Ltd | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/ZA.svg) ZA | Cape Town |
 | 65.109.92.148 | Shoni | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
 | 158.69.27.233 | KYN-PUBLIC | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/CA.svg) CA | Beauharnois |
-| 190.124.251.2 | node | AS28110 NAVEGALO S.A. |  CR | San José |
+| 190.124.251.2 | node | AS28110 NAVEGALO S.A. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/CR.svg) CR | San José |
 | 174.138.176.146 | AlxVoy | AS19318 Interserver, Inc | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | New York City |
 | 150.230.137.157 | Alien | AS31898 Oracle Corporation | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/IN.svg) IN | Hyderābād |
 | 65.108.68.86 | emperor | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
