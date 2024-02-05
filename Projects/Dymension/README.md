@@ -41,13 +41,20 @@ sudo systemctl restart dymd && journalctl -u dymd -f -o cat
 
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER-T🔥:     https://explorer.stavr.tech/Dymension-testnet/staking        `Indexer "ON"` \
+🔥EXPLORER-M🔥:     https://explorer.stavr.tech/Dymension-Mainnet/        `Indexer "ON"` \
+🔥EXPLORER-T🔥:     https://explorer.stavr.tech/Dymension-testnet/        `Indexer "ON"` \
+🔥API-M🔥:          https://dymension.api.m.stavr.tech \
 🔥API-T🔥:          https://dymension.api.t.stavr.tech \
+🔥RPC-M🔥:          https://dym.rpc.m.stavr.tech:443                  `Snapshot-interval = 1000` \
 🔥RPC-T🔥:          https://dym.rpc.t.stavr.tech:443                  `Snapshot-interval = 100` \
+🔥gRPC-M🔥:         http://dymension.grpc.m.stavr.tech:7119 \
 🔥gRPC-T🔥:         http://dymension.grpc.t.stavr.tech:7119 \
+🔥peer-M🔥:         `263195d9dd5274d337c7dff03019a7fbad4ff165@dymension-m.peer.stavr.tech:17086` \
 🔥peer-T🔥:         `263195d9dd5274d337c7dff03019a7fbad4ff165@dymension.peers.stavr.tech:17086` \
 🔥Genesis-T🔥:     ```wget wget https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/Testnet/genesis.json -O $HOME/.dymension/config/genesis.json``` \
+🔥Addrbook-M🔥:    ```wget -O $HOME/.dymension/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/addrbook.json"``` \
 🔥Addrbook-T🔥:    ```wget -O $HOME/.dymension/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/Testnet/addrbook.json"``` \
+🔥Auto_install script-M🔥: ```wget -O dymm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/dymm && chmod +x dymm && ./dymm``` \
 🔥Auto_install script-T🔥: ```wget -O dym https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/Testnet/dym && chmod +x dym && ./dym```
 
 🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Dymension/Decentralization)🔥
