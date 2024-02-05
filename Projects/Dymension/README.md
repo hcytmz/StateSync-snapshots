@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥Dymension🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Dymension)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Dymension/Testnet)
 =
 
 <h1 align="center"> TESTNET</h1>
@@ -41,16 +41,17 @@ sudo systemctl restart dymd && journalctl -u dymd -f -o cat
 
  <h1 align="center"> Useful Tools</h1>
 
-🔥EXPLORER🔥:     https://explorer.stavr.tech/Dymension-testnet/staking        `Indexer "ON"` \
-🔥API🔥:          https://dymension.api.t.stavr.tech \
-🔥RPC🔥:          https://dym.rpc.t.stavr.tech:443                  `Snapshot-interval = 100` \
-🔥gRPC🔥:         http://dymension.grpc.t.stavr.tech:7119 \
-🔥peer🔥:         `263195d9dd5274d337c7dff03019a7fbad4ff165@dymension.peers.stavr.tech:17086` \
-🔥Genesis🔥:     ```wget https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/genesis.json -O $HOME/.dymension/config/genesis.json``` \
-🔥Addrbook🔥:    ```wget -O $HOME/.dymension/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/addrbook.json"``` \
-🔥Auto_install script🔥: ```wget -O dym https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/dym && chmod +x dym && ./dym``` \
-🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Dymension/Decentralization)🔥
+🔥EXPLORER-T🔥:     https://explorer.stavr.tech/Dymension-testnet/staking        `Indexer "ON"` \
+🔥API-T🔥:          https://dymension.api.t.stavr.tech \
+🔥RPC-T🔥:          https://dym.rpc.t.stavr.tech:443                  `Snapshot-interval = 100` \
+🔥gRPC-T🔥:         http://dymension.grpc.t.stavr.tech:7119 \
+🔥peer-T🔥:         `263195d9dd5274d337c7dff03019a7fbad4ff165@dymension.peers.stavr.tech:17086` \
+🔥Genesis-T🔥:     ```wget wget https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/Testnet/genesis.json -O $HOME/.dymension/config/genesis.json``` \
+🔥Addrbook-T🔥:    ```wget -O $HOME/.dymension/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/Testnet/addrbook.json"``` \
+🔥Auto_install script-T🔥: ```wget -O dym https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/Testnet/dym && chmod +x dym && ./dym```
 
+🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Dymension/Decentralization)🔥
+=
 
 <details>
 <summary>RPC Scanning</summary>
