@@ -26,7 +26,7 @@ wget -O $HOME/.dymension/config/addrbook.json "https://raw.githubusercontent.com
 systemctl restart dymd && journalctl -u dymd -f -o cat
 
 ```
-# SnapShot (~3 GB) updated every 5 hours
+# SnapShot Testnet - updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
