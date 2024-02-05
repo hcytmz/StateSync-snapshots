@@ -1,9 +1,9 @@
 <h1 align="center"> 🔥Dymension🔥</h1>
 
+<h1 align="center"> TESTNET</h1>
+
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Dymension/Testnet)
 =
-
-<h1 align="center"> TESTNET</h1>
 
 # StateSync Dymension Testnet
 ```python
