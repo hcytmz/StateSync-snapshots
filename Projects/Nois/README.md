@@ -26,7 +26,7 @@ systemctl restart noisd && journalctl -u noisd -f -o cat
 
 ```
 
-# SnapShot MAINNET (~0.2 GB) updated every 5 hours
+# SnapShot MAINNET updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
