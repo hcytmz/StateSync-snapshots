@@ -100,6 +100,8 @@ sudo systemctl restart dymd && journalctl -u dymd -f -o cat
 🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Dymension/Decentralization)🔥
 =
 
+<h1 align="center"> RPC Scanning</h1>
+
 <details>
 <summary>RPC Scanning</summary>
 
