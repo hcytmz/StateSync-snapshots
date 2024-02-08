@@ -102,6 +102,8 @@ sudo systemctl restart junod && journalctl -u junod -f -o cat
 🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Juno/Decentralization)🔥
 =
 
+<h1 align="center"> RPC Scanning</h1>
+
 <details>
 <summary>RPC Scanning</summary>
 
