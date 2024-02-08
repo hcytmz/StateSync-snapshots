@@ -1,61 +1,16 @@
-![Diagramm](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/Oraichain/1/README.md)
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
-| HETZNER | 15 | 24.59% | 🟢 |
-| AMAZON | 13 | 21.31% | 🟢 |
-| Contabo | 8 | 13.11% | 🟢 |
-| LeaseWeb | 5 | 8.20% | 🟢 |
-| OVH | 3 | 4.92% | 🟢 |
-| DIGITALOCEAN | 2 | 3.28% | 🟢 |
-| MEVSPACE | 2 | 3.28% | 🟢 |
-| Google-Cloud | 1 | 1.64% | 🟢 |
-| HIVELOCITY | 1 | 1.64% | 🟢 |
-| Interserver | 1 | 1.64% | 🟢 |
-| Netcup | 1 | 1.64% | 🟢 |
-| Nubes | 1 | 1.64% | 🟢 |
-| OTHER | 8 | 13.11% | 🟢 |
-
-<!-- START_TABLE -->
-| IP-address | Moniker | Organization | Country | City |
-|-------------|---------|---------------|---------|------|
-| 3.134.19.98 | mainnet_sentry4 | AS16509 Amazon.com, Inc. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | Columbus |
-| 142.132.157.153 | 345908-asgdlasdg | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
-| 209.145.53.118 | Trinity Node | AS40021 Nubes, LLC | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | St. Louis |
-| 34.138.129.148 | gcloud-sentry3 | AS396982 Google LLC | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | North Charleston |
-| 51.79.72.77 | w3coins | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/CA.svg) CA | Beauharnois |
-| 94.72.163.162 | White Whale | AS29802 HIVELOCITY, Inc. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | Dallas |
-| 34.216.105.84 | oraichain-sentry-01 | AS16509 Amazon.com, Inc. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | Boardman |
-| 143.198.136.253 | yoiu_validator | AS14061 DigitalOcean, LLC | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | Santa Clara |
-| 95.211.66.25 | %{name}% | AS60781 LeaseWeb Netherlands B.V. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/NL.svg) NL | Amsterdam |
-| 45.13.105.123 | ubik69_moniker | AS2027 MilkyWan Association | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/CH.svg) CH | Zürich |
-| 213.239.214.73 | whoosh | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Nürnberg |
-| 95.168.164.244 | Hoss Army | AS60781 LeaseWeb Netherlands B.V. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/NL.svg) NL | Purmerend |
-| 167.235.12.38 | Hexnodes | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
-| 144.76.40.27 | lux8 | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
-| 136.243.104.103 | emperor | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
-| 168.119.75.88 | clame-shell | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
-| 167.172.160.168 | GateOmega | AS14061 DigitalOcean, LLC | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Frankfurt am Main |
-| 194.163.188.90 | stealth-node | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Düsseldorf |
-| 5.189.169.99 | ORAI_Vanguard_SENTRY | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Nürnberg |
-| 92.119.112.118 | test1_moniker | AS204601 Zomro B.V. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/NL.svg) NL | Zwolle |
-| 194.163.166.126 | ORAI_Guardian | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Essen |
-| 194.146.12.212 | CCC_Nodes | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Düsseldorf |
-| 89.58.13.159 | KonsorTech-Services | AS197540 netcup GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Nürnberg |
-| 95.211.196.121 | Orai_SuperNode | AS60781 LeaseWeb Netherlands B.V. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/NL.svg) NL | Amsterdam |
-| 212.193.3.245 | Crypto-Genesis | AS206216 Advin Services LLC | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Nürnberg |
-| 116.202.192.143 | Validators United | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
-| 62.171.174.124 | mortys_node | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Munich |
-| 31.220.85.99 | ultra_node | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Düsseldorf |
-| 65.108.232.168 | KonsorTech | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Gunzenhausen |
-| 65.109.32.56 | Antorai | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Gunzenhausen |
-| 135.181.199.171 | thamarnode | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Tuusula |
-| 95.214.53.20 | bj1yxajcqwmk | AS201814 MEVSPACE sp. z o.o. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/PL.svg) PL | Warsaw |
-| 45.61.161.53 | peaceANDfreedom | AS206216 Advin Services LLC | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Nürnberg |
-| 35.237.59.125 | gcloud-sentry1 | AS396982 Google LLC | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | North Charleston |
-| 159.69.171.168 | Binnobackup | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Gunzenhausen |
-| 85.17.178.18 | Lil_SamORAI | AS60781 LeaseWeb Netherlands B.V. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/NL.svg) NL | Amsterdam |
-| 158.69.125.73 | Nodeist | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/CA.svg) CA | Beauharnois |
-| 65.108.197.164 | MMS_RPC | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Gunzenhausen |
-| 173.249.30.171 | VALORAI | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Frankfurt am Main |
-
-<!-- END_TABLE -->
+| HETZNER | 12 | 31.58% | 🟢 |
+| Contabo | 7 | 18.42% | 🟢 |
+| LeaseWeb | 4 | 10.53% | 🟢 |
+| AMAZON | 2 | 5.26% | 🟢 |
+| OVH | 2 | 5.26% | 🟢 |
+| DIGITALOCEAN | 1 | 2.63% | 🟢 |
+| Google-Cloud | 1 | 2.63% | 🟢 |
+| HIVELOCITY | 1 | 2.63% | 🟢 |
+| Interserver | 1 | 2.63% | 🟢 |
+| MEVSPACE | 1 | 2.63% | 🟢 |
+| Netcup | 1 | 2.63% | 🟢 |
+| Nubes | 1 | 2.63% | 🟢 |
+| Yandex.Cloud | 1 | 2.63% | 🟢 |
+| OTHER | 3 | 7.89% | 🟢 |
