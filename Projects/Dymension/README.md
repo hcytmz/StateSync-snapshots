@@ -1,3 +1,6 @@
+[🔥OUR VALIDATOR🔥](https://restake.app/dymension/dymvaloper1amxp0k0hg4edrxg85v07t9ka2tfuhamhldgf8e)
+=
+
 <h1 align="center"> 🔥Dymension🔥</h1>
 
 <h1 align="center"> MAINNET</h1>
