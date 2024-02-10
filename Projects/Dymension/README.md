@@ -100,6 +100,11 @@ sudo systemctl restart dymd && journalctl -u dymd -f -o cat
 🔥Auto_install script-M🔥: ```wget -O dymm https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/dymm && chmod +x dymm && ./dymm``` \
 🔥Auto_install script-T🔥: ```wget -O dym https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Dymension/Testnet/dym && chmod +x dym && ./dym```
 
+<h4 align="center"> 🔥ARCHIVE NODE🔥    </h4>
+
+API https://dym.api-archive.m.stavr.tech/ \
+RPC https://dym.rpc-archive.m.stavr.tech/
+
 🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Dymension/Decentralization)🔥
 =
 
