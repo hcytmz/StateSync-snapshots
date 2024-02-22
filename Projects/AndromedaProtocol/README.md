@@ -41,7 +41,7 @@ sudo systemctl restart andromedad && journalctl -u andromedad -f -o cat
 🔥EXPLORER-M🔥:    https://explorer.stavr.tech/Andromeda-Mainnet            `Indexer "ON"` \
 🔥API-M🔥:         https://andro.api.m.stavr.tech \
 🔥RPC-M🔥:         https://andro.rpc.m.stavr.tech:443                  `Snapshot-interval = 100` \
-🔥gRPC-M🔥:        http://andromedad.grpc.t.stavr.tech:132 \
+🔥gRPC-M🔥:        http://andro.grpc.m.stavr.tech:132 \
 🔥peer-M🔥:        `e4c2267b90c7cfbb45090ab7647dc01df97f58f9@andromeda-m.peer.stavr.tech:4376` \
 🔥WASM-M🔥: updated every 2 hours `curl -o - -L http://andro.wasm.stavr.tech:1017/wasm-andromeda.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.andromeda --strip-components 2` \
 🔥Genesis-M🔥: `wget -O $HOME/.andromeda/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/AndromedaProtocol/genesis.json"` \
