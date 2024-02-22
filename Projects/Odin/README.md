@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥ODIN🔥</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Planq)
+[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Odin)
 =
 <h1 align="center"> MAINNET</h1>
 
