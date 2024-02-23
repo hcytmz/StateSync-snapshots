@@ -67,3 +67,6 @@ We marked such validators with a red symbol
 
 [raw Testnet json](https://rpc-check.sidet.stavr.tech/sidet/rpc-sidet-result.json)
 =
+
+
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>65.21.226.187:26657</td><td>side-testnet-2</td><td>Sr20de 🔴</td><td>17193</td><td>1</td><td>False</td><td>on</td><td>911</td><td>2024-02-23T07:22:50.657258056UTC</td></tr><tr><td>13.231.67.192:26657</td><td>side-testnet-2</td><td>side-rpc 🟢</td><td>17193</td><td>1</td><td>False</td><td>on</td><td>0</td><td>2024-02-23T07:22:51.927305972UTC</td></tr><tr><td>95.217.148.179:26657</td><td>side-testnet-2</td><td>ksalab 🔴</td><td>17195</td><td>6001</td><td>False</td><td>off</td><td>562</td><td>2024-02-23T07:22:58.438348903UTC</td></tr><tr><td>65.109.82.106:11157</td><td>side-testnet-2</td><td>2XS 🔴</td><td>17193</td><td>10001</td><td>False</td><td>off</td><td>99</td><td>2024-02-23T07:22:50.321648462UTC</td></tr><tr><td>135.181.210.171:21307</td><td>side-testnet-2</td><td>STAVR 🟢</td><td>17196</td><td>16001</td><td>False</td><td>on</td><td>0</td><td>2024-02-23T07:23:09.117297691UTC</td></tr></table>
