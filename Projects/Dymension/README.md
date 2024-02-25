@@ -5,7 +5,7 @@
 
 <h1 align="center"> MAINNET</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Dymension)
+[Node installation instructions Mainnet](https://github.com/obajay/nodes-Guides/tree/main/Projects/Dymension)
 =
 
 # StateSync Dymension Mainnet
@@ -45,7 +45,7 @@ sudo systemctl restart dymd && journalctl -u dymd -f -o cat
 
 <h1 align="center"> TESTNET</h1>
 
-[Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Dymension/Testnet)
+[Node installation instructions Testnet](https://github.com/obajay/nodes-Guides/tree/main/Projects/Dymension/Testnet)
 =
 
 # StateSync Dymension Testnet
