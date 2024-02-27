@@ -69,4 +69,4 @@ We marked such validators with a red symbol
 
 
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>66.45.246.166:2037</td><td>crescent-1</td><td>STAVR-Service 🟢</td><td>11179383</td><td>11178001</td><td>False</td><td>on</td><td>0</td><td>2024-02-27T03:47:44.424122040UTC</td></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>66.45.246.166:2037</td><td>crescent-1</td><td>STAVR-Service 🟢</td><td>11182088</td><td>11181001</td><td>False</td><td>on</td><td>0</td><td>2024-02-27T07:50:12.271655242UTC</td></tr></table>
