@@ -1,9 +1,8 @@
-![Diagramm](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/Medibloc/1/README.md)
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
-| AMAZON | 8 | 32.00% | 🟢 |
-| HETZNER | 6 | 24.00% | 🟢 |
-| Contabo | 3 | 12.00% | 🟢 |
-| Interserver | 2 | 8.00% | 🟢 |
-| OVH | 2 | 8.00% | 🟢 |
-| OTHER | 4 | 16.00% | 🟢 |
+| AMAZON | 7 | 35.00% | 🟢 |
+| HETZNER | 5 | 25.00% | 🟢 |
+| Contabo | 1 | 5.00% | 🟢 |
+| Interserver | 1 | 5.00% | 🟢 |
+| OVH | 1 | 5.00% | 🟢 |
+| OTHER | 5 | 25.00% | 🟢 |
