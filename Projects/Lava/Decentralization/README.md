@@ -1,3 +1,4 @@
+![Diagramm](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/Lava/1/README.md)
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
 | HETZNER | 60 | 42.86% | 🔴 |
