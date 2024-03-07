@@ -66,4 +66,4 @@ We marked such validators with a red symbol
 [raw json](https://rpc-check.althea.stavr.tech/althea/rpcalthea_result.json)
 =
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>51.159.223.25:56657</td><td>althea_417834-3</td><td>mymoniker 🔴</td><td>3646788</td><td>109801</td><td>False</td><td>on</td><td>2065</td><td>2024-03-07T16:39:47.990257514UTC</td></tr><tr><td>135.181.210.171:17887</td><td>althea_417834-3</td><td>STAVR-Service 🟢</td><td>3646788</td><td>3646001</td><td>False</td><td>on</td><td>0</td><td>2024-03-07T16:39:48.403484500UTC</td></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>51.159.223.25:56657</td><td>althea_417834-3</td><td>mymoniker 🔴</td><td>3649040</td><td>109801</td><td>False</td><td>on</td><td>2065</td><td>2024-03-07T20:40:24.558328041UTC</td></tr></table>
