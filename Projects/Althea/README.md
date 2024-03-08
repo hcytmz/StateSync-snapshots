@@ -3,12 +3,12 @@
 [Node installation instructions](https://github.com/obajay/nodes-Guides/tree/main/Projects/Althea)
 =
 
-<h1 align="center"> TESTNET</h1>
+<h1 align="center"> MAINNET</h1>
 
-# StateSync Althea Testnet
+# StateSync Althea Mainnet
 ```python
-SNAP_RPC=https://althea.rpc.t.stavr.tech:443
-peers="a1ef55814e2b9aa6c75fbdda52a0ce3d10aebfec@althea.peers.stavr.tech:17886"
+SNAP_RPC=https://althea.rpc.m.stavr.tech:443
+peers="063fec5334040572f55b06f9ff6284d0f2f01ced@althea.peers.stavr.tech:17886"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/.althea/config/config.toml
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height); \
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 100)); \
@@ -24,28 +24,31 @@ s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.althea/config/config.toml
 althea tendermint unsafe-reset-all --home /root/.althea
 systemctl restart althea && journalctl -u althea -f -o cat
 ```
-# SnapShot (~0.1 GB) updated every 5 hours
+# SnapShot updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
 sudo systemctl stop althea
 cp $HOME/.althea/data/priv_validator_state.json $HOME/.althea/priv_validator_state.json.backup
 rm -rf $HOME/.althea/data
-curl -o - -L http://althea.snapshot.stavr.tech:1020/althea/althea-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.althea --strip-components 2
+curl -o - -L https://althea.snapshot.stavr.tech/althea-snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.althea --strip-components 2
 mv $HOME/.althea/priv_validator_state.json.backup $HOME/.althea/data/priv_validator_state.json
 wget -O $HOME/.althea/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/addrbook.json"
 sudo systemctl restart althea && journalctl -u althea -f -o cat
 ```
  <h1 align="center"> Useful Tools</h1>
  
-🔥EXPLORER🔥: https://explorer.stavr.tech/Althea-testnetL1/staking        `Indexer "ON"` \
-🔥API🔥:      https://althea.api.t4.stavr.tech \
-🔥RPC🔥:      https://althea.rpc.t.stavr.tech:443              `Snapshot-interval = 100` \
-🔥gRPC🔥:     http://althea.grpc.t.stavr.tech:7219 \
-🔥peer🔥:     `a1ef55814e2b9aa6c75fbdda52a0ce3d10aebfec@althea.peers.stavr.tech:17886` \
+🔥EXPLORER🔥: https://explorer.stavr.tech/Althea-Mainnet/staking        `Indexer "ON"` \
+🔥API🔥:      https://althea.api.m.stavr.tech \
+🔥RPC🔥:      https://althea.rpc.m.stavr.tech:443              `Snapshot-interval = 1000` \
+🔥gRPC🔥:     http://althea.grpc.m.stavr.tech:7219 \
+🔥peer🔥:     `063fec5334040572f55b06f9ff6284d0f2f01ced@althea.peers.stavr.tech:17886` \
+🔥Genesis🔥: ```wget -O $HOME/.althea/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/genesis.json"``` \
 🔥Addrbook🔥: ```wget -O $HOME/.althea/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/addrbook.json"``` \
-🔥Auto_install script🔥:  `wget -O althe https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/althe && chmod +x althe && ./althe` \
+🔥Auto_install script🔥:  `wget -O althe https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/althe && chmod +x althe && ./althe`
+
 🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Althea/Decentralization)🔥
+=
 
 <details>
 <summary>RPC Scanning</summary>
