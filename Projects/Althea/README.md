@@ -43,9 +43,9 @@ sudo systemctl restart althea && journalctl -u althea -f -o cat
 🔥RPC🔥:      https://althea.rpc.m.stavr.tech:443              `Snapshot-interval = 1000` \
 🔥gRPC🔥:     http://althea.grpc.m.stavr.tech:7219 \
 🔥peer🔥:     `063fec5334040572f55b06f9ff6284d0f2f01ced@althea.peers.stavr.tech:17886` \
-🔥Genesis🔥: ```wget -O $HOME/.althea/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/genesis.json"``` \
-🔥Addrbook🔥: ```wget -O $HOME/.althea/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/addrbook.json"``` \
-🔥Auto_install script🔥:  `wget -O althe https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/althe && chmod +x althe && ./althe`
+🔥Genesis🔥: `wget -O $HOME/.althea/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/genesis.json"` \
+🔥Addrbook🔥: `wget -O $HOME/.althea/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/addrbook.json"` \
+🔥Auto_install script🔥:  `wget -O altheam https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Althea/altheam && chmod +x altheam && ./altheam`
 
 🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Althea/Decentralization)🔥
 =
