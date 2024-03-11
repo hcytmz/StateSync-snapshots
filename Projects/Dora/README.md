@@ -71,4 +71,4 @@ We marked such validators with a red symbol
 
 
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>18.142.245.25:26657</td><td>vota-testnet</td><td>dorafactory-full 🟢</td><td>587049</td><td>1</td><td>False</td><td>on</td><td>0</td><td>2024-03-11T17:55:51.722360961UTC</td></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>18.142.245.25:26657</td><td>vota-testnet</td><td>dorafactory-full 🟢</td><td>589596</td><td>1</td><td>False</td><td>on</td><td>0</td><td>2024-03-11T21:56:23.901857742UTC</td></tr></table>
