@@ -30,8 +30,8 @@
 | 65.108.196.251 | sxlmnwb | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
 | 135.181.238.46 | NodesHub-bitcanna-main | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Tuusula |
 | 161.97.150.65 | New_peer | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Düsseldorf |
-| 95.216.98.147 | Snapshot-node | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Tuusula |
-| 95.216.242.82 | Moniker | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Tuusula |
+| 148.251.13.186 | hello-bitcanna-backup | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
+| 192.99.4.66 | CryptoNet | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/CA.svg) CA | Beauharnois |
 | 167.235.9.223 | F5Nodes | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
 | 95.111.244.78 | Panthea EU | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Frankfurt am Main |
 | 144.76.97.251 | AlxVoy | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
@@ -41,7 +41,7 @@
 | 161.97.170.83 | New_peer | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Düsseldorf |
 | 178.62.73.233 | uk_clear_support | AS14061 DigitalOcean, LLC | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/GB.svg) GB | London |
 | 54.39.28.226 | Kitkat-bitcanna-main | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/CA.svg) CA | Beauharnois |
-| 193.34.144.156 | Paranorm | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Munich |
+| 5.189.128.119 | panthea-eu-node | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Nürnberg |
 | 75.119.151.144 | Avril14th | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Düsseldorf |
 | 158.220.116.63 | Hexnodes | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Düsseldorf |
 | 85.237.193.92 | Consensus One | AS56540 Consensus One Sp. z o.o. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/PL.svg) PL | Warsaw |
@@ -56,7 +56,7 @@
 | 51.81.49.176 | hello-bitcanna-main | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | Ashburn |
 | 37.187.121.66 | Northern Light | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FR.svg) FR | Gravelines |
 | 65.109.88.95 | MMS | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
-| 5.189.128.119 | panthea-eu-node | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Nürnberg |
+| 65.21.198.100 | nodexrelay | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Tuusula |
 | 51.195.104.64 | genznodes_sentry_2 | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Frankfurt am Main |
 | 43.135.186.183 | ping | AS132203 Tencent Building, Kejizhongyi Avenue | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | Santa Clara |
 | 167.235.12.38 | Hexnodes | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
@@ -65,7 +65,7 @@
 | 152.53.18.245 | KonsorTech-Services | AS197540 netcup GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/AT.svg) AT | Vienna |
 | 70.61.16.226 | GV2 | AS10796 Charter Communications Inc | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | Mentor |
 | 38.242.232.202 | Inter Blockchain Services | AS174 Cogent Communications | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Düsseldorf |
-| 65.109.88.38 | mainnet-rpc-1 | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
+| 193.34.144.156 | Paranorm | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Munich |
 | 135.148.169.198 | ef83047d-b004-5b83-a608-34e3ad532249 | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | Ashburn |
 
 <!-- END_TABLE -->
