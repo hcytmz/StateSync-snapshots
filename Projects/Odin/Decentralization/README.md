@@ -31,7 +31,7 @@
 | 69.129.200.148 | odin-cyborgc | AS4181 TDS TELECOM | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | Madison |
 | 185.16.39.172 | yxvrrx84gjqp | AS201814 MEVSPACE sp. z o.o. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/PL.svg) PL | Warsaw |
 | 65.109.97.249 | hello-odin-backup | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
-| 87.196.10.99 | tedcrypto | AS2860 NOS COMUNICACOES, S.A. |  PT | Castelo de Paiva |
+| 87.196.10.99 | tedcrypto | AS2860 NOS COMUNICACOES, S.A. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/PT.svg) PT | Castelo de Paiva |
 | 34.27.178.48 | odin-auditor | AS396982 Google LLC | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/US.svg) US | Council Bluffs |
 | 51.91.212.18 | Metta-Karuna-Validator-v1-kr | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FR.svg) FR | Lille |
 | 37.59.21.96 | ea35d8a0-5098-5d6c-8891-b63ad392c095 | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FR.svg) FR | Calais |
