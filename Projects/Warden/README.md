@@ -40,11 +40,11 @@ sudo systemctl restart wardend && journalctl -u wardend -f -o cat
 🔥EXPLORER🔥:        https://explorer.stavr.tech/Warden-Testnet        `Indexer "ON"` \
 🔥API🔥:                     https://warden.api.t.stavr.tech \
 🔥RPC🔥:                    https://warden.rpc.t.stavr.tech:443              `Snapshot-interval = 100` \
-🔥gRPC🔥:                  http://warden.grpc.t.stavr.tech:7729 \
-🔥peer🔥:                   `1f091cf9567c0d72a0f93877007379e0298b8860@ojo.peer.stavr.tech:37096` \
-🔥Genesis🔥:    ```wget -O $HOME/.ojo/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Ojo/genesis.json"``` \
-🔥Addrbook🔥:    ```wget -O $HOME/.ojo/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Ojo/addrbook.json"``` \
-🔥Auto_install script🔥: ```wget -O ojjo https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Ojo/ojjo && chmod +x ojjo && ./ojjo```
+🔥gRPC🔥:                  http://warden.grpc.t.stavr.tech:9918 \
+🔥peer🔥:                   `f6fbded10338c1fed764c656a8968b648922b621@warden-t.seed.stavr.tech:23316` \
+🔥Genesis🔥:    `wget -O $HOME/.warden/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Warden/genesis.json"` \
+🔥Addrbook🔥:    `wget -O $HOME/.warden/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Warden/addrbook.json"` \
+🔥Auto_install script🔥: `wget -O wardent https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Warden/wardent && chmod +x wardent && ./wardent`
 
 
 <details>
