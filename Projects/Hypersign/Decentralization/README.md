@@ -35,11 +35,13 @@
 | 81.0.247.152 | StingRay | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/GB.svg) GB | Havant |
 | 65.108.134.215 | moodman | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
 | 167.235.39.20 | NodesHub-hypersign-relayer | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
+| 65.109.68.190 | kjnodes-testnet-rpc | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
 | 212.118.42.10 | Perfect_Team | AS216071 SERVERS TECH FZCO | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/NL.svg) NL | Amsterdam |
 | 65.109.92.148 | Shoni | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
 | 65.108.230.113 | Aurie | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
 | 178.18.254.211 | CosmoBook | AS51167 Contabo GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Düsseldorf |
-| 65.109.68.190 | kjnodes-testnet-rpc | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
+| 65.108.238.61 | ams | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
 | 77.83.92.178 | Sr20de | AS209805 SBCLOUD LLC | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/RU.svg) RU | Moscow |
+| 185.144.99.9 | cryptech | AS210749 Ultra-Pak LLC | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/UA.svg) UA | Kamyanske |
 
 <!-- END_TABLE -->
