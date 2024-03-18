@@ -65,7 +65,7 @@ curl -o - -L http://band-t.files.stavr.tech:1103/files-bandt.tar.lz4 | lz4 -c -d
 sudo systemctl restart bandd && journalctl -u bandd -f -o cat
 ```
 
-# SnapShot Testnet (~2GB) updated every 12 hours
+# SnapShot Testnet updated every 12 hours
 ```python
 cd $HOME
 apt install lz4
