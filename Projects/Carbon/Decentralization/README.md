@@ -1,11 +1,10 @@
-![Diagramm](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/Carbon/1/README.md)
 | Data Center | IP Count | Percentage | Freq |
 |:------------:|:--------:|:-----------:|:-----:|
-| HETZNER | 12 | 31.58% | 🟢 |
-| OVH | 8 | 21.05% | 🟢 |
-| Google-Cloud | 5 | 13.16% | 🟢 |
-| AMAZON | 2 | 5.26% | 🟢 |
-| Contabo | 2 | 5.26% | 🟢 |
-| MEVSPACE | 2 | 5.26% | 🟢 |
-| Interserver | 1 | 2.63% | 🟢 |
-| OTHER | 6 | 15.79% | 🟢 |
+| HETZNER | 13 | 38.24% | 🟢 |
+| OVH | 8 | 23.53% | 🟢 |
+| Google-Cloud | 4 | 11.76% | 🟢 |
+| AMAZON | 2 | 5.88% | 🟢 |
+| MEVSPACE | 2 | 5.88% | 🟢 |
+| Contabo | 1 | 2.94% | 🟢 |
+| Interserver | 1 | 2.94% | 🟢 |
+| OTHER | 3 | 8.82% | 🟢 |
