@@ -71,4 +71,4 @@ We marked such validators with a red symbol
 [raw Testnet json](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/AndromedaProtocol/Rpc-Check-Testnet)
 =
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>135.181.210.171:4137</td><td>andromeda-1</td><td>STAVR-Service 🟢</td><td>1698182</td><td>1696401</td><td>False</td><td>on</td><td>0</td><td>2024-03-18T23:02:21.743193180UTC</td></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>5.189.151.202:26677</td><td>andromeda-1</td><td>AVIAONE 🟢</td><td>1700387</td><td>1698001</td><td>False</td><td>on</td><td>0</td><td>2024-03-19T03:04:39.808055407UTC</td></tr><tr><td>135.181.210.171:4137</td><td>andromeda-1</td><td>STAVR-Service 🟢</td><td>1700385</td><td>1699001</td><td>False</td><td>on</td><td>0</td><td>2024-03-19T03:04:14.453284201UTC</td></tr></table>
