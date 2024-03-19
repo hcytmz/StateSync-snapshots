@@ -22,7 +22,7 @@ carbond tendermint unsafe-reset-all
 wget -O $HOME/.carbon/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Carbon/addrbook.json"
 sudo systemctl restart carbond && sudo journalctl -u carbond -f -o cat
 ```
-# SnapShot (~0.9 GB) updated every 5 hours
+# SnapShot  updated every 5 hours
 ```python
 cd $HOME
 apt install lz4
