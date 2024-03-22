@@ -54,9 +54,10 @@ sudo systemctl restart noisd && journalctl -u noisd -f -o cat
 🔥Addrbook Mainnet🔥:    ```wget -O $HOME/.noisd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/addrbook.json"``` \
 🔥Addrbook Testnet🔥:    ```wget -O $HOME/.noisd/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/Noist_Testnet/addrbook.json"``` \
 🔥Auto_install script Mainnet🔥: ```wget -O noism https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/noism && chmod +x noism && ./noism``` \
-🔥Auto_install script Testnet🔥: ```wget -O nois https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/Noist_Testnet/nois && chmod +x nois && ./nois``` \
-🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Nois/Decentralization)🔥
+🔥Auto_install script Testnet🔥: ```wget -O nois https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Nois/Noist_Testnet/nois && chmod +x nois && ./nois```
 
+🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Nois/Decentralization)🔥
+=
 
 <details>
 <summary>RPC Scanning</summary>
