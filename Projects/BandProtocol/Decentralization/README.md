@@ -45,7 +45,7 @@
 | 162.55.92.114 | 1d1de7c5-dbe068 | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
 | 15.235.115.152 | Cosmostation | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/CA.svg) CA | Beauharnois |
 | 148.113.153.111 | band | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/CA.svg) CA | Beauharnois |
-| 34.101.214.20 | band-sentry3 | AS396982 Google LLC |  ID | Jakarta |
+| 34.101.214.20 | band-sentry3 | AS396982 Google LLC | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/ID.svg) ID | Jakarta |
 | 34.143.248.168 | gateway-1 | AS396982 Google LLC | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/SG.svg) SG | Singapore |
 | 34.124.136.100 | public3-2 | AS396982 Google LLC | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/SG.svg) SG | Singapore |
 | 77.68.30.186 | band | AS8560 IONOS SE | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/GB.svg) GB | Sunderland |
