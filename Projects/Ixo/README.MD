@@ -49,8 +49,10 @@ sudo systemctl restart ixod && journalctl -u ixod -f -o cat
 🔥peer🔥:         `d4448c5b10b43d444034533ede7d2e66cbf9e519@ixo.peer.stavr.tech:1016` \
 🔥Addrbook🔥:  `wget -O $HOME/.ixod/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Ixo/addrbook.json"` \
 🔥WASM🔥:  `curl -o - -L http://ixo.wasm.stavr.tech:11/wasm-ixod.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.ixod --strip-components 2` \
-🔥Auto_install script🔥:`wget -O ixom https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Ixo/ixom && chmod +x ixom && ./ixom` \
+🔥Auto_install script🔥:`wget -O ixom https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Ixo/ixom && chmod +x ixom && ./ixom`
+
 🔥[Decentralization Info](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Ixo/Decentralization)🔥
+=
 
 <details>
 <summary>RPC Scanning</summary>
