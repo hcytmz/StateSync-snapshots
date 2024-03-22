@@ -105,7 +105,7 @@
 | 65.108.204.209 | a7b5ec7d-9040-51f7-8824-ad0fea97990e | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/FI.svg) FI | Helsinki |
 | 50.21.167.145 | Simply Staking | AS29909 MetroOptic, Inc. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/CA.svg) CA | Montréal |
 | 157.90.129.168 | KalpaTech | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
-| 77.54.1.75 | doncryptonium | AS12353 Vodafone Portugal - Communicacoes Pessoais S.A. |  PT | Vila Nova de Gaia |
+| 77.54.1.75 | doncryptonium | AS12353 Vodafone Portugal - Communicacoes Pessoais S.A. | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/PT.svg) PT | Vila Nova de Gaia |
 | 51.195.60.29 | juno2 | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Frankfurt am Main |
 | 136.243.67.44 | 1cc4fca4-1d82-5350-a345-23a135a4b91d | AS24940 Hetzner Online GmbH | ![image](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/DE.svg) DE | Falkenstein |
 | 15.235.50.175 | Stakely.io | AS16276 OVH SAS | ![image](https://raw.githubusercontent.com/obajay/FlagKit/master/Assets/SVG/CA.svg) CA | Beauharnois |
