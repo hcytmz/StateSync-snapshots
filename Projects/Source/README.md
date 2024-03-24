@@ -93,4 +93,4 @@ We marked such validators with a red symbol
 =
 
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>135.181.210.171:20057</td><td>source-1</td><td>STAVR-Service 🟢</td><td>2521510</td><td>2521001</td><td>False</td><td>on</td><td>0</td><td>2024-03-24T10:53:00.278961159UTC</td></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>182.42.93.241:26657</td><td>source-1</td><td>1024dao 🟢</td><td>2526103</td><td>1</td><td>False</td><td>on</td><td>0</td><td>2024-03-24T14:54:14.179650220UTC</td></tr><tr><td>65.21.57.72:26657</td><td>source-1</td><td>WellNode 🔴</td><td>2526107</td><td>2326466</td><td>False</td><td>off</td><td>160239</td><td>2024-03-24T14:54:38.912867283UTC</td></tr></table>
