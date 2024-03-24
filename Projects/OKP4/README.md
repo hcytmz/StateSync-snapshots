@@ -72,4 +72,4 @@ We marked such validators with a red symbol
 
 
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>142.132.202.50:11111</td><td>okp4-nemeton-1</td><td>cryptobtcbuyer 🔴</td><td>7127292</td><td>7027292</td><td>False</td><td>off</td><td>134928</td><td>2024-03-24T06:31:38.785892574UTC</td></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>15.235.53.45:2031</td><td>okp4-nemeton-1</td><td>Zenscape 🔴</td><td>7130222</td><td>5086501</td><td>False</td><td>off</td><td>49653</td><td>2024-03-24T10:32:15.854381711UTC</td></tr><tr><td>142.132.202.50:11111</td><td>okp4-nemeton-1</td><td>cryptobtcbuyer 🔴</td><td>7130222</td><td>7030222</td><td>False</td><td>off</td><td>134928</td><td>2024-03-24T10:32:15.280219835UTC</td></tr></table>
