@@ -69,4 +69,4 @@ We marked such validators with a red symbol
 
 
 
-<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>188.172.228.225:26657</td><td>crescent-1</td><td>YTWOFUND_PEREFMAIN 🟢</td><td>11681101</td><td>6160001</td><td>False</td><td>on</td><td>0</td><td>2024-03-29T11:32:34.453857125UTC</td></tr></table>
+<table><tr><th>IP-Address</th><th>Network</th><th>Moniker</th><th>Latest Block Height</th><th>Earliest Block Height</th><th>Catching Up</th><th>Tx Index</th><th>Voting Power</th><th>Scan Time</th></tr><tr><td>188.172.228.225:26657</td><td>crescent-1</td><td>YTWOFUND_PEREFMAIN 🟢</td><td>11683775</td><td>6160001</td><td>False</td><td>on</td><td>0</td><td>2024-03-29T15:35:21.267991189UTC</td></tr><tr><td>66.45.246.166:2037</td><td>crescent-1</td><td>STAVR-Service 🟢</td><td>11683779</td><td>11680001</td><td>False</td><td>on</td><td>0</td><td>2024-03-29T15:35:40.139996236UTC</td></tr></table>
